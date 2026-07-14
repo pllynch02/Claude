@@ -25,7 +25,7 @@ ARITH_CSV = ROOT / "screen_arithmetic.csv"
 PART3_GROUPS = {
     "ProgSrvcAccomplishmentActyGrp", "ProgSrvcAccomActy2Grp",
     "ProgSrvcAccomActy3Grp", "ProgSrvcAccomActyOtherGrp",
-    "ActivityOther",
+    "ActivityOther", "ProgramSrvcAccomplishmentGrp",
 }
 ESCROW_KEYWORDS = re.compile(r"escrow|custodial|fiduciary", re.I)
 
@@ -83,8 +83,10 @@ def extract(path):
                     break
             break
 
-    rec["total_assets"] = first_num(root, "TotalAssetsEOYAmt")
-    rec["total_liab"] = first_num(root, "TotalLiabilitiesEOYAmt")
+    rec["total_assets"] = first_num(root, "TotalAssetsEOYAmt", "TotalAssetsGrp",
+                                    "Form990TotalAssetsGrp")
+    rec["total_liab"] = first_num(root, "TotalLiabilitiesEOYAmt",
+                                  "SumOfTotalLiabilitiesGrp", "TotalLiabilitiesGrp")
     rec["escrow_liab_x21"] = first_num(root, "EscrowAccountLiabilityGrp")
     rec["notes_loans_recv"] = first_num(
         root, "OthNotesLoansReceivableNetGrp", "OthNotesLoansReceivableGrp",
@@ -118,7 +120,8 @@ def extract(path):
     # Part III text
     texts = []
     for el in root.iter():
-        if ln(el) in ("MissionDesc", "ActivityOrMissionDesc"):
+        if ln(el) in ("MissionDesc", "ActivityOrMissionDesc",
+                      "PrimaryExemptPurposeTxt"):
             if (el.text or "").strip():
                 texts.append(("mission", (el.text or "").strip()))
     for el in root.iter():
