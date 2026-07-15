@@ -1,0 +1,1742 @@
+
+===== PAGE 1 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial Statements 
+ 
+Renaissance Community Loan Fund, Inc. 
+Gulfport, Mississippi 
+ 
+Year Ended December 31, 2025 
+(With Summarized Financial Information 
+for the Year Ended December 31, 2024) 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 2 =====
+Renai
+ssance Community Loan Fund, Inc. 
+Gulfport, Mississippi 
+Financial Statements 
+Yea
+r Ended December 31, 2025 
+(With Summarized Financial Information 
+for the Year Ended December 31, 2024) 
+Contents 
+Pa
+ge 
+Ind
+ependent Auditors’ Report ...................................................................................................... 1-3
+Section I – General Purpose Financial Statements 
+Statements of Financial Position .................................................................................................. 4 
+Statements of Activities ............................................................................................................... 5 
+Statements of Functional Expenses ............................................................................................. 6-7
+Statements of Cash Flows ............................................................................................................ 8 
+Notes to Financial Statements ...................................................................................................... 9-26
+Section II – Supplemental Information 
+Schedule of Expenditures of Federal Awards .............................................................................. 27-28
+Schedule of Adjusted Net Worth Computation ........................................................................... 29 
+Section III – Independent Auditors’ Report on Internal Control  
+over Financial Reporting and on Compliance and Other Matters Based on an Audit  
+of Financial Statements Performed in Accordance with Government Auditing Standards ...... 30-31 
+Section IV – Independent Auditors’ Report on Compliance 
+ For each Major Program and Major HUD Program on Internal Control Over Compliance Required 
+by the Uniform Guidance and the  
+Consolidated Audit Guide for Audits of HUD Programs .......................................................  32-35  
+Schedule of Findings and Questioned Costs ............................................................................ 36  
+Schedule of Findings, Questioned Costs and Recommendations, HUD Programs ............. 37 
+Summary Schedule of Prior Audit Findings ........................................................................... 38 
+===== PAGE 3 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Independent Auditors’ Report 
+ 
+ 
+To the Board of Directors 
+Renaissance Community Loan Fund, Inc. 
+Gulfport, Mississippi 
+ 
+Report on the Audit of the Financial Statements 
+ 
+Opinion 
+ 
+We have audited the financial statements of Renaissance Community Loan Fund, Inc. (a nonprofit 
+organization), which comprise the statement of financial position as of December 31, 2025, and the 
+related statements of activities, functional expenses, and cash flows for the year then ended, and the 
+related notes to the financial statements. 
+ 
+In our opinion, the accompanying financial statements referred to above present fairly, in all material 
+respects, the financial position of Renaissance Community Loan Fund, Inc. as of December 31, 2025, 
+and the changes in its net assets and its cash flows for the year then ended in accordance with 
+accounting principles generally accepted in the United States of America. 
+ 
+Basis for Opinion 
+ 
+We conducted our audit in accordance with auditing standards generally accepted in the United States 
+of America (GAAS) and the standards applicable to financial audits contained in Government Auditing 
+Standards, issued by the Comptroller General of the United States. Our responsibilities under those 
+standards are further described in the Auditors’ Responsibilities for the Audit of the Financial 
+Statements section of our report. We are required to be independent of Renaissance Community Loan 
+Fund, Inc. and to meet our other ethical responsibilities, in accordance with the relevant ethical 
+requirements relating to our audit. We believe that the audit evidence we have obtained is sufficient 
+and appropriate to provide a basis for our audit opinion. 
+ 
+Responsibilities of Management for the Financial Statements 
+ 
+Management is responsible for the preparation and fair presentation of the financial statements in 
+accordance with accounting principles generally accepted in the United States of America, and for the 
+design, implementation, and maintenance of internal control relevant to the preparation and fair 
+presentation of financial statements that are free from material misstatement, whether due to fraud or 
+error. 
+ 
+In preparing the financial statements, management is required to evaluate whether there are conditions 
+or events, considered in the aggregate, that raise substantial doubt about Renaissance Community Loan 
+Fund, Inc.’s ability to continue as a going concern for one year after the date that the financial 
+statements are issued. 
+===== PAGE 4 =====
+ 
+ 
+2 
+ 
+Auditors’ Responsibilities for the Audit of the Financial Statements 
+ 
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole 
+are free from material misstatement, whether due to fraud or error, and to issue an auditors’ report 
+that includes our opinion. Reasonable assurance is a high level of assurance but is not absolute 
+assurance and therefore is not a guarantee that an audit conducted in accordance with GAAS and 
+Government Auditing Standards  will always detect a material misstatement when it exists. The risk 
+of not detecting a material misstatement resulting from fraud is higher than for one resulting from 
+error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the 
+override of internal control. Misstatements are considered material if there is a substantial likelihood 
+that, individually or in the aggregate, they would influence the judgment made by a reasonable user 
+based on the financial statements. 
+ 
+In performing an audit in accordance with GAAS and Government Auditing Standards, we: 
+ Exercise professional judgment and maintain professional skepticism throughout the audit. 
+ Identify and assess the risks of material misstatement of the financial statements, whether due 
+to fraud or error, and design and perform audit procedures responsive to those risks. Such 
+procedures include examining, on a test basis, evidence regarding the amounts and 
+disclosures in the financial statements. 
+ Obtain an understanding of internal control relevant to the audit in order to design audit 
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an 
+opinion on the effectiveness of Renaissance Community Loan Fund, Inc.’s internal control. 
+Accordingly, no such opinion is expressed.  
+ Evaluate the appropriateness of accounting policies used and the reasonableness of 
+significant accounting estimates made by management, as well as evaluate the overall 
+presentation of the financial statements. 
+ Conclude whether, in our judgment, there are conditions or events, considered in the 
+aggregate, that raise substantial doubt about Renaissance Community Loan Fund, Inc.’s 
+ability to continue as a going concern for a reasonable period of time. 
+ 
+We are required to communicate with those charged with governance regarding, among other 
+matters, the planned scope and timing of the audit, significant audit findings, and certain internal 
+control-related matters that we identified during the audit. 
+ 
+Supplementary Information  
+ 
+Our audit was conducted for the purpose of forming an opinion on the financial statements as a 
+whole. The schedule of expenditures of federal awards, as required by Title 2 U.S. Code of Federal 
+Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit 
+Requirements for Federal Awards is presented for purposes of additional analysis and is not a 
+required part of the financial statements. The accompanying Schedule of Adjusted Net Worth 
+Computation, required by HUD and described in the Consolidated Audit Guide for audits of HUD 
+Programs, is presented for purposes of additional analysis and is also not a required part of the 
+financial statements. Such information is the responsibility of management and was derived from 
+and relates directly to the underlying accounting and other records used to prepare the financial 
+statements. The information has been subjected to the auditing procedures applied in the audit of the 
+financial statements and certain additional procedures, including comparing and reconciling such 
+information directly to the underlying accounting and other records used to prepare the financial  
+===== PAGE 5 =====
+ 
+ 
+3 
+ 
+statements or to the financial statements themselves, and other additional procedures in accordance 
+with auditing standards generally accepted in the United States of America. In our opinion, the 
+schedule of expenditures of federal awards and the Schedule of Adjusted Net Worth Computation 
+are fairly stated in all material respects in relation to the financial statements as a whole. 
+  
+Other Information 
+ 
+The accompanying Summary Schedule of Prior Audit Findings  has not been subjected to the 
+auditing procedures applied in the audit of the financial statements, and accordingly, we do not 
+express an opinion or provide any assurance on it. 
+ 
+Other Reporting Required by Government Auditing Standards  
+ 
+In accordance with Government Auditing Standards, we have also issued our report dated March 25, 
+2026, on our consideration of Renaissance Community Loan Fund, Inc.’s internal control over 
+financial reporting and on our tests of its compliance with certain provisions of laws, regulations, 
+contracts, and grant agreements and other matters. The purpose of that report is to describe the scope 
+of our testing of internal control over financial reporting and compliance and the results of that 
+testing, and not to provide an opinion on the effectiveness of internal control over financial reporting 
+or on compliance. That report is an integral part of an audit performed in accordance with 
+Government Auditing Standards  in considering Renaissance Community Loan Fund, Inc.’s internal 
+control over financial reporting and compliance. 
+ 
+Report on Summarized Comparative Information 
+ 
+We have previously audited Renaissance Community Loan Fund, Inc.’s December 31, 2024 
+financial statements, and we expressed an unmodified opinion on those audited financial statements 
+in our report dated March 26, 2025.  In our opinion, the summarized comparative information 
+presented herein as of and for the year ended December 31, 2024, is consistent, in all material 
+respects, with the audited financial statements from which it has been derived. 
+ 
+ 
+ 
+ 
+    Certified Public Accountants 
+ 
+ 
+Biloxi, Mississippi 
+March 25, 2026 
+===== PAGE 6 =====
+ 
+ 
+Section I 
+ 
+General Purpose Financial Statements 
+===== PAGE 7 =====
+4
+Assets 2025 2024
+Current assets
+Cash 10,170,960$          7,967,769$            
+Federal Home Loan Bank Stock, at cost 229,200                 217,800                 
+Grants receivable -                            900,000                 
+Prepaid expenses 79,311                   101,054                 
+Security deposits 4,189 4,300
+Accounts receivable 837,340                 1,064,182              
+Mortgages receivable 849,169                 532,992                 
+Non-interest bearing residential mortgage loans 16,352                   16,352                   
+Total current assets 12,186,521            10,804,449            
+Noncurrent assets
+Cash, restricted 3,466,221              2,784,971              
+Due from affiliate, noncurrent 1,050                     1,050                     
+Notes receivable, beyond one year 28,790,977            22,103,519            
+Mortgages receivable, beyond one year 38,783,098            30,736,883            
+Non-interest bearing residential mortgage loans, beyond one year 231,691                 248,376                 
+Allowance for credit losses (2,541,585)            (2,487,493)            
+Property & equipment, net 1,299,516              1,334,972              
+Operating lease right-of-use assets 82,969                   66,750                   
+Foreclosed assets held for sale 909,371                 968,177                 
+Total noncurrent assets 71,023,308            55,757,205            
+Total assets 83,209,829$          66,561,654$          
+Liabilities & Net Assets
+Liabilities
+Current liabilities payable from current assets
+Accounts payable 98,589$                 263,761$               
+Accrued expenses 490,937                 304,927
+Notes payable, amounts due within one year 4,380,745              2,482,113
+Total current liabilities payable from current assets 4,970,271              3,050,801
+Current liabilities payable from restricted assets
+Escrows 657,699                 461,301
+Loan payment reserves 160,198                 45,291                   
+Total current liabilities payable from restricted assets 817,897                 506,592                 
+Noncurrent liabilities
+Due to FHLB - Small Business Boost 2,553,406              2,161,800              
+Notes payable, amounts due beyond one year 41,446,962            29,451,901            
+Notes payable, equity equivalent investment 3,400,000              1,400,000              
+Operating lease liabilities 82,969                   66,750                   
+Total noncurrent liabilities 47,483,337            33,080,451
+Total liabilities 53,271,505$          36,637,844$          
+Net assets
+Without donor restrictions 29,896,324            29,850,310            
+With donor restrictions 42,000                   73,500                   
+Total net assets 29,938,324            29,923,810            
+Total liabilities and net assets 83,209,829$          66,561,654$          
+The accompanying notes are an integral part of the financial statements.
+Renaissance Community Loan Fund, Inc.
+Statements of Financial Position
+December 31,
+===== PAGE 8 =====
+5
+2024
+Without With
+Donor Donor
+Restrictions Restrictions Total
+Support and revenue
+Contributions 1,000$            - $                 1,000$           -$                 
+Grant revenue 2,043,653 -                    2,043,653      1,980,585
+Loan fees 712,008 712,008         492,263        
+Interest income 3,800,316 3,800,316      3,104,658
+Miscellaneous Income 4,539              4,539             4,588
+Gain on assets 267 267                362
+New Market Tax Credit fees 75,000 75,000           119,076        
+Investment return 11,400            11,400           12,000          
+Contract revenue 829,058          829,058         223,174        
+Net assets with restrictions adjustment 31,500            (31,500)        -                     -                   
+Total support and revenue 7,508,741       (31,500)        7,477,241      5,936,706     
+Expenses
+Program services 5,846,881       5,846,881      4,976,606     
+Supporting services:
+Management and general 1,615,846       1,615,846      768,111        
+Total expenses 7,462,727       -                    7,462,727      5,744,717     
+Change in net assets 46,014            (31,500)        14,514           191,989        
+Net assets, beginning of year 29,850,310 73,500          29,923,810    29,731,821
+Net assets, end of year 29,896,324$   42,000 $       29,938,324$  29,923,810$ 
+The accompanying notes are an integral part of the financial statements.
+Renaissance Community Loan Fund, Inc.
+Statements of Activities
+Year Ended December 31, 
+2025
+===== PAGE 9 =====
+6
+Support 
+Services
+Program Management
+Services  & General Total
+Salaries 1,682,107$    869,649$       2,551,756$    
+Employee benefits 320,080         176,528         496,608         
+Payroll taxes 131,938         66,529           198,467         
+Total payroll and related expenses 2,134,125      1,112,706      3,246,831      
+Advertising 122,710         22,484           145,194         
+Bad debt expense 71,424           -                     71,424           
+Depreciation 41,631           9,138             50,769           
+Dues & subscriptions 17,383           4,369             21,752           
+Food and beverage 15,315           6,591             21,906           
+Insurance 73,914           15,602           89,516           
+Interest 1,415,746      31,763           1,447,509      
+Legal & professional 126,611         106,597         233,208         
+Loan servicing fees 63,749           30,863           94,612           
+Office supplies & expense 219,178         35,435           254,613         
+Passthrough partnership grant expense 1,339,703      43,000           1,382,703      
+Postage 5,028             1,090             6,118             
+Printing 15,011           3,208             18,219           
+Professional development 23,099           4,782             27,881           
+Property management -                     60,258           60,258           
+Property taxes -                     20,912           20,912           
+Rent 40,426           8,874             49,300           
+Repairs & maintenance 374                39,371           39,745           
+Supplies 25,239           6,159             31,398           
+Travel 76,363           33,483           109,846         
+Utilities 19,852           19,161           39,013           
+Total functional expenses 5,846,881$    1,615,846$    7,462,727$    
+Renaissance Community Loan Fund, Inc.
+Statement of Functional Expenses
+Year Ended December 31, 2025
+The accompanying notes are an integral part of the financial statements.
+===== PAGE 10 =====
+7
+ Support 
+Services
+Program Management
+Services  & General Total
+Salaries 2,070,898$    209,863$       2,280,761$    
+Employee benefits 394,478         152,577         547,055         
+Payroll taxes 145,937         33,047           178,984         
+Total payroll and related expenses 2,611,313      395,487         3,006,800      
+Advertising 59,554           23,425           82,979           
+Bad debt recovery 21,626           -                     21,626           
+Depreciation -                     55,987           55,987           
+Donations/pledges 570                2,000             2,570             
+Dues & subscriptions 14,528           26,317           40,845           
+Food and beverage 14,496           7,541             22,037           
+Housing assistance grants 31,000           -                     31,000           
+Insurance 61,026           30,746           91,772           
+Interest 1,000,287      4,871             1,005,158      
+Legal & professional 298,822         76,469           375,291         
+Loan servicing fees 24,586           -                     24,586           
+Office supplies & expense 144,248         39,181           183,429         
+Passthrough partnership grant expense 489,585         -                     489,585         
+Postage 3,174             3,560             6,734             
+Printing 10,663           4,253             14,916           
+Professional development 8,100             4,806             12,906           
+Property management -                     20,516           20,516           
+Property taxes 14,061           6,042 20,103           
+Rent 31,589           6,900             38,489           
+Repairs & maintenance 24,328           9,696             34,024           
+Supplies 16,669           13,530           30,199           
+Travel 70,696           26,310           97,006           
+Utilities 25,685           10,474           36,159           
+Total functional expenses 4,976,606$    768,111$       5,744,717$    
+Renaissance Community Loan Fund, Inc.
+Statement of Functional Expenses
+Year Ended December 31, 2024
+The accompanying notes are an integral part of the financial statements.
+===== PAGE 11 =====
+8
+2025 2024
+Cash flows from operating activities
+Change in net assets 14,514$             191,989$           
+Adjustments to reconcile change in net assets to
+net cash provided by operating activities:
+Provision for credit losses 54,093               (3,487)                
+Depreciation 50,769               55,987               
+Amortization  62,042               48,038               
+(Gain)/loss on sale of assets (267)                   (362)                   
+Changes in assets and liabilities:
+Grants receivable 900,000             (900,000)            
+Due from affiliate -                         450                    
+Accounts receivable 226,842             (794,205)            
+Prepaid expenses 21,743               (23,063)              
+Accounts payable (165,172)            144,641             
+Accrued expenses 186,010             103,843             
+Escrows 196,398             39,811               
+Loan payment reserves 114,907             (35,337)              
+Due to FHLB - Small Business Boost 391,606             433,144             
+Net cash provided by (used in) operating activities 2,053,485          (738,551)            
+Cash flows from investing activities
+Receipts from mortgages receivable 5,200,225          7,257,003          
+Mortgages received (13,488,318)       (6,032,377)         
+Payments on notes receivable 2,031,202          1,788,019          
+Notes received (8,854,745)         (7,137,316)         
+Proceeds from sale of foreclosed assets 137,653             207,000             
+Purchase of property and equipment (15,313)              (72,085)              
+Investments, purchased (11,400)              (12,000)              
+Net cash provided by (used in) investing activities (15,000,696)       (4,001,756)         
+Cash flows from financing activities
+Issuance of long-term debt 18,785,089        5,114,170          
+Repayments of long-term debt (2,789,790)         (1,432,806)         
+Amortization of debt issuance costs and discounts (101,605)            18,992               
+Principal payments on lease liabilities (62,042)              (48,038)              
+Net cash provided by (used in) financing activities 15,831,652        3,652,318          
+Net increase (decrease) in cash 2,884,441          (1,087,989)         
+Cash, beginning of year 10,752,740        11,840,729        
+Cash, end of year 13,637,181$      10,752,740$      
+Supplemental disclosure of cash flows information:
+Cash 10,170,960        7,967,769          
+Cash, restricted 3,466,221          2,784,971          
+13,637,181$      10,752,740$      
+Cash paid during the year for interest 1,447,509$        1,005,158$        
+Year Ended December 31, 
+Renaissance Community Loan Fund, Inc.
+Statements of Cash Flows
+The accompanying notes are an integral part of the financial statements.
+===== PAGE 12 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc.  9 
+ Notes to Financial Statements 
+ December 31, 2025 and 2024 
+ 
+ 
+Note 1 – Description of Organization and Significant Accounting Policies 
+ 
+The organization - The Renaissance Community Loan Fund, Inc., (the Corporation) was incorporated 
+on November 20, 2006, as a non-profit organization.  It was established to serve as the capstone 
+organization in the rebuilding of the Mississippi Gulf Coast by removing obstacles to the 
+redevelopment, creating partnerships, and stimulating investment in order to create vibrant, diverse, 
+sustainable communities that offer residents the highest quality of life.  Its current mission is to 
+provide support through technical and financial assistance to facilitate the development of 
+communities which provide safe, quality housing for the workforce and special need residents of the 
+Mississippi Gulf Coast and economic opportunities that will add/retain jobs in the community or that 
+create entrepreneurial opportunities. 
+ 
+In February 2018, Renaissance Investments, LLC (Investments), a Mississippi Limited Liability 
+Company, was formed with Renaissance Community Loan Fund, Inc. as its sole member.  The 
+accounts of Investments are included in the December 31, 2025 and 2024 financial statements of the 
+Corporation.  Any intercompany balances have been eliminated. 
+ 
+Basis of accounting  - The Corporation presents its financial statements using the accrual basis of 
+accounting in accordance with generally accepted accounting principles.  Accordingly, revenue and the 
+related assets are recognized when earned and expenses are recognized when the obligations occur. 
+ 
+Basis of presentation  - The Corporation is required to report information regarding its financial 
+position and activities according to two classes of net assets: net assets with donor restrictions and 
+net assets without donor restrictions. 
+ 
+Cash equivalents - The Corporation considers all highly liquid investments, except those held for 
+long-term investment, with maturities of three months or less when purchased to be cash equivalents. 
+ 
+Federal Home Loan Bank stock - The Corporation is a member of the Federal Home Loan Bank of 
+Dallas (“FHLB”) and as such is required to maintain a minimum investment in its stock that varies 
+with the level of FHLB advances outstanding.  The stock is bought from and sold to the FHLB based 
+on its $100 par value.  The stock does not have a readily determinable fair value and as such is 
+classified as restricted stock, carried at cost and evaluated for impairment in accordance with GAAP. 
+ 
+Investments - Investments purchased by the Corporation are initially recorded at their cost.  
+Investments held at the end of the reporting period are valued at their fair value and a corresponding 
+unrealized gain or loss is recorded. 
+===== PAGE 13 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc.  10 
+ Notes to Financial Statements 
+ December 31, 2025 and 2024 
+(Continued) 
+ 
+ 
+Mortgages and notes receivable  - Non-interest bearing mortgages receivable are stated at the 
+amount of unpaid principal.  Other mortgages and notes receivable are carried at unpaid principal 
+balances.  Interest on loans is recognized over the term of the loan and is calculated using the 
+simple-interest method on principal amounts outstanding.   
+ 
+Loans are considered impaired if full principal or interest payments are not anticipated in 
+accordance with the contractual terms.  The Corporation’s practice is to charge off any loan or 
+portion of a loan when the loan is determined by management to be uncollectible due to the 
+borrower’s failure to meet repayment terms, the borrower’s deteriorating or deteriorated financial 
+condition, the depreciation of the underlying collateral, or for other reasons. 
+ 
+Loans are placed on nonaccrual when management believes, after considering economic conditions, 
+business conditions, and collection efforts that the loans are impaired, or collection of interest is 
+doubtful. Uncollected interest previously accrued is reversed by a charge to interest income. Interest 
+income on nonaccrual loans is recognized only to the extent cash payments are received.  After 
+principal due was brought current, management will return the note to accrual status if it determines 
+that there is a strong likelihood that the borrower will be able to make consistent monthly payments 
+and collateral value is maintained. 
+ 
+Allowance for Credit Losses, Loans – The Corporation reports the allowance for credit losses 
+according to Accounting Standards Update (ASU) 2016-13, Financial Instruments-Credit Losses 
+(
+Topic 326): Measurement of Credit Losses on Financial Instruments using the current expected 
+c
+redit loss (CECL) methodology.  The allowance for credit losses is a valuation account that is 
+deducted from the loans' amortized cost basis to present the net amount expected to be collected on 
+the loans. Loans are charged off against the allowance when management believes the 
+uncollectibility of a loan balance is confirmed. Expected recoveries do not exceed the aggregate of 
+amounts previously charged-off and expected to be charged-off. Accrued interest receivable is 
+excluded from the estimate of credit losses. 
+ 
+The allowance for credit losses represents management’s estimate of lifetime credit losses inherent 
+in loans as of the statement of financial position date. The allowance for credit losses is estimated by 
+management using relevant available information, from both internal and external sources, relating 
+to past events, current conditions, and reasonable and supportable forecasts. 
+ 
+Management employs a process and methodology to estimate the allowance for credit losses (ACL) 
+on loans that evaluates both quantitative and qualitative factors. The methodology  involves pooling 
+loans into portfolio segments for loans that share similar risk characteristics. Pooled loan portfolio 
+segments include mortgages receivable (traditional mortgage loans, temporary housing unit loans, 
+home improvement loans) and commercial notes receivable (small business development notes and 
+commercial notes). 
+ 
+The Corporation measures expected credit losses for loans on a pooled basis when similar risk 
+characteristics exist.  The Corporation has identified the following portfolio segments and calculates 
+the allowance for credit losses using the Loss-rate methodology to estimate credit losses over the 
+expected life of the loan. The life of the loan excludes expected extension, renewals and 
+modifications, unless the extension or renewal options are included in the original or modified 
+contract terms and not unconditionally cancellable by the Corporation.  The risks applicable to each 
+segment are described as follows: 
+===== PAGE 14 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc.  11 
+ Notes to Financial Statements 
+December 31, 2025 and 2024 
+(Continued) 
+ 
+ 
+Mortgages receivable : This loan portfolio consists of residential loans for single and 
+multifamily properties. Mortgage loans are generally secured by owner occupied 1-4 family 
+residences. Repayment of these loans is primarily dependent on the personal income and 
+credit rating of the borrowers. Credit risk in these loans can be impacted by economic 
+conditions within the Corporation’s market areas that might impact either property values or 
+a borrower’s personal income. Risk is mitigated by the fact that the loans are of smaller 
+individual amounts and spread over a large number of borrowers. 
+ 
+  Commercial notes receivable: The commercial portfolio includes loans to commercial 
+customers for use in financing working capital needs, equipment purchases and expansions. 
+The loans in this category are repaid primarily from the cash flow of a borrower’s principal 
+business operation. Credit risk in these loans is driven by creditworthiness of a borrower and 
+the economic conditions that impact the cash flow stability from business operations. 
+ 
+Quantitative loss factors are also supplemented by certain qualitative risk factors reflecting 
+management’s view of how losses may vary from those represented by quantitative loss rates. These 
+qualitative risk factors include: 1) trends in the nature and volume of financial assets  2) existence 
+and effect of any concentrations of credit  3) volume and severity of past due financial assets  4) 
+changes in the value of underlying collateral  5) changes in lending strategies – policies & 
+procedures  6) quality of credit review function  7) experience, ability, and depth of lending staff  8) 
+external factors – competition, technology, natural disasters  9) changes to the general market 
+condition of the local area 10) changes to local business conditions. Qualitative loss factors are 
+applied to each portfolio segment.  
+ 
+Because the methodology is based upon historical experience and trends, current economic data, 
+reasonable and supportable forecasts, as well as management’s judgement, factors may arise that 
+result in different estimations. Deteriorating conditions or assumptions could lead to further 
+increases in the ACL on loans, conversely improving conditions or assumptions could lead to 
+further reductions in the ACL on loans. The ACL on loans is an estimate, and ultimate losses may 
+vary from management’s estimate. See Note 4 for further discussion regarding the allowance for 
+credit losses on loans. 
+ 
+Property and equipment  - It is the Corporation’s policy to capitalize property and equipment over 
+$2,500 with the exception of computer equipment.  Lesser amounts are expensed.  Property and 
+equipment are recorded at cost.  Donations of property and equipment are recorded at their estimated 
+fair value.  Such donations are reported as contributions without donor restrictions unless the donor 
+has restricted the donated asset to a specific purpose.  Property and equipment are depreciated over 
+their estimated useful lives using the straight-line method. 
+ 
+Fair value measurements - The FASB Codification establishes a framework for measuring fair 
+value.  That framework provides a fair value hierarchy that prioritizes the inputs to valuation 
+techniques used to measure fair value.  The hierarchy gives the highest priority to unadjusted quoted 
+prices in active markets for identical assets or liabilities (level 1 measurements) and the lowest priority 
+to unobservable inputs (level 3 measurements).  The three levels of the fair value hierarchy are as 
+follows: 
+ 
+ 
+===== PAGE 15 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc. 12 
+ Notes to Financial Statements 
+December 31, 2025 and 2024 
+(Continued) 
+ 
+ 
+Level 1 - Inputs to the valuation methodology are unadjusted quoted prices for identical assets or 
+liabilities in active markets that the Corporation has the ability to access. 
+ 
+Level 2 - Inputs to the valuation methodology include: 
+ • quoted prices for similar assets or liabilities in active markets; 
+ • quoted prices for identical or similar assets or liabilities in inactive markets; 
+ • inputs other than quoted prices that are observable for the asset or liability; 
+ • inputs that are derived principally from or corroborated by observable 
+  market data by correlation or other means. 
+If the asset or liability has a specified (contractual) term, the level 2 input must be observable for 
+substantially the full term of the asset or liability. 
+ 
+Level 3 - Inputs to the valuation methodology are unobservable and significant to the fair value 
+measurement. 
+ 
+The asset or liability's fair value measurement level within the fair value hierarchy is based on the 
+lowest level of any input that is significant to the fair value measurement.  Valuation techniques used 
+need to maximize the use of observable inputs and minimize the use of unobservable inputs. 
+ 
+Income taxes - The Corporation is a not-for-profit organization that is exempt from federal income 
+taxes under Section 501(c)(3) of the Internal Revenue Code and classified by the Internal Revenue 
+Service as other than a private foundation.  Similar provisions under the Mississippi Code allow 
+exemption of state income taxes. 
+ 
+Estimates - The preparation of financial statements in conformity with U.S. generally accepted 
+accounting principles requires management to make estimates and assumptions that affect certain 
+reported amounts and disclosures.  Accordingly, actual results could differ from those estimates. 
+ 
+Advertising costs - The Corporation uses advertising to promote its programs among the audiences it 
+serves.  Advertising costs are expensed when incurred. 
+ 
+Contributions - Contributions received are recorded as net assets with donor restrictions or net 
+assets without donor restrictions depending on the existence or nature of any donor restrictions. 
+ 
+Contributed services  - No amounts have been reflected in the financial statements for donated 
+services. The Corporation generally pays for services requiring specific expertise. However, when 
+received, contributed services are recognized at fair value if the services (a) create or enhance long 
+lived assets or (b) require specialized skills, are provided by individuals possessing those skills, and 
+would typically be purchased if not provided by donation.  Any amounts reflected in the financial 
+statements as in-kind contributions would be offset by like amounts in expenses. 
+ 
+ 
+===== PAGE 16 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc. 13 
+ Notes to Financial Statements 
+December 31, 2025 and 2024 
+(Continued) 
+ 
+ 
+Revenue from Contracts with Customers  - The Corporation records revenue from contracts with 
+customers in accordance with ASU 2014-09, Revenue from Contracts with Customers (Topic 606). 
+Under Topic 606, the Corporation must identify the contract with a customer, identify the 
+performance obligations in the contract, determine the transaction price, allocate the transaction 
+price to the performance obligations in the contract, and recognize revenue when, or as, the 
+Corporation satisfies a performance obligation. Significant revenue has not been recognized in the 
+current reporting period that results from performance obligations satisfied in previous periods. A 
+primary sources of revenue for the Corporation, interest earned on loans, is not within the scope of 
+Topic 606. The Corporation has evaluated the nature of its contracts with customers and determined 
+that further disaggregation of revenue from contracts with customers into more granular categories 
+beyond what is presented in the Statement of Financial Position is not necessary. The Corporation 
+generally fully satisfies its performance obligations on its contracts with customers as services are 
+rendered and the transaction prices are fixed; the Corporation has made no significant judgments in 
+applying the revenue guidance prescribed in ASC 606 that affect the determination of the amount 
+and timing of revenue from contracts with customers. 
+ 
+Cost allocation - The financial statements report certain categories of expenses that are attributable 
+to more than one program or supporting function.  Therefore, these expenses require allocation on a 
+reasonable basis that is consistently applied.  These expenses are allocated on the basis of estimates 
+of time and effort. 
+ 
+Leases - The Corporation leases space in Tupelo, MS, Hattiesburg, MS, and Mobile, AL, as 
+operating leases.  The Corporation also leases copiers and a postage machine under operating leases.  
+In accordance with ASU 2016-02, Leases, for operating leases other than those considered short-
+term, we recognize lease right-of-use assets and related lease liabilities.  We do not recognize short-
+term operating leases on our balance sheet.  A short-term operating lease has an original term of 12 
+months or less and does not have a purchase option that is likely to be exercised. 
+ 
+The recognition of right-of-use assets and related lease liabilities is based on such amounts readily 
+determinable under our lease contracts.  Lease payments over the expected term are discounted using 
+our incremental borrowing rate.  We also consider renewal and termination options in the 
+determination of the term of the lease.  If it is reasonably certain that a renewal or termination option 
+will be exercised, the effects of such options are included in the determination of the expected lease 
+term.  Generally, we cannot be reasonably certain whether or not we will renew a lease until the 
+lease is within the last year of the lease term.  Renewal options are evaluated on a case-by-case basis, 
+and when we are reasonably certain that a renewal option will be exercised, we measure/remeasure 
+the right-of-use asset and related lease liability using the lease payments specified for the renewal 
+period or, if such amounts are unspecified, we generally assume an increase (evaluated on a case-by-
+case basis in light of prevailing market conditions) in the lease payment over the final period of the 
+existing lease term. 
+ 
+===== PAGE 17 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc. 14 
+ Notes to Financial Statements 
+December 31, 2025 and 2024 
+(Continued) 
+ 
+ 
+Adoption of Accounting Standards – There were no adoptions of new accounting standards in 
+2025 or 2024. 
+ 
+Reclassifications - Certain reclassifications have been made to prior year financial statements to 
+conform to classifications used in the current year.  These reclassifications had no impact on net 
+assets previously reported. 
+ 
+Note 2 – Concentration of Credit Risk 
+The Corporation maintains cash balances at various financial institutions.  These accounts do not 
+exceed the federal insurance limit of $250,000.  
+ 
+Note 3 – Grants Receivable 
+The following is a summary of grants receivable at: 
+ 
+ 
+2025 2024
+Community Development Financial Institutions Award -$                   900,000$       
+Totals -$                   900,000$       
+December 31,
+ 
+ 
+ 
+===== PAGE 18 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc. 15 
+ Notes to Financial Statements 
+December 31, 2025 and 2024 
+(Continued) 
+ 
+ 
+Note 4 –Mortgage and Note Receivables 
+The MyHome MyCoast program was launched in April 2009 by the Renaissance Community Loan 
+Fund, Inc. as a perpetual fund to assist thousands of residents and potential residents of Mississippi’s 
+six coastal counties.  The long-term, stimulus-style housing program will provide homeownership 
+opportunities to private individuals, focusing on those who have been negatively impacted by the 
+devastation of Hurricane Katrina and/or the recent national credit crisis.  Through its initial goal to 
+bridge the gap in affordable workforce housing in the area, MyHome MyCoast also provides many 
+benefits to South Mississippi, including stimulating the private real estate market. 
+ 
+The program leveraged local lenders’ mortgages and offered a zero-percent interest on a second 
+mortgage funded by Community Development Block Grant funds.  The mortgages, which are 30-
+year, fixed-rate, have a loan-to-value position of 40 - 60 percent, with a graduating scale based upon 
+household area median income (AMI).  The program provided flexibility in lending as the local 
+financial lenders were not burdened with selling loans in the secondary mortgage marketplace.  The 
+program included down-payment-assistance grants based on the AMI, ranging from $14,300 to 
+$22,500 forgivable after 5 years if the home is not sold or refinanced during the forgiveness period 
+and up to $3,500 that could be used to cover closing costs.  This closing cost assistance is forgiven 
+when the loan closes.  During the years ended December 31, 2025 and 2024, the Corporation did not 
+extend any amount in zero-percent interest mortgages, down-payment-assistance, or forgiven closing 
+costs.  However, it does continue to collect on those mortgages not previously sold.  All of the 
+mortgages receivable are secured by the homes sold.  The balance of non-interest bearing residential 
+mortgage loans was $248,043 and $264,728 at December 31, 2025 and 2024, respectively.   
+ 
+The Neighbor Works program was launched in 2017 to provide $10,500 in down payment assistance 
+to qualified applicants.  This loan is available to applicants at or below 100% AMI for the county in 
+which the home will be purchased.  The funds are secured as a subordinate lien on the home which is 
+deferred for the life of ownership.  The loan is called due upon sale or when the borrower no longer 
+occupies the home as his/her primary residence.  This is a non-interest bearing loan. 
+ 
+ 
+===== PAGE 19 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc. 16 
+ Notes to Financial Statements 
+December 31, 2025 and 2024 
+(Continued) 
+ 
+ 
+Interest on loans is recognized over the term of the loan and is calculated using the simple-interest 
+method on principal amounts outstanding. 
+ 
+The components of notes and mortgages receivable are as follows: 
+ 
+2025 2024
+Small business development notes 2,105,176$    1,970,817
+Commercial notes 26,685,801 20,132,702
+Total notes receivable 28,790,977$  22,103,519$  
+Traditional mortgage loans 39,098,987$  30,717,911$  
+Non interest bearing mortgages loans 248,043 264,728
+Temporary housing unit loans 25,838 33,849
+Home Improvement Loans 507,442 518,115
+Total mortgages receivable 39,880,310$  31,534,603$  
+December 31,
+ 
+The following table summarizes by portfolio segment the Corporation's loans classified as past due 
+in excess of 30 days or more in addition to those loans classified as non-accrual: 
+ 
+90 or More
+30-89 Days Past
+Days Due - Still Non- Total Total
+December 31, 2025 Past Due Accruing Accrual Past Due Current Loans
+Mortgages 2,594,519$         -$                      2,722,595$     5,317,114$   34,563,196$  39,880,310$   
+Commercial notes 24,370                 -                         94,457             118,827        28,672,149     28,790,976      
+Total 2,618,889           -                         2,817,052       5,435,941     63,235,345     68,671,286      
+90 or More
+30-89 Days Past
+Days Due - Still Non- Total Total
+December 31, 2024 Past Due Accruing Accrual Past Due Current Loans
+Mortgages 3,302,803$           -$                       478,665$          3,781,468$     27,753,135$     31,534,603$      
+Commercial notes 634,604                -                         321,573            956,177          21,147,342       22,103,519        
+Total 3,937,407$           -$                       800,238$          4,737,645$     48,900,477$     53,638,122$      
+ 
+===== PAGE 20 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc. 17 
+ Notes to Financial Statements 
+December 31, 2025 and 2024 
+(Continued) 
+ 
+ 
+The following table summarizes the Corporation’s nonaccrual loans by portfolio segment for the 
+years ended December 31, 2025 and 2024: 
+Nonaccrual
+Loans Nonaccrual Total
+with no Loans with an Nonaccrual
+Allowance Allowance Loans
+Mortgages 1,107,939$      1,614,656$    2,722,595$   
+Commercial notes -                    94,457          94,457         
+Total 1,107,939$      1,709,113$    2,817,052$   
+Nonaccrual
+Loans Nonaccrual Total
+with No Loans with an Nonaccrual
+Allowance Allowance Loans
+Mortgages -$                   478,665$      478,665$      
+Commercial notes -                    321,573        321,573       
+Total -$                   800,238$      800,238$      
+December 31, 2025
+CECL
+CECL
+December 31, 2024
+ 
+The gross interest income that would have been recorded in the year, if the nonaccrual loans at 
+December 31, 2025 and 2024, had been current in accordance with their original terms and had been 
+outstanding throughout the year or since origination, if held for part of the years ended for  
+December 31, 2025 and 2024, was $54,832 and $19,045, respectively.  
+ 
+The following tables summarize the activity related to the allowance for credit losses by portfolio 
+segment for the years ended December 31, 2025 and 2024, under the CECL methodology : 
+ 
+Provision/
+(Credit)
+Year E nded Beginning Charge for Credit Ending
+December 31, 2025 Balance Offs Recoveries Losses Balance
+Mortgages 1,423,181$         (31,500)$          35,471$          187,504$      1,614,656$     
+Commercial notes 1,064,312           (22,002)            700                  (116,081)       926,929          
+Total 2,487,493$         (53,502)$          36,171$          71,423$        2,541,585$     
+Provision/
+(Credit)
+Year Ended Beginning Charge for Credit Ending
+December 31, 2024 Balance Offs Recoveries Losses Balance
+Mortgages 1,427,503$           (25,240)$            27,009$            (6,091)$           1,423,181$       
+Commercial notes 1,056,503             (20,308)              400                   27,717            1,064,312         
+Total 2,484,006$           (45,548)$            27,409$            21,626$          2,487,493$       
+===== PAGE 21 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc. 18 
+ Notes to Financial Statements 
+December 31, 2025 and 2024 
+(Continued) 
+ 
+ 
+Note 5 – Property and Equipment 
+The following is a summary of property and equipment at: 
+ 
+ 
+2025 2024
+Furniture and fixtures 389,699$       378,886$       
+Land 286,861 286,861         
+Building 1,164,894      1,160,394      
+Less accumulated depreciation 541,938 491,169
+Totals 1,299,516$    1,334,972$    
+December 31,
+ 
+Note 6 – Foreclosed Assets Held for Sale 
+At December 31, 2025 and 2024, the Corporation had residential real estate properties acquired 
+through foreclosure with a carrying amount of $909,371 and $968,177, respectively.  That amount 
+includes all properties for which physical possession had been obtained, either through (a) legal title 
+obtained upon completion of foreclosure proceedings, or (b) conveyance by the borrower in 
+satisfaction of a loan through completion of a deed in lieu of foreclosure or another similar legal 
+agreement.  
+ 
+ 
+ 
+===== PAGE 22 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc. 19 
+ Notes to Financial Statements 
+December 31, 2025 and 2024 
+(Continued) 
+ 
+ 
+Note 7 – Notes Payable 
+A summary of notes payable as of December 31, 2025, is as follows: 
+ 
+SBA Microloan, originated in June 2017 in the amount of $500,000; interest
+at 0.625% per annum; for 10 years with the final payment on 06/14/2027;
+secured by SBA bank accounts and Microloan borrower notes 85,254              
+Religious Communities Investment Fund, originated in March 2016 in the
+amount of $200,000;  renewed in March 2021 at $250,000;
+interest at 3.0% per annum, for 5 years with a balloon payment on
+March 1, 2026; unsecured; quarterly interest only payments 250,000            
+Adrian Dominican Sisters, originated in December 2016 in the
+amount of $100,000; renewed in December 2021;
+interest at 3.0% per annum, for 5 years with a balloon payment on
+December 1, 2026; unsecured; quarterly interest only payments 100,000            
+Banc of America Community Development Corporation; originated in July 2018 
+in the amount of $3,000,000; interest changed to 3.0% per annum in 2021
+for remaining term maturing July 19, 2028; secured by specific loan receivables; 
+quarterly interest payments and an annual principal payment
+beginning July 19, 2021, in the amount of $375,000 1,125,000         
+The First - Building Loan, originated in February 2019 in the amount of $975,000; 
+interest at 4.25% per annum; secured of $6,255; balloon payment on 02/20/2026 717,320            
+CNote, originated on July 25, 2019, in the amount of $363,325 and renewed on 
+February 13, 2022 with a principal amount of $389,597.10; interest is now
+3.0% per annum; lender may elect to receive monthly interest payments; 
+renewed August 12, 2024 @ 4.8%; matures 2/12/2027; unsecured 344,470            
+Woodforest, originated in December 2020 in the amount of $1,500,000; 
+interest at 4.27% annum; partially secured with 5-year $750,000 CD at 2.27%; 
+replaced with a line of credit of $4,000,000 in June 2025 @ 6.5% that 
+matures June 6, 2028; partially secured by CDs at WNB 1,108,975         
+Opportunity Finance Network, originated in December 2019 in the amount of
+$3,000,000; interest at 4.50% per annum; unsecured; quarterly interest payments; 
+3 annual principal installments of $1,000,000 beginning December 13, 2027; 
+matures December 13, 2029 3,000,000         
+Federal Home Loan Bank, originated in June 2020 in the amount of $3,200,000; 
+interest at 2.154% per annum for 30 years with a balloon payment on 07/01/2040; 
+secured by 1st mortgages; monthly installments of $12,076 2,763,877         
+SBA Microloan, originated in July 2020 in the amount of $300,000; 
+interest at 0% per annum for first 12 months and 0.125% thereafter; 
+for 10 years, matures July 2, 2030; secured by SBA bank accounts; monthly 
+installments of principal and interest in the amount of $1,863.72 
+beginning July 2021 102,139             
+===== PAGE 23 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc. 20 
+ Notes to Financial Statements 
+December 31, 2025 and 2024 
+(Continued) 
+ 
+ 
+Grow with Google Fund/Opportunity Finance Network, originated
+November 2020 in the amount of $2,000,000; interest at 1.0% per 
+annum 1st year and 3.0% each year thereafter; unsecured; interest
+deferred until June 2021; matures May 31, 2030 2,000,000         
+Adrian Dominican Sisters, originated in June 1, 2021 in the amount of
+$100,000 with interest at 3.0% per annum;  for 5 years with a balloon payment
+on June 1 2026; unsecured; quarterly interest only payments 100,000            
+CNote, originated January 12, 2021 in the amount of $246,442; 
+interest at 3.8% per annum; lender may elect to receive monthly interest payments;
+extended until January 12, 2026 and the interest rate increased to 4%; unsecured 246,442            
+CNote, originated April 13, 2021 in the amount of $100,000; interest at 1.5% per
+annum; quarterly interest only payments; matures April 12, 2026; unsecured 100,000            
+CNote, originated September 30, 2021 in the amount of $1,500,000;
+interest at 3.0% per annum; quarterly interest only payments; 
+matures March 30, 2024; extended to 9/30/2026 at 4.8%; unsecured 1,402,905         
+The First Term Loan, originated June 1, 2022 in the amount of $3,000,000 
+with interest at 3.30% per annum; quarterly interest only payments until July 2024; 
+monthly P&I payments commence at $21,223.19; secured by certain mortgage
+ loan receivables; matures June 10, 2027 2,763,105         
+CNote, originated July 24, 2022 in the amount of $1,100,000; monthly 
+interest payment at 3.0% per annum; matures January 24, 2025; 
+extended to July 24, 2027 at 4.8%; unsecured 760,000            
+CNote, originated August 8, 2022 in the amount of $450,000; monthly 
+interest only payments at 2.0%; matures August 7, 2027; may be extended; 
+unsecured 450,000            
+Opportunity Finance Network, originated in June 2023 in the amount of 
+$1,500,000; $1,000,000 paid off an existing loan, and $500,000 was received in
+new loan proceeds; interest only paid quarterly the first seven years, with $500k 
+annual principal payments on 6/30/2031, 6/30/2032, and 6/30,2033; 
+interest at 3%; unsecured; 1,500,000         
+SBA Microloan, originated in September 2022 in the amount of $750,000; 
+interest at 0% per annum for first 12 months and 1.875% thereafter; 
+for 10 years; matures October 20, 2032; secured by SBA bank accounts; 
+monthly installments of principal and interest in the amount of $7,568.91
+beginning November 2023 582,278            
+Appalachian Community Capital Corporation; originated on August 15, 2023, .
+in the amount of $1,000,000 at 2.76%; interest is due quarterly, and it matures 
+on August 15, 2029; unsecured 1,000,000          
+ 
+===== PAGE 24 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc. 21 
+ Notes to Financial Statements 
+December 31, 2025 and 2024 
+(Continued) 
+ 
+ 
+SBA Microloan, originated in August 2023 in the amount of $1,000,000;
+interest at 2.125% per annum for first 12 months and 2.875% thereafter; 
+for 10 years;matures September 20, 2033; secured by SBA bank accounts; 
+monthly installments of principal and interest in the amount of $10,764.86
+beginning September 2024 866,658            
+Federal Home Loan Bank, originated in December 2023 in the
+amount of $3,015,000; interest only paid monthly at 4.584% per annum for 5
+years with a balloon payment on December 7, 2028; secured by 1st mortgages 3,015,000         
+USDA IRP, originated September 2023 in the amount of $1,000,000; 
+interest at 1.0% per annum; quarterly interest only payments till 2026; 
+principal and interest payments begin in 2026; matures September 12, 2053 377,690            
+Bank of America, N.A., originated April 2024 in the amount of $4,000,000; 
+interest at SOFR + 1.11448%; modified in 2025 and is now interest-only 
+through June 2026 and matures June 30, 2030; secured 2,000,000         
+Mississippi Development Authority, originated May 2024 in the amount of 
+$14,733,333; interest at 1% per annum; quarterly interest only payments; 
+matures May 8, 2033; unsecured 9,394,731         
+SBA Microloan, originated September 2024 in the amount of $1,250,000;
+interest at 1.875% per annum for first 12 months and 2.625% thereafter; 
+for 10 years; secured by SBA bank accounts; monthly installments of 
+principal and interest in the amount of $5,265.52 beginning October 2025 
+during the draw period; matures September 18, 2034; 741,706            
+Regions Community Development Corporation, originated November 2024 
+in the amount of $3,000,000;interest at 5.65% per annum; interest only 
+beginning January 2025; matures November 20, 2026 with three annual 
+extensions available to November 20, 2029; unsecured 3,000,000         
+Opportunity Finance Network, originated December 2024 in the amount of 
+$20,000,000; interest TBD; matures June 11, 2054; secured -                       
+The Commercial Bank of Ozark, originated December 2024 in the amount of 
+$500,000 (line of credit), and matures December 17, 2029; 
+interest only and unsecured -                       
+PNC Bank, orginated in January 2025 in the amount of $1,000,000 
+(convertible line of credit), and matures January 24, 2030; 
+interest-only till conversion; unsecured -                       
+Hancock Whitney Bank, originated in January 2025 in the amount of 
+$5,000,000, and matures January 7, 2034; interest-only during draw period; 
+unsecured -                       
+Citizens National Bank, originated in January 2025 in the amount of $2,000,000, 
+and matures January 16, 2031; interest-only during the draw period; unsecured -                       
+FHLB - Dallas, originated in December 2024 in the amount of $4,400,000, 
+and matures December 17, 2034; interest-only at 3% 4,400,000         
+U.S. Bank, originated in June 2025 in the amount of $2,500,000 (line of credit); 
+interest-only at SOFR +155 bps, matures December 27, 2026 -                        
+===== PAGE 25 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc. 22 
+ Notes to Financial Statements 
+December 31, 2025 and 2024 
+(Continued) 
+ 
+ 
+Hope Enterprise Corporation, originated July 2025 and matures July 16, 2030; 
+interest-only at 3% till 2026, and then principal and interest over the remaining 
+term; unsecured 2,000,000         
+Debt issue costs (250,686)
+Debt discount (219,157)
+Total notes payable 45,827,707       
+Less current portion 4,380,745         
+Notes payable, long-term portion 41,446,962$     
+ 
+Note payable – Equity equivalent investment (“EQ2”) at December 31, 2025: 
+ 
+CDFI Community Investment Fund I, LLC, originated in 
+February 2018 in the amount of $400,000; interest at 3.0% 
+per annum; unsecured; quarterly interest only payments; extended in 2023 
+and matures March 31, 2028 with all unpaid principal and interest due 400,000$          
+US Bancorp Community Development Corporation, originated in July 2019 in the
+amount of $1,000,000; interest at 3.0% per annum; unsecured; 
+quarterly interest only payments; matures July 25, 2025; 
+renewed at 4.0%; matures July 25, 2031 1,000,000         
+US Bancorp Community Development Corporation, originated in July 2019 in the
+amount of $1,000,000; interest at 3.30% per annum; unsecured; 
+quarterly interest only payments; matures December 8, 2029 1,000,000         
+PNC Community Development Company, LLC, originated 
+December 2024 in the amount of $1,000,000; interest at 3.5% per annum; 
+quarterly interest only payments, matures December 17, 2029 1,000,000         
+3,400,000$       
+ 
+ 
+The schedule of maturities of notes payable at December 31, 2025 is as follows: 
+ 
+December 31, Amount
+2026 4,380,745
+2027 5,450,854         
+2028 5,810,485         
+2029 9,928,968         
+2030 4,455,455         
+Thereafter 19,671,043       
+Total 49,697,550$     
+ 
+ 
+Interest totaled $1,447,509 and $1,005,158, for the years ended December 31, 2025 and 2024, 
+respectively. 
+ 
+ 
+===== PAGE 26 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc. 23 
+ Notes to Financial Statements 
+December 31, 2025 and 2024 
+(Continued) 
+ 
+The following were components of notes payable at December 31, 2025: 
+   Amounts
+Beginning Ending  Due Within Long 
+01/01/25   Additions Repayments 12/31/2025   One Year Term
+SBA Microloan, October 2016 21,649 $        - $                  (21,649)$       - $                  - $                  - $                  
+SBA Microloan, June 2017 141,682         -                     (56,428)         85,254           56,640           28,614           
+Religious Comm. Inv. Fund 250,000         -                     -                     250,000         250,000         -                     
+Adrian Dominican Sisters 100,000         -                     -                     100,000         100,000         -                     
+CDFI Comm. Inv. Fund I 400,000         -                     -                     400,000         -                     400,000         
+BACDC 1,500,000      -                     (375,000)       1,125,000      375,000         750,000         
+The First - Building 760,458         -                     (43,138)         717,320         717,320         -                     
+US Bancorp CD Corp 1,000,000      -                     -                     1,000,000      -                     1,000,000      
+CNote, July 25, 2019 389,597         -                     (45,127)         344,470         -                     344,470         
+Woodforest (renewed in 2025) 1,176,076      1,108,975      (1,176,076)    1,108,975      -                     1,108,975      
+Opp. Fin. Network, Dec. 2019 3,000,000      -                     -                     3,000,000      -                     3,000,000      
+FHLB, June 2020 2,848,264      -                     (84,387)         2,763,877      86,223           2,677,654      
+SBA Microloan, July 2020 124,345         -                     (22,206)         102,139         22,260           79,879           
+Google Endeavor LLC/OFN 2,000,000      -                     -                     2,000,000      -                     2,000,000      
+CNote, Dec 2020 69,953           -                     (69,953)         -                     -                     -                     
+CNote, Dec 2020 100,000         -                     (100,000)       -                     -                     -                     
+Adrian Dominican Sisters 100,000         -                     -                     100,000         100,000         -                     
+CNote, Jan 2021 246,442         -                     -                     246,442         246,442         -                     
+CNote, April 2021 100,000         -                     -                     100,000         100,000         -                     
+CNote, Sept 2021 1,402,905      -                     -                     1,402,905      1,402,905      -                     
+The Domestic and Foreign -                     
+Missionary Society - Episcopal
+Church, May 2022 250,000         -                     (250,000)       -                     -                     -                     
+The First, June 2022 2,922,447      -                     (159,342)       2,763,105      164,745         2,598,360      
+CNote, July 2022 960,204         -                     (200,204)       760,000         -                     760,000         
+CNote, August 2022 450,000         -                     -                     450,000         -                     450,000         
+SBA Microloan, Sept 2022 660,394         -                     (78,116)         582,278         79,200           503,078         
+Opp. Fin. Network, June 2023 1,500,000      -                     -                     1,500,000      -                     1,500,000      
+App. Comm. Cap Corp, Aug 2023 1,000,000      -                     -                     1,000,000      -                     1,000,000      
+SBA Microloan, Aug. 2023 966,529         -                     (99,871)         866,658         100,800         765,858         
+FHLB, December 2023 3,015,000      -                     -                     3,015,000      -                     3,015,000      
+US Bancorp CD Corp, Dec. 2023 1,000,000      -                     -                     1,000,000      -                     1,000,000      
+USDA IRP, Nov. 2023 82,690           295,000         -                     377,690         33,000           344,690         
+Bank of America, April 2024 -                     2,000,000      -                     2,000,000      -                     2,000,000      
+MS Dev Authority, May 2024 4,211,090      5,183,641      -                     9,394,731      -                     9,394,731      
+SBA Microloan, Sept 2024 -                     750,000         (8,294)           741,706         124,773         616,933         
+RCDC, Nov. 2024 -                     3,000,000      -                     3,000,000      -                     3,000,000      
+PNC CDC, December 2024 1,000,000      -                     -                     1,000,000      -                     1,000,000      
+FHLB - Dallas, December 2024 -                     4,400,000      -                     4,400,000      -                     4,400,000      
+Hope Enterprise Corp, July 2025 -                     2,000,000      -                     2,000,000      421,437         1,578,563      
+Total 33,749,725    18,737,616    (2,789,791)    49,697,550    4,380,745      45,316,805    
+Less: Debt Issue Cost (179,943)       30,862           (101,605)       (250,686)       -                     (250,686)       
+Less: Debt Discount - FHLB (235,768)       16,611           -                     (219,157)       -                     (219,157)       
+Total 33,334,014 $ 18,785,089 $ (2,891,396)$  49,227,707 $ 4,380,745 $   44,846,962 $ 
+ 
+===== PAGE 27 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc. 24 
+ Notes to Financial Statements 
+December 31, 2025 and 2024 
+(Continued) 
+ 
+ 
+Note 8 – Leases  
+The Organization’s leases have remaining terms ranging from two to three years.  Lease payments 
+per the agreements are $5,170 per month; the details of each lease are listed below: 
+ 
+ Gulfport Copier #1 - $430 monthly lease cost/Current lease expires April 2027 (expected 
+to be renewed) 
+ Gulfport Copier #2 - $292 monthly lease cost/Current lease expires December 2027 
+(expected to be renewed) 
+ Gulfport Postage Machine - $61 monthly lease cost/Current lease expires December 2029 
+(expected to be renewed) 
+ Hattiesburg Office - $1,175 monthly lease cost/Current lease expires August 2028 
+(expected to be renewed) 
+ Tupelo Office - $2,251 monthly lease cost/Current lease expires October 2027 (expected 
+to be renewed) 
+ Mobile Office - $1,014 monthly lease cost/Current lease expires January 2027 (expected 
+to be renewed) 
+  
+Lease payments under operating leases applied to our operating lease liability totaled $62,042 and 
+$48,674 during 2025 and 2024, respectively.  The following table reconciles future undiscounted 
+lease payments due under non-cancelable operating leases (those amounts subject to recognition) to 
+the aggregate operating lessee lease liability as of December 31, 2025. 
+ 
+During the 2025 and 2024, respectively, the Organization obtained $42,700 and  $53,578 in right of 
+use assets from operating lease liabilities.   
+ 
+Maturity analysis of the operating lease liability and reconciliation of the undiscounted cash flows to 
+the total operating lease liability is as follows: 
+ 
+2026 62,673$         
+2027 45,175           
+2028 6,610             
+2029 735                
+Total undiscounted cash flows 115,193         
+Discount on cash flows (32,224)          
+Total operating lease liability included in the 
+accompanying balance sheet 82,969$         
+2025 2024
+Weighted-average remaining lease term in years 3.37 2.78
+Weighted-average discount rate 3.21% 3.10%
+December 31,
+ 
+ 
+===== PAGE 28 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc. 25 
+ Notes to Financial Statements 
+December 31, 2025 and 2024 
+(Continued) 
+ 
+ 
+Note 9 – Net Assets 
+The detail of the Corporation’s net asset categories is as follows: 
+ 
+ 
+2025 2024
+Without donor restrictions:
+Cash reserves 3,466,221$    2,784,971$    
+Invested in property, plant, and equipment, net of debt 582,196         574,514         
+Required Federal Home Loan Bank stock investment 229,200         217,800         
+Undesignated 25,618,707    26,273,025    
+Total without donor restrictions 29,896,324    29,850,310    
+With donor restrictions:
+Unexpended grants 42,000           73,500           
+Total with donor restrictions 42,000           73,500           
+Total net assets 29,938,324$  29,923,810$  
+December 31,
+ 
+ 
+Note 10 – Liquidity and Availability of Financial Assets 
+The following reflects the Corporation’s financial assets as of the statement of financial position 
+date, reduced by amounts not available for general use because of the asset’s nature or contractual 
+restrictions.   
+ 
+ 
+December 31, 
+2025
+Financial assets at year-end 83,454,318$  
+Less those unavailable for general expenditures within one year due to:
+Notes and mortgages receivable due in more than one year 67,805,766    
+Restricted Cash 3,466,221      
+Required Federal Home Loan Bank stock investment 229,200         
+Financial assets available to meet cash needs for general
+expenditures within one year 11,953,131$  
+ 
+===== PAGE 29 =====
+ 
+ 
+  Renaissance Community Loan Fund, Inc.  26 
+ Notes to Financial Statements 
+December 31, 2025 and 2024 
+(Continued) 
+ 
+ 
+Note 11 – Employee Retirement Plans 
+The Corporation sponsors a defined contribution retirement plan with Section 401(k) provisions.  The 
+plan is available to substantially all of the company's employees.  The plan provides for participating 
+employees to make salary reduction (elective deferral) contributions from their compensation into the 
+plan with the Corporation making a discretionary matching employer contribution.  The Corporation 
+made discretionary matching employer contributions for the years ended December 31, 2025 and 
+2024 in the amounts of $26,748 and $43,050, respectively. 
+ 
+Note 12 – Contingencies 
+The Corporation is involved in various legal matters arising during the normal course of business.  
+Management, after consulting legal counsel, is of the opinion that the ultimate resolution of these 
+matters will not have a material adverse effect on the financial condition of the Corporation. 
+ 
+Note 13 – Related Party Transactions 
+ 
+In May of 2019, the Corporation funded its 0.01% investment in Renaissance Community Fund 
+Development Entity II, LLC.  The primary purpose of which is to act in a manner that will ensure 
+qualification as the Company as a “qualified community development entity” pursuant to and as 
+defined for the purposes of Section 45D of the Code and the Treasury Regulations and Guidance.  
+The investment in this entity is $1,050 as of both years ended December 31, 2025 and 2024. 
+ 
+In October 2025, the Corporation’s Chief Financial Officer was elected as a board member for the 
+Opportunity Finance Network (OFN), a non-profit organization.  As of December 31, 2025 and 
+2024, the Corporation owes OFN $6.5 million.  See Note 7 regarding terms of loans. 
+ 
+Note 14 – Subsequent Events  
+Management has evaluated subsequent events through March 25, 2026, the date on which the 
+financial statements were available to be issued. 
+ 
+ 
+===== PAGE 30 =====
+ 
+ 
+Section II 
+ 
+Supplemental Information 
+===== PAGE 31 =====
+27
+Assistance Federal Passed
+Listing Grant Through to Federal
+Federal Grantor Number Number Subrecipients Expenditures
+U.S. Department of the Treasury
+Community Development Financial Institutions - FA 21.020 231FA064343 - $                900,000 $     
+NeighborWorks America
+NeighborWorks America Flexible Impact Grant FY 2025 21.000 R-SUPINT-2025-76578 -                   6,500            
+NeighborWorks America Flexible Impact Grant FY 2025 21.000 G-IMPACTG-2025-76353 -                   257,000        
+NeighborWorks America Supplemental Request Internal FY25 21.000 R-SUPINT-2025-77408 -                   50,000          
+NeighborWorks Week Request FY25 21.000 G-NWW-2025-77692 -                   1,000            
+Total -                   314,500        
+Small Business Administration
+Microloan Program 59.046 SBAOCAML240553 -                   486,034        
+U.S. Department of Housing and Urban Development
+Capacity Building for Community Development
+and Affordable Housing Grants 14.169 HC230441002 -                   12,480          
+Capacity Building for Community Development
+and Affordable Housing Grants 14.169 HC240441003 -                   30,712          
+Total -                   43,192          
+US Department of Agriculture
+Rural Business Development Grant 10.351 28-024-208181931 -                   40,369          
+Total Expenditures of Federal Awards - $                1,784,095 $  
+See accompanying notes to schedule of expenditures of federal awards.
+Renaissance Community Loan Fund, Inc.
+Schedule of Expenditures of Federal Awards
+Year Ended December 31, 2025
+===== PAGE 32 =====
+28
+Note 1 - Basis of Presentation
+Note 2 - Summary of Significant Accounting Policies
+Note 3 - Indirect Cost Rate
+Renaissance Community Loan Fund, Inc. has elected to use the 10% de minimus indirect cost
+rate allowed under the Uniform Guidance.
+Renaissance Community Loan Fund, Inc.
+Notes to Schedule of Expenditures of Federal Awards
+Year Ended December 31, 2025
+Expenditures reported on the Schedule are reported on the accrual basis of accounting. Such
+exepnditures are recognized following the cost principles contained in the Uniform Guidance
+and/or OMB Circular A0122, Cost Principles for Non-profit Organizations, wherein certain
+types of expenditures are not allowable or are limited as to reimbursement.
+The above schedule of expenditures of federal awards (the Schedule) includes the federal grant
+activity of Renaissance Community Loan Fund, Inc. under programs of the Federal government
+for the year ended December 31, 2025. The information in this Schedule is presented in
+accordance with the requirements of Title 2 U.C. Code of Federal Regulations Part 200,
+Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal
+Awards (Uniform Guidance). Because the Schedule presents only a selected portion of the
+operations of Renaissance Community Loan Fund, Inc., it is not intended to and does not present
+the financial position, changes in net assets, or cash flows of Renaissance Community Loan
+Fund, Inc.
+===== PAGE 33 =====
+ 29
+FHA servicing portfolio* at 12/31/25
+*HUD FHA-insured single-family mortgages only. Include HEMCs at maximum claim amount 358,332           (a)
+FHA originations - FHA-insured Title II loan originations
+during the fiscal year 2,643,264        (b)
+FHA purchases - FHA-insured Title II third-party originatior
+purchases during the fiscal year -                       (c)
+Total FHA loan activity [(d) = (a)+(b)+(c)]. 3,001,596        (d)
+FHA-insured Title II loan originations retained at the fiscal year end. 358,332           (e)
+FHA-insured Title II third-party originator purchases retained at the 
+end of the fiscal year. -                       (f)
+Adjustments [(g) = (e)+(f)]. 358,332           (g)
+Total adjusted FHA loan activity [(h) = (d)-(g)]. 2,643,264 (h)
+Net worth required 1,000,000 (i)
+If (h) < $25 million, skip lines (j) and (k) and insert (i) on line (o).
+Additional net worth required
+If (h) > $25,000,000, then (j) = (h)-($25,000,000*(1%). -                       (j)
+Total net worth [(k) = (i)+(j)] -                       (k)
+If line (k) <$2,500,000, insert line (k) on line (o).
+If line (k) >$2,500,000, insert $2,500,000 on line (o).
+Stockholders' equity (net worth) per balance sheet 29,938,324      (l)
+Less unacceptable assets -                       (m)
+Adjusted net worth [(n) = (l)-(m)] 29,938,324      (n)
+Minimum net worth required 1,000,000        (o)
+Adjusted net worth above/(below) required minimum amount [(p) = (n)-(o)] 28,938,324      (p)
+Renaissance Community Loan Fund, Inc.
+Schedule of Adjusted Net Worth Computation
+Year Ended December 31, 2025
+Title II  Single Family Program Lenders'  Adjusted Net Worth Computation
+===== PAGE 34 =====
+ 
+ 
+Section III 
+ 
+Independent Auditors’ Report on Internal Control over  
+Financial Reporting and on Compliance and Other Matters Based 
+on an Audit of Financial Statements Performed in Accordance  
+with Government Auditing Standards 
+===== PAGE 35 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Independent Auditors’ Report on Internal Control  
+Over Financial Reporting and on Compliance and 
+Other Matters Based on an Audit of Financial 
+Statements Performed in Accordance with  
+Government Auditing Standards 
+ 
+The Board of Directors 
+Renaissance Community Loan Fund, Inc. 
+Gulfport, Mississippi 
+ 
+We have audited in accordance with the auditing standards generally accepted in the United States of 
+America and the standards applicable to financial audits contained in Government Auditing Standards 
+issued by the Comptroller General of the United States, the financial statements of Renaissance 
+Community Loan Fund, Inc. (a non-profit organization), which  comprise the statement of financial 
+position as of December 31, 2025, and the related statements of activities, functional expenses, and cash 
+flows for the year then ended, and the related notes to the financial statements, and have issued our 
+report there on dated March 25, 2026. 
+ 
+Report on Internal Control over Financial Reporting 
+ 
+In planning and performing our audit of the financial statements, we considered Renaissance 
+Community Loan Fund, Inc.’s internal control over financial reporting (internal control) as a basis for 
+designing procedures that are appropriate in the circumstances for the purpose of expressing our 
+opinion on the financial statements, but not for the purpose of expressing an opinion on the 
+effectiveness of Renaissance Community Loan Fund, Inc.’s internal control.  Accordingly, we do not 
+express an opinion on the effectiveness of the Renaissance Community Loan Fund, Inc.’s internal 
+control. 
+ 
+A deficiency in internal control exists when the design or operation of a control does not allow 
+management or employees, in the normal course of performing their assigned functions, to prevent, or 
+detect and correct, misstatements on a timely basis.  A material weakness is a deficiency, or a 
+combination of deficiencies, in internal control, such that there is a reasonable possibility that a 
+material misstatement of the entity’s financial statements will not be prevented, or detected and 
+corrected on a timely basis.  A significant deficiency is a deficiency, or a combination of deficiencies, 
+in internal control that is less severe than a material weakness, yet important enough to merit attention 
+by those charged with governance. 
+ 
+Our consideration of internal control was for the limited purpose described in the first paragraph of 
+this section and was not designed to identify all deficiencies in internal control that might be material 
+weaknesses or significant deficiencies. Given these limitations, during our audit, we did not identify 
+any deficiencies in internal control that we consider to be material weaknesses. However, material 
+weaknesses or significant deficiencies may exist that were not identified. 
+ 
+===== PAGE 36 =====
+ 
+ 
+ 31 
+ 
+ 
+Report on Compliance and Other Matters 
+ 
+As part of obtaining reasonable assurance about whether Renaissance Community Loan Fund, Inc.’s 
+financial statements are free from material misstatement, we performed tests of its compliance with 
+certain provisions of laws, regulations, contracts, and grant agreements, noncompliance with which 
+could have a direct and material effect on the financial statement.  However, providing an opinion on 
+compliance with those provisions was not an objective of our audit, and accordingly, we do not 
+express such an opinion.  The results of our tests disclosed no instances of noncompliance or other 
+matters that are required to be reported under Government Auditing Standards. 
+ 
+Purpose of This Report 
+ 
+The purpose of this report is solely to describe the scope of our testing of internal control and 
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of the 
+organization’s internal control or on compliance.  This report is an integral part of an audit performed 
+in accordance with Government Auditing Standards in considering the organization’s internal control 
+and compliance.  Accordingly, this communication is not suitable for any other purpose. 
+ 
+ 
+ 
+ 
+   Certified Public Accountants 
+ 
+Biloxi, Mississippi 
+March 25, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+===== PAGE 37 =====
+ 
+ 
+Section IV 
+ 
+Independent Auditors’ Report on Compliance for Each Major Program and   
+Major HUD Program and on Internal Control Over Compliance  
+Required by the Uniform Guidance and the Consolidated Audit Guide for  
+Audits of HUD Programs 
+===== PAGE 38 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Independent Auditors’ Report on Compliance for  
+Each Major Program and Major HUD Program and on 
+Internal Control Over Compliance Required by 
+the Uniform Guidance and the Consolidated Audit Guide 
+for Audits of HUD Programs 
+ 
+ 
+The Board of Directors 
+Renaissance Community Loan Fund, Inc. 
+Gulfport, Mississippi 
+ 
+Report on Compliance for Each Major Federal Program and Major HUD Program 
+ 
+Opinion on Each Major Federal Program 
+ 
+We have audited Renaissance Community Loan Fund, Inc.’s compliance with the types of compliance 
+requirements described in the OMB Compliance Supplement and the Consolidated Audit Guide for 
+Audits of HUD Programs (the audit guide) that could have a direct and material effect on each of 
+Renaissance Community Loan Fund, Inc.’s major federal programs and its major U.S. Department of 
+Housing and Urban Development (HUD) program for the year ended December 31, 2025.  
+Renaissance Community Loan Fund, Inc.’s major federal program is identified in the Summary of 
+Auditor’s Results section of the accompanying Schedule of Findings and Questioned Costs.  
+Renaissance Community Loan Fund, Inc.’s major HUD Program and the related direct and material 
+compliance requirements are as follows: 
+ 
+Name of Major HUD Programs Direct and Material Compliance RequirementsHUD Title II Programl Quality Control Planl  Sponsor Responsibilities for Third-Party  Originators (not applicable)l  Branch Office Operations (not applicable)l Loan Originationl Loan Servicingl Federal Financial and Activity Reportsl Lender Annual Recertification, Adjusted Net Worth, Liquidity, and Licensingl Loan Settlementsl Escrow Accountsl Kickbacks
+  
+ 
+===== PAGE 39 =====
+ 
+ 
+ 33 
+ 
+ 
+In our opinion, Renaissance Community Loan Fund, Inc. complied, in all material respects, with the 
+compliance requirements referred to above that could have a direct and material effect on each of its 
+major federal programs and its major HUD program for the year ended December 31, 2025. 
+ 
+Basis for Opinion on Each Major Federal Program 
+ 
+We conducted our audit of compliance in accordance with auditing standards generally accepted in 
+the United States of America (GAAS); the standards applicable to financial audits contained in 
+Government Auditing Standards  issued by the Comptroller General of the United States 
+(Government Auditing Standards ); and the audit requirements of Title 2 U.S. Code of Federal 
+Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit 
+Requirements for Federal Awards  (Uniform Guidance) and the audit guide. Our responsibilities 
+under those standards, the Uniform Guidance and the audit guide, are further described in the 
+Auditor’s Responsibilities for the Audit of Compliance section of our report.  
+ 
+We are required to be independent of Renaissance Community Loan Fund, Inc. and to meet our 
+other ethical responsibilities, in accordance with relevant ethical requirements relating to our audit. 
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis 
+for our opinion on compliance for each major federal program. Our audit does not provide a legal 
+determination of Renaissance Community Loan Fund, Inc.’s compliance with the compliance 
+requirements referred to above. 
+ 
+Responsibilities of Management for Compliance 
+ 
+Management is responsible for compliance with the requirements referred to above and for the 
+design, implementation, and maintenance of effective internal control over compliance with the 
+requirements of laws, statutes, regulations, rules and provisions of contracts or grant agreements 
+applicable to Renaissance Community Loan Fund, Inc.’s federal and HUD programs. 
+ 
+Auditors’ Responsibilities for the Audit of Compliance 
+ 
+Our objectives are to obtain reasonable assurance about whether material noncompliance with the 
+compliance requirements referred to above occurred, whether due to fraud or error, and express an 
+opinion on Renaissance Community Loan Fund, Inc.’s compliance based on our audit. Reasonable 
+assurance is a high level of assurance but is not absolute assurance and therefore is not a guarantee 
+that an audit conducted in accordance with GAAS, Government Auditing Standards, the Uniform 
+Guidance, and the audit guide will always detect material noncompliance when it exists. The risk of 
+not detecting material noncompliance resulting from fraud is higher than for that resulting from error, 
+as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of 
+internal control. Noncompliance with the compliance requirements referred to above is considered 
+material, if there is a substantial likelihood that, individually or in the aggregate, it would influence 
+the judgment made by a reasonable user of the report on compliance about Renaissance Community 
+Loan Fund, Inc.’s compliance with the requirements of each major federal and HUD programs as a 
+whole. 
+ 
+ 
+===== PAGE 40 =====
+ 
+ 
+34 
+ 
+ 
+In performing an audit in accordance with GAAS, Government Auditing Standards, the Uniform 
+Guidance, and the audit guide, we: 
+ Exercise professional judgment and maintain professional skepticism throughout the audit. 
+ Identify and assess the risks of material noncompliance, whether due to fraud or error, and 
+design and perform audit procedures responsive to those risks. Such procedures include 
+examining, on a test basis, evidence regarding Renaissance Community Loan Fund, Inc.’s 
+compliance with the compliance requirements referred to above and performing such other 
+procedures as we considered necessary in the circumstances. 
+ Obtain an understanding of Renaissance Community Loan Fund, Inc.’s internal control over 
+compliance relevant to the audit in order to design audit procedures that are appropriate in the 
+circumstances and to test and report on internal control over compliance in accordance with the 
+Uniform Guidance and the audit guide, but not for the purpose of expressing an opinion on the 
+effectiveness of Renaissance Community Loan Fund, Inc.’s internal control over compliance. 
+Accordingly, no such opinion is expressed. 
+ 
+We are required to communicate with those charged with governance regarding, among other matters, 
+the planned scope and timing of the audit and any significant deficiencies and material weaknesses in 
+internal control over compliance that we identified during the audit. 
+ 
+Report on Internal Control Over Compliance 
+ 
+A deficiency in internal control over compliance exists when the design or operation of a control over 
+compliance does not allow management or employees, in the normal course of performing their 
+assigned functions, to prevent, or detect and correct, noncompliance with a type of compliance 
+requirement of a federal or HUD program on a timely basis. A material weakness in internal control 
+over compliance is a deficiency, or a combination of deficiencies, in internal control over compliance, 
+such that there is a reasonable possibility that material noncompliance with a type of compliance 
+requirement of a federal or HUD program will not be prevented, or detected and corrected, on a 
+timely basis. A significant deficiency in internal control over compliance  is a deficiency, or a 
+combination of deficiencies, in internal control over compliance with a type of compliance 
+requirement of a federal or HUD program that is less severe than a material weakness in internal 
+control over compliance, yet important enough to merit attention by those charged with governance. 
+ 
+Our consideration of internal control over compliance was for the limited purpose described in the 
+Auditor’s Responsibilities for the Audit of Compliance section above and was not designed to 
+identify all deficiencies in internal control over compliance that might be material weaknesses or 
+significant deficiencies in internal control over compliance. Given these limitations, during our audit 
+we did not identify any deficiencies in internal control over compliance that we consider to be 
+material weaknesses, as defined above. However, material weaknesses or significant deficiencies in 
+internal control over compliance may exist that were not identified. 
+ 
+Our audit was not designed for the purpose of expressing an opinion on the effectiveness of internal 
+control over compliance. Accordingly, no such opinion is expressed. 
+===== PAGE 41 =====
+ 
+ 
+35 
+ 
+ 
+ 
+Purpose of Report 
+ 
+The purpose of this report on internal control over compliance is solely to describe the scope of our 
+testing of internal control over compliance and the results of that testing based on the requirements of 
+the Uniform Guidance and the audit guide. Accordingly, this report is not suitable for any other 
+purpose.  
+ 
+ 
+ 
+ 
+       Certified Public Accountants 
+ 
+Biloxi, Mississippi 
+March 25, 2026 
+ 
+===== PAGE 42 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc. 36 
+ Schedule of Findings and Questioned Costs 
+ For the Year Ended December 31, 2025 
+ 
+ 
+Section 1 – Summary of Auditors' Results 
+ 
+Financial Statements Section 
+ 
+1. An unmodified opinion was issued on the financial statements.  
+ 
+2. There were no significant deficiencies in internal control disclosed by the audit of the financial 
+statements. 
+ 
+3. The audit did not disclose any noncompliance which is material to the basic financial statements. 
+ 
+Federal Awards Section 
+ 
+4. The audit did not disclose any significant deficiencies in internal control over major programs. 
+ 
+5. An unmodified opinion was issued on compliance for major programs.  
+ 
+6. The audit did not disclose any audit findings that are required to be reported under 2 CFR 
+200.516(a). 
+ 
+7. The program tested as a major program was the Community Development Financial Institutions, 
+CFDA No. 21.020. 
+ 
+8. The dollar threshold for distinguishing Types A and B programs was $1,000,000.  
+ 
+9. The auditee does not qualify as a low-risk auditee.  
+ 
+Section 2 – Findings Relating to the Financial Statements 
+ 
+ None 
+ 
+Section 3 – Findings and Questioned Costs for Federal Awards 
+ 
+ None 
+===== PAGE 43 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc. 37 
+ Schedule of Findings and Questioned Costs, and Recommendations 
+HUD Programs 
+ For the Year Ended December 31, 2025 
+ 
+ 
+Our audit disclosed no findings that are required to be reported herein under the HUD Consolidated 
+Audit Guide. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+===== PAGE 44 =====
+ 
+ 
+ Renaissance Community Loan Fund, Inc. 38 
+ Summary Schedule of Prior Audit Findings 
+ For the Year Ended December 31, 2025 
+ 
+ 
+No prior year audit findings related to the financial statements. 
+ 
+No prior audit findings required to be reported under the HUD Consolidated Audit Guide. 
+ 
+ 

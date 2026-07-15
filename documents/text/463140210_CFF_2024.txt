@@ -1,0 +1,875 @@
+
+===== PAGE 1 =====
+Consolidated Financial Statements
+Year Ended June 30, 2024
+COMMUNITY FIRST FUND AND 
+SUBSIDIARIES
+===== PAGE 2 =====
+Independent Auditors' Report
+Consolidated Statements of Financial Position Pages 5-6
+Consolidated Statements of Activities Page 7
+Consolidated Statements of Functional Expenses Page 8
+Consolidated Statements of Cash Flows Page 9-10
+Notes to Consolidated Financial Statements Pages 11-24
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+CONSOLIDATED FINANCIAL STATEMENTS
+YEAR ENDED JUNE 30, 2024
+TABLE OF CONTENTS
+===== PAGE 3 =====
+(717 ) 393 -076 7
+F AX: (717 )  29 3 -856 0
+80 0-522- 99 67
+36 EAST KING STREET
+LANCASTER, P A 17602-2896
+www. bert zhess .co m
+CERTIFIED P U BLIC ACCO UNT AN TS
+BU S INES S  AND F INANCIA L  CON SULT AN TS
+MEMBER
+P ENNSY LV ANIA IN ST I TUT E O F  CE RTIF IED PUBL IC ACCO UNT ANT S
+AMERICAN IN ST ITUT E O F  CE RTIF IED PUBL IC ACCO UNT ANT S
+JOHN C. W AL TMAN, CP A
+RETIRED
+F oun ded  in  194 5 
+7575
+Board of Directors
+Community First Fund and Subsidiaries
+Lancaster, Pennsylvania
+Report on the Financial Statements
+Opinion
+Basis for Opinion
+Responsibilities of Management for the Financial Statements
+INDEPENDENT AUDITORS' REPORT
+We have audited the accompanying consolidated statement of financial position of Community First Fund (a non-
+profit organization) and Subsidiaries (collectively, "the Organization") as of June 30, 2024 and the related
+consolidated statements ofactivities, functional expenses and cash flows for the year then ended, and the related
+notes to the consolidated financial statements.
+Management is responsible for the preparation and fair presentation of these consolidatedfinancial statements in
+accordance with accounting principles generally accepted in the United States ofAmerica; this includes thedesign,
+implementation and maintenance of internal control relevant to the preparation and fair presentation of
+consolidated financial statements that are free from material misstatement, whether due to fraud or error.
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the
+financial position of Community First Fund and Subsidiaries as of June 30, 2024 and the changes in their net
+assets and their cash flows for theyear then ended in accordance with accounting principles generally accepted in
+the United States of America.
+We conducted our audit in accordance with auditing standards generally accepted in the United States of America
+and the standards applicable to financial audits contained in Government Auditing Standards, issued by the
+Comptroller General of theUnited States. Our responsibilities under those standards are further described in the
+Auditors' Responsibilities for the Audit of theFinancial Statements section of our report. We are required to be
+independent of Community First Fund and Subsidiaries and to meet our other ethical responsibilities, in
+accordance with the relevant ethical requirements relating to our audit. Webelieve that the audit evidence we have
+obtained is sufficient and appropriate to provide a basis for our audit opinions.
+===== PAGE 4 =====
+Board of Directors
+Community First Fund and Subsidiaries
+Lancaster, Pennsylvania
+Responsibilities of Management for the Financial Statements (Continued)
+Auditors' Responsibilities for the Audit of the Financial Statements
+·
+·
+·
+·
+·
+Evaluate the appropriateness of accounting policies used and the reasonableness of significant accounting
+estimates made by management, as well as evaluate the overall presentation of the consolidated financial
+statements.
+Conclude whether, in our judgment, there are conditions or events, considered in the aggregate, that raise
+substantial doubt about Community First Fund and Subsidiaries' ability to continue as a going concern for a
+reasonable period of time.
+Identify and assess the risks of material misstatement of the consolidated financial statements, whether due
+to fraud or error, and design and perform audit procedures responsive to those risks. Such procedures
+include examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated
+financial statements.
+We are required to communicate with those charged with governance regarding, among other matters, the
+planned scope and timing of the audit, significant audit findings, and certain internal control-related matters that
+we identified during the audit.
+In preparing the consolidated financial statements, management is required to evaluate whether there are
+conditions or events, considered in the aggregate, that raise substantial doubt about Community First Fund and
+Subsidiaries’ ability to continue as a going concern within one year after the date that the consolidated financial
+statements are available to be issued.
+Our objectives are to obtain reasonable assurance about whether the consolidated financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditors' report that includes
+our opinion. Reasonable assurance is a highlevel of assurance but is not absolute assurance and therefore is not
+a guarantee that an audit conducted in accordance with generally accepted auditing standards and Government
+Auditing Standards will always detect a material misstatement when it exists. The risk of not detecting a material
+misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion,
+forgery, intentional omissions, misrepresentations, or the override of internal control. Misstatements are
+considered material if there is a substantial likelihood that, individually or in the aggregate, they would influence
+the judgment made by a reasonable user based on the consolidated financial statements.
+In performing an audit in accordance with generally accepted auditing standards and Government Auditing
+Standards, we:
+Exercise professional judgment and maintain professional skepticism throughout the audit.
+Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are
+appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of
+Community First Fund and Subsidiaries' internal control.  Accordingly, no such opinion is expressed.
+===== PAGE 5 =====
+Board of Directors
+Community First Fund and Subsidiaries
+Lancaster, Pennsylvania
+Report on Summarized Comparative Information
+Other Reporting Required by Government Auditing Standards
+Lancaster, Pennsylvania
+October 17, 2024
+We have previously audited Community First Fund and Subsidiaries' 2023 consolidated financial statements, and
+we expressed an unmodified audit opinion on those audited financial statements in our report dated September
+22, 2023. In our opinion, the summarized comparative information presented herein as of and for the year ended
+June 30, 2023is consistent, in all material respects, with the audited financial statements from which it has been
+derived.
+In accordance with Government Auditing Standards, we have also issued our report dated October 17, 2024 on
+our consideration of Community First Fund and Subsidiaries' internal control over financial reporting and our
+tests of its compliance with certain provisions of laws, regulations, contracts, and grant agreements and other
+matters. The purpose of that report is to describe the scope of our testing of internal control over financial
+reporting and compliance and the results of that testing, and not to provide an opinion on internal control over
+financial reporting or on compliance. That report is an integral part of an audit performed in accordance with
+Government Auditing Standards in considering Community First Fund and Subsidiaries' internal control over
+financial reporting and compliance.
+BERTZ, HESS & CO., LLP
+===== PAGE 6 =====
+ASSETS 2024 2023
+CURRENT ASSETS
+Cash and cash equivalents 32,472,674$   34,300,390$   
+Grants receivable 667,444          1,265,673       
+Contract receivables 577,357          1,001,861       
+Loans receivable, net 20,536,498     28,063,381     
+Interest and loan fees receivable 1,342,540       951,626          
+Prepaid expenses 235,218          220,304          
+Investments 4,390,601       17,202,571     
+Total Current Assets 60,222,332     83,005,806     
+PROPERTY AND EQUIPMENT, At cost
+Building 6,384,594       6,471,859       
+Building improvements 4,135,133       1,209,688       
+Equipment 872,218          637,159          
+Total Property and Equipment 11,391,945     8,318,706       
+Less accumulated depreciation (1,696,790)      (1,430,905)      
+Property and Equipment, Net 9,695,155       6,887,801       
+OTHER ASSETS
+Finance lease right-of-use asset 12,217 19,198
+Operating lease right-of-use asset 276,131          215,516          
+Loans receivable, net of loan loss reserve 
+ of $11,187,016 in 2024 and $11,002,942 in 2023 94,621,828     
+60,057,149     
+Total Other Assets 94,910,176     60,291,863     
+TOTAL ASSETS 164,827,663$ 150,185,470$ 
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF FINANCIAL POSITION
+JUNE 30, 2024 AND 2023
+See notes to financial statements.
+Page 5
+===== PAGE 7 =====
+LIABILITIES AND NET ASSETS 2024 2023
+CURRENT LIABILITIES
+Notes payable 12,000,312$   6,495,193$     
+Equity equivalent investment 4,153,534       1,201,676       
+Accounts payable 517,111          425,672          
+Deferred revenue 63,569            7,709,903       
+Finance lease liability 7,104              6,903              
+Operating lease liability 128,521          68,985            
+Accrued expenses and payables 959,905          1,007,232       
+Grant payable 1,000,000       1,575,000       
+Accrued interest 274,298          230,582          
+Accrued payroll and benefits 203,652          272,519          
+Total Current Liabilities 19,308,006     18,993,665     
+LONG-TERM LIABILITIES
+Grant payable 862,501          3,150,000       
+Notes payable, buildings and equipment 967,812          1,005,770       
+Finance lease liability 5,464              12,569            
+Operating lease liability 154,899          155,585          
+Notes payable, investments 43,802,122     38,593,596     
+Bond guarantee program 6,654,083       6,888,210       
+Equity equivalent investment 22,765,621     18,768,317     
+Total Long-Term Liabilities 75,212,502     68,574,047     
+TOTAL LIABILITIES 94,520,508     87,567,712     
+NET ASSETS
+Without donor restrictions 66,653,509     58,950,571     
+With donor restrictions 3,653,646       3,667,187       
+TOTAL NET ASSETS 70,307,155     62,617,758     
+TOTAL LIABILITIES AND NET ASSETS 164,827,663$ 150,185,470$ 
+Page 6
+===== PAGE 8 =====
+Without With
+Donor Donor 2024 2023
+Restrictions Restrictions Total Total
+SUPPORT AND REVENUE
+Contributions
+Individuals 54,548$          -$               54,548$          65,345$          
+Business 105,750          -                 105,750          53,500            
+Foundations and associations 1,537,475       -                 1,537,475       3,761,052       
+Government
+Contract 11,537,595     -                 11,537,595     8,239,538       
+Interest income 8,726,924       -                 8,726,924       5,564,097       
+Loan and service fees 848,910          -                 848,910          372,384          
+NMTC revenue 1,240,219       -                 1,240,219       1,354,730       
+Miscellaneous 670,993          -                 670,993          414,885          
+Total Support and Revenue 24,722,414     -                 24,722,414     19,825,531     
+EXPENSES
+Program services 12,602,721     -                 12,602,721     11,434,849     
+General and administrative 3,431,659       -                 3,431,659       2,949,053       
+Fundraising 998,637          -                 998,637          878,075          
+Total Expenses 17,033,017     -                 17,033,017     15,261,977     
+CHANGE IN NET ASSETS 7,689,397$     -$               7,689,397$     4,563,554$     
+NET ASSETS, BEGINNING 58,950,571$   3,667,187$     62,617,758$   58,054,204$   
+Change in Net Assets 7,689,397       -                 7,689,397       4,563,554       
+Net assets released from restrictions 13,541            (13,541)           -                 -                 
+NET ASSETS, ENDING 66,653,509$   3,653,646$     70,307,155$   62,617,758$   
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF ACTIVITIES
+YEAR ENDED JUNE 30, 2024 WITH SUMMARIZED COMPARATIVE TOTALS FOR JUNE 30, 2023
+See notes to financial statements.
+Page 7
+===== PAGE 9 =====
+Program General and 2024 2023
+FUNCTIONAL EXPENSES Services Administrative Fundraising Total Total
+Salaries 6,476,198$     422,231$        574,682$        7,473,111$     6,279,363$     
+Payroll taxes 390,910          25,798            35,106            451,814          416,911          
+Employee benefits 1,134,717       74,887            101,904          1,311,508       1,306,473       
+Temporary help -                 -                 -                 -                 209,210          
+Insurance 51,044            3,369              4,584              58,997            60,121            
+Rent 163,526          10,792            14,684            189,002          190,766          
+Utilities 90,620            5,980              8,138              104,738          109,181          
+Real estate taxes 58,622            3,869              5,265              67,756            71,875            
+Telephone 116,688          7,701              10,479            134,868          113,098          
+Repairs and maintenance 186,477          12,307            16,747            215,531          148,221          
+Public relations 77,321            30,928            46,392            154,641          210,864          
+Seminars and conventions 97,452            38,981            58,471            194,904          105,490          
+Travel 214,000          14,123            19,218            247,341          268,353          
+Dues and subscriptions 51,298            3,385              4,607              59,290            46,173            
+Office supplies and expense 574,006          37,882            51,549            663,437          436,579          
+Postage -                 4,938              14,812            19,750            17,207            
+Printing 17,995            7,198              10,797            35,990            30,523            
+Legal, audit, and professional 278,604          665,817          -                 944,421          736,749          
+Filing fees 114,373          -                 -                 114,373          245,871          
+Loan loss provision 688,329          -                 -                 688,329          1,208,068       
+Grants to others 1,211,117       -                 -                 1,211,117       644,925          
+Interest -                 2,045,891       -                 2,045,891       1,796,724       
+Bank fees 87,964            -                 -                 87,964            144,045          
+Miscellaneous 285,376          -                 -                 285,376          261,394          
+Depreciation 236,084          15,582            21,202            272,868          203,793          
+Total Functional Expenses 12,602,721$   3,431,659$     998,637$        17,033,017$   15,261,977$   
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF FUNCTIONAL EXPENSES
+YEAR ENDED JUNE 30, 2024 WITH SUMMARIZED COMPARATIVE TOTALS FOR JUNE 30, 2023
+See notes to financial statements.
+Page 8
+===== PAGE 10 =====
+2024 2023
+CASH FLOWS FROM OPERATING ACTIVITIES
+Increase in net assets 7,689,397$     4,563,554$     
+Adjustments to reconcile change in net assets
+ to net cash used by operating activities
+Depreciation 272,868          203,793          
+Investment gains (115,482)         (17,205)           
+Loss on sale of other real estate owned -                  49,725            
+Loan loss reserve 184,074          1,250,989       
+(Increase) decrease in operating assets
+Grants receivable 598,229          (100,550)         
+Contract receivables 424,504          (861,527)         
+Loans receivable (27,221,870)    (18,778,038)    
+Interest and loan fees receivable (390,914)         120,834          
+Prepaid expenses (14,914)           60,019            
+Prepaid leases (8,669)             9,328              
+Increase (decrease) in operating liabilities
+Accounts payable 91,439            (196,058)         
+Deferred revenue (7,646,334)      2,528,478       
+Accrued expenses (47,327)           352,692          
+Accrued interest 43,716            (75,623)           
+Grant payable (2,862,499)      336,476          
+Accrued payroll and benefits (68,867)           
+(44,150)           
+Net Cash Used by Operating Activities (29,072,649)    (10,597,263)    
+CASH FLOWS FROM INVESTING ACTIVITIES
+Proceeds from sales of other real estate owned -                 308,197          
+Purchases of investments (5,072,548)      (16,327,965)    
+Proceeds from sales of investments 18,000,000     -                 
+Additions to property and equipment (3,073,239)      (983,578)         
+Net Cash Provided/(Used) by Investing Activities 9,854,213       (17,003,346)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Proceeds from notes payable 13,327,732     2,226,886       
+Proceeds from equity equivalent investments 7,000,000       1,000,000       
+Principal payments on equity equivalent investments (50,838)           (350,665)         
+Principal payments on notes payable (2,664,410)      (1,922,767)      
+Principal payments on Bond guarantee program (221,764)         (217,264)         
+Net Cash Provided by Financing Activities 17,390,720     736,190          
+NET DECREASE IN CASH AND CASH EQUIVALENTS (1,827,716)      (26,864,419)    
+Cash and Cash Equivalents at Beginning of Year 34,300,390     61,164,809     
+Cash and Cash Equivalents at End of Year 32,472,674$   34,300,390$   
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+YEARS ENDED JUNE 30, 2024 AND 2023
+See notes to financial statements.
+Page 9
+===== PAGE 11 =====
+2024 2023
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+YEARS ENDED JUNE 30, 2024 AND 2023
+SCHEDULE OF SUPPLEMENTAL CASH FLOW INFORMATION
+Cash paid during the year for interest 2,002,175$     1,872,347$     
+Notes payable refinanced/rolled over 9,570,000$     2,073,000$     
+See notes to financial statements.
+Page 10
+===== PAGE 12 =====
+NOTE 1:  ORGANIZATION DATA
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2024 AND 2023
+Community First Fund (the "Organization") wasincorporated on May 5, 1992 under the Pennsylvania non-profit
+corporation law of1988 which promotes community and economic development. It provides affordable loans to
+small businesses, developers of affordable housing, community-based organizations, women, people of color and
+other entities as well as business counseling throughout central and eastern Pennsylvania. The Organization is a
+non-stock issuing entity and is controlled by its Board of Directors.
+In August 2005, the Organization established Community First Capital Corp. (CFCC), a separate organization,
+tax-exempt under section 501(c)(3) of the Internal Revenue Service Code. CFCC is organized for the purpose of
+making loans that will be guaranteed by the U.S. Small Business Administration and is regulated by the
+Pennsylvania Department of Banking.  CFCC operates as a wholly-owned subsidiary of the Organization.
+On July 1, 2018, Community First Fund (CFF) entered into a management fee agreement with itswholly-owned
+subsidiary Community First Capital Corp.(CFCC). The agreement calls for CFF to provide the following services:
+management in general; finance and accounting; liquidity and cash balances management; loan underwriting;
+loan servicing and portfolio management. In addition, CFF will also provide support services that include office
+space and administrative support.
+The Organization is certified as a Community Development Financial Institution (CDFI) by the U.S. Treasury
+Department. The Organization is also accreditedby the Pennsylvania Department of Communityand Economic
+Development.
+On December 1, 2021, the Organization was notified that renewal of its prospectus was approved by the
+Department of Banking and Securities for the Commonwealth of the State ofPennsylvania. This prospectus
+allows the Organization to promote private investment offerings (unsecured investments)to individuals whowish
+to make animpact in their communities. Individual investments under the prospectus cannot exceed $5 million
+in the aggregate.  The minimum investment allowable under the prospectus is $1,000.
+Since 2005, the Organization has participated in the strenuous and nationally acclaimed CDFI Assessment
+Ratings processknown as Aeris. In March 2024, the Organization received confirmation ofits rating of"AA, Four
+Star, Policy Plus" under a multi-year ratingprogram. The investment grade AA rating represents a confirmation
+of theOrganization's continued financial strength. The "Four Star, Policy Plus" impact management rating is the
+highest rating that a CDFI can receive under the Aeris ratings system. A CDFI that receives the Policy plus rating
+demonstrates leadership in public policy change.
+On July 1, 2020, the Organization merged with FINANTA, a Philadelphia based non-profit CDFI Loan Fund
+founded in 1996. FINANTA converted to a member owned nonprofit corporation and appointed the Organization
+as its sole member. By virtue of the Organization being the sole member of FINANTA, FINANTA is considered a
+subsidiary of the Organization.
+CFCC maintains six offices in the Commonwealth of Pennsylvania. The Pennsylvania Department of Banking
+requires a minimum capitalization for any new office under an existing license. The capitalization requirement
+must be maintained as permanent capital which should not be distributed or purchased. The amount of this
+capitalization requirement is included under net assets without donor restrictions for a total of $2,500,000 at
+June 30, 2024.
+Page 11
+===== PAGE 13 =====
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2024 AND 2023
+NOTE 1:  ORGANIZATION DATA (Continued)
+NOTE 2:  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Accounting
+Comparative Financial Information
+Principles of Consolidation
+Basis of Presentation
+On June 30, 2021, as part of the Organization's strategic plan, the National Credit Union Administration
+approved a federal credit union charter for Community First Fund Federal Credit Union ("CFFFCU"). CFFFCU
+operates as a separate corporate entity, is not considered a subsidiary or affiliate of the Organization and is
+excluded from the Organization's consolidated financial statements. Upon approval of the federal charter, the
+Organization entered into a grant agreement with CFFFCU to provide capitalin support of the continuedgrowth
+of CFFFCU. The grant, in the amount of $7,300,000, was made possible by anunrestricted contributionreceived
+by the Organization during the year ended June 30, 2021. The grant was recognized by the Organization as
+Grant Expense in the year ended June 30, 2021,with a corresponding Grant Payable to CFFFCU as of that date.
+The grant is expected to be paid to CFFFCU over five years, with the final payment occurring in 2026. The
+Organization completed a Management Services Agreement with CFFFCU to provide further support.
+The Organization's net assets and revenues, expenses, gains and losses (when applicable) are classified based
+on the existence or absence of donor-imposed restrictions. Accordingly, net assets and changes therein are
+classified and reported as follows:
+Net assets without donor restrictions are not subject to donor-imposed restrictions. Net assets without donor
+restrictions may be designated for specific purposes by action of the Board ofDirectors or may otherwise be
+limited by contractual agreements with outside parties.
+The consolidated financial statements have been prepared on the accrual basis of accounting in accordance
+with accounting principles generally accepted in the United States of America.
+The financial statements includecertain prior-year summarizedcomparative information in total but not by net
+asset class. Such information does not include sufficient detail to constitute a presentationin conformity with
+accounting principles generally accepted in the United States of America. Accordingly, such information
+should be read in conjunction with the Organization's financial statements for theyear ended June 30, 2023,
+from which the summarized information was derived.  
+The consolidated financial statements of Community First Fund and Subsidiaries include the accounts of
+Community First Fund and its wholly owned subsidiaries Community First Capital Corp. and FINANTA.
+Investments in unconsolidated subsidiaries (the New Markets Tax Credit LLCs or "NMTC LLCs") are accounted
+for under the equity method (see Note 11). Community First Fund and its subsidiary entities are referred to
+collectively as the "Organization." All significant financial activity between Community First Fund and its
+wholly owned subsidiaries is eliminated in the preparation of the consolidated financial statements.
+Page 12
+===== PAGE 14 =====
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2024 AND 2023
+NOTE 2:  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+Basis of Presentation (Continued)
+Estimates
+Cash and Cash Equivalents
+Contract Receivables
+2024 2023
+Due from CFFFCU 533,551$        986,146$     
+Other receivables 43,806            15,715            
+Total 577,357$        1,001,861$     
+Investments
+Net assets with donor restrictions are subject to donor-imposed restrictions. Some donor-imposed restrictions
+are temporary in nature, such as those that will be met by the passage of time or other eventsspecified by the
+donor. Other donor-imposed restrictions are perpetual in nature, where thedonor stipulates that resources be
+maintained in perpetuity. Donor-imposed restrictions are released when arestriction expires; that is, when the
+stipulated time has elapsed, when thestipulated purpose for which the resourcehas been restricted has been
+fulfilled, or both.
+The preparation of financial statements in conformity with accounting principles generally accepted in the
+United States of America requiresmanagement to make estimates and assumptions that affect certain reported
+amounts and disclosures.  Actual results could differ from those estimates.
+The Organization also holds shares of theFederal Home Loan Bank of Pittsburgh, which are recognized at cost.
+The recognized balance for this investment at June 30, 2024 and 2023, was $54,600 and $43,300,
+respectively.
+The Organization records its contract receivable net of an allowance forcollectable accounts. The Organization
+determines its allowance based on historical experience, an assessment of economic conditions, and a review of
+subsequent events. As of June 30, 2024 and 2023, no allowance wasconsidered necessary. The composition
+of contract receivable as of June 30 was as follows:
+The Organization holds an 8.33% share of the National Association for Latino Community Asset Builders'
+Acceso loan fund, which it accounts for as an equity method investment. The recognized balance for this
+investment at June 30, 2024 and 2023, was $881,494 and $838,706, respectively.
+For purposes of the consolidated statements ofcash flows, cash and cash equivalents are defined as demand
+deposits and all short-term investments with an original maturity date of three months or less.
+Page 13
+===== PAGE 15 =====
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2024 AND 2023
+NOTE 2:  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+Investments (Continued)
+Other Real Estate Owned
+Property and Equipment
+Donor Restrictions
+Cost Allocation
+Effective May 2023, the Organization purchased 80,000 shares of preferred stock and 8,000 warrants for
+additional preferred stock with an exercise price of $15.00 per share and an exercise period between January
+1, 2027 and December 31, 2020 from Spring Garden Capital Group, LLC. The investment is valued at
+$1,072,694 and $1,000,000 as of June 30, 2024 and 2023, respectively.
+Property and equipment is stated at cost or, if donated for use by the Organization, at the approximate fair
+value at the date of donation. Routine maintenance and repairs are expensed as incurred. Property and
+equipment is depreciated using thestraight-line method over their estimated useful lives ranging from threeto
+fifty years.
+The costs of providing the various activities have been summarized on a functional basis in the consolidated
+statements of activities based on management's estimation of actual service utilization.
+Contributions received are recorded as without donor restrictions or with donor restrictions, depending on the
+existence or nature of any donor restrictions.
+The Organization held $2,381,813 and $15,320,565 in money market mutual funds as of June 30, 2024 and
+2023, respectively.
+As of June 30, 2024and 2023, the Organization held no other real estate owned. During theyear ended June
+30, 2024, two properties were sold in the year ended June 30, 2023 at a loss of approximately $49,725.
+When a donor restriction expires (that is, when a stipulated time restriction ends or a purpose restriction is
+accomplished), net assets with donor restrictions are reclassified as net assets without donor restrictions and
+reported in the consolidated statements ofactivities as net assets released fromrestrictions. Donor restricted
+contributions whose restrictions are met within the same yearas received are reflected as contributions without
+donor restrictions in the accompanying financial statements.
+In February 2020, the Organization purchased the remaining two office condominiums at its Lancaster
+operations center. The Organization occupies floors three and four. The second floor is leased to outside
+parties. The Organization built out thesouthwest corner of thefirst floorduring 2021 and 2022 and leases the
+space to CFFFCU.
+Page 14
+===== PAGE 16 =====
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2024 AND 2023
+NOTE 2:  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+Income Taxes
+Advertising
+Management's Evaluation of Subsequent Events
+Revenue and Revenue Recognition
+The Organization has certain contract-based revenues related to its New Markets Tax Credit entities (Note 11).
+Revenues from asset management fees for these entities are recognized over the asset management period.
+Audit and exit fees from the New Market Tax Credit entities are recognized at the point in time that
+performance obligations are fully satisfied.
+The Organization and its wholly-owned subsidiaries CFCC and FINANTA are exempt from income taxes under
+the provision of theInternal Revenue Service CodeSection 501(c)(3). As such, the Organization is exempt from
+income taxes on related income pursuant to Section 509(a) of the Code.
+The Organization has evaluated the taxfilings for theopen tax years for uncertain taxpositions. The tax years
+subject to examination by the Internal Revenue Service are 2020, 2021, 2022,and 2023. The tax years subject
+to examination by the state jurisdiction are unlimited.
+Events that occurred subsequent to June 30, 2024, have been evaluated by the Organization's management
+through October 17, 2024, which is the date the financial statements were available to be issued.
+Grants and contributions of $7,709,903 at June 30, 2023 were not recognized in the accompanying
+consolidated statement of activities because the conditions onwhich they depend had not yetbeen met. These
+conditions were met during the year ended June 30, 2024. There were no conditional grants and contributions
+at June 30, 2024.
+The Organization recognizes grants and contributions when cash, securities or other assets;an unconditional
+promise to give; or anotification of abeneficial interest is received. Conditional promises to give -that is, those
+with a measurable performance or otherbarrier and a right of return - are notrecognized until the conditions
+on which they depend have been met.
+A portion of the Organization’s revenue is derived from cost-reimbursable contracts and grants, which are
+conditioned upon certain performance requirements and/or the incurrence of allowable qualifying expenses.
+Amounts received are recognized as revenue when the Organization has incurred expenditures in compliance
+with specific contract or grant provisions. Amounts received prior to incurring qualifying expenditures are
+reported as refundable advances in the statement of financial position. The Organization is eligible to receive
+cost-reimbursable grants of $25,000 that had not been recognized at June 30, 2023because related costs had
+not yetbeen incurred. The Organization has nocost-reimbursable grants at June 30, 2024.The Organization
+has received no advance payments for cost-reimbursable grants.
+The Organization expenses advertising costs as they are incurred. Advertising costs expensed for the years
+ended June 30, 2024 and 2023, were $66,274 and $90,387, respectively.
+Page 15
+===== PAGE 17 =====
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2024 AND 2023
+NOTE 3:  CASH AND CASH EQUIVALENTS
+NOTE 4:  LOANS RECEIVABLE
+2024 2023
+Balance Balance
+Loans Receivable for economic development, 
+housing and other community projects:
+Interest-bearing loans receivable
+with various maturity dates,
+secured by business assets,
+mortgage interest and/or personal
+guarantees of owners. 126,345,342$ 99,123,472$   
+Less loan loss reserve 11,187,016     11,002,942     
+Total loans receivable, net 115,158,326   88,120,530     
+Current portion 20,536,498     28,063,381     
+Long Term 94,621,828$   60,057,149$   
+Maturities of loans receivable are as follows at June 30:
+2025 20,536,498$   
+2026 12,945,225     
+2027 9,835,980       
+2028 13,737,678     
+2029 21,942,822     
+Thereafter 47,347,139     
+Total 126,345,342$ 
+Certain grant and loan agreements require that the Organization maintain cash in separate bank accounts.
+At June 30, 2024 and 2023, cash and cash equivalents includes $8,242,573 and $8,163,973, respectively, in
+restricted cash.
+The Organization maintains its cash balances in several financial institutions. The balances are insured by the
+Federal Deposit Insurance Corporation (FDIC) up to $250,000. The amounts reflected per the consolidated
+statements of financial position may vary from the amounts recognized by the financial institution due to
+reconciling items. The Organization's cash balance in excess of FDIC insurance limits at June 30, 2024 and
+2023, is $22,583,067 and $26,096,730, respectively. During the years ended June 30, 2024 and 2023, the
+Organization elected to invest its excess cash in money market accounts, U.S. TreasuryNotes, and Insured Cash
+Sweeps for FDIC eligibility beyond $250,000. Management believes that the Organization is not exposed to
+significant credit risk on cash and cash equivalents.
+Loans receivable are for loans made to small businesses, developers of affordable housing, community-based
+organizations, individuals, and other entities. The receivables are recorded at their face value. Interest, feesand
+related costs are recognized on the accrual basis through June 30. Below is a schedule summarizing loans
+receivable at June 30:
+Page 16
+===== PAGE 18 =====
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2024 AND 2023
+NOTE 4:  LOANS RECEIVABLE (Continued)
+2024 2023
+Beginning Balance 11,002,942$   9,751,953$     
+Provision for loan losses 1,260,119       2,192,889       
+Special provision for anticipated COVID-19 losses (571,790)         (985,277)         
+Recoveries for amounts previously charged off 168,282          200,133          
+Write-off of uncollectible loans (672,537)         (156,756)         
+Ending Balance 11,187,016$   11,002,942$   
+Due to the effects of transition to post-pandemic conduct of business on the Organization's General Portfolio,
+management had deemed it prudent to decrease its specific loan loss reserves for potentialfuture losses that may
+occur once the various grant and deferment programs that are currently benefiting borrowers expire. The
+Organization has decreased the amount reserved by $571,790 in fiscal year 2024, after areduction of $985,277
+in fiscal year 2023.  
+Loans that do not currently expose the Organization to sufficient risk to warrant classification in one of the
+aforementioned categories but possess an element of weakness that deserves management's close attention are
+deemed to be High.  Risk ratings are updated any time the situation warrants.
+Substandard loans include thosecharacterized by the distinct possibility that the Organization will sustain some
+loss if the deficiencies are notcorrected. Loans classified as Doubtful have all theweaknesses inherent in those
+classified as Substandard with the added characteristic that the weaknesses present make collection or
+liquidation in full, on the basis of currently existing facts, conditions and values, highly questionable and
+improbable.
+The Organization utilizes an internal classification system as a means of reportingproblem and potential problem
+loans. Under its risk rating system, the Organization classifies problem and potential problem loans as "High",
+"Substandard" and "Doubtful".
+FINANTA's loan loss reserve methodology provides 15% reserves for Small Business Loans, a range of 1%
+through 10% reserves for General Portfolio Loans, and 1% reserves for Project Reinvestment Mortgages and
+FINANTA Housing loans and loans funded with specific program grants. This methodology provides sufficient
+reserves to cover any impaired loans.
+As of June 30, 2024 and 2023, all outstanding loans were accruing interest.
+Changes to the loan loss reserve for the years ended June 30, 2024 and 2023, are as follows:
+As part of theOrganization's mission to deliver financial products to low and moderate income communities and
+individuals, theOrganization strives to ensure that it builds abase by which funds canbe loaned on arevolving
+basis. To achieve that purpose, the Organization has instituted a risk rating system to categorize the quality of
+loans. The risk rating process is conducted at the time of application fornew or increased loan facilities, as part
+of theannual loan review process, and in any situation where new information about a loan comes to light that
+may have a material impact on its quality. To grade loans, the Organization takes into account the borrower's
+debt service coverage, personal credit, collateral, personal debt ratio, management experience and adjusted net
+worth.
+In the fiscalyears ending June 30, 2024and 2023, the Organization did not sell any of its SBA 7(a) Guaranteed
+Loans on the open market.  
+Page 17
+===== PAGE 19 =====
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2024 AND 2023
+NOTE 4:  LOANS RECEIVABLE (Continued)
+General
+2024 Portfolio High Substandard Doubtful Total
+Community First Fund
+Current 41,601,293$   32,772,481$   17,717,785$   13,724,624$   105,816,183$ 
+PPP and LCEF Loans 186,291          11,564            -                 373,606          571,461          
+Past Due 31 - 60 days 41,848            113,573          42,152            319,590          517,163          
+Past Due 61 - 90 days 272,701          250,484          30,496            126,065          679,746          
+Past Due > 90 Days 634,797          1,500,728       113,712          2,697,054       4,946,291       
+Total Gross Loans 42,736,930     34,648,830     17,904,145     17,240,939     112,530,844   
+Provision for loan losses (1,007,409)      (1,236,333)      (907,551)         (2,122,033)      (5,273,326)      
+Provision for COVID-19
+losses (5,427,664)      -                 -                 -                 (5,427,664)      
+Total provision for
+loan losses (6,435,073)      (1,236,333)      (907,551)         (2,122,033)      (10,700,990)    
+Loans receivable,
+net of loan loss reserve 36,301,857$   33,412,497$   16,996,594$   15,118,906$   101,829,854$ 
+General SBA Project FINANTA
+2024 Portfolio Loans Reinvestment Housing Total
+FINANTA
+Current
+5,591,933$     -$               3,244,496$     3,135,999$     11,972,428$   
+Past Due 31 - 60 days 550,033          -                 -                 -                 550,033          
+Past Due 61 - 90 days 420,966          -                 -                 112,363          533,329          
+Past Due > 90 Days 748,174          -                 10,534            -                 758,708          
+Total Gross Loans 7,311,106       -                 3,255,030       3,248,362       13,814,498     
+Total Provision for
+Loan Losses (421,201)         -                 (32,446)           (32,379)           (486,026)         
+Loans receivable,
+net of loan loss reserve 6,889,905$     -$               3,222,584$     3,215,983$     13,328,472$   
+The following tables present the risk category of loansegment based on themost recent analysis performed and
+the contractual aging as of June 30, 2024 and 2023:
+The General Portfolio as of June 30, 2024, includes $281,252 of Paycheck Protection Program (PPP) loans and
+$290,209 of Lancaster City Emergency Fund (LCEF) loans. The General Portfolio as of June 30, 2023, includes
+$311,977 of Paycheck Protection Program (PPP) loans and $411,850 of Lancaster City Emergency Fund (LCEF)
+loans. Under the PPP loan program authorized by the Coronavirus Aid, Relief, and Economic Security Act
+(CARES Act), PPP loans are eligible for up to 100% forgiveness by the U.S.Small Business Administration (SBA),
+subject to approval by the SBA. The LCEF loans are subject to an agreement with another organization that the
+first losses on theLCEF loans will be covered by the otherorganization, up to an aggregate amount of $250,000.
+The PPP and LCEF loans were reserved at 1% for loanloss calculation purposes to reflect additional anticipated
+levels of loss on PPP loans that are not forgiven and losses on LCEF loans above the coverage level provided by
+Lancaster City.
+Page 18
+===== PAGE 20 =====
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2024 AND 2023
+NOTE 4:  LOANS RECEIVABLE (Continued)
+General
+2023 Portfolio High Substandard Doubtful Total
+Community First Fund
+Current
+52,717,164$   13,154,235$   12,007,627$   1,779,955$     79,658,981$   
+PPP and LCEF Loans 723,827          -                 -                 -                 723,827          
+Past Due 31 - 60 days 130,256          24,276            36,660            -                 191,192          
+Past Due 61 - 90 days 10,400            -                 80,788            -                 91,188            
+Past Due > 90 Days 6,636              -                 2,082,800       329,459          2,418,895       
+Total Gross Loans 53,588,283     13,178,511     14,207,875     2,109,414       83,084,083     
+Provision for Loan Losses (1,642,478)      (658,926)         (1,065,591)      (1,379,263)      (4,746,258)      
+Provision for COVID-19
+Losses (5,427,664)      -                 -                 -                 (5,427,664)      
+Total Provision for
+Loan Losses (7,070,142)      (658,926)         (1,065,591)      (1,379,263)      (10,173,922)    
+Loans receivable,
+ net of loan loss reserve 46,518,141$   12,519,585$   13,142,284$   730,151$        72,910,161$   
+General SBA Project FINANTA
+2023 Portfolio Loans Reinvestment Housing Total
+FINANTA
+Current
+6,756,881$     687,181$        3,318,000$     3,749,802$     14,511,864$   
+Past Due 31 - 60 days 394,538          21,275            -                 -                 415,813          
+Past Due 61 - 90 days 12,250            27,812            -                 112,000          152,062          
+Past Due > 90 Days 911,632          48,018            -                 -                 959,650          
+Total Gross Loans 8,075,301       784,286          3,318,000       3,861,802       16,039,389     
+Total Provision for
+Loan Losses (639,579)         (117,643)         (33,180)           (38,618)           (829,020)         
+Loans receivable,
+ net of loan loss reserve 7,435,722$     666,643$        3,284,820$     3,823,184$     15,210,369$   
+Page 19
+===== PAGE 21 =====
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2024 AND 2023
+NOTE 5:  GRANTS, GRANTS RECEIVABLE, AND DEFERRED REVENUE
+2024 2023
+Total Grant Revenue 13,180,820$   12,054,090$   
+Grants Receivable 667,444$        1,265,673$     
+Deferred Revenue 63,569$          7,709,903$     
+Grants to Others 1,211,117$     644,925$        
+NOTE 6:  NOTES PAYABLE
+2024 2023
+Corporations, Foundations, and Intermediaries, unsecured 11,568,281$   10,797,667$   
+Financial Institutions, unsecured 39,174,776     28,556,245     
+Individuals, unsecured 503,875          495,844          
+Religious Organizations, unsecured 805,000          885,000          
+Government Organizations, unsecured 1,139,294       1,683,687       
+Government Organizations, secured by loans
+ receivable and cash 2,340,564       2,414,570       
+Bond Guarantee Program Borrowings, secured by loans 6,884,265       7,106,028       
+Equity Equivalent Investment 26,919,155     19,969,993     
+Mortgages Payable, secured by building 1,008,274       1,043,728       
+Total Promissory Notes 90,343,484     72,952,762     
+Less Current Portion 16,153,846     
+7,696,869       
+Long-Term Portion 74,189,638$   65,255,893$   
+The Organization receives grants from various sources to support its program and related administrative
+expenses. These grants are accounted for on an individual basis and summarized into the following totals at
+June 30:
+The following table summarizes notes payable as of June 30, 2024 and 2023:
+The Organization has lines of creditwith various banks totaling $14,000,000 and $17,256,939 at June 30, 2024
+and 2023, respectively, to be drawn as needed for working and interim loan capital, with interest rates ranging
+from SOFR (LIBOR equivalent) plus 2.25% to prime plus 1.00%. Certain lines of credit have interest rates
+subject to "floors" between 3.75% and 4.50%. The lines of credit are subject to review on an annual basis and
+are unsecured. As of June 30, 2024 and 2023, no amounts were outstanding on the lines of credit. The open
+lines of credit are with U.S. Bank, Bank of America, Northwest Bank, The Bancorp Bank, Wells Fargo, and
+Univest Bank.
+Page 20
+===== PAGE 22 =====
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2024 AND 2023
+NOTE 6:  NOTES PAYABLE (Continued)
+Maturities of notes payable are as follows at June 30:
+2025 16,153,846$   
+2026 9,208,127       
+2027 19,763,747     
+2028 3,809,259       
+2029 11,873,584     
+Thereafter 29,534,921     
+Total 90,343,484$   
+NOTE 7:  NET ASSETS WITH DONOR RESTRICTIONS
+2024 2023
+EBBC - Lending -$               13,541$          
+Lancaster County Housing and Redevelopment
+   Authority, Lancaster County Microloan Fund 283,146          283,146          
+FINANTA - Neighborworks Closing Assistance 3,370,500       3,370,500       
+Total net assets with donor restrictions 3,653,646$     3,667,187$     
+The Organization's outstanding promissory notes with Corporations, Foundations, Intermediaries, Financial
+Institutions, Religious Organizations, Individuals and Government Organizations have interest rates ranging from
+0% to 5.35% with various maturity dates to December 2046. Certain promissory notes contain covenants with
+which the Organization must comply.
+The Organization had Promissory Notes totaling $26,919,155 and $19,969,993 at June 30, 2024 and 2023,
+respectively, that can be classified as Equity Equivalent Investments. Equity Equivalent Investments differ from
+Notes Payable in that they have an automatic renewal option at the end of their first term and the investments
+       are subordinate in repayment to other creditors.  
+       
+Net assets with donor restrictions at June 30 consist of the following:
+Page 21
+===== PAGE 23 =====
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2024 AND 2023
+NOTE 8:  LEASES
+Lessee
+Additional lease disclosure information for the years ended June 30, 2024 and 2023 is summarized below:
+2024 2023
+Finance lease expense
+Amortization of right-of-use assets (included in depreciation) 6,981$            6,981$            
+Interest on lease liabilities 453                 648                 
+Operating lease expense 76,758            62,849            
+Variable lease expense -                 -                 
+Operating cash flows from finance leases 469                 602                 
+Right-of-use assets obtained in exchange for new
+operating lease liabilities 149,798          238,868          
+Financing cash flows from finance leases 6,887              6,754              
+Operating cash flows from operating leases 71,523            61,039            
+Weighted-average remaining finance lease term (years) 1.75                2.75                
+Weighted-average remaining operating lease term (years) 2.35                3.30                
+Weighted-average discount rate for finance leases 2.88% 2.88%
+Weighted-average discount rate for operating leases 5.68% 2.88%
+Operating Finance
+2025 140,386$        7,355$            
+2026 110,162          5,517              
+2027 45,989            -                 
+2028 5,793              -                 
+Total undiscounted cash flows 302,330          12,872            
+Less:  Present value discount (18,910)           (304)                
+Total lease liabilities 283,420$        12,568$          
+NOTE 9:  RETIREMENT PLAN
+The Organization has entered into lease agreements for office equipment and office space. Lease terms for
+office equipment extend through May 1, 2028 while lease terms foroffice space extend through November 30,
+2027.
+Effective May 2001, the Organization instituted a 403(b) retirement plan covering all full-time employees.
+Employees are eligible to participate immediately upon hiring. Total retirement plan match expense for the
+Organization's 403(b) plan in 2024 and 2023 was $153,230 and $131,653, respectively.
+Maturities of the Organization's finance and operating leases for theyears ended June 30 are summarized in
+the table below:
+Page 22
+===== PAGE 24 =====
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2024 AND 2023
+NOTE 10: RELATED PARTY TRANSACTIONS
+The Organization is a founding member of thePennsylvania CDFI Network (Network), a 501(c)(3) organization,
+formerly known as the Pennsylvania Microenterprise Coalition (the Coalition). The Coalition operated as anall-
+volunteer organization with a mission to advance micro-lending in Pennsylvania; members are predominately
+non-profit CDFIs. The Network expanded its mission to support additional CDFIs focused on small business
+lending in the Commonwealth and in May 2020 obtained funding from the state’sDepartment of Community
+and Economic Development to administer its COVID-19 Relief Pennsylvania Statewide Small Business
+Assistance program. An officer of theOrganization is the Chairperson of theNetwork. For theyear ended June
+30, 2023, the Organization received $5,814,163 in grants from the Network, of which, $3,253,343 had been
+recognized and $2,793,761 had been deferred until conditions were met. The remaining $2,793,761 of grant
+revenue was recognized during the year ended June 30, 2024. For the year ended June 30, 2024, the
+Organization received $331,000 in grants from the Network, the entirety of which has been recognized as
+income. There is a verbal agreement in place where Community First Fund provides operational services that
+the Network then approves. Community First Fund received $30,000 in management fees in 2023. There were
+no management fees collected from the network in 2024 in relation to services provided during the year.
+      
+Because of the specific nature of the non-profit industry in which the Organization operates, the officers of
+Community First Fund are members of the board of directors of other organizations that perform similar
+missions. Some of theboard members or officers of otherorganizations are members of CommunityFirst Fund’s
+board of directors. Staff members are encouraged to serve their communities as volunteers and board members
+of otherorganizations. From time to time, Community First Fund may deal and conduct transactions with these
+organizations in the course of normal operations.  
+In some cases, an officer or staff member may be related to a business owner that deals and conducts
+transactions with the Organization. In such events, each transaction is approved by a special committee of
+officers and board members unrelated to the transactions. CFF requires that such transactions be conducted in
+accordance with existing policy and on terms that are substantially similar to terms offered to other borrowers.
+Related party transactions with officers of theOrganization during the years endedJune 30, 2024and 2023, are
+as follows:
+Effective January 2022, the Organization entered into both management fee and rental fee agreements with
+CFFFCU. Due to common management and visibility in the community, grant amounts are sometimes pledged
+through the Organization on behalf of the creditunion. The management fee agreement calls for CFF to provide
+the following services; management in general; finance and accounting; liquidity and cash balances
+management; loan underwriting; loan servicing and portfolio management. Rental income and management
+fee income amounted to $41,615 and $355,323, respectively, as of June 30, 2024. Rental income and
+management fee income amounted to $41,615 and $160,660, respectively, as of June 30, 2023. Both rental
+income and the management fee were forgiven in total for the six months from January 1, 2023 to June 30,
+2023 as contributions in kind. During the years ended June 30, 2024 and 2023, the Organization recorded
+donor-restricted contributions for capitalization of CFFFCU of $1,287,500 and $489,100, respectively. There is
+a receivable fromCFFFCU due to the Organization in the amount of $533,551 and $986,146, as of June 30,
+2024 and 2023, respectively. The Organization has provided grants to CFFFCU in the amount of $75,000 and
+$62,500 during the years ended June 30, 2024 and 2023, respectively. Effective June 30, 2021, $7,300,000
+was designated to the Credit Union to be paid over five year installments. There is $1,862,501 and $4,725,000
+due to CFFFCU in relation to a grant that was designated to the Credit Union at June 30, 2024 and 2023,
+respectively.
+Page 23
+===== PAGE 25 =====
+COMMUNITY FIRST FUND AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2024 AND 2023
+NOTE 11:  NEW MARKETS TAX CREDIT ("NMTC") PROGRAM
+NOTE 12:  LIQUIDITY
+2024 2023
+Cash and cash equivalents 32,472,674$   34,300,390$   
+Grants receivable 667,444          1,265,673       
+Contract receivables 577,357          1,001,861       
+Loans receivable, net 20,536,498     28,063,381     
+Interest and loan fees receivable 1,342,540       951,626          
+Investments 4,390,601       17,202,571     
+Financial assets at year-end 59,987,114$   82,785,502$   
+2024 2023
+Financial assets at year-end 59,987,114$   82,785,502$   
+Less assets not available due to
+Contractual limitations (2,500,000)      (200,000)         
+Undisbursed loans receivable (15,023,851)    (8,535,811)      
+Purpose restrictions (3,653,646)      (3,667,187)      
+Financial assets available to meet cash needs for general
+expenditure within one year 38,809,617$   70,382,504$   
+The following reflects the Organization's financial assets at June 30 reduced by amounts not available for general
+use because of contractual or donor-imposed restrictions:
+The Organization's financial assets available at June 30 are as follows:
+By making QLICIs, the Sub CDE LLCs enable investor members to claim approximately $35,100,000 of NMTC
+over a seven-year credit period.  
+The active Sub CDE LLCs have made qualified low-income community investments (QLICIs) within the
+parameters of the NMTC program and IRC Section 45D. Community First Fund entered into agreements with
+investor members who provided $90,000,000 in investments to fund the fourteen (14) NMTC Projects. The CFF
+Sub CDE 7, CFF Sub CDE 8 and CFF Sub CDE 10 investments unwound in fiscal year 2024, resulting in
+recognition of $559,533 in exit fee income.
+The Organization was awarded NMTC allocations of $15,000,000, $30,000,000,$45,000,000 and $30,000,000 in
+May 2013, June 2015, November 2016 and November 2023, respectively, and established twenty wholly-owned
+subsidiary Pennsylvania limited liabilitycompanies (LLCs). As of June 30, 2024, 7 of theLLCs (CFF Sub CDE 9;
+CFF Sub CDE 11; CFF Sub CDE 12 LLC, CFF Sub CDE 13 LLC and CFF Sub CDE 14 LLC, CFF Sub CDE 15
+LLC, CFF Sub CED 17 LLC) have been capitalized and are active. The Organization serves as managing member
+of the active LLCs with a 0.01% interest and unrelated investors as regular members with 99.99% interest.
+These LLCs have been consolidated into the investor members' financial statements under accounting guidance
+for consolidationsin ASC 810-20-25. The equity investment balances in the active LLCs are notsignificant and
+are included in cash and cash equivalents. The inactive LLCs have no activity and are consolidated as
+subsidiaries of Community First Fund.
+Page 24

@@ -1,0 +1,753 @@
+
+===== PAGE 1 =====
+ 
+Appalachian 
+Community Capital 
+Corporation 
+Consolidated Financial Report 
+December 31, 2024 
+===== PAGE 2 =====
+ 
+ 
+Appalachian Community Capital Corporation 
+Contents 
+Independent Auditor’s Report ................................................................................. 1 
+Consolidated Financial Statements 
+Consolidated Statements of Financial Position ............................................................... 4 
+Consolidated Statements of Activities ............................................................................. 5 
+Consolidated Statements of Cash Flows .......................................................................... 7 
+Notes to Consolidated Financial Statements ................................................................... 8 
+Member Organizations .......................................................................................... 19 
+ 
+===== PAGE 3 =====
+ 
+ 
+www.becpas.com 
+Independent Auditor’s Report 
+Board of Directors 
+Appalachian Community Capital Corporation 
+Christiansburg, Virginia 
+Report on the Audit of the Consolidated Financial Statements 
+Opinion 
+We have audited the consolidated financial statements of Appalachian Community Capital Corporation 
+(the “Company”), which comprise the consolidated statements of financial position as of December 31, 
+2024 and 2023, and the related consolidated statements of activities and cash flows  for the years then 
+ended, and the related notes to the consolidated financial statements.  
+In our opinion, the consolidated financial statements present fairly, in all material respects, the financial 
+position of the Company as of December 31, 2024 and 2023, and the changes in its net assets and its cash 
+flows for the years then ended in accordance with accounting principles generally accepted in the United 
+States of America. 
+Basis for Opinion 
+We conducted our audits in accordance with auditing standards generally accepted in the United States 
+of America and the standards applicable to financial audits contained in Government Auditing Standards, 
+issued by the Comptroller General of the United States. Our responsibilities under those standards are 
+further described in the Auditor’s Responsibilities for the Audit of the Consolidated Financial Statements 
+section of our report. We are required to be independent of the Company and to meet our other et hical 
+responsibilities, in accordance with the relevant ethical requirements relating to our audit. We believe 
+that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit 
+opinions. 
+Responsibilities of Management for the Consolidated Financial Statements  
+Management is responsible for the preparation and fair presentation of the consolidated financial 
+statements in accordance with accounting principles generally accepted in the United States of America, 
+and for the design, implementation, and maintenance of internal control relevant to the preparation and 
+fair presentation of financial statements that are free from material misstatement, whether due to fraud 
+or error. 
+In preparing the consolidated financial statements, management is required to evaluate whether there 
+are conditions or events, considered in the aggregate, that raise substantial doubt about the Company’s 
+ability to continue as a going concern within one y ear after the date that the consolidated financial 
+statements are available to be issued. 
+===== PAGE 4 =====
+ 
+2 
+Auditor’s Responsibilities for the Audit of the Consolidated Financial Statements  
+Our objectives are to obtain reasonable assurance about whether the consolidated financial statements 
+as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s 
+report that includes our opinion. Reasonable assu rance is a high level of assurance but is not absolute 
+assurance and therefore is not a guarantee that an audit conducted in accordance with generally accepted 
+auditing standards and Government Auditing Standards will always detect a material misstatement when 
+it exists. The risk of not detecting a material misstatement resulting from fraud is higher than for one 
+resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, 
+or the override of internal control. Mis statements are considered material if there is a substantial 
+likelihood that, individually or in the aggregate, they would influence the judgment made by a reasonable 
+user based on the consolidated financial statements. 
+In performing an audit in accordance with generally accepted auditing standards and Government 
+Auditing Standards, we: 
+• Exercise professional judgment and maintain professional skepticism throughout the audit. 
+• Identify and assess the risks of material misstatement of the consolidated financial statements, 
+whether due to fraud or error, and design and perform audit procedures responsive to those risks. 
+Such procedures include examining, on a test basis, evidence regarding the amounts and 
+disclosures in the consolidated financial statements. 
+• Obtain an understanding of internal control relevant to the audit in order to design audit 
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an 
+opinion on the effectiveness of the Company’s internal control. Accord ingly, no such opinion is 
+expressed. 
+• Evaluate the appropriateness of accounting policies used and the reasonableness of significant 
+accounting estimates made by management, as well as evaluate the overall presentation of the 
+consolidated financial statements. 
+• Conclude whether, in our judgment, there are conditions or events, considered in the aggregate, 
+that raise substantial doubt about the Company’s ability to continue as a going concern for a 
+reasonable period of time. 
+We are required to communicate with those charged with governance regarding, among other matters, 
+the planned scope and timing of the audit, significant audit findings, and certain internal control -related 
+matters that we identified during the audit. 
+Other Reporting Required by Government Auditing Standards  
+In accordance with Government Auditing Standards, we have also issued our report dated April 30, 2025, 
+on our consideration of the Company’s internal control over financial reporting and on our tests of  its 
+compliance with certain provisions of laws, regulations, contracts, and grant agreements and other 
+matters. The purpose of that report is solely to describe the scope of our testing of internal control over 
+financial reporting and compliance and the r esults of that testing, and not to provide an opinion on the 
+effectiveness of the Company’s internal control over financial reporting or on compliance. Tha t report is 
+===== PAGE 5 =====
+ 
+3 
+an integral part of an audit performed in accordance with Government Auditing Standards in considering 
+the Company’s internal control over financial reporting and compliance. 
+CERTIFIED PUBLIC ACCOUNTANTS 
+Christiansburg, Virginia 
+April 30, 2025 
+ 
+===== PAGE 6 =====
+ 
+ 
+Consolidated Financial 
+Statements 
+===== PAGE 7 =====
+2024 2023
+ASSETS
+Cash and cash equivalents 1,699,108$      686,398$          
+Cash and cash equivalents – restricted 522,179,281 2,224,323
+Cash funded loan loss reserve 300,000            300,000            
+Loans receivable, net of allowance for credit losses of $222,324 and 
+$141,324  at December 31, 2024 and 2023, respectively 32,151,415 25,032,306
+Grants receivable 645,730 801,649
+Accrued interest receivable 1,572,089 56,832
+Property and equipment, net 6,502 2,296
+Prepaid expenses and other assets 32,029 44,446
+Total assets 558,586,154$  29,148,250$    
+LIABILITIES AND NET ASSETS
+Notes payable 31,718,352$    22,603,112$    
+Accrued interest payable 67,817 58,921
+Accounts payable 568,089 68,574
+Deferred revenue 520,262,505 1,398,327
+Accrued expenses and other liabilities 776,984 36,031
+Total liabilities 553,393,747    24,164,965      
+Net assets – without donor restrictions 2,205,407 1,996,285
+Net assets – with donor restrictions 2,987,000         2,987,000         
+Total net assets 5,192,407         4,983,285         
+Total liabilities and net assets 558,586,154$  29,148,250$    
+December 31, 2024 and 2023
+Appalachian Community Capital Corporation
+Consolidated Statements of Financial Position
+The Notes to Consolidated Financial Statements are an integral part of these statements. 4
+===== PAGE 8 =====
+Without Donor With Donor
+Restrictions Restrictions Total
+SUPPORT AND REVENUE
+Grant income -$                  10,995,875$    10,995,875$    
+Interest income – loans 987,427 -                     987,427            
+Interest income – certificates of deposits 111,023 -                     111,023            
+Other operating income 71,019 -                     71,019              
+Net assets released from restrictions 10,995,875      (10,995,875)     -                     
+Total support and revenue 12,165,344      -                     12,165,344      
+EXPENSES
+Program Services
+Interest expense 707,246 -                     707,246            
+Provision for loan losses 81,000 -                     81,000              
+Salaries and employee benefits 524,464 -                     524,464            
+Data processing 55,293 -                     55,293              
+Office and administrative 11,342 -                     11,342              
+Professional fees 2,707,668 -                     2,707,668         
+Travel expense 56,960 -                     56,960              
+Dues and subscriptions 74,141 -                     74,141              
+Pass through grant expense 7,017,000 -                     7,017,000         
+Other expense 28,106 -                     28,106              
+Total program services expenses 11,263,220      -                     11,263,220      
+Management and General
+Salaries and employee benefits 92,553              -                     92,553              
+Data processing 9,758                -                     9,758                
+Office and administrative 2,001                -                     2,001                
+Professional fees 477,824 -                     477,824            
+Travel expense 10,052 -                     10,052              
+Dues and subscriptions 13,084              -                     13,084              
+Other expense 87,730              -                     87,730              
+Total management and general expenses 693,002            -                     693,002            
+Total expenses 11,956,222      -                     11,956,222      
+CHANGE IN NET ASSETS FROM NET INCOME 209,122            -                     209,122            
+NET ASSETS – BEGINNING OF YEAR 1,996,285         2,987,000         4,983,285         
+NET ASSETS – END OF YEAR 2,205,407$      2,987,000$      5,192,407$      
+Appalachian Community Capital Corporation
+Consolidated Statements of Activities
+Years Ended December 31, 2024
+The Notes to Consolidated Financial Statements are an integral part of these statements. 5
+===== PAGE 9 =====
+Without Donor With Donor
+Restrictions Restrictions Total
+SUPPORT AND REVENUE
+Grant income 1,260,818$      2,366,741$      3,627,559$      
+Interest income – loans 629,728 -                     629,728            
+Interest income – certificates of deposits 60,407 -                     60,407              
+Other operating income 33,458 -                     33,458              
+Net assets released from restrictions 2,366,741         (2,366,741)       -                     
+Total support and revenue 4,351,152         -                     4,351,152         
+EXPENSES
+Program Services
+Interest expense 540,579 -                     540,579            
+Provision for loan losses 20,000 -                     20,000              
+Salaries and employee benefits 362,182 -                     362,182            
+Data processing 53,497 -                     53,497              
+Office and administrative 38,352 -                     38,352              
+Professional fees 1,970,478 -                     1,970,478         
+Travel expense 29,203 -                     29,203              
+Dues and subscriptions 35,473 -                     35,473              
+Pass through grant expense 55,000 -                     55,000              
+Other expense 11,688 -                     11,688              
+Total program services expenses 3,116,452         -                     3,116,452         
+Management and General
+Salaries and employee benefits 63,914              -                     63,914              
+Data processing 9,441                -                     9,441                
+Office and administrative 6,768                -                     6,768                
+Professional fees 980,497            -                     980,497            
+Travel expense 5,154                -                     5,154                
+Dues and subscriptions 6,260                -                     6,260                
+Other expense 85,406              -                     85,406              
+Total management and general expenses 1,157,440         -                     1,157,440         
+Total expenses 4,273,892         -                     4,273,892         
+CHANGE IN NET ASSETS 77,260              -                     77,260              
+CHANGE IN NET ASSETS FROM THE ADOPTION OF ASC 326 107,000            -                     107,000            
+NET ASSETS – BEGINNING OF YEAR 1,812,025         2,987,000         4,799,025         
+NET ASSETS – END OF YEAR 1,996,285$      2,987,000$      4,983,285$      
+Appalachian Community Capital Corporation
+Consolidated Statements of Activities
+Years Ended December 31, 2023
+The Notes to Consolidated Financial Statements are an integral part of these statements. 6
+===== PAGE 10 =====
+2024 2023
+OPERATING ACTIVITIES
+Change in net assets 209,122$          77,260$            
+Adjustments to reconcile change in net assets to net cash
+provided by (used in) operating activities:
+Depreciation expense 1,195                1,042                
+Provision for loan losses 81,000              20,000              
+Change in current assets and liabilities:
+(Increase) decrease in:
+Grants receivable 155,919            (464,797)           
+Accrued interest receivable (1,515,257)       (17,330)             
+Prepaid expenses and other assets 12,417              (19,232)             
+Increase (decrease) in:
+Accrued interest payable 8,896                (21,662)             
+Accounts payable 499,515            (58,897)             
+Deferred revenue 518,864,178    (789,774)           
+Accrued expenses and other liabilities 740,953            9,312                
+Net cash provided by (used in) operating activities 519,057,938    (1,264,078)       
+INVESTING ACTIVITIES
+Net increase in loans (7,200,109)       (4,424,924)       
+Purchase of premises and equipment (5,401)               (1,871)               
+Net cash used in investing activities (7,205,510)       (4,426,795)       
+FINANCING ACTIVITIES
+Increase in notes payable, net 9,115,240         673,075            
+Net cash provided by financing activities 9,115,240         673,075            
+Net change in cash and cash equivalents 520,967,668    (5,017,798)       
+CASH AND CASH EQUIVALENTS
+Beginning 2,910,721         7,928,519         
+Ending 523,878,389$  2,910,721$      
+Cash and cash equivalents 1,699,108$      686,398$          
+Cash and cash equivalents – restricted 522,179,281    2,224,323         
+Cash and cash equivalents – end of year 523,878,389$  2,910,721$      
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION
+Interest paid 698,350$          562,241$          
+Appalachian Community Capital Corporation
+Consolidated Statements of Cash Flows
+Years Ended December 31, 2024 and 2023
+The Notes to Consolidated Financial Statements are an integral part of these statements. 7
+===== PAGE 11 =====
+Appalachian Community Capital Corporation 
+Notes to Consolidated Financial Statements 
+December 31, 2024 
+8 
+Note 1 – Nature of Activities and Summary of Significant Accounting Policies 
+Nature of Activities 
+Appalachian Community Capital Corporation  (“ACC” or the “Company”) is a non -profit, wholesale capital intermediary 
+created to increase business lending in Appalachia by providing community loan funds with a new source of capital. 
+Formed in 2013, ACC’s mission is to increase business lending by providing member institutions, which serve underserved 
+people and communities, with new sources of capital. The Company provides financing, as well as educational programs 
+and technical assistance to its members and to small businesses throughout the thirteen-state Appalachian Region. ACC’s 
+work enables reliable and sufficient capital for all of its members, leading to a growing economy, increased 
+entrepreneurship, higher quality jobs, and increased local wealth in the Appalachian region. Appalachian Communit y 
+Capital Development Foundation and Green Bank for Rural America are non-profit companies that are under common 
+control by ACC and are therefore consolidated for financial reporting purposes.  
+In 2024, the Company received a grant award for $500,000,000 from the Environmental Protection Agency (EPA), as part 
+of the Inflation Reduction Act. The Company formed Green Bank for Rural America to accelerate economic restructuring 
+and diversification in communities impacted by declines in the fossil fuel industry. As a result of this grant award, these 
+funds of approximately $500.7 million are included in the restricted cash and cash equivalents line on the statement of 
+condition with a corresponding amount as deferred revenue. 
+Critical Accounting Policies 
+The accounting and reporting policies of the Company follow generally accepted accounting principles and general 
+practices within the non-profit and financial services industries. The following is a summary of the more significant policies: 
+Management believes the policies with respect to the methodology for the determination of the allowance for credit 
+losses and asset impairment judgments involve a high degree of complexity. Management must make difficult and 
+subjective judgments which require assumptions or estimates about highly uncertain matters. Changes in these 
+judgments, assumptions, or estimates could cause reported totals to differ materially from actual results. These critical 
+policies and their application are periodically reviewed with the Board of Directors. 
+Use of Estimates 
+The preparation of financial statements in conformity with generally accepted accounting principles requires management 
+to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent 
+assets and liabilities at the date of the  consolidated financial statements and the reported amounts of revenues and 
+expenses during the period. Actual results could differ from those estimates. 
+The determination of whether or not grant conditions have been met has a significant impact on revenue and is, in some 
+cases, an estimate. 
+Basis of Accounting 
+The consolidated financial statements are prepared on the accrual basis of accounting. Under this basis of accounting, 
+revenues are recognized when earned and expenses are recognized when incurred. 
+===== PAGE 12 =====
+Appalachian Community Capital Corporation 
+Notes to Consolidated Financial Statements 
+December 31, 2024 
+9 
+Financial Statement Presentation 
+Net assets, revenues, and expenses are classified based on the existence or absence of donor -imposed restrictions. 
+Accordingly, net assets of the Company and changes therein are classified and reported as follows: 
+Without donor restrictions – All resources over which the governing board has discretionary control. The Board 
+of Directors of the Company may elect to designate such resources for specific purposes. This designation may be 
+removed at the Board of Directors’ discretion. 
+With donor restrictions  – Resources accumulated through donations or grants for specific operating or capital 
+purposes. Such resources will be without restrictions when the requirements of the donor or grantee have been 
+satisfied through expenditures for the specified purpose or program or through the passage of time. Also includes 
+resources accumulated through donations or grants subject to donor -imposed stipulations that are to be 
+maintained permanently by the Company. Generally, the donors of these assets permit the Company to use all or 
+part of the income earned on related investments for general or specific purposes. 
+Cash and Cash Equivalents 
+For purposes of the statements of cash flows, cash and cash equivalents are considered to include those amounts included 
+in “cash and cash equivalents” and “cash and cash equivalents –  restricted” on the consolidated statements of financial 
+position. Cash and cash equivalents are considered to be highly liquid investments with maturities of 90 days or less. 
+Restricted Cash and Cash Equivalents 
+Restricted cash represents cash on hand used to fulfill the Company’s obligations in grant and loan agreements. The largest 
+restrictions on cash relate to lending, technical assistance, and loan loss reserves.  Cash and cash equivalents restricted 
+includes $500,651,670 in cash included in U.S. Treasury Securities Money Market Fund at December 31, 2024. 
+Loans Receivable 
+Loans receivable that management has the intent and ability to hold for the foreseeable future, until maturity or pay -off 
+are reported at their outstanding principal amount adjusted for any charge-offs. Loan origination fees, net of certain direct 
+origination costs, are deferred and recognized, as an adjustment of the related loan yield using the effective interest 
+method. 
+Interest is accrued and credited to income based on the principal amount outstanding. The accrual of interest on non -
+performing loans is discontinued when, in management’s opinion, the borrower may be unable to meet payments as they 
+become due. When intere st accrual is discontinued, all unpaid accrued interest for the current year is reversed and any 
+subsequent payments received are applied only to the loan’s outstanding principal balance. When facts and circumstances 
+indicate the borrower has regained the ability to meet the required payments, the loan is returned to accrual status. Past 
+due status of loans is determined based on contractual terms. 
+Allowance for Credit Losses – Loans 
+The allowance for credit losses is a valuation account that is deducted from the loans amortized cost basis to present the 
+net amount expected to be collected on the loans. Loans are charged off against the allowance when management 
+believes the un-collectability of a loan balance is confirmed. Expected recoveries do not exceed the aggregate of amounts 
+previously charged off and expected to be charged off.  
+===== PAGE 13 =====
+Appalachian Community Capital Corporation 
+Notes to Consolidated Financial Statements 
+December 31, 2024 
+10 
+Management estimates the allowance balance using relevant available information, from internal and external sources, 
+relating to past events, current conditions, and reasonable and supportable forecasts.  
+The allowance for credit losses is measured on a collective (pool) basis when similar risk characteristics exist. The Company 
+utilizes the Weighted Average Remaining Maturity (WARM) approach to calculate the expected loss for each pool. The 
+WARM is based o n every individual loan in the pool. Each loan’s remaining life is determined based on contracted loan 
+payments, expected prepayments, and maturity dates. Lifetime losses for each pool are calculated by multiplying the loan 
+pool balance by the lifetime bal ance multiplier, the annual loss rate,  and the calculated uncollected percentage. 
+Qualitative adjustments are a combination of forward looking projections for each pool based on objective economic data 
+and custom qualitative factors as determined by the Company, such as economic trends, and conditions and underwriting 
+standards. The total loss rate is the lifetime loss. 
+Loans that do not share risk characteristics are evaluated on an individual basis. Loans evaluated individually are not 
+included in the collective evaluation.  
+Expected credit losses are estimated over the contractual term of the loans, adjusted for expected prepayments when 
+appropriate. The contractual term excludes expected extensions, renewals, and modifications unless either of the 
+following applies: manageme nt has a reasonable expectation at the reporting date that a loan modification will be 
+executed with an individual borrower or the extension or renewal options are included in the original or modified at the 
+reporting date are not unconditionally cancellable by the Company. 
+In 2017, the Company had allocated $150,000 of a grant funding received from the Community Development Financial 
+Institutions (“CDFI”) Fund to create a cash funded loan loss reserve in order to offset losses in the Small/Emerging CDFI 
+loan portfolio. This grant expired in 2022. The portion of the allowance for credit losses attributable to the Small/Emerging 
+CDFI’s will be a reduction against the overall allowance of loan losses as the funds can be used to offset small business 
+loan losses and provisions per the grant document. In 2021, the Company allocated an additional $300,000 of grant 
+funding received from the CDFI Fund to the cash funded loan loss reserve. 
+Grants Receivable, Revenue Recognition, and Deferred Revenue 
+Grants receivable and related deferred revenue are recorded at the time of award from a grantor. Grants are classified in 
+one of two categories, with donor restrictions and without donor restrictions. Classification is determined based on the 
+designation b y the grantor for the use of funds. Grant revenue is recognized when earned by the Company through 
+performance as specified in each grant award. 
+Property and Equipment 
+Property and equipment consists of computer equipment and is carried at cost, less accumulated depreciation computed 
+by the straight-line method over three years. When items of property and equipment are sold or retired, the related costs 
+and accumulated depreciation are removed from the accounts and any gain or loss is included in income. Maintenance 
+and repairs are charged to expenses as incurred; major renewals and betterments are capitalized. 
+Functional Allocation of Expenses 
+The consolidated financial statements report certain categories of expenses that are attributable to one or more program 
+or supporting functions of the Company. Those expenses include salaries and employee benefits, data processing, office 
+and administrative, professional fees, travel, dues and subscriptions, Board of Directors, and other expenses. These costs 
+are allocated either based on the actual nature of the expense or estimates of time and effort. 
+===== PAGE 14 =====
+Appalachian Community Capital Corporation 
+Notes to Consolidated Financial Statements 
+December 31, 2024 
+11 
+Income Taxes 
+The Company is a non -profit organization that is exempt from income taxes under Section 501(c)(4) of the Internal 
+Revenue Code. Management is not aware of any uncertain tax positions and has not accrued any expense for the effect of 
+an uncertain tax position as of December 31, 2024 and 2023. Tax years beginning in 2020 are open to examination by 
+taxing authorities. 
+Revenue from Contracts with Customers 
+All of the Company’s revenue from contracts with customers in the scope of ASC 606 is recognized within total revenue 
+and support. The following table presents the Company’s income by revenue stream for the years ended December 31, 
+excluding interest and fees on loans and other interest income. 
+  2024  2023 
+Grant income  $  10,995,875  $  3,627,559 
+A description of the Company’s revenue streams accounted for under ASC 606 follows: 
+Grant income – The Company receives grants from several types of entities for a range of purposes. In some 
+instances, grant income is recognized as deliverables and performance criteria are met as the contract is 
+considered an exchange transaction. 
+Recent Accounting Pronouncements 
+Accounting standards have been issued by the FASB that are not currently applicable to the Company or are not expected 
+to have a material impact on the Company’s consolidated financial statements. 
+Reclassifications 
+Certain items in the prior year have been reclassified to conform to the current year presentation. These reclassifications 
+had no impact on net assets, changes in net assets, or cash flows.  
+Note 2 – Cash and Cash Equivalents 
+Cash and cash equivalents at December 31, 2024 and 2023 totaled $1,699,108 and $686,398, respectively. Restricted cash 
+and cash equivalents at December 31, 2024 and 2023 totaled $522,179,281 and $2,224,323, respectively. The Company 
+regularly maintains cash balances in excess of FDIC insured limits. The Company has no t experienced any losses in such 
+accounts. 
+===== PAGE 15 =====
+Appalachian Community Capital Corporation 
+Notes to Consolidated Financial Statements 
+December 31, 2024 
+12 
+Note 3 – Loans Receivable 
+The major components of loans receivable as of December 31, are as follows: 
+  2024  2023 
+Loans to CDFI’s  $  31,690,293  $  24,468,347 
+Small business loans*    683,446    705,283 
+Allowance for loan losses    (222,324)    (141,324) 
+  $  32,151,415  $  25,032,306 
+* Small business loans represent small business participation loans purchased from member organizations. 
+There were no loans pledged at December 31, 2024 or 2023. 
+The Company is party to financial instruments with off -balance-sheet risk in the normal course of business to meet the 
+financing needs of its members. This financial instrument includes commitments to extend credit. This instrument 
+involves, to varying deg rees, elements of credit and interest rate risk in excess of the amount recognized on the 
+consolidated statements of financial position. The contractual or notional amounts of this instrument reflect the extent 
+of involvement the Company has in particular classes of financial instruments. 
+The Company’s exposure to credit loss in the event of nonperformance by the other party to the financial instrument for 
+commitments to extend credit is represented by the contractual or notional amount of this instrument. The Company uses 
+the same credit policies in making commitments and conditional obligations as it does for on balance sheet instruments. 
+Since some of the commitments are expected to expire without being drawn upon, the total commitment amounts do 
+not necessarily represent future cash requirements. The Company evaluates each customer’s creditworthiness on a case-
+by-case basis. The amount of collateral obtained if deemed necessary by the Company upon extension of credit is based 
+on management’s credit evaluation of the counterparty. 
+Note 4 – Allowance for Credit Losses 
+The allocation of the allowance for credit losses by loan components at December 31, was as follows: 
+  2024 
+  Loans to CDFI’s  
+Small Business 
+Loans  Total 
+Allowance for credit losses       
+ December 31, 2023  $  141,324  $  -  $  141,324 
+  Provision for loan losses    44,000    37,000    81,000 
+ December 31, 2024  $  185,324  $  37,000  $  222,324 
+ 
+===== PAGE 16 =====
+Appalachian Community Capital Corporation 
+Notes to Consolidated Financial Statements 
+December 31, 2024 
+13 
+  2023 
+  Loans to CDFI’s  
+Small Business 
+Loans  Total 
+Allowance for credit losses       
+ December 31, 2022  $  228,324  $  -  $  228,324 
+  Impact of adoption of ASC 326    (107,000)    -    (107,000) 
+  Provision for loan losses    20,000    -    20,000 
+ December 31, 2023  $  141,324  $  -  $  141,324 
+The Company utilizes a cash funded loan loss reserve in the amount of $ 300,000 and $300,000 as of December 31, 2024  
+and 2023, respectively, to offset reserves related to small business loans.  
+As of December 31, 2024 or 2023, there were no nonaccrual, past due loans, collateral dependent loans, or troubled loan 
+modifications. 
+Credit Quality Indicators 
+The Company categorizes loans into risk categories based on relevant information about the ability of borrowers to service 
+their debt such as current financial information, historical payment experience, credit documentation, public information, 
+and current economic trends, among other factors. The Company analyzes loans individually by classifying the loans as to 
+credit risk. 
+Loans graded Good or Satisfactory are excluded from the scope of the annual review and considered “Pass Credits” until: 
+(a) they become past due; (b) management becomes aware of a deterioration in the credit worthiness of the borrower; 
+or (c) the customer contacts the Company for a modification. In these circumstances, the loan is specifically evaluated for 
+potential classification as Watch, Substandard, Doubtful, or Loss. The Company uses the following definitions for risk 
+ratings: 
+Good – Loans in this category are of good quality. The borrower has a history of successful performance, but may 
+be susceptible to economic changes. Asset quality and liquidity are considered good. Overall leverage is normal 
+for the industry in which the borrower operates and is stable. Cash flow levels may fluctuate but are sufficient to 
+meet obligations. Margins and ratios are generally in line with or exceed industry norms. Earnings may have been 
+inconsistent in the past, but have now stabilized and are equivalent to or better than the industry average. Other 
+sources of financing, particularly from a number of other financial institutions, should be obtainable. 
+Satisfactory – Loans in this category are of satisfactory quality and risk is well within the Company’s range of 
+acceptability. They may differ from loans rated “Good” because the borrower may be entering an expansion 
+mode, acquiring another company, introducing new products, or investing large amounts of capital in upgrading 
+equipment or the facility. The borrower’s business may be cyclical, or its customer base may have concentrations. 
+Asset quality is acceptable. Liquidity levels fluctuate and usage of s hort-term credit may be needed on a regular 
+basis to finance growth or fluctuations in revenues and current assets. Leverage may be slightly to moderately 
+higher than the industry, but is stable. Cash flow may fluctuate, but is evident in sales and earnings. The long-term 
+outlook should be favorable. Management and owners have unquestioned character, although depth of 
+management may be an issue. 
+Watch – Loans in this grade are considered to have a higher than normal credit risk and servicing needs. Asset 
+quality is marginally acceptable. Leverage may fluctuate and is above normal for the industry. Cash flow is 
+marginally adequate, but is not clearly su fficient to ensure continued performance of contractual obligations 
+===== PAGE 17 =====
+Appalachian Community Capital Corporation 
+Notes to Consolidated Financial Statements 
+December 31, 2024 
+14 
+without improving trends. A loss year or earnings decline may occur, but the borrower has sufficient strength and 
+financial flexibility to offset these events. A reasonable expectation exists that operating performance will improve 
+in the near future. Some management weaknesses may exist. These borrowers are currently performing as 
+agreed, but may be adversely affected by deteriorating industry conditions, competition, operating deficiencies, 
+pending litigation of a significant nature, or declining asset qu ality, and therefore should be monitored closely. 
+Access to alternative financing sources may not be possible or limited to asset-based lenders and other institutions 
+specializing in high risk financing. Management has determined these loans require enhanced monitoring. 
+Substandard – Substandard assets are inadequately protected by the net worth and paying capacity of the 
+borrower or the collateral pledged. Sound worth and paying capacity of a guarantor should be considered only if 
+judged to be strong and dependable. Customers in this category have well defined weaknesses and the possibility 
+exists that the Company will sustain some loss if the deficiencies are not corrected. Characteristics of a 
+substandard loan include one or more of the following characteristics: a significant deterioration in earnings, cash 
+flow or balance sheet composition, a deficient equity position, insufficient cash flow to meet maturity obligations, 
+recent evidence of slow payments, a lack of adequate collateral, or a dependence on illiquid collat eral for 
+repayment. 
+Doubtful – Doubtful ratings are applied to loans that exhibit weaknesses that make collection or liquidation in full 
+improbable. This rating is used when the expected loss cannot be calculated, but estimates indicate that the loss 
+will be significant in relation to the outstanding loan balance. The possibility of loss is extremely high, but because 
+of certain important and reasonably specific pending factors which may work to the advantage and strengthening 
+of the loan, its classification as a loss is defer red until its more exact status may be determined. Pending factors 
+include proposed merger, acquisition, or liquidation procedures, capital injection, perfecting liens on additional 
+collateral, and refinancing plans. 
+Loss – This rating is applied when the borrower’s outstanding debt is considered uncollectible or of such little 
+value that continuance as a Company asset is not warranted. This rating does not suggest that there is absolutely 
+no recovery or salvage value, but that it is not practical or desirable to defer charging off the loan.  
+  2024 
+  Loans to CDFI’s  
+Small Business 
+Loans  Total 
+Loans by risk rating             
+ Pass  $  31,690,293  $  683,446  $  32,373,739 
+ Watch    -    -    - 
+  $  31,690,293  $  683,446  $  32,373,739 
+ 
+  2023 
+  Loans to CDFI’s  
+Small Business 
+Loans  Total 
+Loans by risk rating             
+ Pass  $  24,468,347  $  705,282  $  25,173,629 
+ Watch    -    -    - 
+  $  24,468,347  $  705,282  $  25,173,629 
+===== PAGE 18 =====
+Appalachian Community Capital Corporation 
+Notes to Consolidated Financial Statements 
+December 31, 2024 
+15 
+Note 5 – Grants Receivable 
+ACC was due to receive grant awards from outside funding agencies as of December 31, as follows: 
+  2024  2023 
+Appalachian Regional Commission – COVID-19 Response*  $  61,418  $  61,418 
+USDA RCDI TA Grant    -    68,712 
+Appalachian Regional Commission – 2022 Operating Grant    -    215,559 
+Robert Wood Johnson Foundation    133,334    266,667 
+CDFI FA Grant    260,000    260,000 
+Appalachian Regional Commission – 2023 Operating Grant    1,282,971    1,499,850 
+South State Grant    -    25,000 
+Appalachian Regional Commission – GGRF Startup    59,616    - 
+Mastercard Grant    250,000    - 
+Charles M and Mary D Foundation Grant    40,000    - 
+CDFI FA Grant 2024    800,000    - 
+    2,887,339    2,397,206 
+Unearned grants receivable    (2,241,609)    (1,595,557) 
+     Total grants receivable, net  $  645,730  $  801,649 
+* ARC-COVID-19 Response Grant funds were passed through to subrecipients. 
+Note 6 – Property and Equipment 
+Detail related to property and equipment as of December 31, is as follows: 
+  2024  2023 
+Computer equipment  $  10,320  $  4,919 
+Less accumulated depreciation    (3,818)    (2,623) 
+  $  6,502  $  2,296 
+Depreciation for the years ended December 31, 2024 and 2023 was $1,195 and $1,042, respectively. 
+Note 7 – Concentration Risks 
+ACC has a potential risk associated with the concentration of support received from governmental agencies. Any change 
+in future funding could have an adverse impact on ACC. The Company also has little diversification in its loan portfolio 
+with the significant portion of loans outstanding to CDFIs as discussed in Note 3. 
+In 2024, ACC partnered with a private foundation to launch the Western North Carolina Small Business Initiative to offer 
+grants to eligible businesses impacted by Hurricane Helene. In 2024, the program had raised $21,753,000 in funds, 
+deploying approximately $7,000,000, resulting in grant income recognized of the same amount. 
+===== PAGE 19 =====
+Appalachian Community Capital Corporation 
+Notes to Consolidated Financial Statements 
+December 31, 2024 
+16 
+Note 8 – Borrowings 
+Borrowings at December 31, consist of the following: 
+Description  Rate  Maturity  2024  2023 
+Opportunity Finance Network1  3.00%  05/01/2027  $  400,000  $  400,000 
+BBVA Compass Bank1  2.50%  08/06/2025    400,000    400,000 
+PNC Bank1  1.00%  12/03/2029    1,000,000    500,000 
+Northern Trust2  2.00%  12/09/2029    1,000,000    1,000,000 
+Northern Trust2  2.00%  12/09/2029    1,000,000    1,000,000 
+RCIF1  2.00%  03/06/2029    200,000    200,000 
+Cnote1  1.50%  10/24/2026    750,000    750,000 
+Olamina Fund3  3.50%  09/30/2026    2,000,000    2,000,000 
+Opportunity Finance Network Google Endeavor4  3.00%  05/31/2030    5,000,000    5,000,000 
+Ford Foundation5  2.00%  12/06/2032    10,000,000    5,000,000 
+Truist Bank1  2.00%  12/09/2026    2,975,638    2,725,638 
+U.S. Bancorp Community Development Corporation6  2.35%  4/30/2025    1,500,000    1,500,000 
+U.S. Bancorp Community Development Corporation6  3.40%  7/10/2027    500,000    - 
+SK2 Fund7  2.00%  12/01/2032    600,000    600,000 
+Arthur B. Shultz Foundation7  2.00%  12/01/2032    100,000    100,000 
+Kalliopeia8  2.00%  11/01/2027    1,000,000    1,000,000 
+AMCREF Community Fund3  3.00%  11/22/2028    500,000    500,000 
+Isenberg Family Charitable Foundation, Inc.4  2.50%  06/21/2029    500,000    - 
+Dogwood9  0.00%  5/31/2025    1,053,000    - 
+M&T Bank4  3.00%  9/30/2025    500,000    - 
+Veteran Loan Fund4  4.00%  12/31/2031    1,000,000    - 
+Goldman Sachs4  3.50%  6/5/2031    -    - 
+        31,978,638    22,675,638 
+Less debt issuance costs        260,286    72,526 
+      $  31,718,352  $  22,603,112 
+1. Each loan is unsecured with interest payments due on a quarterly basis, with the remaining principal 
+due at maturity. 
+2. The loan is unsecured with interest payments due on a semi-annual basis, with the remaining principal 
+due at maturity. 
+3. The loan is unsecured with interest payable monthly in arrears, with the remaining principal due at 
+maturity. 
+4. The loan is unsecured with interest payable quarterly in arrears, with the remaining principal due at 
+maturity. 
+5. The loan is unsecured with interest payable annually. Principal payments of $750,000 are due on the 
+seventh, eighth, ninth, and tenth anniversaries the loan closing date. 
+6. The loan is unsecured with interest payable quarterly in arrears, with the remaining principal due 
+three years from the initial disbursement date. However, at the end of each of the three years during 
+the initial term, the loan’s maturity date will automatically be extended for three years. 
+7. The loan is unsecured with interest payable annually in arrears, with the remaining principal due at 
+maturity.  
+===== PAGE 20 =====
+Appalachian Community Capital Corporation 
+Notes to Consolidated Financial Statements 
+December 31, 2024 
+17 
+8. The loan is unsecured with interest payable quarterly in arrears. Principal payments of $500,000 are 
+due on November 1, 2026 and 2027. 
+9. Loan is unsecured and interest free. 
+Performance against debt covenants is measured on a quarterly basis. As a result of the large grant from the EPA in 2024, 
+as of December 31, 2024, ACC is out of compliance with the net asset to total asset debt covenants. ACC is in the process 
+of obtaining approval for excluding these grant funds from this debt covenant calculation. This would subject these 
+borrowings to being called, because it is not known whether any ACC investor will disapprove the modification and  
+subsequently request ACC to return the funds, the maturity dates in the table above have not been adjusted. As of 
+December 31, 2023, ACC was in compliance with all debt covenants related to long-term borrowings. 
+As of December 31, 2024, the Company had unfunded term loans available totaling $1,574,362. 
+Note 9 – Fair Value of Financial Instruments 
+Fair Value Hierarchy 
+There are three levels of inputs in the fair value hierarchy that may be used to measure fair value. Financial instruments 
+are considered Level 1  when valuation can be based on quoted prices in active markets for identical assets or liabilities. 
+Level 2 financial instruments are valued using quoted prices for similar assets or liabilities; quoted prices in markets that 
+are not active; or models using inputs that are observable or can be corroborated by observable market data of 
+substantially the full ter m of the assets or liabilities. Financial instruments are considered Level 3  when their values are 
+determined using pricing models, discounted cash flow methodologies or similar techniques and at least one significant 
+model assumption or input is unobservable and when determination of the fair value requires significant management  
+judgment or estimation. 
+Recurring Fair Value 
+The Company had no financial assets recorded at fair value on a recurring basis as of December 31, 2024 or 2023. 
+Non-Recurring Fair Value 
+The Company had no financial assets recorded at fair value on a non-recurring basis as of December 31, 2024 or 2023. 
+Note 10 – Significant Contracts 
+During 2014, the Company entered into an agreement to provide data processing services. Under the terms of the 
+contract, ACC pays a monthly fee for backroom and loans servicing. For the years ended December 31, 2024 and 
+December 31, 2023, ACC paid $144,823 and $114,523 for these services, respectively. Locus has a member of 
+management that serves on the Board of Directors of the Company. 
+Note 11 – Related Parties 
+The Company currently has thirty-six loans outstanding that have been made to CDFI’s, each of which is a member organization 
+of ACC. Certain CDFI’s have a member of management who also serves on the Board of Directors of the Company. Each of 
+===== PAGE 21 =====
+Appalachian Community Capital Corporation 
+Notes to Consolidated Financial Statements 
+December 31, 2024 
+18 
+these loans are on substantially the same terms as those prevailing for comparable transactions with persons not related to 
+the Company and do not involve more than normal risk of collection or present other unfavorable terms. 
+Note 12 – Net Assets with Donor Restrictions 
+Net assets with donor restrictions are restricted for the following purposes or periods. 
+  2024  2023 
+Subject to expenditure for specified purpose         
+ Community development lending  $  2,987,000  $  2,987,000 
+  $  2,987,000  $  2,987,000 
+Note 13 – Liquidity and Availability of Financial Assets 
+The Company’s financial assets available within one year of the balance sheet date for general expenditure are as follows: 
+  2024  2023 
+Cash and cash equivalents  $  24,396,613  $  2,910,721 
+Loans and interest receivable, current portion    1,431,880    334,318 
+Grants receivable    645,770    801,649 
+  $  26,474,263  $  4,046,688 
+As part of ACC’s liquidity management, it has a policy to structure its financial assets to be available as its general 
+expenditures, liabilities, and other obligations become due. ACC invests excess cash in short -term investments, including 
+money market accounts, and has the ability to redeem certain investments as necessary to meet its obligations. 
+Note 14 – Subsequent Events 
+Subsequent events are events or transactions that occur after the balance sheet date but before consolidated financial 
+statements are issued. Recognized subsequent events are events or transactions that provide additional evidence about 
+conditions that existed at the date of the balance sheet, including the estimates inherent in the process of preparing 
+consolidated financial statements. Nonrecognized subsequent events are events that provide evidence about conditions 
+that did not exist at the date of the balance sheet but arose after that date.  
+In March 2025, ACC was notified that the Environmental Protection Agency has moved to terminate the $500 million grant 
+which was awarded in 2024 as part of the Greenhouse Gas Reduction Fund under the Inflation Reduction Act. This has 
+been temporarily blocked by the court system, however the ultimate outcome and timeline remains unclear. These funds 
+of approximately $500 million are currently not able to be accessed by ACC , and as of December 31, 2024 are located in 
+the line item cash and cash equivalents- restricted, with a corresponding amount in deferred revenue, on the consolidated 
+statements of financial position. 
+The Company evaluated subsequent events through the date its consolidated financial statements were issued, and no 
+subsequent events requiring accrual or disclosure other than the above were noted through April 30, 2025.
+===== PAGE 22 =====
+Appalachian Community Capital Corporation 
+Member Organizations 
+December 31, 2024 
+19 
+Members of Appalachian Community Capital Include: 
+Access to Capital for Entrepreneurs (Georgia) 
+Alternatives Federal Credit Union (New York) 
+Appalachian Development Corporation (South Carolina) 
+Appalachian Growth Capital (Ohio) 
+Bridgeway Capital (Pennsylvania) 
+Bronze Valley (Alabama) 
+Business Seed Capital/Total Action for Progress (Virginia) 
+Carolina Community Impact (North Carolina) 
+Carolina Small Business Development Fund (North Carolina) 
+Community Reinvestment Fund, USA (Minnesota) 
+CommunityWorks (South Carolina) 
+Finance Fund Capital Corporation (Ohio) 
+Foodshed Capital (Virginia) 
+Hampton Roads Ventures, LLC (Virginia) 
+Institute Capital (North Carolina) 
+InvestPGH (Pennsylvania) 
+Kentucky Highlands Investment Corporation (Kentucky) 
+LiftFund (Texas – Serving Selected Appalachian States) 
+Locus (Virginia) 
+Mountain Association (Kentucky) 
+Mountain BizWorks (North Carolina) 
+Neighborhood Community Development Fund (Pennsylvania) 
+North Alabama Revolving Loan Fund (Alabama) 
+Opportunity Alabama (Alabama) 
+Park Community Credit Union (Kentucky) 
+Partner Community Capital (West Virginia) 
+Pathway Lending (Tennessee) 
+People, Inc. (Virginia) 
+Piedmont Business Capital (North Carolina) 
+Renaissance Community Loan Fund (Mississippi) 
+Sabre Financial (Alabama) 
+South Carolina Community Loan Fund (South Carolina) 
+Southeast Rural Community Assistance Project, Inc. (Virginia) 
+Southeast Kentucky Economic Development Corporation (Kentucky) 
+The Center for Rural Health Development, Inc. (West Virginia) 
+The Progress Fund (Pennsylvania) 
+Three Rivers Planning & Development District (Mississippi) 
+Woodlands Community Lenders (West Virginia) 
+CEI Inc. 
+Coalfield Development Corporation 
+Grow America 
+National Trust for Historic Preservation/MSA 
+West Virginia Community Development Hub 

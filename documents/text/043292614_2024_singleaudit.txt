@@ -1,0 +1,1403 @@
+
+===== PAGE 1 =====
+ 
+ 
+New Hope Community Capital, Inc.  
+and Subsidiaries 
+ 
+Consolidated Financial Statements 
+and Supplementary Information on  
+Federal Awards Programs 
+ 
+(With Independent Auditor's Report Thereon and 
+Reports on Internal Control and Compliance Thereon) 
+ 
+December 31, 2024 and 2023 
+===== PAGE 2 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Index 
+ 
+ 
+1 
+Page 
+Independent Auditor's Report 2 
+Consolidated Financial Statements 
+Consolidated Statements of Financial Position 5 
+Consolidated Statements of Activities 6 
+Consolidated Statements of Functional Expenses 7 
+Consolidated Statements of Cash Flows 8 
+Notes to Consolidated Financial Statements 9 
+Supplementary Information 
+Schedule of Expenditures of Federal Awards 27 
+Notes to Schedule of Expenditures of Federal Awards 28 
+Independent Auditor's Report on Internal Control over Financial Reporting and on  
+Compliance and Other Matters Based on an Audit of Financial Statements  
+Performed in Accordance with Government Auditing Standards 29 
+Independent Auditor's Report on Compliance for Each Major Federal Program and  
+Report on Internal Control over Compliance Required by the Uniform Guidance  31 
+Schedule of Findings and Questioned Costs 34 
+===== PAGE 3 =====
+ 
+2 
+Independent Auditor's Report 
+To the Board of Directors 
+New Hope Community Capital, Inc. 
+Report on the Audit of the Financial Statements 
+Opinion  
+We have audited the consolidated financial statements of New Hope Community Capital, Inc. and 
+Subsidiaries, which comprise the consolidated statements of financial position as of December 31, 
+2024 and 2023, and the related consolidated statements of activities, functional expenses,  and cash 
+flows for the years then ended, and the related notes to the consolidated financial statements. 
+In our opinion, the accompanying consolidated financial statements present fairly, in all material 
+respects, the consolidated financial position of New Hope Community Capital, Inc. and Subsidiaries as 
+of December 31, 2024 and 2023, and the changes in its net assets and its cash flows for the years then 
+ended in accordance with accounting principles generally accepted in the United States of America. 
+Basis for Opinion 
+We conducted our audits in accordance with auditing standards generally accepted in the United States 
+of America ("GAAS") and our audit for the year ended December 31, 2024 in accordance with the 
+standards applicable to financial audits contained in Government Auditing Standards , issued by the 
+Comptroller General of United States. Our responsibilities under those standards are further described 
+in the Auditor's Responsibilities for the Audit of the Financial Statements section of our report. We are 
+required to be independent of New Hope Community Capital, Inc. and Subsidiaries and to meet our 
+other ethical responsibilities, in accordance with t he relevant ethical requirements relating to our audits. 
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for 
+our audit opinion. The financial statements of the subsidiaries were not audited in accordance with 
+Government Auditing Standards . The 2023 financial statements were not required to be audited in 
+accordance with Government Auditing Standards.  
+Responsibilities of Management for the Financial Statements 
+Management is responsible for the preparation and fair presentation of the consolidated financial 
+statements in accordance with accounting principles generally accepted in the United States of 
+America, and for the design, implementation, and maintenance of internal control relevant to the 
+preparation and fair presentation of consolidated financial statements that are free from material 
+misstatement, whether due to fraud or error. 
+In preparing the consolidated financial statements, management is required to evaluate whether there 
+are conditions or events, considered in the aggregate, that raise substantial doubt about New Hope 
+Community Capital, Inc. and Subsidiaries' ability to continue as a going concern for one year after the 
+date that the consolidated financial statements are available to be issued. 
+===== PAGE 4 =====
+ 
+3 
+Auditor's Responsibilities for the Audit of the Financial Statements 
+Our objectives are to obtain reasonable assurance about whether the consolidated financial statements 
+as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor's 
+report that includes our opinion. Reasonable assurance is a high level of assurance but is not absolute 
+assurance and therefore is not a guarantee that an audit conducted in accordance with GAAS and 
+Government Auditing Standards  will always detect a material misstatement when it exists. The risk of 
+not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as 
+fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of 
+internal control.  
+Misstatements are considered material if there is a substantial likelihood that, individually or in the 
+aggregate, they would influence the judgment made by a reasonable user based on the consolidated 
+financial statements. 
+In performing an audit in accordance with GAAS and Government Auditing Standards, we: 
+ Exercise professional judgment and maintain professional skepticism throughout the audit. 
+ Identify and assess the risks of material misstatement of the consolidated financial statements, 
+whether due to fraud or error, and design and perform audit procedures responsive to those 
+risks. Such procedures include examining, on a test basis, evidence regarding the amounts and 
+disclosures in the consolidated financial statements. 
+ Obtain an understanding of internal control relevant to the audit in order to design audit 
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an 
+opinion on the effectiveness of New Hope Community Capital, Inc. and Subsidiaries' internal 
+control. Accordingly, no such opinion is expressed. 
+ Evaluate the appropriateness of accounting policies used and the reasonableness of significant 
+accounting estimates made by management, as well as evaluate the overall presentation of the 
+consolidated financial statements. 
+ Conclude whether, in our judgment, there are conditions or events, considered in the aggregate, 
+that raise substantial doubt about New Hope Community Capital, Inc. and Subsidiaries' ability to 
+continue as a going concern for a reasonable period of time. 
+We are required to communicate with those charged with governance regarding, among other matters, 
+the planned scope and timing of the audit, significant audit findings, and certain internal control-related 
+matters that we identified during the audits. 
+Supplementary Information 
+Our audits were conducted for the purpose of forming an opinion on the consolidated financial 
+statements as a whole. The accompanying schedule of expenditures of federal awards, as required by 
+Title 2 U.S. Code of Federal Regulations  Part 200, Uniform Administrative Requirements, Cost 
+Principles, and Audit Requirements for Federal Awards, is presented for purposes of additional analysis 
+and is not a required part of the consolidated financial statements. Such information is the responsibility 
+of management and was derived from and relates directly to the underlying accounting and other 
+records used to prepare the consolidated financial statements. The information has been subjected to 
+the auditing procedures applied in the audits of the consolidated financial statements and certain 
+additional procedures, including comparing and reconciling such information directly to the underlying 
+accounting and other records used to prepare the consolidated financial statements or to the 
+===== PAGE 5 =====
+ 
+4 
+consolidated financial statements themselves, and other additional procedures in accordance with 
+auditing standards generally accepted in the United States of America. In our opinion, the 
+supplementary information is fairly stated, in all material respects, in relation to the consolidated 
+financial statements as a whole. 
+Other Reporting Required by Government Auditing Standards 
+In accordance with Government Auditing Standards , we have also issued our report dated April 30, 
+2025, on our consideration of New Hope Community Capital Inc.'s internal control over financial 
+reporting and on our tests of its compliance with certain provisions of laws, regulations, contracts, and 
+grant agreements and other matters. The purpose of that report is solely to describe the scope of our 
+testing of internal control over financial reporting and compliance and the results of that testing, and not 
+to provide an opinion on the effectiveness of New Hope Community Capital Inc.'s internal control over 
+financial reporting or on compliance. That report is an integral part of an audit performed in accordance 
+with Government Auditing Standards  in considering New Hope Community Capital Inc.'s internal 
+control over financial reporting and compliance. 
+ 
+Bethesda, Maryland 
+April 30, 2025 
+===== PAGE 6 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Consolidated Statements of Financial Position 
+December 31, 2024 and 2023 
+ 
+ 
+See Notes to Consolidated Financial Statements. 
+ 
+5 
+2024 2023
+Current assets
+Cash and cash equivalents 1,929,886$        7,193,958 $        
+Designated cash 10,078,938 -                      
+Due from related parties 81,230 72,560
+Interest receivable, current portion 3,134,629           1,841,091          
+Prepaid expenses 897,885 409,851             
+Loans receivable, current portion 22,055,091         20,149,554         
+Total current assets 38,177,659        29,667,014         
+Other assets
+Interest receivable, net of current portion 3,428,479 3,348,418           
+Loans receivable, net of current portion and allowance for
+ for credit losses of  $1,757,006 and $980,818, respectively  33,743,741 28,922,501         
+Investments in affiliated entities 255,830 229,323             
+Total other assets 37,428,050        32,500,242         
+Total assets 75,605,709$      62,167,256 $      
+Current liabilities
+Accounts payable and accrued expenses 10,342,923 $      515,318$           
+Due to related parties 106,690 8,604                 
+Accrued interest payable 675,954 428,987             
+Notes payable - current 13,942,767        11,372,523        
+Refundable advance 412,929 5,800,000          
+Total current liabilities 25,481,263        18,125,432         
+Long-term liabilities
+Notes payable, net of current portion, net of 
+unamortized debt issuance costs 34,686,618 27,288,349        
+Subordinated notes payable 4,339,581 6,288,885          
+Total long-term liabilities 39,026,199        33,577,234         
+Total liabilities 64,507,462        51,702,666         
+Net assets
+Without donor restrictions 11,098,247        10,464,590        
+Total net assets 11,098,247        10,464,590         
+Total liabilities and net assets 75,605,709$      62,167,256 $      
+Assets
+Liabilities and Net Assets
+ 
+===== PAGE 7 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Consolidated Statements of Activities 
+Years Ended December 31, 2024 and 2023 
+ 
+ 
+See Notes to Consolidated Financial Statements. 
+ 
+6 
+2024 2023
+Revenues
+Interest income, loans 3,232,655$        2,732,193 $        
+Charge-off recovery income 23,440                -                    
+Asset management fees 40,000 -                    
+Contributions and grants 19,544,729         976,265             
+Other income 199,906 -                    
+Tax credit sales 15,221,000         3,148,444          
+Total revenues 38,261,730        6,856,902           
+Expenses
+Program activities
+Financial consulting expenses 414,982 253,200             
+Contribution expense 34,383,652         3,922,867          
+Grant expense 28,763 28,021               
+Provision for credit losses 776,188 183,683             
+Professional fees 212,271              11,848               
+Interest on notes payable 2,114,138 1,839,062          
+Insurance 8,825 8,845                 
+Total program activities 37,938,819        6,247,526           
+Management and general
+Financial consulting expenses 240,598              146,800             
+Professional fees 58,047                91,125               
+Insurance 5,116                  5,128                 
+Total management and general 303,761             243,053              
+Total expenses 38,242,580        6,490,579           
+Other revenue 
+Equity in income on investments in affiliated entities 614,507             569,763              
+Total other revenue 614,507             569,763              
+Change in net assets 633,657             936,086              
+Net assets without donor restrictions, beginning 10,464,590        9,528,504           
+Net assets without donor restrictions, end 11,098,247$      10,464,590 $      
+ 
+===== PAGE 8 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Consolidated Statements of Functional Expenses 
+Years Ended December 31, 2024 and 2023 
+ 
+ 
+See Notes to Consolidated Financial Statements. 
+ 
+7 
+Program 
+activities
+Management
+and general Total
+Program 
+activities
+Management
+and general Total
+Expenses
+Financial consulting expenses 414,982$           240,598 $           655,580 $           253,200 $           146,800 $           400,000 $           
+Contribution expense 34,383,652         -                      34,383,652        3,922,867           -                      3,922,867          
+Grant expense 28,763 -                      28,763                28,021                -                      28,021                
+Provision for credit losses 776,188 -                      776,188             183,683              -                      183,683             
+Professional fees 212,271 58,047 270,318              11,848                91,125                102,973              
+Interest on notes payable 2,114,138           -                      2,114,138          1,839,062           -                      1,839,062          
+Insurance 8,825                  5,116                  13,941                8,845                  5,128                  13,973                
+37,938,819$      303,761 $           38,242,580 $      6,247,526 $        243,053 $           6,490,579 $        
+2024 2023
+ 
+ 
+ 
+===== PAGE 9 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Consolidated Statements of Cash Flows 
+Years Ended December 31, 2024 and 2023 
+ 
+ 
+See Notes to Consolidated Financial Statements. 
+ 
+8 
+2024 2023
+Cash flows from operating activities
+Change in net assets 633,657 $           936,086 $           
+Adjustments to reconcile change in net assets 
+to net cash provided by operating activities
+Equity in income on investments in affiliated entities (614,507)           (569,763)           
+Amortization of debt issuance costs 31,796               66,869                
+Amortization of loan origination fee (1,523)               (1,426)               
+Provision for credit losses 776,188             183,683              
+Decrease (increase) in assets
+Due from related parties (8,670)               (8,670)               
+Prepaid expenses (488,034)           (399,376)           
+Interest receivable, net (1,373,599)        (1,188,473)        
+(Decrease) increase in liabilities
+Accounts payable and accrued expenses 9,827,605          207,523              
+Due to related parties 98,086               5,294                  
+Accrued interest payable 246,967             95,110                
+Refundable advance (5,387,071)        5,623,735           
+Net cash provided by operating activities 3,740,895          4,950,592           
+Cash flows from investing activities
+Distribution from investments in affiliated entities 588,000              1,048,600           
+Loan origination fee received 10,000                15,000                
+Cash disbursements on loans receivable (39,826,887)      (28,612,169)      
+Cash receipts on loans receivable 32,315,445         15,787,976         
+Net cash used in investing activities (6,913,442)        (11,760,593)      
+Cash flows from financing activities
+Debt issuance costs paid (28,991)             (34,364)             
+Notes payable proceeds 21,904,261         17,486,106         
+Principal payments on note payable (13,887,857)      (6,491,008)        
+Net cash provided by financing activities 7,987,413           10,960,734         
+Net increase in cash, cash equivalents and 
+designated cash 4,814,866           4,150,733           
+Beginning of year
+Cash, cash equivalents and designated cash 7,193,958           3,043,225           
+End of year
+Cash, cash equivalents and designated cash 12,008,824 $      7,193,958 $        
+Supplemental disclosure of cash flow information
+Cash paid for interest 1,835,375 $        1,677,083 $        
+ 
+===== PAGE 10 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Notes to Consolidated Financial Statements 
+December 31, 2024 and 2023 
+ 
+ 
+9 
+Note 1 - Organization and nature of operations 
+The consolidated financial statements include the accounts and transactions of New Hope 
+Community Capital, Inc. and Subsidiaries (the "Corporation").  
+Organization and business 
+New Hope Community Capital, Inc. is a Massachusetts, nonprofit corporation organized to promote 
+community development by improving the social  and economic condition of underserved persons 
+who lack access to capital and financial services, which qualifies as an organization formed for 
+charitable purposes under Section 501(c)(3) of the Internal Revenue Code ("IRC") and is not a 
+private foundation under Section 509(a)(2). In furtherance of its primary purpose, the Corporation 
+provides services to borrowers and investors and capital for affordable housing and community 
+development activities in low-income communities or that serve low-income persons in the form of 
+equity investments, grants, or loans. 
+On December 23, 2014, the Corporation became certified as a Community Development Financial 
+Institution ("CDFI") from the U.S. Treasury's Community Development Financial Institutions Fund 
+("CDFI Fund") for low-income targeted populations in various states. The CDFI certification status 
+will be effective, unless, as a result of a review of the Corporation by the CDFI Fund, the CDFI 
+Fund, in its sole discretion, provides notification of termination of certification. As of the date of the 
+independent auditor's report, no such notification has been received. 
+Note 2 - Significant accounting policies 
+Basis of presentation 
+The accompanying consolidated financial statement s are presented in accordance with accounting 
+principles generally accepted in the United States of America ("GAAP"), as codified by the Financial 
+Accounting Standards Board ("FASB ASC"). 
+Principles of consolidation 
+The consolidated financial statements include the a ccounts of the Corporation and its wholly-owned 
+subsidiaries. All significant inter-company transactions and accounts have been eliminated in 
+consolidation. 
+Investment in affiliated entities  
+New Hope Fund VII, LLC (the "Fund") is a Massachus etts Limited Liability Company organized to 
+acquire, hold, dispose of, and otherwise deal with Local Partnership Interests ("Local 
+Partnerships"), which own properties that generate low-income housing tax credits ("LIHTC"). 
+Generally, ASC 958-810-25 requires consolidation of  limited liability companies, or similar entities 
+by the managing member of that entity under the presumption that the managing member controls 
+the limited member entity. The presumption of c ontrol by a managing member can be overcome if 
+the limited members are able to exercise substantive kick-out or participating rights. The 
+Corporation does not consolidate limited liability co mpanies or similar entities in which it owns a 
+managing member interest and the presumption of control by the managing member interest is able 
+to be overcome. The Corporation reassesses whether or not it holds a controlling financial interest 
+in limited liability companies or similar entities on an annual basis. The Fund has been accounted 
+for under the equity method of accounting. 
+===== PAGE 11 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Notes to Consolidated Financial Statements 
+December 31, 2024 and 2023 
+ 
+ 
+10 
+The Fund's principal investment objective is to provide a new investment vehicle that will advance 
+the charitable purposes of increasing the pool of equity available for investments in affordable 
+housing and of making such equity available to disadvantaged populations or underserved 
+communities. The Local Partnerships were awarded LIHTC pursuant to IRC Section 42 ("Section 
+42"), which regulates the use of the properties as to occupant eligibility and unit gross rent, among 
+other requirements. 
+The Corporation owns an interest in various entities ranging from .01% to 99.99%. The interests are 
+accounted for under the equity method. Under the equity method, the investment is reflected at 
+cost, adjusted for the Corporation's share of the investee's income or loss. The Corporation's share 
+of the loss exceeded its original investment amount in several investments. The Corporation did not 
+record these losses since the Corporation has not guaranteed obligations of the investee, nor is 
+otherwise committed to provide further financial support. If any distributions are received from these 
+affiliates, investment in affiliated entities is adjusted accordingly.  
+Impairment in investment in Local Partnerships 
+The Corporation reviews its investment in Local  Partnerships for impairment whenever events or 
+changes in circumstances indicate that the carrying value of such investment may not be 
+recoverable. Recoverability is measured by a com parison of the carrying amount of the investment 
+to the sum of the total amount of the remaining tax credits allocated to the Corporation, the 
+realizable income tax benefit of net operating losses and any estimated residual value of the 
+investment. 
+Use of estimates 
+The preparation of consolidated financial statements in  conformity with GAAP accounting principles 
+generally accepted in the United States of America requires management to make estimates and 
+judgments that affect the reported amounts of assets and liabilities and disclosures of contingencies 
+at the date of the consolidated financial statements and revenue and expenses recognized during 
+the reporting period. Significant estimates are inherent in the preparation of these consolidated 
+financial statements in a number of areas, including determining estimate of potential losses 
+relating to loans. Actual results could differ from these estimates. 
+Revenue recognition 
+The Corporation earns revenue as follows: 
+Asset management fees 
+The Corporation is entitled to asset management fees for providing services in accordance with 
+the operating agreements of the Local Partnerships. The fees are recognized as revenue when 
+earned. 
+State tax credit sales 
+The Corporation sells state tax credits to other companies. All revenue is recognized at the time 
+of sale. During the years ended December 31, 2024 and 2023, state tax credit sales of 
+$15,221,000 and $3,148,444, respectively, were recognized on the accompanying consolidated 
+statements of activities. 
+Interest income 
+Interest income is accrued as earned in accordance with the contractual terms of the loan 
+agreements. 
+===== PAGE 12 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Notes to Consolidated Financial Statements 
+December 31, 2024 and 2023 
+ 
+ 
+11 
+Origination fees 
+The Corporation earns origination fees charged to its borrowers pursuant to the terms of select 
+loans that it makes. Loan origination fees are capitalized and amortized to interest income as a 
+component of loans receivable over the term of the related loan using the straight-line method. 
+Contribution and government grants and contracts 
+Contributions, including unconditional promises to give (pledges), are recorded as revenue on 
+the date received or pledged. Contributions are recorded as net assets with donor restrictions if 
+they are received with donor stipulations that limit their use as to purpose or time. Conditional 
+promises to give are not recognized until they become unconditional; that is, when the 
+conditions on which they depend are substantially met. A transfer of assets that is conditional 
+contribution is treated as refundable advance until the conditions have been substantially met or 
+explicitly waived by the donor.  
+Contributed goods are recognized as revenue at their estimated fair value at date of receipt and 
+expensed when used. Contributed services are recognized as revenue if the services create or 
+enhance nonfinancial assets or require a spec ialized skill, are provided by individuals 
+possessing those skills, and typically need to be purchased if not provided by donation. 
+Contributed services that do not meet the above criteria are not recognized as revenues and are 
+not reported in the accompanying consolidated financial statements. There were no donated 
+goods or contributed services for the years ended December 31, 2024 and 2023.  
+The Corporation also receives government grants. These government agreements are 
+evaluated as to whether they qualify as contributions or exchange transactions as defined by 
+GAAP. Government grants and contracts that are considered unconditional contributions are 
+recognized immediately. Government grants and contracts that are considered conditional 
+contributions are not recognized as revenue until the barriers to entitlement are overcome. 
+Government grants and contracts that are considered exchange transactions are recognized as 
+revenue when services have been provided in accordance with the terms of the agreements. 
+Contribution and grant income in the amount of $19,544,729 and $976,265 was recognized for 
+the years ended December 31, 2024 and 2023. 
+Classification of net assets  
+Net assets without donor restrictions:  Net assets that are not subject to donor-imposed 
+restrictions and may be expended for any purpose in performing the primary objectives of the 
+organization. These net assets may be used at the discretion of the Corporation. 
+Net assets with donor restrictions:  Net assets subject to stipulations imposed by donors and 
+grantors. Some donor restrictions are temporary in nature; those restrictions will be met by the 
+actions of the Corporation or by the passage of time. Other donor restrictions are perpetual in 
+nature, whereby the donor has stipulated the Corporation be maintained in perpetuity. 
+Donor restricted contributions are reported as increases in net assets with donor restrictions. 
+When a restriction expires, net assets are reclassified from net assets with donor restrictions to 
+net assets without donor restrictions on the accompanying consolidated statements of activities. 
+The Corporation elects to recognize donor restricted net asset as a change in net assets without 
+donor restrictions if the restrictions is satisfied in the same period.  
+===== PAGE 13 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Notes to Consolidated Financial Statements 
+December 31, 2024 and 2023 
+ 
+ 
+12 
+Concentration of credit risk  
+The Corporation maintains cash in one financial institution with insurance provided by the Federal 
+Deposit Insurance Corporation ("FDIC") up to $250,000 at each institution. The Corporation 
+monitors the creditworthiness of this institution and has not experienced any credit losses in its cash 
+and cash equivalents. 
+Loans and interest receivable 
+The Corporation makes loans to community based not-for-profit and for-profit mission aligned 
+affordable housing developers, community organizations and certain affiliates for the purpose of 
+supporting low-income communities. Loans are primarily for the purpose of acquiring, renovating 
+and/or constructing multi-family residential housing or community development projects. The loans 
+are primarily made up of the types described in No te 4. The loans are generally collateralized by 
+real estate. The majority of the loans are to be repaid from surplus cash. A balloon payment is 
+required for any unpaid principal balance when the property is sold, or at the stated maturity date.  
+Loans are carried at their unpaid principal balance, less an allowance for credit losses to reflect 
+potentially uncollectable balances including potential losses relating to impaired loans. The 
+allowance for credit losses is based upon management's periodic evaluation of the underwriting 
+criteria used to initially underwrite the loan as well as other credit factors, economic conditions, 
+historic loss experience other risks inherent in t he overall portfolio such as geographic or sponsor 
+concentration risks as well as trends. The allowance is increased through a provision for loan 
+losses which is charged to expense and reduced by charge-offs, net of recoveries. Loans are 
+charged off when repayment is not expected to occur. Additionally, the Corporation considers 
+whether borrowers are experiencing financial difficulty and whether delays in payment are 
+insignificant.  
+Interest received on nonaccrual loans, generally is either applied against principal or reported as 
+interest income, according to management's judgement as to the collectability of principal. 
+Write-off of accrued interest receivable are recognized by reversing interest income. During the 
+year ended December 31, 2024, $126,774 of accrued interest receivable was written off. No write-
+off was incurred during the year ended December 31, 2023. 
+The Corporation also elected not to measure an allowance for credit losses for accrued interest 
+receivables. For all classes of loans receivable, the accrual of interest is discontinued when the 
+contractual payment of principal or interest has become 90 days past due, unless the loan is well 
+secured and in the process of collection or management has doubts about further collectability of 
+principal or interest even though the instrument is performing. 
+Programmatic loans 
+The Corporation makes programmatic loans to community based not-for-profit and for-profit mission 
+aligned affordable housing developers, community organizations and certain affiliates for the 
+purpose of supporting low-income communities. Programmatic loans are for the purpose of 
+acquiring, renovating and/or constructing multi-family residential housing or community 
+development projects. The programmatic loans are primarily made up of the types described in 
+Note 4.  
+===== PAGE 14 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Notes to Consolidated Financial Statements 
+December 31, 2024 and 2023 
+ 
+ 
+13 
+At the time of origination of the progra mmatic loans, management assesses the programmatic 
+loans to determine if they qualify as a) a loan receivable, b) an inherent contribution, or c) in part a 
+contribution and in part a loan receivable. The assessment is made based on management's best 
+judgment after evaluation of facts and circumstances available at the time of first accounting for the 
+loan. As further described in Note 4, management has determined that various programmatic loans 
+qualify as entirely an inherent contribution, as the Corporation does not intend to pursue collection if 
+the loan becomes past due, and the borrower's creditworthiness was not considered by 
+management. For loans determined entirely  to be contributions, contribution expense is recognized 
+at origination for the full balance of the loan. Loan repayments will be recognized as revenue in the 
+period received by the Corporation. 
+Income taxes 
+The Corporation is recognized as a 501(c)(3) charitable organization and is exempt from income 
+taxes with respect to charitable activities, except for unrelated business income. There was no 
+unrelated business income during the years ended December 31, 2024 and 2023. Accordingly, no 
+provision or benefit for income taxes has been recorded in the accompanying consolidated financial 
+statements. Tax returns required to be completed by tax-exempt entities are filed with the Internal 
+Revenue Service ("IRS") and other taxing authorities. These income tax returns are subject to 
+examination by the IRS for a period of three years.  While no income tax returns are currently being 
+examined by the IRS, tax years since 2021 remain open for examination.  
+The two wholly-owned subsidiaries are Subchapter C corporations ("C Corps") that are subject to 
+taxation at the federal and state levels. Deferred taxes are computed based on the difference 
+between the consolidated financial statements and income tax basis of assets and liabilities using 
+enacted marginal tax rates. As of and for the years ended December 31, 2024 and 2023, the tax 
+expense, deferred taxes and valuation allowances were immaterial. 
+Accordingly, these consolidated financial statements do not reflect a provision for income taxes and 
+there are no other tax positions which must be considered for disclosure. 
+Prepaid expenses 
+The Corporation has certain prepaid administrativ e expenses. The Corporation initially records 
+these expenditures as a prepaid expense and charges it to expense as services are performed. 
+Debt issuance costs 
+Debt issuance costs, net of accumulated amortization, are reported as a direct deduction from the 
+face amount of the notes payable to which such costs relate. Amortization of debt issuance costs is 
+reported as a component of interest expense and is computed using an imputed interest rate on the 
+related loan. 
+Cash and cash equivalents 
+The Corporation considers all highly-liquid instruments purchased with a maturity of three months or 
+less to be cash equivalents.  
+Designated cash  
+The Corporation considers designated cash to in clude cash amounts internally designated by 
+management for uses to fulfill its certain program purposes. As of December 31, 2024 and 2023, 
+the total amount of designated cash was $10,078,938 and $0, respectively.  
+===== PAGE 15 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Notes to Consolidated Financial Statements 
+December 31, 2024 and 2023 
+ 
+ 
+14 
+Functional expenses  
+The costs of providing program services and other activities have been summarized on a functional 
+basis on the accompanying statements of functional expenses. Expenses are charged directly to 
+program or management and general categories based on specific identification and certain indirect 
+expenses have been allocated based on time and level of effort as determined by management. 
+Such allocations are determined by management on an equitable basis. 
+The expenses that are allocated include the following:  
+Expenses Method of allocation 
+Financial consulting expenses Time and effort
+Contribution expense Direct allocation 
+Grant expense Direct allocation 
+Provision for credit losses Direct allocation 
+Professional fees Direct allocation 
+Interest on notes pa
+yable Direct allocation 
+Insurance Time and effort
+ 
+Note 3 - Liquidity and availability 
+The following represents the Corporation's consolidated financial assets as of December 31, 2024 
+and 2023 available to meet general expenditures over the next 12 months:  
+2024 2023
+Financial assets at year end:
+Cash and cash equivalents 1,929,886 $        7,193,958 $        
+Due from related parties 81,230                72,560                
+Loans and interest receivable, net 62,361,940 54,261,564         
+Investments in affiliated entities 255,830              229,323              
+Total financial assets 64,628,886         61,757,405         
+Less amounts not available to be used within one year
+Loans and interest receivable, net (37,172,220)       (32,270,919)       
+Investments in affiliated entities (255,830)           (229,323)           
+Total amounts not available to be used within
+one year (37,428,050)       (32,500,242)       
+Financial assets available to meet general expenditures 
+over the next 12 months 27,200,836 $      29,257,163 $      
+ 
+Note 4 - Loans receivable and programmatic loans 
+Loans receivable and programmatic loans bear interest at rates varying from 0% to 9% and are for 
+periods ranging from one year to 35 years. Programmatic loans determined to be contributions are 
+expensed in the year of origination. Due to the nature of the programmatic loans, the Corporation 
+does not recognize interest revenue until it collects interest payments from the borrowers based on 
+the available surplus cash as defined.  
+===== PAGE 16 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Notes to Consolidated Financial Statements 
+December 31, 2024 and 2023 
+ 
+ 
+15 
+For the years ended December 31, 2024 and 2023, there are no past due loans or past due 
+accrued interest. During the years ended December 31, 2024 and 2023, interest revenue 
+recognized was $3,232,655 and $2,732,193, including loan origination fee income recognized of 
+$115,523 and $1,426, respectively.  
+The Corporation's loans receivable and programmatic loans consist of the following types: 
+Predevelopment 
+Predevelopment loans are primarily unsecured loans to borrowers to allow borrowers to advance 
+affordable housing and community development projects. These loans generally have terms of 
+three years with two one-year extensions allowed, and they are expected to be repaid at the 
+project's initial closing. 
+As of December 31, 2024 and 2023, predevelopment loans of $30,320,890 and $29,708,956, 
+respectively, remain outstanding and are included in loans receivable on the accompanying 
+consolidated statements of financial position. As of December 31, 2024 and 2023, accrued interest 
+of $4,261,856 and $3,125,348, respectively, remains outstanding and is included in interest 
+receivable on the accompanying consolidated statements of financial position. 
+Construction  
+Construction loans are primarily secured, interest-only loans to borrowers to allow borrowers to 
+advance affordable housing and community development projects in Chicago. These loans 
+generally have construction terms of two to eight years and they are expected to be repaid at the 
+project's stabilization. Some of these loans are Construction to Permanent loans, which convert to 
+permanent loans with distinct terms at Stabilization. 
+As of December 31, 2024 and 2023, construction loans of $14,516,741 and $7,950,096, 
+respectively, remain outstanding and are included in loans receivable on the accompanying 
+consolidated statements of financial position. As of December 31, 2024 and 2023, accrued interest 
+of $474,825 and $261,104, respectively, remains outstanding and is included in interest receivable 
+on the accompanying consolidated statements of financial position. 
+State tax credit 
+State tax credit loans are loans where a project sponsor has transferred state tax credits to the 
+Corporation to sell to an investor with the Corporation then lending the sale proceeds to the project. 
+These loans generally have terms of 40 years or longer and are payable only from cash flow or 
+refinancing proceeds. State tax credit loans are secured with a mortgage on the real estate 
+involved.  
+During the years ended December 31, 2024 and 2023, the Corporation committed to programmatic 
+state tax loans of $15,221,000 and $3,148,444, respectively, which were assessed as inherent 
+contributions and expensed. At December 31, 2024, $5,326,000 of the commitments were issued. 
+The remaining $9,895,000 is included in accounts payable and accrued expense on the 
+accompanying consolidated statement of financial position at December 31, 2024 and is included in 
+contribution expense on the accompanying consolidated statement of activities for the year ended 
+December 31, 2024. At December 31, 2023, $3,148,444 of the commitments were issued.  
+Commercial 
+Commercial tenant fit out loans are primarily secured loans to borrowers to allow borrowers to fit out 
+spaces for mission oriented commercial tenants. These loans generally have terms of 20 years or 
+less and are payable only from cash flow or refinancing proceeds. 
+===== PAGE 17 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Notes to Consolidated Financial Statements 
+December 31, 2024 and 2023 
+ 
+ 
+16 
+During the years ended December 31, 2024 and 2023, commercial tenant fit out loans of $751,265 
+remain outstanding and were fully reserved due to uncertain nature of the payment terms from 
+future operating cash flows.  
+Homeownership 
+Homeownership loans are primarily secured loans to borrowers to allow borrowers to advance 
+affordable homeownership projects.  
+During the year ended December 31, 2024, the Corporation issued homeownership loans of 
+$5,198,728, which were assessed as inherent contributions and expensed.  
+During the year ended December 31, 2024, the homeownership loans of $897,097 remain 
+outstanding and were fully reserved due to uncertain nature of the payment terms.  
+Leverage 
+Leverage loans involve the Corporation receiving grants and loans from a project sponsor or third 
+parties with the fund received being loaned to an investment fund in a New Markets Tax Credit 
+transaction. 
+During the year ended December 31, 2017, the Corporation issued programmatic loans of 
+$14,311,384, which were assessed to be inherent contributions and expensed. During the years 
+ended December 31, 2024, the Corporation issued programmatic loans of $12,847,632 and $0, 
+respectively, which were assessed to be inherent contributions and expensed. As of December 31, 
+2024 and 2023, accrued interest of $0 and $299,819, respectively, remains outstanding and is 
+included in interest receivable on the accompanying consolidated statements of financial position as 
+of December 31, 2024 and 2023.  
+As of December 31, 2024 and 2023, leverage loans of $6,535,087 and $7,107,798, net of loan 
+origination fees of $66,256 and $57,779, respectively, remain outstanding, and are included in 
+loans receivable on the consolidated statements of financial position. 
+Aggregate maturities of the leverage loans receivables for each of the next five years and thereafter 
+are as follows: 
+2025 6,362,477$        
+2026 123,305             
+2027 115,561             
+2028 -                     
+2029 -                     
+Thereafter -                    
+Total 6,601,343          
+Less origination fee (66,256)             
+Net 6,535,087$        
+ 
+Neighborhood Stabilization Program 2 ("NSP2") 
+NSP2 loans are loans funded with NSP2 Program Income received from The Community Builders, 
+Inc. under an equity equivalent agreement. These loans generally have terms of 30 years or longer 
+and are payable only from cash flow or refinancing proceeds. NSP2 loans are secured with a 
+mortgage on the real estate involved. 
+===== PAGE 18 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Notes to Consolidated Financial Statements 
+December 31, 2024 and 2023 
+ 
+ 
+17 
+As of December 31, 2024 and 2023, NSP2 loans balance was $4,534,758, which remained 
+outstanding and is included in loans receivable on the consolidated statements of financial position. 
+As of December 31, 2024 and 2023, NSP2 accrued interest of $1,826,427 and $1,503,238, 
+respectively, remains outstanding, and is included in interest receivable on the consolidated 
+statements of financial position. 
+Allowance for credit losses 
+The allowance for credit losses for total loans receivable is based on management's review of each 
+individual loan. Management reviews cash flow projec tions of the underlying projects with potential 
+future impact on the recent pandemic on the commercial real estate market, considers historical 
+loan performance and explicit guarantee as well as implicit guarantee on the funding sources, and 
+determines a reasonable amount of the loan balance that will possibly be collected and records a 
+specific provision for credit losses. During the years ended December 31, 2024 and 2023, $897,097 
+and $176,265, respectively, was recorded as provision for credit losses for commercial loans and 
+homeownership loans. 
+Additionally, management has determined, due to risks inherent in the predevelopment loan 
+portfolio funded by specific sources partially offset by the positive experience on the loans' prior 
+performance and consideration of general uncertainti es in the broader economic environment, that 
+a loan loss reserve of 3.5% should be established and applied to the unpaid principal balance of the 
+specific predevelopment loans outstanding. In m anagement's judgment, due to historical loan loss 
+experience, the allowance for credit losses is adequate to absorb credit losses inherent in the loan 
+portfolio. During the year ended December 31, 2024, $120,909 was recorded as recovery of 
+provision for credit losses for predevelopment loans. During the year ended December 31, 2023,  
+$7,418, was recorded as provision for credit losses for predevelopment loans. 
+The following table presents activity for the Corporation's allowance for credit losses for the years 
+ended December 31:  
+2024 2023
+Allowance for credit losses, beginning 980,818 $           797,135 $           
+Provision 897,097              183,683              
+Charge-offs -                     -                     
+Recoveries (120,909)           -                     
+776,188             183,683              
+Balance, ending 1,757,006           980,818              
+Less current portion -                     -                     
+Allowance for credit losses, net of current portion 1,757,006$        980,818 $           
+ 
+===== PAGE 19 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Notes to Consolidated Financial Statements 
+December 31, 2024 and 2023 
+ 
+ 
+18 
+As of December 31, 2024, and 2023, the loan portfolio and the related allowance consist of the 
+following:  
+Balance Accrued interest
+Related 
+allowance Net collectible
+Related 
+origination fee Net
+Predevelopment loans 30,320,890$      4,261,856 $        (108,644) $          34,474,102 $      - $                   34,474,102$      
+Construction loans 14,516,741 474,825              -                      14,991,566        -                      14,991,566        
+Leverage loans 6,601,343 -                      -                      6,601,343          (66,256)               6,535,087           
+NSP2 loans 4,534,758 1,826,427           -                      6,361,185          -                      6,361,185          
+Homeownership loans 897,097 -                      (897,097)            -                      -                      -                      
+Commercial loans 751,265 -                      (751,265)            -                      -                      -                      
+57,622,094$      6,563,108 $        (1,757,006) $       62,428,196 $      (66,256) $            62,361,940 $      
+Balance Accrued interest
+Related 
+allowance Net collectible
+Related 
+origination fee Net
+Predevelopment loans 29,708,956$      3,125,348 $        (229,553) $          32,604,751 $      - $                   32,604,751$      
+Construction loans 7,950,096 261,104 -                      8,211,200          -                      8,211,200          
+Leverage loans 7,165,577 299,819              -                      7,465,396          (57,779)               7,407,617           
+NSP2 loans 4,534,758 1,503,238 -                      6,037,996          -                      6,037,996          
+Homeownership loans -                      -                      -                      -                      -                      -                      
+Commercial loans 751,265              -                      (751,265)            -                      -                      -                      
+50,110,652$      5,189,509 $        (980,818) $          54,319,343 $      (57,779) $            54,261,564 $      
+As of December 31, 2024
+As of December 31, 2023
+ 
+The following table presents a summary of the Programmatic loans issued by the Corporation, 
+through the years ended December 31, 2024 and 2023, which have been expensed in the year of 
+origination as contributions: 
+Programmatic 
+loans issued as 
+of December 31, 
+2023 2024 activit y
+Programmatic 
+loans issued as 
+of December 31, 
+2024
+State tax credit 50,097,052 $      5,326,000 $        55,423,052 $      
+Leverage loans 12,584,170         13,362,652         25,946,822         
+Other loans 465,891              5,198,728           5,664,619           
+Commercial loans 1,075,000           -                     1,075,000          
+64,222,113$      23,887,380 $      88,109,493 $      
+ 
+Programmatic 
+loans issued as 
+of December 31, 
+2022 2023 activit y
+Programmatic 
+loans issued as 
+of December 31, 
+2023
+State tax credit 46,974,185 $      3,122,867 $        50,097,052 $      
+Leverage loans 12,584,170         -                     12,584,170        
+Other loans 465,891              -                     465,891             
+Commercial loans 1,075,000           -                     1,075,000          
+61,099,246$      3,122,867 $        64,222,113 $      
+ 
+===== PAGE 20 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Notes to Consolidated Financial Statements 
+December 31, 2024 and 2023 
+ 
+ 
+19 
+Note 5 - Investments in affiliated entities 
+The Corporation has a managing member interest in New Hope Fund VII, LLC. The Fund's principal 
+investment objective is to provide a new inve stment vehicle that will advance the charitable 
+purposes of increasing the pool of equity available for investments in affordable housing and of 
+making such equity available to disadvantaged populations or underserved communities. The Local 
+Partnerships were awarded LIHTC pursuant to IRC Section 42, which regulates the use of the 
+properties as to occupant eligibility and unit gross rent, among other requirements. 
+The Fund shall continue in full force and effect until December 31, 2107, unless dissolved and 
+terminated pursuant to their Operating Agreements or by law. 
+The Corporation also has a nonmanaging member interest in a housing entity. 
+As of December 31, 2024 and 2023, the investment in affiliated entities was $255,830 and 
+$229,323, respectively. 
+Summarized combined financial information of the Local Partnerships and the housing entity in 
+which the Corporation has invested as of December 31, 2024 and 2023, and for the years then 
+ended is as follows: 
+2024 2023
+Total assets 704,701 $           663,957 $           
+Total liabilities 379,840 $           376,841 $           
+Net assets 324,861              287,116              
+Total liabilities and net assets 704,701 $           663,957 $           
+2024 2023
+Revenue 1,811,933 $        1,721,966 $        
+Expense (574,188)           (584,503)           
+Net loss 1,237,745 $        1,137,463 $        
+Other partners' share of losses 623,238 $           567,700 $           
+The corporation's share of income (losses) 614,507             569,763              
+Net loss 1,237,745 $        1,137,463 $        
+Summarized Balance Sheets
+December 31, 2024 and 2023
+Summarized Statements of Operations
+Years Ended December 31, 2024 and 2023
+ 
+===== PAGE 21 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Notes to Consolidated Financial Statements 
+December 31, 2024 and 2023 
+ 
+ 
+20 
+Note 6 - CDFI Programs 
+CDFI RRP 
+In 2021, the Corporation entered into a Community Development Financial Institutions Fund 
+Assistance ("CDFI") Agreement under the CDFI's  Rapid Response Program ("CDFI RRP"), and 
+was awarded a conditional contribution of $1,826,265. This contribution allows the Corporation to 
+close financial products in Eligible Markets and/or in an approved Target Market as defined by CDFI 
+RRP. An advance in the amount of $1,826,265 was received by the Corporation in 2021. During the 
+years ended December 31, 2024 and 2023, $0 and $176,265 was recognized as grant income, and 
+was included a component of contributions and grants on the accompanying consolidated 
+statements of activities, respectively.  
+CDFI ERP 
+In 2023, the Corporation entered into a Community Development Financial Institutions Fund 
+Assistance Agreement under the CDFI's Equitable Recovery Program ("CDFI ERP") and was 
+awarded a conditional contribution of $6,197,097. This contribution allows the Corporation to close 
+financial products in Eligible Markets and/or in an approved Target Market as defined by CDFI ERP. 
+As of December 31, 2024 and 2023, $0 and $5,800,000 remains in refundable advance on the 
+companying consolidated statements of financial position. During the year ended December 31, 
+2024, $6,197,097 was recognized as grant income, and was included a component of contributions 
+and grants on the accompanying consolidated statements of activities, respectively.
+  
+Note 7 - Notes payable 
+Housing Partnership Fund loans 
+On April 24, 2020, the Corporation received a loan from The Housing Partnership Fund, Inc. in the 
+amount of $2,000,000. The loan bears interest at 6.5% per annum. Commencing on May 1, 2020, 
+interest on the unpaid principal balance is paid in arrears. On each of August 1, 2027, November 1, 
+2027 and February 1, 2028, $500,000 of the outstanding principal shall be paid. The entire 
+remaining balance and all accrued interest are due at maturity on May 6, 2028. As of December 31, 
+2024 and 2023, the outstanding principal balance was $2,000,000 and $2,000,000, respectively. 
+During the years ended December 31, 2024 and 2023, interest of $122,807 and $132,000, was 
+incurred, respectively. At December 31, 2024 and 2023, accrued interest was $11,194 and $0, 
+respectively.  
+On September 15, 2023, the Corporation received a loan from The Housing Partnership Fund, Inc. 
+in the amount of $2,000,000. The loan bears interest at 4.5% per annum. Commencing on 
+November 1, 2023, interest on the unpaid principal balance is paid in arrears. On each of 
+December 1, 2029, March 1, 2030 and June 1, 2030, $500,000 of the outstanding principal shall be 
+paid. The entire remaining balance and all accrued interest are due at maturity on September 15, 
+2030. As of December 31, 2024 and 2023, the outstanding principal balance was $2,000,000 and 
+$2,000,000, respectively. During the years ended December 31, 2024 and 2023, interest of $91,500 
+and $27,000, was incurred, respectively. At December 31, 2024 and 2023, accrued interest was 
+$7,750 and $0, respectively. 
+LIIF loan  
+On November 3, 2017, the Corporation received a loan from The Community Builders Inc. through 
+Low-Income Investment Fund in the amount of $721,386. The loan bears no interest. The entire 
+principal balance is due at maturity on September 3, 2057. As of December 31, 2024 and 2023, the 
+outstanding principal balance was $721,386. 
+===== PAGE 22 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Notes to Consolidated Financial Statements 
+December 31, 2024 and 2023 
+ 
+ 
+21 
+CSH revolving loan  
+On March 26, 2018, the Corporation received a revolving loan from The Corporation for Supportive 
+Housing through Supportive Housing Solutions Fund LLC in the amount of up to $2,000,000. The 
+loan bears interest at 7% per annum and matured on March 31, 2024 and may be subject to 2 one 
+year extensions. In 2024, the loan was extended to mature on April 1, 2025. Subsequently In 2025, 
+the loan agreement was amended to restate the Default Interest Rate and the Interest Rate, as 
+defined, and to extend the maturity date to April 1, 2026. The entire principal amount and any 
+outstanding accrued interest are due at the maturity date. During the years ended December 31, 
+2024 and 2023, interest of $111,170 and $90,827, respectively, was incurred. As of December 31, 
+2024 and 2023, the outstanding principal balance was $1,000,000 and $1,500,000, respectively. As 
+of December 31, 2024 and 2023, accrued interest was $176,794 and $124,804, respectively. 
+LISC loan 
+On October 31, 2017, the Corporation received a loan from Local Initiatives Support Corporation in 
+the amount of $7,000,000. The loan bears interest at 7.95% per annum and matures on May 3, 
+2025. Quarterly payments of principal and interest in the amount of $152,273 are due through the 
+maturity date. Any remaining unpaid principal and interest will be due at the maturity date. 
+Management plans to extend the loan nine to twelve months after the maturity date. During the 
+years ended December 31, 2024 and 2023, interest of $284,589 and $350,224, respectively, was 
+incurred. As of December 31, 2024 and 2025, the outstanding principal balance was $5,531,956 
+and $5,791,849, respectively. As of December 31, 2024 and 2023, accrued interest was $113,049 
+and $101,012, respectfully. 
+Benefit Chicago loan 
+On August 29, 2019, the Corporation received a loan from Arc Chicago, LLC in the amount of 
+$5,000,000, including separate disbursements in the amounts of $3,500,000 and $1,500,000. 
+During the year ended December 31, 2023, the Corporation amended and restated the Benefit 
+Chicago loan agreement to increase the loan amount to $10,000,000, including separate 
+disbursements of $2,500,000. The loan bears interest at 3% per annum and matures on August 26, 
+2031. Commencing October 1, 2019, interest payments are payable on quarterly basis. The entire 
+principal amount and any outstanding accrued interest is due at the maturity date. During the years 
+ended December 31, 2024 and 2023, interest of $267,234 and $116,576, respectively, was 
+incurred. As of December 31, 2024 and 2023, the outstanding principal balance was $10,000,000 
+and $7,978,532. As of December 31, 2024 and 2023, accrued interest was $153,750 and $132,004, 
+respectively. 
+M&T revolving line of credit 
+On May 19, 2020, the Corporation received a revolving line of credit from M&T Bank in the amount 
+of $10,000,000. The line of credit bears interest at a floating rate of SOFR + 3.5%. Payments of 
+accrued interest are due at the end of each month and the principal shall be payable 36 months 
+after the initial allocation.  
+On April 1, 2024, the Corporation restated and amended the line of credit to increase the line of 
+credit to $13,000,000. The line of credit bears interest at a floating rate of SOFR + 3%. During the 
+years ended December 31, 2024 and December 31, 2023, interest of $825,110 and $762,356, 
+respectively, was incurred. 
+On December 31, 2024, the Corporation had $95,287 of available undrawn line of credit. As of 
+December 31, 2024 and 2023, the outstanding principal balance was $12,904,713 and $9,398,519, 
+respectively. As of December 31, 2024 and 2023, accrued interest was $0 and $2,125, respectfully. 
+===== PAGE 23 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Notes to Consolidated Financial Statements 
+December 31, 2024 and 2023 
+ 
+ 
+22 
+The Children's Hospital Corporation loan  
+On August 1, 2023, the Corporate received a loan from The Children's Hospital Corporation in the 
+amount of $2,000,000. The loan bears interest at a fixed rate of 2%. Payments of accrued interest 
+and principal are due July 30, 2028. As of December 31, 2024 and 2023, interest of $70,444 and 
+$16,514 was incurred, respectively. As of December 31, 2024 and 2023, the outstanding principal 
+balance was $2,000,000 and $2,000,000 and accrued interest was $55,222 and $13,097, 
+respectfully. 
+Life Insurance Community Investment Initiatives revolving line of credit 
+On December 22, 2020, the Corporation received a revolving line of credit from The Life Insurance 
+Community Investment Initiative, LLC, in the amount of $2,500,000. The line of credit bears interest 
+at a fixed rate of 6%. Payments of accrued interest are due at the end of each quarter and the 
+principal and any unpaid interest shall be payable on January 2026. As of December 31, 2024 and 
+2023, interest of $149,373 and $149,634 was incurred. As of December 31, 2023 and 2022 the 
+outstanding principal balance $2,497,571 and $2,299,632 and accrued interest was $38,296 and 
+$0, respectively.  
+CareSource Ohio loan  
+On December 9, 2021, the Corporation received a loan from Caresource Ohio, Inc, in the amount of 
+$5,000,000. The loan bears interest at a fixed rate of 2%. Payments of accrued interest are due at 
+the end of each quarter beginning April 1, 2022 and the principal and any unpaid interest shall be 
+payable on December 8, 2028. As of December 31, 2024 and 2023, the outstanding principal 
+balance was $5,000,000 and $5,000,000 and interest incurred in the years ended December 31, 
+2024 and 2023 was $101,667 and $125,806, respectively. As of December 31, 2024 and 2023, 
+accrued interest was $25,556 and $0, respectively. 
+Common Spirit 
+On August 14, 2024, the Corporation received a loan from Commonspirit Health Operating, in the 
+amount of $5,000,000. The loan bears interest at a fixed rate of 3%. Payments of accrued interest 
+are due at the end of each quarter and the principal and any unpaid interest shall be payable on 
+July 30th, 2032. As of December 31, 2024, the outstanding principal balance was $5,000,000 and 
+accrued interest was $37,500. Interest incurred in the year ended December 31, 2024 was $56,250. 
+Aggregate maturities of the notes payable for each of the next five years and thereafter are as 
+follows: 
+December 31, 2025 13,942,767$      
+2026 2,868,130          
+2027 5,148,662          
+2028 7,000,000          
+2029 2,000,000          
+Thereafter 17,696,067        
+48,655,626$      
+ 
+Debt issuance costs, net of accumulated amortization totaled $26,241 and $29,046 as of December 
+31, 2024 and 2023, respectively, and are related to the following loans: M&T revolving line of credit, 
+CSH revolving loan and Housing Partnership Fund loan.  
+===== PAGE 24 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Notes to Consolidated Financial Statements 
+December 31, 2024 and 2023 
+ 
+ 
+23 
+Debt issuance costs are being amortized using the imputed rate between 0% and 6.15%. For the 
+years ended December 31, 2024 and 2023, $31,796 and $66,869, respectively, of amortization of 
+debt issuance costs are included in interest expense on the accompanying consolidated statements 
+of activities. 
+In accordance with the terms of loan agreements with certain lenders, the Corporation is required to 
+meet several financial covenants. The Corporation was in compliance with its financial covenants at 
+December 31, 2024. 
+Note 8 - Subordinated notes payable 
+The Corporation entered into certain equity equivalent investment agreements in the form of 
+subordinated notes payable and these agreements allow the loans to be converted into equity 
+equivalent investments.  
+NSP2 loan 
+The Corporation entered into a note agreement with The Community Builders Inc. for up to 
+$10,500,000 with funds from The Community Builders Inc.'s Neighborhood Stabilization Program 
+for the purpose of providing loans for the development of affordable housing in communities in 
+which The Community Builders Inc. and the Corporation both operate. The note bore simple 
+interest at 1% per annum. On December 21, 2017, the Corporation signed an NSP2 Equity 
+Equivalent Agreement with The Community Builders Inc. Under the terms of the agreement, The 
+Community Builders Inc. has converted the NSP2 loan to an equity equivalent investment in the 
+Corporation, which is reflected as subordinated long-term debt on the accompanying consolidated 
+statements of financial position for the years ended December 31, 2024 and 2023. Under the terms 
+of the amended and restated agreement, the loan amount is $3,139,581, and the loan bears 
+interest at 0.01% per annum. The Corporation shall make quarterly interest-only payments. The 
+principal balance of the loan shall be due on May 29, 2025. For the years ended December 31, 
+2024 and 2023, interest incurred was $2,198 and $1,054, respectively. As of December 31, 2024 
+and 2023, the outstanding principal balance was $3,139,581. As of December 31, 2023 and 2022, 
+accrued interest was $56,843 and $55,945, respectively. 
+Plumley loan 
+The Corporation entered into an equity equivalent investment agreement with The Community 
+Builders Inc. on June 12, 2018 for up to $1,750,000, which is reflected as subordinated long-term 
+debt on the accompanying consolidated statements of financial position for the years ended 
+December 31, 2019 and 2018. During the year ended December 31, 2020, the Corporation 
+amended and restated the Plumley equity equivalent agreement to extend the term to May 24, 
+2025. The loan bears interest at .01% per annum. The principal balance of the loan shall be due on 
+May 24, 2025. The Corporation may prepay the loan, in whole or in part, at any time without 
+penalty. During the years ended December 31, 2024 and 2023, interest of $0 was incurred and 
+paid. At December 31, 2024 and 2023, the balance of the loan is $0.  
+TCB CDE loan 
+The Corporation entered into an equity equivalent investment agreement with The Community 
+Builders Inc. on July 18, 2018 for $844,452, which is reflected as subordinated long-term-debt on 
+the accompanying consolidated statement of fi nancial position for the year ended December 31, 
+2018. The loan consisted of $20,129 in cash and $885,101 in predevelopment loans due from 
+various entities. During the year ended December 31, 2019, the Corporation amended and restated 
+the TCB CDE equity equivalent agreement to increase the loan balance to be $1,800,081, including 
+$975,758 in cash and $824,323 in predevelopment loans due from various entities. During the year 
+===== PAGE 25 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Notes to Consolidated Financial Statements 
+December 31, 2024 and 2023 
+ 
+ 
+24 
+ended December 31, 2020, the Corporation amended and restated the TCB CDE equity equivalent 
+agreement to increase the loan balance to be $1,990,169, including $1,165,846 in cash and 
+$824,323 in predevelopment loans due from various entities. The loan bears interest at .01% per 
+annum. The principal balance of the loan shall be due on May 24, 2025. The Corporation may 
+prepay the loan, in whole or in part, at any time without penalty. During the years ended December 
+31, 2024 and 2023, interest of $0 and $202, respectively, was incurred and paid. At December 31, 
+2024 and 2023, the balance of the loan is $0 and $1,949,304. 
+CMF loan 
+The Corporation entered into an equity equivalent investment agreement with The Community 
+Builders Inc. on December 31, 2017 for up to $997,993, which is reflected as subordinated long-
+term debt on the accompanying consolidated statements of financial position for the years ended 
+December 31, 2023 and 2022. The loan bears interest at 0% per annum. The principal balance of 
+the loan shall be due on December 31, 2056. The lender may renew the loan for one-year periods 
+annually after the maturity date but is not obligated to do so. The Corporation may prepay the loan, 
+in whole or in part, at any time without penalty. At December 31, 2024 and 2023, the balance of the 
+loan is $0.  
+AO Flats loan 
+The Corporation entered into an equity equivalent investment agreement with The Community 
+Builders Inc. on April 1, 2021 for up to $1,200,000, which is reflected as subordinated long-term 
+debt on the accompanying consolidated statements of financial position for the years ended 
+December 31, 2024 and 2023. The loan bears interest at 0% per annum. The principal balance of 
+the loan shall be due on March 31, 2026. The Corporation may prepay the loan, in whole or in part, 
+at any time without penalty. At December 31, 2024 and 2023, the balance of the loan is $1,200,000. 
+Note 9 - Transactions with The Community Builders Inc.  
+Financial consulting expenses 
+In accordance with the Amended and Restated Agreement for Equity Finance Services, The 
+Community Builders Inc. provides the Corporation with financial and accounting services related to 
+its lending activity. The standard hourly billable rate will be charged at the approved rate of the U.S. 
+Department of Housing and Urban Development ("HUD") for federal contracts between HUD and 
+TCB. During 2018, the Corporation entered into an amended and restated agreement for the 
+services described above for a set fee of $400,000. During 2024, the Board and management 
+agreed on an increased contract fee of $655,580. During the years ended December 31, 2024 and 
+2023, the financial consulting expense of $655,580 and $400,000 was incurred and paid, 
+respectively. 
+Additionally, the Corporation prepaid for future financial consulting services in 2024 in the amount of 
+$887,566, which is included in prepaid expenses on the accompanying consolidated statements of 
+financial position.  
+Grant expense 
+In 2024 and 2023, the Corporation committed a grant to The Community Builder Inc. in the amount 
+of $28,763 and $28,021, respectively, to support community and economic development in Chicago 
+based on its loan agreement with Arc Chicago, LLC. At December 31, 2024 and 2023, $274,072 
+and $245,309 of grant contribution remained payable and is included in accounts payable and 
+accrued expenses on the accompanying consolidated statements of financial position, respectively. 
+===== PAGE 26 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Notes to Consolidated Financial Statements 
+December 31, 2024 and 2023 
+ 
+ 
+25 
+Note 10 - Related party transactions 
+Due to related parties 
+The Corporation receives noninterest-bearing advances from several limited partnerships which the 
+Corporation indirectly owns, to pay for various operating costs. As of December 31, 2024 and 2023, 
+$106,690 and $8,604, respectively, are outstanding and included in due to related parties on the 
+accompanying consolidated statements of financial position. 
+Due from related parties 
+The Corporation made noninterest-bearing advances to several limited partnerships, which the 
+Corporation indirectly owns, to pay for various accounting fees and operating costs. As of 
+December 31, 2024 and 2023, $81,230 and $72,560, respectively, are outstanding and is included 
+in due from related parties on the accompanying cons olidated statements of financial position. Note 
+11 - Current vulnerability due to certain concentrati ons. The Corporation's as sets consist primarily 
+of loans and interest receivable related to acquisition of interests in operating limited partnerships. 
+This operation is concentrated in the multi-family real estate market. The Corporation invests in 
+Local Partnerships, which operate properties located in Chicago, Illinois; Louisville, Kentucky; East 
+Chicago, Indiana; and Akron, Ohio. Future operations of the properties could be affected by 
+changes in economic or other conditions in thos e geographical areas or by changes in low-income 
+housing subsidies or the demand for such housing. 
+Note 11- Subsequent events 
+Events that occur after the consolidated statement of financial position date but before the 
+consolidated financial statements were available to be issued must be evaluated for recognition or 
+disclosure. The effects of subsequent events that provide evidence about conditions that existed at 
+the consolidated statement of financial position date are recognized in the accompanying 
+consolidated financial statements. Subsequent events which provide evidence about conditions that 
+existed after the consolidated statement of financial position date require disclosure in the 
+accompanying notes. Management evaluated acti vity through April 30, 2025 (the date the 
+consolidated financial statements were available to be issued) and concluded that no subsequent 
+events have occurred that would require recognition in the consolidated financial statements or 
+disclosure in the notes to the consolidated financial statements except as disclosed in Note 6 and 
+following:  
+In April 2025, the Corporation amended its loan with CSH to restate the Default Interest Rate and 
+the Interest Rate, as defined, and to extend the maturity date through April 1, 2026.  
+===== PAGE 27 =====
+ 
+ 
+Supplementary Information 
+===== PAGE 28 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Schedule of Expenditures of Federal Awards 
+Year Ended December 31, 2024 
+ 
+ 
+See Notes to Schedule of Expenditures of Federal Awards. 
+ 
+27 
+Grantor/Pass-Through/Program Title
+Federal 
+Assistance
+Listing #
+Provided to 
+Subrecipients
+ Federal
+Expenditures 
+U.S. Department of Treasury
+COVID-19 CDFI Equitable Recovery Program 21.033 - $                  6,095,825$        
+Total U.S. Department of Treasury/Federal Expenditures - $                  6,095,825$        
+ 
+ 
+===== PAGE 29 =====
+New Hope Community Capital, Inc. and Subsidiaries 
+ 
+Notes to Schedule of Expenditures of Federal Awards 
+December 31, 2024 
+ 
+ 
+28 
+Note 1 - Basis of presentation  
+The accompanying schedule of expenditures of federal awards (the "Schedule") includes the federal 
+award activity of New Hope Community Capital, Inc. (the "Organization") under a program of the 
+federal government for the year ended December 31, 2024. The information in this Schedule is 
+presented in accordance with the requirements of Title 2 U.S. Code of Federal Regulations Part 
+200, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal 
+Awards (Uniform Guidance). Because the Schedule presents only a selected portion of the 
+operations of the Organization, it is not intended to and does not present the financial position, 
+changes in net assets or cash flows of the Organization. 
+Note 2 - Summary of significant accounting policies  
+Expenditures reported on the Schedule are reported on the accrual basis of accounting. Such 
+expenditures are recognized following the cost principles contained in the Uniform Guidance, 
+wherein certain types of expenditures are not allowable or are limited as to reimbursement. Pass-
+through entity identifying numbers (contract or grant number) are presented where available. 
+Note 3 - Indirect costs  
+Indirect costs are not allocated under the terms of the federal award. Therefore, the 10% de minimis 
+indirect cost rate allowed under the Uniform Guidance is not applicable.
+ 
+===== PAGE 30 =====
+ 
+29 
+Independent Auditor's Report on Internal Control over Financial Reporting and on 
+Compliance and Other Matters Based on an Audit of Financial Statements  
+Performed in Accordance with Government Auditing Standards 
+To the Board of Directors 
+New Hope Community Capital, Inc. 
+We have audited in accordance with auditing standards generally accepted in the United States of 
+America and the standards applicable to financial audits contained in Government Auditing Standards, 
+issued by the Comptroller General of the United States, the financial statements of New Hope 
+Community Capital, Inc. (the "Organization") which comprise the consolidated statement of financial 
+position as of December 31, 2024, and the related consolidated statements of activities, functional 
+expenses, and cash flows for the year then ended, and the related notes to the consolidated financial 
+statements and have issued our report thereon dated April 30, 2025. The financial statements of the 
+affiliates were not audited in accordance with Government Auditing Standards  and accordingly, this 
+report does not include reporting on internal control over financial reporting or instances of reportable 
+noncompliance associated with these affiliates.  
+Report on Internal Control over Financial Reporting 
+In planning and performing our audit of the consolidated financial statements, we considered the 
+Organization's internal control over financial reporting ("internal control") as a basis for designing audit 
+procedures that are appropriate in the circumstances for the purpose of expressing our opinion on the 
+consolidated financial statements, but not for the purpose of expressing an opinion on the effectiveness 
+of the Organization's internal control. Accordingly, we do not express an opinion on the effectiveness of 
+the Organization's internal control. 
+A deficiency in internal control  exists when the design or operation of a control does not allow 
+management or employees, in the normal course of performing their assigned functions, to prevent, or 
+detect and correct, misstatements on a timely basis. A material weakness  is a deficiency, or a 
+combination of deficiencies, in internal control, such that there is a reasonable possibility that a material 
+misstatement of the entity's financial statements will not be prevented or detected and corrected on a 
+timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in internal control 
+that is less severe than a material weakness, yet important enough to merit attention by those charged 
+with governance. 
+Our consideration of internal control was for the limited purpose described in the first paragraph of this 
+section and was not designed to identify all deficiencies in internal control that might be material 
+weaknesses or significant deficiencies. Given these limitations, during our audit we did not identify any 
+deficiencies in internal control that we consider to be material weaknesses. However, material 
+weaknesses or significant deficiencies may exist that were not identified. 
+Report on Compliance and Other Matters  
+As part of obtaining reasonable assurance about whether the Organization's financial statements are 
+free from material misstatement, we performed tests of its compliance with certain provisions of laws, 
+regulations, contracts, and grant agreements, noncompliance with which could have a direct and 
+material effect on the financial statements. However, providing an opinion on compliance with those 
+provisions was not an objective of our audit and, accordingly, we do not express such an opinion. The 
+results of our tests disclosed no instances of noncompliance or other matters that are required to be 
+reported under Government Auditing Standards. 
+===== PAGE 31 =====
+ 
+30 
+Purpose of this Report 
+The purpose of this report is solely to describe the scope of our testing of internal control and 
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of the 
+entity's internal control or on compliance. This report is an integral part of an audit performed in 
+accordance with Government Auditing Standards  in considering the entity's internal control and 
+compliance. Accordingly, this communication is not suitable for any other purpose. 
+ 
+Bethesda, Maryland 
+April 30, 2025 
+===== PAGE 32 =====
+ 
+31 
+Independent Auditor's Report on Compliance for Each Major Federal Program and 
+Report on Internal Control over Compliance Required by the Uniform Guidance 
+To the Board of Directors 
+New Hope Community Capital, Inc. 
+Report on Compliance for Each Major Federal Program 
+Opinion on Each Major Federal Program 
+We have audited New Hope Community Capital, Inc.'s (the "Organization") compliance with the types 
+of compliance requirements identified as subject to audit in the OMB  Compliance Supplement  that 
+could have a direct and material effect on its major federal program for the year ended December 31, 
+2024. The Organization's major federal program is identified in the summary of auditor's results section 
+of the accompanying schedule of findings and questioned costs. 
+In our opinion, the Organization complied, in all material respects, with the compliance requirements 
+referred to above that could have a direct and material effect on its major federal program for the year 
+ended December 31, 2024. 
+Basis for Opinion on Each Major Federal Program 
+We conducted our audit of compliance in accordance with auditing standards generally accepted in the 
+United States of America ("GAAS"); the standards applicable to financial audits contained in 
+Government Auditing Standards issued by the Comptroller General of the United States (" Government 
+Auditing Standards"); and the audit requirements of Title 2 U.S. Code of Federal Regulations Part 200, 
+Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards  
+("Uniform Guidance"). Our responsibilities under those standards and the Uniform Guidance are further 
+described in the Auditor's Responsibilities for the Audit of Compliance section of our report. 
+We are required to be independent of the Organization and to meet our other ethical responsibilities, in 
+accordance with relevant ethical requirements relating to our audit. We believe that the audit evidence 
+we have obtained is sufficient and appropriate to provide a basis for our opinion on compliance for each 
+major federal program. Our audit does not provide a legal determination of the Organization's 
+compliance with the compliance requirements referred to above. 
+Responsibilities of Management for Compliance 
+Management is responsible for compliance with the requirements referred to above and for the design, 
+implementation, and maintenance of effective internal control over compliance with the requirements of 
+laws, statutes, regulations, rules and provisions of contracts or grant agreements applicable to the 
+Organization's federal program. 
+===== PAGE 33 =====
+ 
+32 
+Auditor's Responsibilities for the Audit of Compliance 
+Our objectives are to obtain reasonable assurance about whether material noncompliance with the 
+compliance requirements referred to above occurred, whether due to fraud or error, and express an 
+opinion on the Organization's compliance based on our audit. Reasonable assurance is a high level of 
+assurance but is not absolute assurance and therefore is not a guarantee that an audit conducted in 
+accordance with GAAS, Government Auditing Standards, and the Uniform Guidance will always detect 
+material noncompliance when it exists. The risk of not  detecting material noncompliance resulting from 
+fraud is higher than for that resulting from error, as fraud may involve collusion, forgery, intentional 
+omissions, misrepresentations, or the override of internal control. Noncompliance with the compliance 
+requirements referred to above is considered material, if there is a substantial likelihood that, 
+individually or in the aggregate, it would influence the judgment made by a reasonable user of the 
+report on compliance about the Organization's compliance with the requirements of each major federal 
+program as a whole. 
+In performing an audit in accordance with GAAS, Government Auditing Standards, and the Uniform 
+Guidance, we: 
+ Exercise professional judgment and maintain professional skepticism throughout the audit. 
+ Identify and assess the risks of material noncompliance, whether due to fraud or error, and 
+design and perform audit procedures responsive to those risks. Such procedures include 
+examining, on a test basis, evidence regarding the Organization's compliance with the 
+compliance requirements referred to above and performing such other procedures as we 
+considered necessary in the circumstances. 
+ Obtain an understanding of the Organization's internal control over compliance relevant to the 
+audit in order to design audit procedures that are appropriate in the circumstances and to test 
+and report on internal control over compliance in accordance with the Uniform Guidance, but not 
+for the purpose of expressing an opinion on the effectiveness of the Organization's internal 
+control over compliance. Accordingly, no such opinion is expressed. 
+We are required to communicate with those charged with governance regarding, among other matters, 
+the planned scope and timing of the audit and any significant deficiencies and material weaknesses in 
+internal control over compliance that we identified during the audit. 
+Report on Internal Control over Compliance 
+A deficiency in internal control over compliance exists when the design or operation of a control over 
+compliance does not allow management or employees, in the normal course of performing their 
+assigned functions, to prevent, or detect and correct, noncompliance with a type of compliance 
+requirement of a federal program on a timely basis. A material weakness in  internal control over 
+compliance is a deficiency, or a combination of deficiencies, in internal control over compliance, such 
+that there is a reasonable possibility that material noncompliance with a type of compliance requirement 
+of a federal program will not be prevented, or detected and corrected, on a timely basis. A significant 
+deficiency in internal  control over compliance is a deficiency, or a combination of deficiencies, in 
+internal control over compliance with a type of compliance requirement of a federal program that is less 
+severe than a material weakness in internal control over compliance, yet important enough to merit 
+attention by those charged with governance.  
+===== PAGE 34 =====
+ 
+33 
+Our consideration of internal control over compliance was for the limited purpose described in the 
+Auditor's Responsibilities for the Audit of Compliance section above and was not designed to identify all 
+deficiencies in internal control over compliance that might be material weaknesses or significant 
+deficiencies in internal control over compliance. Given these limitations, during our audit we did not 
+identify any deficiencies in internal control over compliance that we consider to be material 
+weaknesses, as defined above. However, material weaknesses or significant deficiencies in internal 
+control over compliance may exist that were not identified. 
+Our audit was not designed for the purpose of expressing an opinion on the effectiveness of internal 
+control over compliance. Accordingly, no such opinion is expressed. 
+The purpose of this report on internal control over co mpliance is solely to describe the scope of our 
+testing of internal control over compliance and the results of that testing based on the requirements of 
+the Uniform Guidance. Accordingly, this report is not suitable for any other purpose. 
+ 
+Bethesda, Maryland 
+April 30, 2025 
+===== PAGE 35 =====
+New Hope Community Capital, Inc.  
+ 
+Schedule of Findings and Questioned Costs 
+December 31, 2024 
+ 
+ 
+ 
+ 
+34 
+Section 1 - Summary of Auditor's Results 
+Financial Statements 
+1. Type of report the auditor issued on whether the  
+financial statements audited were prepared in accordance  
+with GAAP:     Unmodified   
+2. Internal control over financial reporting: 
+a. Material weakness(es) identified?   yes   no 
+b. Significant deficiency(ies) identified?   yes   none reported  
+3. Noncompliance material to financial statements noted?   yes   no 
+Federal Awards  
+1. Internal control over major federal programs: 
+a. Material weakness(es) identified?   yes   no  
+b. Significant deficiency(ies) identified?   yes   none reported  
+2. Type of auditor's report issued on compliance for  
+major federal programs: Unmodified 
+3. Any audit findings disclosed that are required to be reported 
+in accordance with 2 CFR 200.516(a)?   yes   no  
+4. Identification of major federal programs: 
+Assistance Listing Number  Name of Federal Program or Cluster 
+ 
+ 21.033  COVID- 19 CDFI Equitable Recovery Program  
+   
+5. Dollar threshold used to distinguish  
+between type A and B programs $750,000 
+6. Auditee qualified as low-risk auditee? No  
+Section 2 - Financial Statement Findings 
+No matters were reported. 
+Section 3 - Major Federal Award Program Findings and Questioned Costs 
+No matters were reported. 
+ 
+===== PAGE 36 =====

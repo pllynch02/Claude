@@ -1,0 +1,706 @@
+
+===== PAGE 1 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SPRINGBOARD CDFI 
+FINANCIAL STATEMENTS 
+WITH INDEPENDENT AUDITOR'S REPORT 
+ 
+December 31, 2024 and 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 2 =====
+SPRINGBOARD CDFI 
+TABLE OF CONTENTS 
+ 
+ 
+ 
+PAGE 
+Independent Auditor's Report  .......................................................................................................................   1 
+ 
+Financial Statements 
+Statements of Financial Position ...................................................................................................................   3 
+Statements of Activities .................................................................................................................................   4 
+Statements of Functional Expenses ..............................................................................................................   6 
+Statements of Cash Flows .............................................................................................................................   8 
+Notes to Financial Statements  ......................................................................................................................   9 
+ 
+ 
+ 
+===== PAGE 3 =====
+3880 Lemon St., Ste. 300
+Riverside, CA 92501
+P.O. Box 1529
+Riverside, CA 92502-1529
+951-241-7800
+www.eadiepaynellp.com
+-1-
+INDEP
+ENDENT AUDITOR'S REPORT 
+To the Board of Directors 
+Springboard CDFI 
+2140 Hoover Avenue, Suite 115 
+National City, California 
+Qualified Opinion 
+We have audited the financial statements of Springboard CDFI (a nonprofit organization), which comprise 
+the statements of financial position as of December 31, 2024 and 2023, and the related statements of 
+activities, functional expenses, and cash flows for the years then ended, and the related notes to the 
+financial statements. 
+In our opinion, except for the effects on the acco mpanying financial statements of not consolidating a 
+wholly owned subsidiary in the financial statements
+ as described in the Basis for Qualified Opinion 
+section of our report, the financial statements present fairly, in all material respects, the financial position 
+of  Springboard CDFI as of December 31, 2024 and 2023, and the changes in its net assets and its cash 
+flows for the years then ended in accordance with accounting principles generally accepted in the United 
+States of America. 
+Basis for Qualified Opinion 
+Springboard CDFI has excluded consolidating a wholly owned subsidiary in the accompanying financial 
+statements that, in our opinion, should be consolidated into the financial statements of Springboard CDFI 
+in accordance with accounting principles generally accepted in the United States of America. The amount 
+by which this departure would affect the assets, liabilities, net assets, revenues, and expenses as of and 
+for the years ended December 31, 2024 and 2023 has not been determined.  
+We conducted our audits in accordance with auditing standards generally accepted in the United States 
+of America (GAAS). Our responsibilities under those standards are further described in the Auditor’s 
+Responsibilities for the Audit of the Financial Statements section of our report. We are required to be 
+independent of Springboard CDFI and to meet our other ethical responsibilities, in accordance with the 
+relevant ethical requirements relating to our audits. We believe that the audit evidence we have obtained 
+is sufficient and appropriate to provide a basis for our qualified audit opinion. 
+===== PAGE 4 =====
+-2-
+Responsibilities of Ma
+nagement for the Financial Statements 
+Management is responsible for the preparation and fair presentation of these financial statements in accordance 
+with accounting principles generally accepted in the United States of America; this includes the design, 
+implementation, and maintenance of internal control relevant to the preparation and fair presentation of financial 
+statements that are free from material misstatement, whether due to fraud or error. 
+In preparing the financial statements, management is required to evaluate whether there are conditions or 
+events, considered in the aggregate, that raise substantial doubt about Springboard CDFI’s ability to continue 
+as a going concern for one year after the date that the financial statements are available to be issued. 
+Auditor's Responsibilities for the Audit of the Financial Statements 
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free 
+from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our 
+opinion. Reasonable assurance is a high level of assurance but is not absolute assurance and therefore is not a 
+guarantee that an audit conducted in accordance with GAAS will always detect a material misstatement when it 
+exists. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from 
+error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of 
+internal control. Misstatements are considered material if there is a substantial likelihood that, individually or in 
+the aggregate, they would influence the judgment made by a reasonable user based on the financial statements. 
+In performing an audit in accordance with GAAS, we: 
+ Exercise professional judgment and maintain professional skepticism throughout the audit.
+ Identify and assess the risks of material misstatement of the financial statements, whether due to fraud
+or error, and design and perform audit procedures responsive to those risks. Such procedures include
+examining, on a test basis, evidence regarding the amounts and disclosures in the financial stat
+ements.
+
+Obtain an understanding of internal control relevant to the audit in order to design audit procedu res that
+are appropriate in the
+ circumstances, but not for the purpose of expressing an opinion on the
+effectiveness of Springboard CDFI’s internal control. Accordingly, no such opinion is expressed.
+ Evaluate the appropriateness of accounting policies used and the reasonableness of sign ificant
+accounting 
+estimates made by management, as well as evaluate the overall presentation of the financial
+statements.
+
+Conclude whether, in our judgment, there are conditions or events, considered in the aggregate, that
+raise substantial doubt about Springboard CDFI’s ability to continue as a going concern for a reasonable
+period of time.
+We are req
+uired to communicate with those charged with governance regarding, among other matters, the 
+planned scope and timing of the audit, significant audit findings, and certain internal control–related matters that 
+we identified during the audit. 
+Riverside, California 
+March 28, 2025
+
+===== PAGE 5 =====
+SPRINGBOARD CDFI 
+STATEMENTS OF FINANCIAL POSITION 
+December 31, 2024 and 2023 
+ 
+The accompanying notes are an integral part of the financial statements. 
+ 
+-3- 
+2024 2023
+Assets
+Current Assets
+Cash 3,310,278 $ 3,406,280 $ 
+Accounts receivable 14,733  5,000  
+Inventory 1,270,414  701,548  
+Prepaid expenses 20,635  21,703  
+Total Current Assets 4,616,060 4,134,531  
+Property and Equipment
+Furniture and equipment -  2,003  
+Less: Accumulated depreciation -  (2,003)  
+- -  
+Other Assets
+Loans receivable 4,380,929  4,156,406  
+Interest receivable 1,402,699  1,345,319  
+Total Other Assets 5,783,628 5,501,725  
+Total Assets 10,399,688$ 9,636,256 $ 
+Liabilities and Net Assets
+Current Liabilities
+Line of credit 197,307 $ 207,307 $ 
+Accounts payable 4,482  18,755  
+Accrued expenses 22,984  31,543  
+Due to related party 1,273,956  701,548  
+Current portion of note payable 2,557  -  
+Total Current Liabilities 1,501,286 959,153  
+Long-Term Liabilities
+Due to CalHome -  54,877
+Notes payable 147,443  150,000  
+Total Long-Term Liabilities 147,443 204,877  
+Total Liabilities 1,648,729 1,164,030  
+Net Assets
+Net assets without donor restrictions 248,088  (298,452)  
+Net assets with donor restrictions 8,502,871  8,770,678  
+Total Net Assets 8,750,959 8,472,226  
+Total Liabilities and Net Assets 10,399,688$ 9,636,256 $ 
+ 
+ 
+===== PAGE 6 =====
+SPRINGBOARD CDFI 
+STATEMENT OF ACTIVITIES 
+For the year ended December 31, 2024 
+ 
+The accompanying notes are an integral part of the financial statements. 
+ 
+-4- 
+Without Donor With Donor
+Restrictions Restrictions Total
+Revenues and Support
+Loan and broker fees 59,498 $ - $ 59,498 $          
+Loan interest 169  120,323  120,492           
+CWCOT income 109,612  -  109,612           
+HVLS income 413,323           -                      413,323          
+Other income 8,051  -  8,051               
+Satisfaction of program restrictions 388,130           (388,130)         -                      
+Total Revenues and Support 978,783 (267,807)  710,976  
+Expenses
+Program services 66,098             -  66,098             
+Management and general 366,145           -                      366,145          
+Total Expenses 432,243 -  432,243           
+Change in Net Assets 546,540 (267,807)  278,733  
+Net Assets, Beginning of Year (298,452) 8,770,678  8,472,226  
+Net Assets, End of Year 248,088$ 8,502,871 $ 8,750,959 $ 
+ 
+ 
+===== PAGE 7 =====
+SPRINGBOARD CDFI 
+STATEMENT OF ACTIVITIES 
+For the year ended December 31, 2023 
+ 
+The accompanying notes are an integral part of the financial statements. 
+ 
+-5- 
+Without Donor With Donor
+Restrictions Restrictions Total
+Revenues and Support
+Loan and broker fees 50,024 $ - $ 50,024 $        
+Loan interest 137  120,429  120,566         
+Contributions 36,197  -  36,197           
+CWCOT income 18,239  -  18,239           
+Other income 154  -  154                
+Satisfaction of program restrictions 164,603         (164,603)      -                    
+Total Revenues and Support 269,354 (44,174)  225,180         
+Expenses
+Program services 76,240           -  76,240           
+Management and general 325,501         -                    325,501 
+Total Expenses 401,741 -  401,741         
+Change in Net Assets (132,387) (44,174)  (176,561)      
+Net Assets, Beginning of Year (166,065) 8,814,852  8,648,787      
+Net Assets, End of Year (298,452)$ 8,770,678 $ 8,472,226 $ 
+ 
+ 
+===== PAGE 8 =====
+SPRINGBOARD CDFI 
+STATEMENT OF FUNCTIONAL EXPENSES 
+For the year ended December 31, 2024 
+ 
+The accompanying notes are an integral part of the financial statements. 
+ 
+-6- 
+Program Management
+Services and General Total
+Salaries and wages 47,317 $ 170,801 $ 218,118 $ 
+Payroll taxes 3,316  12,757  16,073  
+Employee benefits 8,617  16,582  25,199  
+Staff development -  277  277  
+Other personnel costs 218  6,909  7,127  
+59,468 207,326  266,794  
+Automotive - 129  129  
+Business development 770  5,173  5,943  
+Cleaning and maintenance -  3,661  3,661  
+Travel 990 717  1,707  
+Information technology -  9,932  9,932  
+Insurance 549 19,921  20,470  
+Interest 333 4,125  4,458  
+Legal - 750  750  
+Loan processing costs 760  -  760  
+Business Promotions -  550  550  
+Management fees -  64,260  64,260  
+Office expense 3  1,113  1,116  
+Other expense 25  4,548  4,573  
+Postage, printing and copying 421  1,080  1,501  
+Professional fees -  29,050  29,050  
+Taxes and licenses 2,779  7,744  10,523  
+Telephone and internet -  5,466  5,466  
+Utilities - 600  600  
+Total Expenses 66,098$ 366,145 $ 432,243 $ 
+2024
+ 
+===== PAGE 9 =====
+SPRINGBOARD CDFI 
+STATEMENT OF FUNCTIONAL EXPENSES 
+For the year ended December 31, 2023 
+ 
+The accompanying notes are an integral part of the financial statements. 
+ 
+-7- 
+Program Mana gement
+Services and General Total
+Salaries and wages 45,122 $ 158,649 $ 203,771 $ 
+Payroll taxes 3,027  11,186  14,213  
+Employee benefits 9,065  17,494  26,559  
+Staff development 99  343  442  
+Other personnel costs -  8,101  8,101  
+57,313 195,773  253,086  
+Automotive -  1,393  1,393  
+Business development 790  2,119  2,909  
+Cleaning and maintenance -  3,525  3,525  
+Depreciation expense -  236  236  
+Information technology -  9,901  9,901  
+Insurance 7,150  24,594  31,744  
+Interest 226  362  588  
+Legal -  1,050  1,050  
+Loan processing costs 1,757  -  1,757  
+Management fees -  53,846  53,846  
+Office expense -  803  803  
+Other expense 509  3,826  4,335  
+Postage, printing and copying 709  554  1,263  
+Professional fees 316  18,755  19,071  
+Taxes and licenses 7,470  2,925  10,395  
+Telephone and internet -  5,239  5,239  
+Utilities -  600  600  
+Total Expenses 76,240$ 325,501 $ 401,741 $ 
+2023
+ 
+ 
+===== PAGE 10 =====
+SPRINGBOARD CDFI 
+STATEMENTS OF CASH FLOWS 
+For the years ended December 31, 2024 and 2023 
+ 
+The accompanying notes are an integral part of the financial statements. 
+ 
+-8- 
+2024 2023
+Cash Flows from Operating Activities
+Change in net assets 278,733$ (176,561) $ 
+Adjustments to Reconcile Change in New Assets to Net Cash
+Provided By Operating Activities
+Depreciation - 236  
+ (Increase) Decrease in Operating Assets
+Accounts receivable (9,733)  5,410  
+Prepaid expenses 1,068 4,962  
+ Interest receivable (57,380) (62,697)  
+ Increase (Decrease) in Operating Liabilities
+Accounts payable (14,273) (21,749)  
+Accrued expenses (8,559) (10,079)  
+Due to related party 3,542 -  
+Due to CalHome (54,877) (164,879)  
+Net Cash Provided by (Used in) Operating Activities 138,521 (425,357)  
+Cash Flows from Investing Activities
+(Issuance) collection of loans receivable (224,523)          347,750           
+Net Cash Provided by (Used in) Investing Activities (224,523) 347,750  
+Cash Flows from Financing Activities
+ Borrowings on line of credit (10,000)           (41,763)           
+Net Cash Used in Financing Activities (10,000) (41,763)  
+Net Decrease in Cash and Cash Equivalents (96,002) (119,370)  
+Cash and Cash Equivalents at Beginning of Year 3,406,280 3,525,650  
+Cash and Cash Equivalents at Ending of Year 3,310,278$ 3,406,280 $ 
+Supplementary Disclosures
+Interest Paid 8,514$            4,644 $            
+ 
+ 
+ 
+ 
+ 
+===== PAGE 11 =====
+SPRINGBOARD CDFI 
+NOTES TO FINANCIAL STATEMENTS  
+December 31, 2024 and 2023 
+ 
+ 
+-9- 
+1. NATURE OF ACTIVITIES 
+Springboard CDFI (the Company) is an Internal Revenue Service 501(c)(3) nonprofit California corporation 
+established in 1982 with a mission to bridge the wealth gap in America by bringing scaled solutions and 
+access to capital to underserved and economically distressed markets.  
+The Company is a U.S. Department of Treasury certified Community Development Financial Institution 
+(CDFI) and originates or services a variety of down-payment, first mortgage, and closing cost loans and 
+programs either from its own funds, brokered through bank lending partners, or as the administrator on 
+behalf of government or nonprofit entities. 
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+A. Basis of Accounting 
+The financial statements are prepared using the accrual basis of accounting in accordance with 
+accounting principles generally accepted in the United States of America. 
+Not-for-profit organizations are required to report information regarding financial position and activities 
+according to the following net asset classifications: 
+Net assets without donor restrictions:  Net assets that are not subject to donor-imposed 
+restrictions and may be expended for any purpose in performing the primary objectives of the 
+Company. These net assets may be used at the discretion of the Company’s management and 
+Board of Directors. All contributions are considered to be available for unrestricted use unless 
+specifically restricted by the donor.  
+Net assets with donor restrictions:  Net assets subject to stipulations imposed by donors and 
+grantors. Some donor restrictions are temporary in nature; those restrictions will be met by actions 
+of the Company or by the passage of time. Other donor restrictions are perpetual in nature, where 
+by the donor has stipulated the funds be maintained in perpetuity. 
+Donor restricted contributions are reported as increases in net assets with donor restrictions. When a 
+restriction expires, net assets are reclassified from net assets with donor restrictions to net assets 
+without donor restrictions in the statements of activities.  
+B. Use of Estimates 
+The preparation of financial statements in conformity with generally accepted accounting principles 
+(GAAP) requires management to make estimates and assumptions that affect assets and liabilities at 
+the reporting date and revenues and expenses during the reporting period. Actual results could differ 
+from those estimates. 
+C. Revenue and Revenue Recognition 
+Grants 
+Grant and contract revenue are recognized in the period in which the related work is performed in 
+accordance with the terms of the grant or contract. Grants receivable are recorded when revenue 
+earned under a grant or contract exceeds the cash received. Deferred revenue is recorded when cash 
+received under a grant or contract exceeds the revenue earned.  
+  
+===== PAGE 12 =====
+SPRINGBOARD CDFI 
+NOTES TO FINANCIAL STATEMENTS  
+December 31, 2024 and 2023 
+ 
+ 
+-10- 
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+C. Revenue and Revenue Recognition (Continued) 
+Contributions 
+Contributions are recognized in the period received as assets, decreases of liabilities, or expenses 
+depending on the form of benefit received, or if conditional, when the barriers are overcome. 
+Unconditional contributions are recorded as net assets without donor restrictions or net assets with 
+donor restrictions, depending on the existence and/or nature of any donor-imposed restrictions. 
+Contributions restricted by the donor are reported as increases in net assets with donor restrictions. 
+When a restriction expires, net assets with donor restriction are reclassified to net assets without 
+restrictions and reported in the statements of activities as net assets released from restrictions. When 
+restrictions are satisfied in the same accounting period as the receipt of the contribution, the Company 
+reports both revenue and the related expense in unrestricted net assets. 
+Claims Without Conveyance of Title (CWCOT) 
+As a U.S. Department of Housing and Urban Development (HUD) approved nonprofit organization, the 
+Company receives first rights to purchase HUD fo reclosed single-family residences. The Company 
+receives revenues for acting as an intermediate by  purchasing these residences with funds provided 
+by a for-profit investor. When the real estate is purchased by the Company, title is transferred to a 
+limited partnership with the Company as general partner and the investor as limited partner, and at 
+which time the Company recognizes revenue. 
+HUD-Held Vacant Loan Sales (HVLS) 
+The Company partners with a law firm who purchases HUD foreclosed loans. The Company acquires 
+loans and receives a 1% fee of the loan amount once the loans have been assigned to and assumed 
+by the law firm.  
+ 
+D. Fair Value Measurements 
+Generally accepted accounting principles provi de guidance on how fair value should be determined 
+when financial statement elements are required to be measured at fair value. Valuation techniques are 
+ranked in three levels depending on the degree of objectivity of the inputs used with each level: 
+Level 1 inputs – quoted prices in active markets for identical assets 
+Level 2 inputs – quoted prices in active or inactive markets for the same or similar assets  
+Level 3 inputs – estimates using the best information available when there is little or no market. 
+E. Cash and Cash Equivalents 
+For purposes of the statement of financial position and the statement of cash flows, cash and cash 
+equivalents consist of cash and other highly liquid resources, such as investments in certificates of 
+deposit and money market funds, with an original maturity of three months or less when purchased. 
+Amounts included in restricted cash represent those required to be set aside by a contractual 
+agreement with a grantor for the payments related to specific programs. 
+F. Allowance for Credit Losses 
+Bad debts are recognized on the allowance method based on historical experience and management’s 
+evaluation of outstanding receivables. Management believes that all accounts receivable are fully 
+collectible. Therefore, no allowance for credit loss was recorded at December 31, 2024 and 2023. 
+ 
+===== PAGE 13 =====
+SPRINGBOARD CDFI 
+NOTES TO FINANCIAL STATEMENTS  
+December 31, 2024 and 2023 
+ 
+ 
+-11- 
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+G. Inventory 
+Inventory consists of real estate properties  purchased from HUD through the Claims Without 
+Conveyance of Title program (CWCOT) and properties purchased under California Senate Bill 1079 
+(SB1079) and are valued at their purchase price. Inventory consists of properties that the Company 
+has title to as of December 31, 2024 and 2023. The Company has an amount due to related parties in 
+the amounts of $1,270,414 and $701,548 related to these properties at December 31, 2024 and 2023, 
+respectively. Inventory consisted of the following at December 31, 2024 and 2023: 
+Properties Amount Properties Amount
+CWCOT properties 12           954,164$ 5             701,548$ 
+SB1079 properties 2  316,250  -  -  
+14 1,270,414 $ 5  701,548 $ 
+2024 2023
+ 
+ 
+H. Loans Receivable 
+The loan assets of the Company were originated under the following two programs: 
+NeighborWorks America 
+This loan program provides down payment and closing cost assistance for qualifying first-time 
+homebuyers who have some liquid assets, but still need additional funds. The Company charges a 
+low fixed interest rate under this program. These loans are fully amortized with ten-year terms and 
+can be deferred for up to five years based on the borrower's ability to pay.  
+CalHome 
+The CalHome Program, established in 2003 under Chapter 6 of the California Health and Safety 
+Code, is a homeownership program designed to make funds available to low- and very low-income 
+borrowers. These funds allow first-time homebuyers earning less than 80% of the area median 
+income to obtain down payment loans at 3% interest, deferred until the sale or refinancing of the 
+property. Loan repayments revolve into a restricted reuse account which funds future loans. 
+Loan receivables consist of individual loan amounts ranging from $3,900 to $82,000. Loans 
+receivable are carried at unpaid principal balances, less an allowance for loan losses. The Company 
+has implemented policies and practices for assessi ng impairment of its loans receivable and the 
+recognition of income on impaired loans. Loans receivable are recorded at the lower of cost or 
+estimated net realizable value. Allowance for loan losses are analyzed by the Company and include 
+any loan where full recovery of principal and interest is considered in doubt based on the current 
+evaluation of the loan and its security. The Company may include an additional provision for losses 
+based on any loan where it feels that a provision may become necessary in the future for any reason. 
+For the years ended December 31, 2024 and 2023, there were no write-off of loans. 
+ 
+ 
+===== PAGE 14 =====
+SPRINGBOARD CDFI 
+NOTES TO FINANCIAL STATEMENTS  
+December 31, 2024 and 2023 
+ 
+ 
+-12- 
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+H. Loans Receivable (Continued) 
+The historical loan losses from CalHome loans were approximately 3% and under for the past 10 years. 
+Additionally, the CalHome loans were made from grant funds that may allow forgiveness of all or a 
+portion of accrued interest. Pursuant to CalHome regulations, loan principal shall not be forgiven, 
+except under statutory foreclosure.  
+ 
+Loans are placed on nonaccrual when management believes, after considering economic conditions, 
+business conditions, and collection efforts, that the loans are impaired or collection of interest is 
+doubtful.  
+ 
+Uncollected interest previously accrued is charged off or an allowance is established by a charge to 
+interest income. Interest income on nonaccrual loans is recognized only to the extent cash payments 
+are received. Impaired loans are those loans for which write-downs or specific provisions have been 
+taken. The Company recognizes interest income on its impaired loans based on the actual cash flow 
+of payments received from borrowers. There were no impaired loans at December 31, 2024 and 2023. 
+I. Investments 
+Limited Partnerships - During 2023, the Company formed four limited liability partnerships related to 
+the CWCOT program. The Company is the general partner with a 0.0001% ownership interest. The 
+Company does not receive any financial benefit from the limited partnerships, therefore, no activity has 
+been recorded in the accompanying financial statements as of and for the years ended December 31, 
+2024 and 2023. 
+ 
+Wholly Owned Subsidiary  - During 2023, the Company formed a wholly owned subsidiary related to 
+the SB1079 program. The subsidiary purchases and holds title to real estate purchased through the 
+SB1079 program, using outside investors’ funds. The outside investors place liens on the real estate 
+held by the subsidiary as a means of securing their interest. The subsidiary does not receive any 
+financial benefit from any sales of real estate by the outside investor.  Accounting principles generally 
+accepted in the United States of America require a reporting entity to consolidate an entity that it 
+controls as a result of holding a majority of the voting rights. The Company has not consolidated the 
+subsidiary’s financial results in  the accompanying financial statements as of and for the years ended 
+December 31, 2024 and 2023. The amount by which this departure would affect the assets, liabilities, 
+net assets, revenues and expenses has not been determined. 
+ 
+J. Property and Equipment 
+Property and equipment include equipment and a vehicle and are presented at cost or donated value. 
+These assets are depreciated using the straight-line method over estimated useful lives ranging from 
+three to seven years. The Company capitalizes all expenditures in excess of $5,000 for property and 
+equipment at cost, while donations of property and equipment are recorded at their estimated fair 
+values. Such donations are reported as unrestricted support unless the donor has restricted the 
+donated asset to a specific purpose. Assets donated with explicit restrictions regarding their use and 
+contributions of cash that must be used to acquire property and equipment are reported as restricted 
+support. Absent donor stipulations regarding how long those donated assets must be maintaining, the 
+Company reports expirations of donor restrictions when the donated or acquired assets are placed in 
+service as instructed by the donor. The Company reclassi fies net assets with donor restrictions to net 
+assets without donor restrictions at that time. Maintenance, repairs and minor renewals are charged to 
+operations as incurred.
+===== PAGE 15 =====
+SPRINGBOARD CDFI 
+NOTES TO FINANCIAL STATEMENTS  
+December 31, 2024 and 2023 
+ 
+ 
+-13- 
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+K. Functional Expenses  
+The Company allocates its expenses on a functional basis among its various programs and supporting 
+services. Expenditures which can be identified with a specific program or support services are allocated 
+directly, according to their natural expenditure cl assification. Costs that are common to several 
+functions are allocated among the program and supporting services on the basis of time records, space 
+utilized and estimates made by the Company’s management. 
+L. Income Taxes  
+The Company is exempt from federal and State income tax under Section 501(c)(3) of the Internal 
+Revenue Code (IRC) and Section 23701(d) of the California Tax Code. Consequently, the 
+accompanying financial statements do not reflect any provision for income taxes. The Company uses 
+the same accounting methods for tax and financial reporting. 
+Tax matters are subject to some degree of uncertainty and there can be no assurance that the 
+Company’s tax returns will not be challenged by taxing authorities and that the Company or its members 
+will not be subject to additional tax, penalties, and interest as a result of such challenges. Generally, 
+the Company’s tax returns remain open for three years for federal income tax examination and four 
+years for California state income tax examination. Management has determined that the Company does 
+not have any uncertain tax positions and associated unrecognized benefits that materially impact the 
+financial statements or related disclosures. 
+M. Compensated Absences 
+Accumulated unpaid vacation totaled $16,372 and $16,751 at December 31, 2024 and 2023, 
+respectively. Accumulated unpaid vacation is accrued when incurred and included in accrued 
+expenses. 
+N. Subsequent Events 
+Subsequent events are events or transactions that occur after the statement of net position date, but 
+before financial statements are available to be issued. The Company recognizes in the financial 
+statements the effects of all subsequent events that provide additional evidence about conditions that 
+existed at the date of the statement of net position, including the estimates inherent in the process of 
+preparing the financial statements. The Company's fi nancial statements do not recognize subsequent 
+events that provide evidence about conditions that did not exist at the date of the statement of net 
+position but arose after the statement of net position date and before the financial statements were 
+available to be issued. The Company has evaluated subsequent events through March 28, 2025 which 
+is the date the financial statements were available to be issued.
+===== PAGE 16 =====
+SPRINGBOARD CDFI 
+NOTES TO FINANCIAL STATEMENTS  
+December 31, 2024 and 2023 
+ 
+ 
+-14- 
+3. LOANS RECEIVABLE 
+Loans receivable as of December 31, 2024 consisted of the following: 
+Interest Rates Loan Term 2024
+CalHome Revolving Loan Fund 3.000% 30 years 4,368,441 $    
+Springboard to Homeownership 6.875% 30 years 9,600              
+NeighborWorks 3.000% 10 years 2,888              
+Loans receivable, net 4,380,929$    
+Loan Program
+ 
+ 
+Loans receivable as of December 31, 2023 consisted of the following: 
+Interest Rates Loan Term 2023
+CalHome Revolving Loan Fund 3.000% 30 years 4,153,518 $   
+NeighborWorks 3.000% 10 years 2,888             
+Loans receivable, net 4,156,406$   
+Loan Program
+ 
+ 
+4. NOTES PAYABLE 
+Economic Injury Disaster Loan 
+As of December 31, 2021, the Company received $147,443 in loan proceeds under the Small Business 
+Administration COVID-19 Economic Injury Disaster Loan (EIDL). The EIDL is a long-term, direct loan from 
+the SBA to meet financial obligations and operating ex penses that could have been met had the disaster 
+not occurred. The loan has an interest rate of 2.75% and is payable over 30 years. Each payment will be 
+applied first to interest accrued to the date of receipt of each payment, and the balance, if any, will be 
+applied to principal. The loan payments began in December 2022, which was thirty months from the date 
+of the promissory note. Accrued interest related to this loan was $1,519 and $5,575 at December 31, 2024 
+and 2023, respectively. 
+Principal payments on the notes payable as
+ of December 31, 2024 are as follows: 
+Years Ending December 31, Amount
+2025 2,557
+2026 4,179                
+2027 4,295                
+2028 4,415                
+2029 4,538                
+Thereafter 130,016            
+150,000$          
+ 
+ 
+5. LINE OF CREDIT 
+During 2022, the Company obtained a revolving credit facility from Springboard Social Enterprises for 
+$500,000. All sums advanced on the line of credit are interest-free from the date of each advance is made 
+until paid in full on the maturity date of December 31, 2025. The outstanding balance as of December 31, 
+2024 and 2023 was $197,307 and $207,307, respectively. The Company and Springboard Social 
+Enterprises have one board member in common.
+===== PAGE 17 =====
+SPRINGBOARD CDFI 
+NOTES TO FINANCIAL STATEMENTS  
+December 31, 2024 and 2023 
+ 
+ 
+-15- 
+6. LIQUIDITY AND AVAILABILITY OF RESOURCES 
+The Company has the following financial assets available to meet cash needs for general expenditures, 
+liabilities, and other obligations during the next year: 
+2024 2023
+Financial assets at year end:
+Cash 3,310,278 $ 3,406,280 $ 
+Accounts receivable 14,733  5,000  
+Total Financial Assets Available 3,325,011  3,411,280  
+Amounts not available to be used within one year:
+Restricted by donor with purpose restrictions (2,731,731)         (3,271,841)         
+Financial assets available to meet general 
+expenditures over the next twelve months 593,280 $ 139,439 $ 
+ 
+The Company’s liquidity management includes a policy to structure its financial assets to be available for 
+general expenditures as they come due.   
+7. LICENSE AGREEMENT  
+The Company has a license agreement with an affordable apartment complex where it provides an 
+incubator program to empower families to achi eve home ownership. As part of the agreement, the 
+Company is allowed to occupy office space within the complex. The Company pays the complex $1 monthly 
+ending in February 2025. 
+8. RETIREMENT PLAN 
+The Company’s eligible employees participate in Spri ngboard Social Enterprises 401(k) retirement plan 
+(the "Plan") under the management services agreement. The Plan allows for employee contributions to the 
+Plan up to the maximum amount allowed by the Internal Revenue Code. A component of the Plan is a safe 
+harbor matching contribution that states the Company will make a matching contribution on the employee's 
+behalf when a "matched employee contribution" is made during the Plan Year. A "matched employee 
+contribution" is any elective deferral contribution or catch-up contribution made. The Company provides 
+matching contributions up to 100% of the first 3% of employee compensation and 50% of the next 2% of 
+employee compensation. In compliance with the Plan' s safe harbor matching contribution, the Company 
+contributed $5,757 and $3,226 for the years ended December 31, 2024 and 2023, respectively. 
+9. SERVICE AGREEMENT 
+The Company has a service agreement with another tax-exempt nonprofit organization that provides 
+certain administrative functions including financ e and accounting, human resources, risk management, 
+information technology, and other services in exchange for reimbursement of actual expenses. The 
+Company and Springboard Social Enterprises have one board member in common. The Company had 
+management fee expense of $64,260 and $53,846 for the years ended December 31, 2024 and 2023, 
+respectively. The Company had accounts payable to the organization in the amount $1,680 and $138 at 
+December 31, 2024 and 2023, respectively.
+===== PAGE 18 =====
+SPRINGBOARD CDFI 
+NOTES TO FINANCIAL STATEMENTS  
+December 31, 2024 and 2023 
+ 
+ 
+-16- 
+10. CONCENTRATIONS  
+The Company maintains its cash balances in financial institutions that are insured by the Federal Deposit 
+Insurance Corporation (FDIC) up to $250,000. At various times, there were balances in the bank that were 
+over the FDIC limit. The Company had approximately $3,056,644 and $3,021,841 in excess of insured 
+limits at December 31, 2024 and 2023, respectively. The Company has not experienced any loss in such 
+accounts and believes it is not exposed to any significant credit risk on its cash balances. 
+11. NET ASSETS  
+All assets related to the CalHome program are generally restricted for the program’s purpose. Per the 
+CalHome program agreement, the Company can rel ease amounts from restriction equal to the annual 
+activity delivery fees charged each year. The Company released from restriction, income in the amounts 
+of $388,130 and $164,603 for the years ended December 31, 2024 and 2023, respectively. 
+Net assets with donor restrictions at December 31, 2024 and 2023 are available for the CalHome program: 
+2024 2023
+CalHome Revolving Loan Fund 4,378,041          4,153,518          
+CalHome interest receivable 1,402,699          1,345,319          
+Restricted cash - CalHome Reuse Fund 2,731,731          3,271,841          
+Total 8,512,471$       8,770,678 $       
+ 
+12. EMPOYEE RETENTION CREDIT 
+The ERC, a credit against certain payroll taxes allowed to an eligible employer for qualifying wages, was 
+established by the Coronavirus Aid, Relief, and Economic Security (CARES) Act and further amended by 
+the Consolidated Appropriations Act (CAA) and the American Rescue Plan (ARP). The ERC was 
+accounted for under Accounting Standards Update (ASU) Subtopic 958-605, “Contributions Received and 
+Contributions Made”. The ERC is considered a c onditional grant and was recognized as contribution 
+revenue for the year ended December 31, 2023. The Company received and recognized $36,197 of 
+revenues related to the ERC for the year ended December 31, 2023. 

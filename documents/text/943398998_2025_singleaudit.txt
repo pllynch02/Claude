@@ -1,0 +1,1714 @@
+
+===== PAGE 1 =====
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COMMUNITY HOUSING CAPITAL, INC. 
+ 
+FINANCIAL REPORT 
+ 
+SEPTEMBER 30, 2025 
+ 
+===== PAGE 2 =====
+ 
+mjcpa.com 
+ 
+ 
+ 
+ 
+Contents 
+Independent Auditor’s Report 1-2 
+Financial Statements 
+ Statements of financial position 3 
+ Statements of activities 4-5 
+ Statements of cash flows 6 
+ Notes to financial statements 7-25 
+Supplementary Information 
+ Schedule of financial position by type 26 
+ Schedule of activities by type 27 
+Independent Auditor’s Report on Internal Control over Financial Reporting and on Compliance and  
+ Other Matters Based on an Audit of Financial Statements Performed in Accordance with  
+ Government Auditing Standards 28 
+Independent Auditor’s Report on Compliance for Each Major Program and on Internal Control over  
+ Compliance Required by the Uniform Guidance 29-31 
+Schedule of Expenditures of Federal Awards 32 
+Notes to Schedule of Expenditures of Federal Awards 33 
+Schedule of Findings and Questioned Costs 34 
+Summary Schedule of Prior Audit Findings 35 
+ 
+===== PAGE 3 =====
+ 
+200 GALLERIA PARKWAY S.E., SUITE 1700 • ATLANTA, GA 30339-5946 • 770-955-8600 • 800-277-0080 • FAX 770-980-4489 • www.mjcpa.com 
+MEMBERS OF THE AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS 
+ 
+ 
+Independent Auditor’s Report 
+ 
+To the Board of Directors 
+Community Housing Capital, Inc.  
+Decatur, Georgia 
+ 
+Report on the Audit of the Financial Statements 
+Opinion 
+We have audited the accompanying financial statements of Community Housing Capital, Inc., (the “Organization”) a 
+nonprofit public benefit corporation, which comprise the statements of financial position as of September 30, 2025 and 
+2024, and the related statements of activities and cash flows for the years then ended, and the related notes to the 
+financial statements. 
+In our opinion, the financial statements present fairly, in all material respects, the financial position of Community Housing 
+Capital, Inc. as of September 30, 2025 and 2024, and the changes in their net assets and their cash flows for the years 
+then ended in accordance with accounting principles generally accepted in the United States of America. 
+Basis for Opinion 
+We conducted our audits in accordance with auditing standards generally accepted in the United States of America and 
+the standards applicable to financial audits contained in Government Auditing Standards, issued by the Comptroller General 
+of the United States. Our responsibilities under those standards are further described in the Auditor’s Responsibilities for 
+the Audit of the Financial Statements section of our report. We are required to be independent of Community Housing 
+Capital, Inc. and to meet our other ethical responsibilities, in accordance with the relevant ethical requirements relating 
+to our audit. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our 
+audit opinions. 
+Responsibilities of Management for the Financial Statements 
+Management is responsible for the preparation and fair presentation of the financial statements in accordance with 
+accounting principles generally accepted in the United States of America, and for the design, implementation, and 
+maintenance of internal control relevant to the preparation and fair presentation of financial statements that are free 
+from material misstatement, whether due to fraud or error. 
+In preparing the financial statements, management is required to evaluate whether there are conditions or events, 
+considered in the aggregate, that raise substantial doubt about Community Housing Capital, Inc.’s ability to continue as a 
+going concern within one year after the date that the financial statements are available to be issued. 
+Auditor’s Responsibilities for the Audit of the Financial Statements 
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from 
+material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. 
+Reasonable assurance is a high level of assurance but is not absolute assurance and therefore is not a guarantee that an 
+audit conducted in accordance with generally accepted auditing standards and Government Auditing Standards will always 
+detect a material misstatement when it exists. The risk of not detecting a material misstatement resulting from fraud is 
+higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, 
+misrepresentations, or the override of internal control. Misstatements are considered material if there is a substantial 
+likelihood that, individually or in the aggregate, they would influence the judgment made by a reasonable user based on 
+the financial statements. 
+
+===== PAGE 4 =====
+ 
+mjcpa.com 
+ 
+Page 2 of 35 
+In performing an audit in accordance with generally accepted auditing standards and Government Auditing Standards, we: 
+ Exercise professional judgment and maintain professional skepticism throughout the audit. 
+ Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, 
+and design and perform audit procedures responsive to those risks. Such procedures include examining, on a 
+test basis, evidence regarding the amounts and disclosures in the financial statements. 
+ Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are 
+appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of 
+Community Housing Capital, Inc.'s internal control. Accordingly, no such opinion is expressed. 
+ Evaluate the appropriateness of accounting policies used and the reasonableness of significant accounting 
+estimates made by management, as well as evaluate the overall presentation of the financial statements. 
+ Conclude whether, in our judgment, there are conditions or events, considered in the aggregate, that raise 
+substantial doubt about Community Housing Capital, Inc.'s ability to continue as a going concern for a reasonable 
+period of time. 
+We are required to communicate with those charged with governance regarding, among other matters, the planned scope 
+and timing of the audit, significant audit findings, and certain internal control related matters that we identified during 
+the audit. 
+Supplementary Information 
+Our audit was conducted for the purpose of forming an opinion on the financial statements as a whole.  The accompanying 
+supplementary information shown on pages 26 to 27 is presented for purposes of additional analysis and is not a required 
+part of the financial statements.  The accompanying schedule of expenditures of federal awards, as required by Title 2 
+U.S. Code of Federal Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for 
+Federal Awards, is presented for purposes of additional analysis and is not a required part of the financial statements. 
+Such information is the responsibility of management and was derived from and relates directly to the underlying 
+accounting and other records used to prepare the financial statements. The information has been subjected to the 
+auditing procedures applied in the audit of the financial statements and certain additional procedures, including 
+comparing and reconciling such information directly to the underlying accounting and other records used to prepare the 
+financial statements or to the financial statements themselves, and other additional procedures in accordance with 
+auditing standards generally accepted in the United States of America. In our opinion, the information is fairly stated, in 
+all material respects, in relation to the financial statements as a whole. 
+Other Reporting Required by Government Auditing Standards 
+In accordance with Government Auditing Standards, we have also issued our report dated December 15, 2025, on our 
+consideration of Community Housing Capital, Inc.’s internal control over financial reporting and on our tests of its 
+compliance with certain provisions of laws, regulations, contracts, and grant agreements and other matters.  The purpose 
+of that report is solely to describe the scope of our testing of internal control over financial reporting and compliance and 
+the results of that testing, and not to provide an opinion on the effectiveness of the Organization’s internal control over 
+financial reporting or on compliance.  That report is an integral part of an audit performed in accordance with Government 
+Auditing Standards in considering Community Housing Capital, Inc.’s internal control over financial reporting and 
+compliance. 
+ 
+ 
+ 
+ 
+Atlanta, Georgia 
+December 15, 2025 
+
+===== PAGE 5 =====
+COMMUNITY HOUSING CAPITAL, INC.
+STATEMENTS OF FINANCIAL POSITION
+SEPTEMBER 30, 2025 AND 2024
+Assets
+Cash $ 10,588,795        $ 10,949,143        
+Restricted cash - borrower funds held in trust 14,226,631        13,426,626        
+    Cash and cash equivalents 24,815,426        24,375,769        
+Equity securities 817,600             780,700             
+Receivables
+    Loans, net (recorded allowance of $3,359,041 and $4,578,488, respectively)168,677,155     175,573,416     
+    Interest 716,067             902,347             
+    Origination and other fees 485,849             91,013               
+    Grants 45,000               45,000               
+Premises and equipment, net 962,607             972,360             
+Prepaid expenses 69,423               63,015               
+Deferred debt costs, net 111,529             143,610             
+Other assets -                           400                     
+          Total assets $ 196,700,656     $ 202,947,630     
+Liabilities and Net Assets
+Accounts payable and accrued expenses $ 5,071,545          $ 1,848,620          
+Interest payable 506,113             513,185             
+Borrower funds held in trust 10,543,848        9,742,556          
+Notes payable 102,820,169     122,925,169     
+Allowance for credit losses for unfunded commitments 814,847             354,258             
+          Total liabilities 119,756,522     135,383,788     
+Net assets:
+    Without donor restrictions 50,430,070        41,259,778        
+    With donor restrictions 26,514,064        26,304,064        
+          Total net assets 76,944,134        67,563,842        
+          Total liabilities and net assets $ 196,700,656     $ 202,947,630     
+See Notes to Financial Statements.
+2025 2024
+Page 3 of 35
+===== PAGE 6 =====
+COMMUNITY HOUSING CAPITAL, INC.
+STATEMENTS OF ACTIVITIES
+FOR THE YEARS ENDED SEPTEMBER 30, 2025 AND 2024
+Revenue and support
+    Interest income $ 12,259,376        $ -  $ 12,259,376
+    Loan origination fees and other income 1,185,863          -  1,185,863
+    Contributed grant revenue 2,500,000          800,000 3,300,000
+    New market tax credit revenue 1,000,000          -  1,000,000
+    Miscellaneous income 15,988               -  15,988
+    Net assets released from restriction 590,000             (590,000) -  
+          Total revenue and support 17,551,227 210,000 17,761,227
+Expenses
+    Program services:
+        Personnel 2,530,282          -  2,530,282
+        Consultants and legal services 401,290             -  401,290
+        Travel and occupancy 237,581             -  237,581
+        Advertising and promotion 129,616             -  129,616
+        Conferences and meetings 44,784               -  44,784
+        Miscellaneous 1,409                  -  1,409
+        Interest 3,793,906          -  3,793,906
+        Provision (credit) for credit losses (764,066)            -  (764,066)
+        Foreclosed properties expense 1,301                  -  1,301
+6,376,103          -  6,376,103
+    Supporting services:
+        Personnel 1,486,039          -  1,486,039
+        Management and general 366,682             -  366,682
+        Audit and accounting 107,742             -  107,742
+        Depreciation 44,369               -  44,369
+2,004,832          -  2,004,832
+          Total expenses 8,380,935 -  8,380,935
+Change in net assets 9,170,292 210,000 9,380,292
+Net assets, beginning of year 41,259,778 26,304,064 67,563,842
+Net assets, end of year $ 50,430,070 $ 26,514,064 $ 76,944,134
+See Notes to Financial Statements.
+2025
+With Donor
+Restrictions Restrictions Total
+Without Donor  
+Page 4 of 35
+===== PAGE 7 =====
+COMMUNITY HOUSING CAPITAL, INC.
+STATEMENTS OF ACTIVITIES
+FOR THE YEARS ENDED SEPTEMBER 30, 2025 AND 2024
+Revenue and support
+    Interest income $ 10,398,814        $ -  $ 10,398,814
+    Loan origination fees and other income 732,836             -  732,836
+    Contributed grant revenue 2,500,000          -  2,500,000
+    New market tax credit revenue 625,000             -  625,000
+    Miscellaneous income 2,000                  -  2,000
+    Net assets released from restriction 2,476,265          (2,476,265) -  
+          Total revenue and support 16,734,915 (2,476,265) 14,258,650
+Expenses
+    Program services:
+        Personnel 2,336,417          -  2,336,417
+        Consultants and legal services 200,320             -  200,320
+        Travel and occupancy 363,419             -  363,419
+        Advertising and promotion 49,234               -  49,234
+        Conferences and meetings 17,929               -  17,929
+        Miscellaneous 1,460                  -  1,460
+        Interest 2,461,463          -  2,461,463
+        Provision for credit losses 1,661,337          -  1,661,337
+        Foreclosed properties expense 8,197                  -  8,197
+7,099,776          -  7,099,776
+    Supporting services:
+        Personnel 1,372,181          -  1,372,181
+        Management and general 353,097             -  353,097
+        Audit and accounting 155,767             -  155,767
+        Depreciation 26,117               -  26,117
+1,907,162          -  1,907,162
+          Total expenses 9,006,938 -  9,006,938
+Change in net assets 7,727,977 (2,476,265) 5,251,712
+Net assets, beginning of year 33,531,801 28,780,329 62,312,130
+Net assets, end of year $ 41,259,778 $ 26,304,064 $ 67,563,842
+See Notes to Financial Statements.
+2024
+Without Donor  With Donor
+Restrictions Restrictions Total
+Page 5 of 35
+===== PAGE 8 =====
+OPERATING ACTIVITIES
+    Change in net assets $ 9,380,292          $ 5,251,712          
+    Adjustments to reconcile change in net assets to net cash
+        provided by operating activities:
+        Depreciation 44,369               26,117               
+        Provision (credit) for credit losses (764,066)            1,661,337          
+        (Increase) decrease in assets:
+            Interest receivable 186,280             (369,390)            
+            Prepaid expenses (6,408)                (3,433)                
+            Deferred debt costs 32,081               55,249               
+            Origination and other fees receivable (394,837)            109,712             
+            Other assets 400                    -                          
+        Increase (decrease) in liabilities:
+            Accounts payable and accrued expenses 3,222,925          228,485             
+            Interest payable (7,072)                246,965             
+            Borrower funds held in trust 801,292             4,354,631          
+              Net cash provided by operating activities 12,495,256       11,561,385       
+INVESTING ACTIVITIES
+    Increase in equity securities (36,900)              (3,200)                
+    Net decrease (increase) in loans 8,120,916          (41,936,684)      
+    Purchase of premises and equipment (34,615)              (83,498)              
+            Net cash provided by (used in) investing activities 8,049,401          (42,023,382)      
+FINANCING ACTIVITIES
+    Proceeds from notes payable 10,000,000       64,500,000       
+    Repayment of notes payable (30,105,000)      (25,788,875)      
+            Net cash provided by (used in)  financing activities (20,105,000)      38,711,125       
+Net increase in cash and cash equivalents 439,657             8,249,128          
+Cash and cash equivalents, beginning of year 24,375,769       16,126,641       
+Cash and cash equivalents, end of year $ 24,815,426       $ 24,375,769       
+Cash $ 10,588,795 $ 10,949,143
+Restricted cash - borrower funds held in trust 14,226,631 13,426,626
+Cash and cash equivalents, end of year $ 24,815,426 $ 24,375,769
+SUPPLEMENTARY INFORMATION
+        Cash paid for interest $ 3,800,978          $ 2,214,498          
+See Notes to Financial Statements.
+2025 2024
+COMMUNITY HOUSING CAPITAL, INC.
+STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED SEPTEMBER 30, 2025 AND 2024
+Page 6 of 35
+===== PAGE 9 =====
+ 
+Page 7 of 35 
+NOTES TO FINANCIAL STATEMENTS 
+ 
+ 
+NOTE 1. NATURE OF ORGANIZATION AND SIGNIFICNT ACCOUNTING POLICIES 
+Nature of Organization 
+Community Housing Capital, Inc. (CHC) was incorporated in California on November 7, 2000 and is a not-
+for-profit corporation that combines private and public capital to make loans to NeighborWorks® network 
+organizations.  NeighborWorks® is a national network of local not-for-profit affordable housing 
+organizations. 
+CHC’s mission is to provide equitable access to capital that is transformative for NeighborWorks 
+organizations and their communities and was incorporated to develop and enhance the social, economic, 
+and charitable welfare of under-served residents of inner-city neighborhoods, as well as suburban and 
+rural communities across the country.  CHC’s target market is designated as the low to moderate-income 
+population and workforce within communities across the nation as defined by its Community 
+Development Financial Institution (CDFI) certification. CHC reaches this target market exclusively through 
+the NeighborWorks® network organization customer base. 
+CHC provides primarily single-family, multifamily, and interim real estate acquisition, construction and 
+development financing to NeighborWorks® network organizations.  With respect to development services, 
+CHC also provides technical assistance to NeighborWorks® network organizations seeking financing. 
+Basis of Presentation 
+The financial statements have been prepared on the accrual basis of accounting, which recognizes income 
+in the period earned and expenses when incurred, regardless of the timing of payments.   
+Estimates 
+The preparation of financial statements in conformity with accounting principles generally accepted in the 
+United States of America (GAAP) requires management to make estimates and assumptions that affect 
+certain reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the 
+date of the financial statements and the reported amounts of revenue and expenses during the reported 
+period.  Actual results could differ from those estimates. 
+Cash and Cash Equivalents 
+Cash is defined as cash in demand deposit accounts as well as cash on hand.  Cash equivalents are 
+short term, highly liquid investments that are readily convertible to known amounts of cash.  CHC 
+maintains its cash in bank deposit accounts which, at times, may exceed federally insured limits.  CHC has 
+not experienced any losses in such accounts.  CHC believes it is not exposed to any significant credit risk 
+on cash. 
+Revenue Recognition and Donor-Imposed Restrictions 
+In accordance with ASC 958-605, Accounting for Contributions Received and Contributions Made, 
+unconditional promises to give cash and other assets are reported at fair value at the date the promise is 
+received.  All contributions and investment income are available for use without donor restriction unless 
+specifically restricted by the donor.  Amounts received that are designated for future periods or restricted 
+by the donor for specific purposes are reported as net assets with donor restriction support that increases 
+the net asset class.  Conditional promises to give are not recognized until they become unconditional; that 
+is, when the conditions on which they depend are substantially met.  Contributions received are recorded 
+as with or without donor restriction support, depending on the existence and/or nature of any donor 
+restrictions.  
+===== PAGE 10 =====
+ 
+Page 8 of 35 
+NOTE 1. NATURE OF ORGANIZATION AND SIGNIFICNT ACCOUNTING POLICIES (CONTINUED) 
+ 
+Revenue Recognition and Donor-Imposed Restrictions (Continued) 
+ 
+Support that is restricted by the donor is reported as an increase in net assets without donor restrictions 
+if the restriction expires in the reporting period in which the support is recognized.  All other donor-
+restricted support is reported as an increase in net assets with donor restrictions, depending on the nature 
+of the restriction.  When a restriction expires (that is, when a stipulated time restriction ends or purpose 
+restriction is accomplished), net assets with donor restrictions are reclassified to net assets without donor 
+restrictions. 
+ 
+Capital grants received from NeighborWorks® America are presented in a manner consistent with GAAP 
+and the grantor’s grant agreement as without donor restriction after first use or with donor restriction 
+grant funds.  Adjustments to the aggregate Capital Fund balance are only made with the consent of the 
+grantor.  The supplemental schedules:  Financial Position by Type (page 28) and Activities by Type (page 29) 
+provide detail reconciliations of NeighborWorks® America Capital Fund grants. 
+ 
+Capital grants are recognized as revenue, as allowed by generally accepted accounting principles, as soon 
+as significant grant conditions are met.   
+ 
+Equity Securities  
+ 
+CHC is a member of the Federal Home Loan Bank system and is required to maintain an investment in the 
+capital stock of the Federal Home Loan Bank of Atlanta (FHLB).  Based on redemption provisions, this stock 
+has no quoted market value and is carried at cost.  At its discretion, the FHLB may declare dividends on 
+the stock.  Management reviews for impairment based on the ultimate recoverability of the cost basis in 
+the stock.  As of September 30, 2025 and 2024, the cost basis of these securities is $808,100 and $775,200, 
+respectively, and no impairment has been recognized. 
+ 
+CHC holds a non-controlling interest (0.01%) in sub CDE entities, acquired in 2022 and 2024, related to the 
+new market tax credits.  As of September 30, 2025 and 2024, the cost basis of the securities are $9,500 
+and $5,500, respectively, and no impairment has been recognized.  
+ 
+Loans Receivable  
+ 
+Loans receivable consist of interim, permanent, and other direct loans made to NeighborWorks® network 
+organizations and are carried at their outstanding principal balances, net of an allowance for credit losses.  
+Interest income is accrued on the principal balance.  Origination fees and costs are recognized immediately 
+at the time the loan is originated.  Management has the intent and ability to hold these loans for the 
+foreseeable future or until maturity or payoff. 
+ 
+Accrual of interest is discontinued on loans that become past due 90 days or more and for which collateral 
+is inadequate to cover principal and interest, or immediately if management believes, after considering 
+economic and business conditions and collection efforts, that a borrower’s financial condition is such that 
+partial or full collection is doubtful.  When a loan is placed on nonaccrual status, all previously accrued but 
+uncollected interest is reversed against current period interest income.  Future collections are applied first 
+to principal and then to interest until such loans are brought current, at which time loans may be returned 
+to accrual status. 
+  
+===== PAGE 11 =====
+ 
+Page 9 of 35 
+NOTE 1. NATURE OF ORGANIZATION AND SIGNIFICNT ACCOUNTING POLICIES (CONTINUED) 
+ 
+Allowance for Credit Losses – Loans  
+ 
+CHC adopted Accounting Standards Update (ASU) 2016-13, Financial Instruments – Credit Losses (Topic 326): 
+Measurement of Credit Losses on Financial Instruments effective October 1, 2023, which uses the current 
+expected credit loss (CECL) model to determine the allowance for credit losses (ACL).  
+ 
+The CECL methodology recognizes lifetime expected credit losses immediately when a loan is originated 
+or purchased. The allowance for credit losses is a valuation account that is deducted from the amortized 
+cost basis of loans, excluding interest receivable, to present the net amount expected to be collected on 
+the loans. Loans, or portions thereof, are charged off against the allowance when they are deemed 
+uncollectible. Expected recoveries do not exceed the aggregate of amounts previously charged off and 
+expected to be charged off. 
+ 
+Management estimates the allowance balance using relevant available information, from internal and 
+external sources, relating to past events, current conditions and reasonable and supportable forecasts. 
+Historical credit loss experience provides the basis for the estimation of expected credit losses. 
+Adjustments to historical loss information are made for differences in current loan-specific risk 
+characteristics such as differences in underwriting standards, portfolio mix, credit quality, or term, as well 
+as for changes in macroeconomic conditions, such as changes in unemployment rates, property values or 
+other relevant factors. 
+ 
+The allowance for credit losses is comprised of reserves measured on a collective (pool) basis based on a 
+lifetime loss-rate model when similar risk characteristics exist. For purposes of determining the pool-basis 
+reserve, representing all loans not assigned an individual reserve, loans are segregated by portfolio 
+segment, then by class, to recognize differing risk profiles. Each class is assigned a historical loss rate. 
+These historical loss rates are then modified to incorporate a reasonable and supportable forecast of 
+future losses at the loan class level, as well as any necessary qualitative adjustments. These modified 
+historical loss rates are multiplied by the outstanding principal balance of each loan to calculate a required 
+reserve. The qualitative adjustments are utilized to address factors that are not present in historical loss 
+rates and are otherwise unaccounted for in the quantitative process. Even though portions of the 
+allowance may be allocated to specific loans, the entire allowance is available for any credit that, in 
+management’s judgment, should be charged off. 
+ 
+In the event that collection of principal becomes uncertain, CHC has policies in place to reverse accrued 
+interest in a timely manner. Therefore, CHC has made a policy election to exclude accrued interest from 
+the measurement of ACL. Accrued interest receivable on loans totaled $716,067 and $902,347 at 
+September 30, 2025 and 2024, respectively, and was reported in interest receivable on the statements of 
+financial position and is excluded from the estimate of credit losses. 
+ 
+Expected credit losses are estimated over the contractual term of the loans, adjusted for expected 
+prepayments when appropriate. The contractual term excludes expected extensions, renewals and 
+modifications unless the extension or renewal options are included in the original or modified contract at 
+the reporting date and are not unconditionally cancellable by CHC.  
+ 
+Loans that do not share risk characteristics are evaluated on an individual basis. Loans evaluated 
+individually are not also included in the collective evaluation. When management determines that 
+foreclosure is probable or when the borrower is experiencing financial difficulty, and repayment is 
+expected to be provided substantially through the operation or sale of the collateral, expected credit losses 
+are based on the difference between the fair value of the collateral and the amortized cost basis of the 
+asset as of the measurement date. Fair value is generally calculated based on the value of the underlying 
+collateral less estimated selling costs. 
+  
+===== PAGE 12 =====
+ 
+Page 10 of 35 
+NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+Allowance for Credit Losses – Loans (Continued) 
+Off-Balance Sheet Credit Exposure 
+CHC also has off-balance sheet financial instruments, which include unfunded loan commitments.  CHC 
+minimizes these risks through underwriting guidelines and prudent risk management techniques. For off-
+balance sheet instruments, the allowance for credit losses is calculated in accordance with Topic 326, 
+representing expected credit losses over the contractual period for which CHC is exposed to credit risk 
+resulting from a contractual obligation to extend credit. No allowance is recognized if CHC has the 
+unconditional right to cancel the obligation. The allowance is reported as a component of other liabilities 
+within the statements of financial position. Adjustments to the allowance for credit losses for unfunded 
+commitments are reported in the statements of activities as a component of provision (credit) for credit 
+losses expense. At September 30, 2025 and 2024, $814,847 and $354,258, respectively, in allowance for 
+credit losses has been recognized on off-balance sheet financial instruments and reported in other 
+liabilities. 
+Premises and Equipment 
+Premises and equipment is carried at cost less accumulated depreciation.  CHC capitalizes significant 
+purchases of fixed assets and all expenditures for repairs, maintenance, renewals and betterments that 
+prolong the useful lives of assets.  Depreciation is computed by the straight-line method over the estimated 
+useful life of the assets which is 39 years for premises and 3 to 7 years for equipment. 
+Deferred Debt Costs 
+Deferred debt costs are costs relating to credit note payable agreements and are being amortized using 
+the straight-line method over the life of the notes payable.  Accounting Standards Update (ASU) No. 2015-
+03, Presentation and Subsequent Measurement of Debt Issuance Coasts Associated with Line-of-Credit 
+Arrangements, provides guidance that permits an entity to record debt issuance costs related to a line-of--
+credit or revolving-debt arrangements as an other asset, provided that the entity has a recognized debt 
+liability for amount outstanding under the arrangement.  Deferred debt costs are recorded in other assets 
+for the years ended September 30, 2025 and 2024.  
+Transfers of Financial Assets 
+Transfers of financial assets are accounted for as sales when control over the assets has been surrendered.  
+Control over transferred assets is deemed to be surrendered when (1) the assets have been isolated from 
+CHC, (2) the transferee obtains the right (free of conditions that constrain it from taking advantage of that 
+right) to pledge or exchange the transferred assets, and (3) CHC does not maintain effective control over 
+the transferred assets through an agreement to repurchase them before maturity.  As of 
+September 30, 2025, and 2024, all of CHC’s loan participation arrangements, for which CHC retains the 
+servicing, qualify as sales of financial assets, and each is sold on a nonrecourse basis. 
+Income Taxes 
+CHC qualifies as a charitable organization as defined by Internal Revenue Code Section 501(c)(3) and, 
+accordingly, is generally exempt from federal income taxes under Internal Revenue Code Section 501(a).  
+CHC is however required to file Federal Form 990 – Return of Organization Exempt from Income Tax.  This 
+is an informational return only.  Accordingly, no provision for income taxes is made in the financial 
+statements.  Management evaluated CHC’s tax positions and concluded that CHC had taken no uncertain 
+tax positions that require adjustment to the financial statements to comply with the provisions on 
+accounting for uncertainty in income taxes. 
+  
+===== PAGE 13 =====
+ 
+Page 11 of 35 
+NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+ 
+Functional Expense Allocation 
+ 
+The costs of providing CHC’s various programs have been summarized on a functional basis in the 
+statements of activities on the basis of specific identification of time spent by personnel.  Accordingly, 
+certain costs have been allocated among the programs and supporting services benefited based on a 
+reasonable estimate of time spent by relevant employees.  CHC does not have any fundraising costs for 
+the years ended September 30, 2025 or 2024.  
+ 
+ 
+NOTE 2. LIQUIDITY 
+ 
+Financial assets available for general expenditure, that is, without donor or other restrictions limiting their 
+use, within one year of the statement of financial position date, comprise the following:  
+ 
+  September 30, 
+  2025  2024 
+        Cash and cash equivalents – without donor restrictions $  4,909,911  $  8,587,338 
+  $  4,909,911  $  8,587,338 
+ 
+CHC manages its liquidity by developing annual budgets that provide sufficient funds for general 
+expenditures in meeting its liabilities and other obligations as they become due.  Cash needs for CHC are 
+expected to be met on a monthly basis with interest income on loans and origination fees on new loans. 
+ 
+ 
+NOTE 3. RESTRICTED CASH 
+ 
+Restricted cash consists of the following as of September 30: 
+ 
+  2025  2024 
+        Borrower funds held in trust (Note 7) $  10,543,848  $  9,743,843 
+ Pledged Cash  3,682,783    3,682,783  
+  $  14,226,631  $  13,426,626 
+ 
+  
+===== PAGE 14 =====
+ 
+Page 12 of 35 
+NOTE 4. LOANS RECEIVABLE AND ALLOWANCE FOR CREDIT LOSSES 
+ 
+Portfolio Segments and Classes 
+ 
+The composition of loans is summarized as follows: 
+ 
+  September 30, 
+  2025  2024 
+ Real estate      
+ Predevelopment/Bridge $  17,758,134  $  19,553,640 
+ Acquisition – land and buildings  86,593,903    101,584,709  
+ Construction – 1-4 and multifamily  16,987,536    15,372,187  
+ Permanent mortgage – multifamily rental  50,027,191    42,842,321  
+ Permanent mortgage – 1-4 family direct serviced  669,432    799,047  
+ Total loans, gross  172,036,196    180,151,904 
+ Less      
+ Allowance for credit losses  3,359,041    4,578,488  
+ Loans, net $  168,677,155  $  175,573,416 
+ 
+Loans receivable consist of notes with interest rates ranging from 1.50% to 10.50% as of 
+September 30, 2025.  CHC’s loans are primarily secured by real estate and, as such, are particularly 
+sensitive to the valuation of the related properties. 
+ 
+For purposes of the disclosures required pursuant to ASC 310, the loan portfolio was disaggregated into 
+segments and then further disaggregated into classes for certain disclosures.  A portfolio segment is 
+defined as the level at which an entity develops and documents a systematic method for determining its 
+allowance for credit losses.  There are four loan portfolio segments that include predevelopment loans, 
+acquisition, construction loans, and permanent mortgage.  A class is generally determined based on the 
+initial measurement attribute, risk characteristic of the loan, and CHC’s method for monitoring and 
+assessing credit risk.  Acquisition loans and construction loans are separate classes within the acquisition 
+and construction segment and multifamily rental loans and 1-4 family direct serviced loans are classes 
+within the permanent mortgage segment.  The predevelopment loans are not further segregated by class. 
+ 
+The following describe key characteristics relevant to each of the portfolio segments.   
+ The predevelopment/bridge loan portfolio segment is comprised of loans which are typically 
+unsecured or secured by other than Real Estate.  These loans typically finance very early-stage real 
+estate development expenses that are incurred during the financial / product feasibility stage.  Loans 
+are repaid either through the sponsor organization’s cashflow, through the initial construction 
+closing and when the subsidy bridge is funded.  Extensions of credit are principally to sponsors who 
+have a strong track record of completing projects as proposed and have sufficient cash on hand to 
+repay, should the proposed project not move forward. 
+ The acquisition and construction loan portfolio segment includes loans to non-profit real estate 
+developers secured by first liens for real estate acquisition of land, operating properties, and 
+construction loans that are repaid based on the plan for the project property.  Repayment in this 
+portfolio segment is principally dependent on the refinance of the loan at the initiation or 
+completion of a construction loan, a re-syndication/reposition of the property, or sale of the 
+property.  
+  
+===== PAGE 15 =====
+ 
+Page 13 of 35 
+NOTE 4. LOANS RECEIVABLE AND ALLOWANCE FOR CREDIT LOSSES (CONTINUED) 
+ 
+Portfolio Segments and Classes (Continued) 
+ The permanent mortgage portfolio segment includes loans secured by first liens on multifamily 
+rental properties and loans secured by first and junior liens on 1-4 family residential properties.  
+Multifamily rental properties are repaid principally from the rental income derived from the 
+property with the borrower’s income or sale of the property as a secondary source of repayment.  
+Mortgage loans secured by 1-4 family residential properties are repaid principally from the 
+borrower’s income, with the sale of the property as a secondary source of repayment. 
+ 
+Credit Risk Management 
+ 
+The loan department, credit department and the executive management team as a whole are involved in 
+the credit risk management process and assess the accuracy of loan risk ratings, the quality of the portfolio 
+and the estimation of inherent credit losses in the loan portfolio.  This process also assists in the prompt 
+identification of problem credits.  CHC has implemented many processes and procedures to manage the 
+portfolios and reduce risk.  All extensions of credit, depending on the amount, are approved by the Staff 
+Loan Committee or the Loan Committee as per policy.  
+ 
+CHC’s credit risk management process includes defined policies, accountability and routine reporting to 
+manage credit risk in the loan portfolio segments.  Credit risk management is guided by loan policies that 
+provide for a consistent and prudent approach to underwriting and approvals of credits.  All CHC originated 
+loans are individually underwritten, risk-rated, approved, and monitored. 
+ 
+Responsibility and accountability for adherence to underwriting policies and accurate risk ratings lies with 
+the credit risk management function.  The risk management process focuses on managing customers who 
+become delinquent in their payments.  To ensure problem credits are identified on a timely basis, 
+independent loan reviews are performed to assess the adversely rated credits for proper risk rating and 
+accrual status and, if necessary, to ensure such individual credits are properly graded by management.  All 
+loans are graded on a five-point scale and reviewed during monthly Credit Quality meetings for compliance 
+with the defined risk grade criteria. 
+ 
+Credit quality in the loan portfolio is measured and monitored monthly.  Trends in the loan portfolio and 
+detailed reports by product, past due status, grade and accrual status are reviewed quarterly by executive 
+management, Loan Committee and the Board of Directors.   
+ 
+A description of the general characteristics of the risk grades used by CHC in its credit risk management 
+process is as follows: 
+ Pass - includes loans with low or average risk qualities where the probability of default is considered 
+low. 
+ Monitored - includes loans which are considered collectible at present, but have credit weaknesses 
+which, if not addressed, could deteriorate into serious credit problems.  This classification signifies 
+the first sign of a loan problem ranging from adverse financial trends to major technical deficiencies.  
+These loans may also be designated to identify potential weaknesses associated with large, complex 
+or early development stage credits requiring intense supervision. 
+ Impaired - includes loans with credit weaknesses or collateral deficiency such that repayments as 
+originally contemplated are no longer assured.  Intensive and constructive loan supervision is 
+necessary to effect collection.  The credit risk in this situation relates to the possibility of loss of 
+principal or interest.  An impairment analysis is performed and a reserve set aside as appropriate. 
+  
+===== PAGE 16 =====
+ 
+Page 14 of 35 
+NOTE 4. LOANS RECEIVABLE AND ALLOWANCE FOR CREDIT LOSSES (CONTINUED) 
+ 
+Credit Risk Management (Continued) 
+ 
+The following table summarizes the risk category of CHC’s loan portfolio by class as of September 30, 2025: 
+  Pass  Monitored  Impaired  Total  Real estate            
+ Predevelopment/Bridge $ 17,758,134  $ - $ -  $ 17,758,134  Acquisition – land and buildings  80,593,903   6,000,000   -   86,593,903  Construction – 1-4 and multifamily  16,987,536   -   -   16,987,536  Permanent mortgage – multifamily rental  50,027,191   -   -   50,027,191 
+ Permanent mortgage – 1-4 family direct 
+serviced 
+ 
+669,432 
+  
+-   - 
+  
+669,432  Total $ 166,036,196  $ 6,000,000  $ -  $ 172,036,196 
+ 
+The following table summarizes the risk category of CHC’s loan portfolio by class as of September 30, 2024: 
+  Pass  Monitored  Impaired  Total  Real estate            
+ Predevelopment/Bridge $ 19,553,640  $ - $ -  $ 19,553,640  Acquisition – land and buildings  89,209,709   12,375,000   -   101,584,709  Construction – 1-4 and multifamily  15,372,187   -   -   15,372,187  Permanent mortgage – multifamily rental  42,842,321   -   -   42,842,321 
+ Permanent mortgage – 1-4 family direct 
+serviced 
+ 
+799,047 
+  
+-   - 
+  
+799,047  Total $ 167,776,904  $ 12,375,000  $ -  $ 180,151,904 
+ 
+Collateral Dependent Loans 
+ 
+CHC classifies a loan as collateral dependent when the borrower is experiencing financial difficulty, and 
+expected repayment is to be provided substantially through the operation or sale of collateral. The 
+following table summarizes collateral dependent loans, which are individually evaluated to determine 
+expected credit losses, as of September 30, 2025 and 2024, under CECL: 
+  Real Estate  Other  Total  ACL 
+ September 30, 2025            
+ Real estate            
+ Predevelopment/Bridge $ -  $ -  $ -  $ - 
+ Acquisition – land and buildings  6,000,000   -   6,000,000   600,000 
+ Construction – 1-4 and multifamily   -   -   -   - 
+ Permanent mortgage – multifamily rental  -   -   -   - 
+ Permanent mortgage – 1-4 family direct 
+serviced  -   -   -   - 
+ Total $ 6,000,000  $ -  $ 6,000,000  $ 600,000 
+ 
+ September 30, 2024            
+ Real estate            
+ Predevelopment/Bridge $ -  $ -  $ -  $ - 
+ Acquisition – land and buildings  12,375,000   -   12,375,000   1,238,000 
+ Construction – 1-4 and multifamily   -   -   -   - 
+ Permanent mortgage – multifamily rental  -   -   -   - 
+ Permanent mortgage – 1-4 family direct 
+serviced  21,023   -   21,023   21,023 
+ Total $ 12,396,023  $ -  $ 12,396,023  $ 1,259,023 
+  
+===== PAGE 17 =====
+ 
+Page 15 of 35 
+NOTE 4. LOANS RECEIVABLE AND ALLOWANCE FOR CREDIT LOSSES (CONTINUED) 
+ 
+Past Due Loans 
+ 
+A loan is considered past due if any required principal and interest payments have not been received as 
+of the date such payments were required to be made under the terms of the loan agreement.  Generally, 
+accrual of interest is discontinued on loans that become past due 90 days or more and for which collateral 
+is inadequate to cover principal and interest, or immediately if management believes, after considering 
+economic and business conditions and collection efforts, that a borrower’s financial condition is such that 
+collection is doubtful.   
+ 
+The following table presents the aging of the recorded investment in loans by class as of 
+September 30, 2025: 
+    Past Due Status (Accruing Loans)   
+  Current  
+30-89 
+Days  90+ Days  
+Total Past 
+Due  
+Non-
+Accrual  Total 
+ Real estate                  
+ Predevelopment/Bridge $  17,758,134  $ -  $ -  $ -  $ -  $ 17,758,134 
+ Acquisition – land and buildings  80,593,903   -   6,000,000   6,000,000   -   86,593,903 
+ Construction – 1-4 and multifamily  16,987,536   -   -   -   -   16,987,536 
+ Permanent mortgage – multifamily 
+rental 
+ 50,027,191   -   -   -   -   50,027,191 
+ 
+Permanent mortgage – 1-4 family 
+direct serviced  669,432   -   -   -   -   669,432 
+ Total $  166,036,196  $ -  $  6,000,000  $ 6,000,000  $ -  $ 172,036,196 
+ 
+The following table presents the aging of the recorded investment in loans by class as of 
+September 30, 2024: 
+ 
+    Past Due Status (Accruing Loans)   
+  Current  
+30-89 
+Days  90+ Days  
+Total Past 
+Due  
+Non-
+Accrual  Total 
+ Real estate                  
+ Predevelopment/Bridge $  19,553,640  $ -  $ -  $ -  $ -  $ 19,553,640 
+ Acquisition – land and buildings  101,584,709   -   -   -   -   101,584,709 
+ Construction – 1-4 and multifamily  15,372,187   -   -   -   -   15,372,187 
+ Permanent mortgage – multifamily 
+rental 
+ 42,842,321   -   -   -   -   42,842,321 
+ 
+Permanent mortgage – 1-4 family 
+direct serviced  778,024   21,023   -   21,023   -   799,047 
+ Total $  180,130,881  $ 21,023  $ -  $ 21,023  $ -  $ 180,151,904 
+ 
+Allowance for Credit Losses 
+ 
+As described in Note 1. Summary of Significant Accounting Policies, CHC adopted ASU 2016-13 on 
+October 1, 2023, which replaced the existing incurred loss methodology with an expected credit loss 
+methodology (referred to as CECL).  Under the incurred loss methodology, reserves for credit losses were 
+recognized only when the losses were probable or had been incurred; under CECL, CHC is required to 
+recognize the full amount of expected credit losses for the lifetime of the loan, based on historical 
+experience, current conditions and reasonable and supportable forecasts. Allocation of a portion of the 
+allowance to one category of loans does not preclude its availability to absorb losses in other categories.  
+  
+===== PAGE 18 =====
+ 
+Page 16 of 35 
+NOTE 4. LOANS RECEIVABLE AND ALLOWANCE FOR CREDIT LOSSES (CONTINUED) 
+Allowance for Credit Losses (Continued) 
+The following table details activity in the allowance for credit losses by portfolio segment for the years 
+ended September 30, 2025 and 2024: 
+ 
+ 
+Predevelopment/
+Bridge 
+ Acquisition 
+and 
+Construction  
+Permanent 
+Mortgage  Total 
+ September 30, 2025            
+ Allowance for credit losses            
+ Beginning balance $ 373,474  $ 3,080,579  $ 1,124,435  $ 4,578,488 
+ Provision for credit losses  (104,473)   (1,067,142)   (53,039)   (1,224,654) 
+ Charge-offs  -   -   -   - 
+ Recoveries  -   -   5,207   5,207 
+ Ending balance $ 269,001  $ 2,013,437  $ 1,076,603  $ 3,359,041 
+ 
+ September 30, 2024            
+ Allowance for credit losses            
+ Beginning balance $ 167,301  $ 2,421,831  $ 712,290  $ 3,301,422 
+ Provision for credit losses  206,173   658,748   442,158   1,307,079 
+ Charge-offs  -   -   (47,571)   (47,571) 
+ Recoveries  -   -   17,558   17,558 
+ Ending balance $ 373,474  $ 3,080,579  $ 1,124,435  $ 4,578,488 
+Modifications to Borrowers Experiencing Financial Difficulty 
+On October 1, 2023, CHC adopted ASU 2022-02, Financial Instruments - Credit Losses (Topic 326): Troubled 
+Debt Restructurings and Vintage Disclosures, and this standard eliminated the previous accounting 
+guidance for troubled debt restructurings and added additional disclosure requirements for gross charge 
+offs by year of origination. It also prescribes guidance for reporting modifications of loans to borrowers 
+experiencing financial difficulty.  
+From time to time, CHC may modify certain loans to borrowers who are experiencing financial difficulty. In 
+some cases, these modifications may result in new loans.  Loan modifications to borrowers experiencing 
+financial difficulty may be in the form of a principal forgiveness, an interest rate reduction, a payment 
+delay, a term extension, or a combination thereof, among other things. 
+During the years ended September 30, 2025 and 2024, CHC did not modify any loans. 
+Maturities 
+Future maturities of loans receivable within the next five years and thereafter are as follows: 
+ 
+Fiscal Year Ending September 30, 
+   2026 $  49,819,770 
+2027  38,283,258 
+2028  18,658,917 
+2029  27,863,921 
+2030  8,559,000 
+Thereafter  28,851,330 
+ $  172,036,196 
+  
+===== PAGE 19 =====
+ 
+Page 17 of 35 
+NOTE 5. PREMISES AND EQUIPMENT 
+ 
+Premises and equipment are summarized as follows: 
+ 
+  September 30, 
+  2025  2024 
+        Land and improvements $  425,000  $  425,000 
+ Building and improvements  666,694    666,694  
+ Furniture and equipment  189,365    192,920  
+   1,281,059    1,284,614  
+ Less accumulated depreciation  (318,452)    (312,254)  
+  $  962,607  $  972,360 
+ 
+Depreciation expense totaled $44,369 and $26,117 for the years ended September 30, 2025 and 2024, 
+respectively. 
+NOTE 6. BORROWER FUNDS HELD IN TRUST 
+As a requirement for certain interim and multifamily permanent mortgage loans extended to borrowers, 
+CHC may hold an operating/debt service reserve, including escrow reserves, and a replacement reserve in 
+trust.  The reserves are required to be funded at certain levels based on the provisions of the security 
+agreement between the borrower and CHC.  As a requirement for single-family mortgages to borrowers, 
+CHC will typically require and hold escrow reserves for insurance and property taxes where CHC is the first 
+lien holder. 
+NOTE 7. LONG TERM DEBT  
+A summary of notes payable follows: 
+  
+  September 30, 
+  2025  2024 
+     
+ 
+JP Morgan Chase Bank Inc., multi-bank syndicated revolving line of credit 
+facility dated September 9, 2021, in the amount of $85,000,000 with 
+current commitments by the participants in the syndication.  Interest is 
+due on the fifth business day of each month.  The line of credit period 
+ends on September 9, 2027, and any funds advanced on that date will 
+convert to a three-year term loan due on September 9, 2030.  However, 
+the credit facility may be extended for an additional twelve months with 
+conversion to a three-year term loan at the end of such line of credit 
+period upon request from the Borrower.  Accrued interest was 
+$164,890 and $205,551 as of September 30, 2025, and 2024, and is 
+included in interest payable.  Current participants in the syndication 
+include JP Morgan Chase, Charles Schwab, US Bank, Wells Fargo, and 
+Deutsche Bank.  $ 17,000,000  $ 34,000,000 
+       
+ 
+First Citizens Bank and Trust, dated December 8, 2023, in the original 
+amount of $2,500,000, payment of interest accrued is due annually 
+with any outstanding principal plus accrued and unpaid interest due 
+upon maturity. Principal is due on December 8, 2029, unless renewed 
+as per terms of the agreement.  The loan is unsecured.  Accrued 
+interest was $37,500 and $40,833 at September 30, 2025 and 2024, and 
+is included in interest payable.  2,500,000   2,500,000 
+       
+===== PAGE 20 =====
+ 
+Page 18 of 35 
+NOTE 7. LONG TERM DEBT (CONTINUED) 
+ 
+ 
+  
+  September 30, 
+  2025  2024 
+ 
+ 
+     
+ 
+Wells Fargo Bank NA Patient Capital investment dated 5th September 
+2023 in the original amount of $5,000,000, payment of interest is due 
+quarterly with eight quarterly principal payments of $625,000 due 
+beginning October 1, 2033 and is unsecured.  Accrued interest was 
+$25,000 and $25,000 as of September 30, 2025, and 2024, respectively 
+and is included in interest payable.  
+ 
+5,000,000 
+  
+5,000,000 
+ 
+ 
+     
+ 
+BBVA USA (Now PNC Bank), Equity Equivalent Investment dated April 10, 
+2020, in the amount of $3,000,000, payment of interest accrued is due 
+quarterly with principal due at maturity.  The loan matures on July 1, 
+2030, and is unsecured.  Accrued interest was $20,625 and $0 as of 
+September 30, 2025, and 2024, respectively. 
+ 
+3,000,000 
+  
+3,000,000 
+ 
+ 
+     
+ 
+BANC of America Community Development Corporation, term loan 
+dated August 24th, 2021, in the amount of $10,000,000.  Payment of 
+interest accrued is due quarterly with principal due at maturity.  $3 
+million each matures on August 24, 2025, and 2026 and $4 million on 
+August 24, 2027, and is unsecured.  Accrued interest was $0 and $0 as 
+of September 30, 2025, and 2024, and is included in interest payable. 
+ 
+7,000,000 
+  
+10,000,000 
+ 
+ 
+     
+ 
+HSBC Bank, revolving line of credit dated September 15, 2021, and 
+renewed on July 28, 2025, in the amount of $10,000,000, payment of 
+interest accrued is due quarterly, with principal due at maturity.  The 
+loan matures on August 31, 2029, which may be extended upon 
+request from the Borrower and is unsecured.  Accrued interest was 
+$24,167 and $25,000 as of September 30, 2025, and 2024, respectively, 
+and is included in interest payable. $ 10,000,000  $ 10,000,000 
+       
+ 
+CommonSpirit Health Operating Investment Pool, LLC, loan in the 
+amount of $3,000,000, dated October 15, 2021. Payments of interest 
+are due semiannually. Principal is due on October 15, 2036.  The loan 
+is unsecured.  Accrued interest was $32,667 and $0 as of September 
+30, 2025 and 2024, respectively.   3,000,000   3,000,000 
+       
+ 
+CareSource Ohio, Inc. loan in the amount of $5,000,000 dated December 
+21, 2021. Payments of interest are due quarterly, and principal is due 
+on December 21, 2031.  The loan is unsecured.  Accrued interest was 
+$0 as of September 30, 2025 and 2024, respectively.  5,000,000   5,000,000 
+       
+ 
+CareSource Georgia Co., loan in the amount of $2,500,000, dated 
+December 21, 2021. Payments of interest are due quarterly, and 
+principal is due on December 21, 2031.  The loan is unsecured.  Accrued 
+interest was $0 as of September 30, 2025 and 2024, respectively.  2,500,000   2,500,000 
+       
+ 
+Bon Secours Mercy Health, Inc loan in the amount of $10,000,000 dated 
+November 1st, 2022. Payments of interest are due semi-annually, and 
+principal is due on November 1, 2032.  The loan is unsecured.  Accrued 
+interest was $62,466 and $62,877 as of September 30, 2025 and 2024, 
+respectively, and is included in interest payable.  10,000,000   10,000,000 
+===== PAGE 21 =====
+ 
+Page 19 of 35 
+NOTE 7. LONG TERM DEBT (CONTINUED) 
+ 
+  
+  September 30, 
+  2025  2024 
+ 
+ 
+     
+ 
+FHLB #1, loan in the amount of $1,500,000, dated March 3, 2022. 
+Payments of interest are due quarterly, and principal is due on March 
+3, 2032.  The loan is secured.  Accrued interest was $2,906 and $2,906 
+as of September 30, 2025 and 2024, respectively, and is included in 
+interest payable.  1,500,000   1,500,000 
+       
+ 
+FHLB #2, loan in the amount of $2,500,000, dated March 3, 2022. 
+Payments of interest are due quarterly, and principal is due on March 
+3, 2037.  The loan is secured.  Accrued interest was $5,601 and $5,601 
+as of September 30, 2025 and 2024, respectively, and is included in 
+interest payable.  2,500,000   2,500,000 
+       
+ 
+FHLB #3, loan in the amount of $3,600,000 dated February 1, 2023. 
+Payments of interest are due quarterly, and principal is due on 
+February 1, 2038.  The loan is secured.  Accrued interest was $16,229 
+and $16,229 as of September 30, 2025 and 2024, respectively, and is 
+included in interest payable. $ 3,600,000  $ 3,600,000 
+       
+ 
+FHLB #4, loan in the amount of $3,323,919 dated March 1, 2023. 
+Payments of interest are due quarterly, and principal is due on March1, 
+2041.  The loan is secured.  Accrued interest was $7,556 and $7,296 as 
+of September 30, 2025 and 2024, respectively, and is included in 
+interest payable.  3,323,919   3,323,919 
+       
+ 
+FHLB #5, loan in the amount of $3,150,000 dated April 3, 2023. Payments 
+of principle and interest are due monthly, and remaining principal is 
+due on April 5, 2038.  The loan is secured.  Accrued interest was $9,527 
+and $9,873 as of September 30, 2025 and 2024, respectively, and is 
+included in interest payable.  2,896,250   3,001,250 
+       
+ 
+Laura and John Arnold Foundation loan in the amount $17,000,000 dated 
+February 13, 2023. Principal is due on maturity on November 13, 2030. 
+The loan is unsecured.  Accrued interest was $0 as of September 30, 
+2025 and 2024, respectively.  17,000,000   17,000,000 
+       
+ 
+PNC Community Development Company, LLC, loan in the amount of 
+$7,000,000 dated July 26, 2022. Payments of interest are due quarterly. 
+and principal is due on July 26, 2029.  The loan is unsecured.  Accrued 
+interest was $63,506 and $0 as of September 30, 2025 and 2024, 
+respectively.  7,000,000   7,000,000 
+        Total $ 102,820,169  $ 122,925,169 
+===== PAGE 22 =====
+ 
+Page 20 of 35 
+NOTE 7. LONG TERM DEBT (CONTINUED) 
+Scheduled principal repayments on notes payable for the next five years and thereafter are as follows: 
+ 
+Fiscal Year Ending September 30, 
+   2026 $ 3,105,000 
+2027  4,105,000 
+2028  105,000 
+2029  34,105,000 
+2030  20,105,000 
+Thereafter  41,295,169 
+ $ 102,820,169 
+ 
+ 
+NOTE 8. PARTICIPATION IN U.S. TREASURY PROGRAMS 
+ 
+New Market Tax Credits  
+ 
+On September 1, 2021, September 19, 2023, and September 22, 2023 CHC was awarded $30,000,000, 
+$40,000,000, and $25,000,000 allocations respectively, of New Market Tax Credits from the Community 
+Development Financial Institution (CDFI) Fund administered by the U.S. Department of Treasury.  CHC 
+allocated these tax credits into qualified projects in various states. CHC has six non-consolidated 
+subsidiaries (CHC owns 0.01% of the entities) for the implementation of the New Market Tax Credits Award 
+as of September 30, 2025.   
+ 
+Community Development Financial Institution Income 
+ 
+On February 5, 2025, CHC received an award for $800,000 from the Financial Assistance Program 
+administered by the CDFI Fund.  The award was to be used for loan originations by CHC per targets 
+mentioned in the grant agreement.   
+ 
+  
+===== PAGE 23 =====
+ 
+Page 21 of 35 
+NOTE 9 NET ASSETS WITH DONOR RESTRICTIONS 
+ 
+Net assets with donor restrictions consist of the following:  
+ 
+  September 30, 
+  2025  2024 
+ Subject to passage of time:       
+ U.S. Department of Treasury CDFI Capital Magnet Fund (1) $ 12,647,678  $  12,437,678 
+7  $  12,647,678  $  12,437,678 
+   
+ Not subject to appropriation or expenditure:     
+1 2010 NeighborWorks® America capital grant (2) $  973,252  $  973,252 
+ 2011 NeighborWorks® America capital grant (2)  2,000,000    2,000,000  
+ 2012 NeighborWorks® America capital grant (2)  2,000,000    2,000,000  
+ 2012 NeighborWorks® America capital grant (2)  743,134    743,134  
+ 2013 NeighborWorks® America capital grant (2)  2,100,000    2,100,000  
+ 2014 NeighborWorks® America capital grant (2)  2,050,000    2,050,000  
+ 2015 NeighborWorks® America capital grant (2)  2,000,000    2,000,000  
+ 2016 NeighborWorks® America capital grant (2)  2,000,000    2,000,000  
+   13,866,386    13,866,386  
+ Total net assets with donor restrictions  $  26,514,064  $
+0 
+26,304,064 
+(1) Grant funds are provided through the CDFI Program’s Capital Magnet Fund, Financial Assistance 
+program and Equitable Recovery program. Under Capital Magnet Fund program funds are designated 
+for the origination of end borrower loans for the purchase of existing multifamily properties, and 
+the rehab and/or new construction associated with those acquisitions. Funds are two-fold in 
+purpose: 1) leverage private sector capital on a 10:1 ratio; and 2) as loan principal, interest rate 
+offsets and loan loss reserves. Under Financial Assistance program the funds are used to increase 
+lending as per targets set up in the grant agreement. Under Equitable Recovery program funds are 
+used in ERP eligible geographies. 
+(2) These grant funds are to be used for the purpose of being loaned as end borrower loans, recourse 
+loan purchases, capital, guarantees, credit enhancements, interest rate write downs or for use as 
+a loan loss reserve all in accordance with CHC’s business plan and mission.  In accordance with the 
+master investment agreement, which was renewed during 2020 for the period from 
+December 17, 2020 until the parties agree to terminate the agreement, these funds are 
+subordinated to investments in CHC made by third party investors and can also be used to absorb 
+loan losses.  The funds are included in loans receivable in the Statements of Financial Position. 
+ 
+ 
+NOTE 10. NET ASSETS RELEASED FROM RESTRICTIONS 
+ 
+There were $590,000 and $2,476,265 net assets released from restrictions during the years ended 
+September 30, 2025 and 2024, respectively, by fulfilling use requirements and thereby satisfying the 
+restrictions specified by the donors.  
+ 
+ 
+NOTE 11. EMPLOYEE BENEFIT PLANS 
+ 
+CHC sponsors a 401(k) retirement plan covering substantially all employees subject to certain age and 
+minimum service requirements.  Contributions to the plan charged to expense totaled $171,644 and 
+$158,388 for the years ended September 30, 2025 and 2024, respectively. 
+ 
+  
+===== PAGE 24 =====
+ 
+Page 22 of 35 
+NOTE 12. COMMITMENTS AND CONTINGENCIES 
+ 
+Concentrations of Credit Risk 
+ 
+Financial instruments that potentially subject CHC to concentrations of credit risk consist principally of 
+cash and cash equivalents and loans.  CHC places its cash and cash equivalents and restricted cash with 
+several high-credit quality financial institutions, all of which are “well-capitalized” under federal regulatory 
+standards.  Cash balances are federally insured up to FDIC limits based on the type of account.  CHC 
+maintains its cash in bank deposit accounts which, at times, may exceed federally insured limits.  CHC has 
+not experienced any losses in such accounts.  CHC believes it is not exposed to any significant credit risk 
+on cash. 
+ 
+To limit CHC’s exposure to concentrations of credit risk within the loan portfolio, CHC maintains internal 
+lending policies that restrict the amount of loan(s) to one borrower or a group of related borrowers.  
+At September 30, 2025 and 2024, CHC has commitments to fund approximately $82,674,667 and 
+$40,876,806 in loans, respectively. 
+CHC maintains an allowance for off-balance sheet credit exposures such as unfunded balances for existing 
+lines of credit and commitments to extend future credit when there is a contractual obligation to extend 
+credit and when this extension of credit is not unconditionally cancellable. The allowance for off-balance 
+sheet credit exposures is adjusted as a provision for credit losses expense. The estimate includes 
+consideration of the likelihood that funding will occur, which is based on historical funding information, 
+and an estimate of expected credit losses on commitments expected to be funded over its estimated life, 
+which are the same loss rates that are used in computing the allowance for credit losses on loans. The 
+allowance for credit losses for unfunded commitments is separately classified on the statement of financial 
+position. 
+The following tables present the balance and activity in the allowance for credit losses for unfunded 
+commitments for the years ended September 30, 2025 and 2024. 
+    
+Allowance for Credit Losses – 
+Unfunded Commitments 
+   September 30, 2025       
+    Beginning balance   $ 354,258 
+  Provision (credit) for credit losses     460,589 
+     Ending balance   $ 814,847 
+ 
+   September 30, 2024       
+    Beginning balance   $ - 
+  Provision for credit losses     354,258 
+     Ending balance   $ 354,258 
+  
+===== PAGE 25 =====
+ 
+Page 23 of 35 
+NOTE 13. FAIR VALUES OF ASSETS AND LIABILITIES  
+Determination of Fair Value 
+CHC uses fair value measurements to record fair value adjustments to certain assets and liabilities and to 
+determine fair value disclosures.  In accordance with the Fair Value Measurements and Disclosures topic 
+(ASC 820), the fair value of a financial instrument is the price that would be received to sell an asset or paid 
+to transfer a liability in an orderly transaction between market participants at the measurement date.  Fair 
+value is best determined based upon quoted market prices.  However, in many instances, there are no 
+quoted market prices for CHC’s various financial instruments.  In cases where quoted market prices are 
+not available, fair values are based on estimates using present value or other valuation techniques.  Those 
+techniques are significantly affected by the assumptions used, including the discount rate and estimates 
+of future cash flows.  Accordingly, the fair value estimates may not be realized in an immediate settlement 
+of the instrument. 
+The fair value guidance provides a consistent definition of fair value, which focuses on exit price in an 
+orderly transaction (that is, not a forced liquidation or distressed sale) between market participants at the 
+measurement date under current market conditions.  If there has been a significant decrease in the volume 
+and level of activity for the asset or liability, a change in valuation technique or the use of multiple valuation 
+techniques may be appropriate.  In such instances, determining the price at which willing market 
+participants would transact at the measurement date under current market conditions depends on the 
+facts and circumstances and requires the use of significant judgment.  The fair value is a reasonable point 
+within the range that is most representative of fair value under current market conditions. 
+ 
+Fair Value Hierarchy  
+ 
+In accordance with this guidance, CHC groups its financial assets and financial liabilities generally 
+measured at fair value in three levels, based on the markets in which the assets and liabilities are traded 
+and the reliability of the assumptions used to determine fair value.  
+ 
+Level 1 - Valuation is based on quoted prices in active markets for identical assets or liabilities that the 
+reporting entity has the ability to access at the measurement date. Level 1 assets and liabilities generally 
+include debt and equity securities that are traded in an active exchange market. Valuations are obtained 
+from readily available pricing sources for market transactions involving identical assets or liabilities. 
+ 
+Level 2 - Valuation is based on inputs other than quoted prices included within Level 1 that are observable 
+for the asset or liability, either directly or indirectly. The valuation may be based on quoted prices for similar 
+assets or liabilities; quoted prices in markets that are not active; or other inputs that are observable or can 
+be corroborated by observable market data for substantially the full term of the asset or liability. 
+ 
+Level 3 - Valuation is based on unobservable inputs that are supported by little or no market activity and 
+that are significant to the fair value of the assets or liabilities. Level 3 assets and liabilities include financial 
+instruments whose value is determined using pricing models, discounted cash flow methodologies, or 
+similar techniques, as well as instruments for which determination of fair value requires significant 
+management judgment or estimation. 
+ 
+A financial instrument’s categorization within the valuation hierarchy is based upon the lowest level of 
+input that is significant to the fair value measurement. 
+  
+===== PAGE 26 =====
+ 
+Page 24 of 35 
+NOTE 13. FAIR VALUES OF ASSETS AND LIABILITIES (CONTINUED) 
+ 
+Assets Measured at Fair Value on a Nonrecurring Basis 
+ 
+Under certain circumstances CHC makes adjustments to fair value for assets although they are not 
+measured at fair value on a recurring basis.  The following table presents the financial instruments carried 
+on the statements of financial position by caption and by level in the fair value hierarchy for which a 
+nonrecurring change in fair value has been recorded: 
+ 
+    Fair Value Measurements Using 
+ 
+Quoted Prices 
+In Active 
+Markets for 
+Identical 
+Assets 
+(Level 1) 
+ 
+Significant 
+Other 
+Observable 
+Inputs 
+(Level 2) 
+ 
+Significant 
+Unobservable 
+Inputs 
+(Level 3) 
+ 
+Total Gains 
+(Losses) 
+September 30, 2025             
+Individually evaluated loans $ -  $ -  $ 5,400,000  $  (600,000) 
+            September 30, 2024            
+Individually evaluated loans $ -  $ -  $ 11,137,000  $  (1,259,023) 
+ 
+Nonrecurring fair value adjustments to impaired loans reflect full or partial write-downs or an allocation 
+of the allowance for credit losses that are based on the loan’s observable market price or current appraised 
+value of the collateral.  Loans subjected to nonrecurring fair value adjustments based on the current 
+appraised value of the collateral may be classified as Level 2 or Level 3 depending on the type of asset and 
+the inputs to the valuation.  When appraisals are used to determine impairment, and these appraisals 
+require significant adjustments to market-based valuation inputs or apply an income approach based on 
+unobservable cash flows to measure fair value, the related loans subjected to nonrecurring fair value 
+adjustments are typically classified as Level 3 due to the fact that Level 3 inputs are significant to the fair 
+value measurement.     
+ 
+Quantitative Disclosures for Level 3 Fair Value Measurements  
+ 
+For Level 3 assets measured at fair value on a non-recurring basis, the significant unobservable inputs 
+used in the fair value measurements are presented below.  
+ 
+ 
+September 30, 2025  
+ 
+Carrying  
+Amount  
+ 
+Valuation 
+Technique  
+Significant  
+Unobservable 
+Input  
+Weighted  
+Average 
+of Input 
+             Nonrecurring:           
+ Individually evaluated loans  $ 5,400,000  Appraisal  Appraisal discounts (%)  20-30 % 
+ 
+ 
+September 30, 2024  
+ 
+Carrying  
+Amount  
+ 
+Valuation 
+Technique  
+Significant  
+Unobservable 
+Input  
+Weighted  
+Average 
+of Input 
+             Nonrecurring:           
+ Individually evaluated loans  $ 11,137,000  Appraisal  Appraisal discounts (%)  20-30 % 
+ 
+  
+===== PAGE 27 =====
+ 
+Page 25 of 35 
+NOTE 14. SUBSEQUENT EVENTS 
+ 
+The Financial Accounting Standards Board’s Accounting Standards Update (ASU) No. 2010-09, Subsequent 
+Events (Topic 855), requires disclosure of events that occur after fiscal year-end but before financial 
+statement issuance.  Management has evaluated all transactions, events, and circumstances for 
+consideration or disclosure through December 15, 2025, the date these financial statements were available 
+to be issued and has reflected or disclosed those items within the financial statements and related 
+footnotes as deemed appropriate.   
+===== PAGE 28 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUPPLEMENTARY INFORMATION 
+ 
+ 
+ 
+ 
+ 
+===== PAGE 29 =====
+ASSETS
+Total cash $ 24,815,426 $ -  $ 24,815,426
+Equity securities 817,600 -  817,600
+Receivables:
+    Loans, net 142,163,091 26,514,064 168,677,155
+    Interest 716,067 -  716,067
+    Origination and other fees 485,849 -  485,849
+    Grants 45,000 -  45,000
+Premises and equipment, net 962,607 -  962,607
+Prepaid expenses 69,423 -  69,423
+Deferred debt costs, net 111,529 -  111,529
+          Total assets $ 170,186,592 $ 26,514,064 $ 196,700,656
+LIABILITIES AND NET ASSETS
+Liabilities:
+    Accounts payable and accrued expenses$ 5,071,545          $ -  $ 5,071,545
+    Interest payable 506,113             -  506,113
+    Borrower funds held in trust 10,543,848        -  10,543,848
+    Notes payable 102,820,169     -  102,820,169
+    Allowance for credit losses for unfunded commitments814,847             814,847
+          Total liabilities 119,756,522 -  119,756,522
+Net assets:
+    Without donor restrictions 50,430,070 -  50,430,070
+    With donor restrictions -  26,514,064 26,514,064
+          Total net assets 50,430,070 26,514,064 76,944,134
+          Total liabilities and net assets $ 170,186,592 $ 26,514,064 $ 196,700,656
+COMMUNITY HOUSING CAPITAL, INC.
+SCHEDULE OF FINANCIAL POSITION BY TYPE
+SEPTEMBER 30, 2025
+Without Donor
+Restrictions Restrictions Total
+With Donor
+Page 26 of 35
+===== PAGE 30 =====
+Revenues and support:
+    Interest income $ -  $ 12,259,376 $ 12,259,376 $ -  $ 12,259,376
+    Loan origination fees and other income -  1,185,863 1,185,863 -  1,185,863
+    Contributed grant revenue -  2,500,000 2,500,000 800,000 3,300,000
+    New market tax credit revenue -  1,000,000 1,000,000 -  1,000,000
+    Miscellaneous income -  15,988 15,988 -  15,988
+    Net assets released from restriction -  590,000 590,000 (590,000) -  
+          Total revenues and support -  17,551,227 17,551,227 210,000 17,761,227
+Expenses:
+    Personnel -  4,016,321 4,016,321 -  4,016,321
+    Consultants and legal services -  401,290 401,290 -  401,290
+    Travel and occupancy -  237,581 237,581 -  237,581
+    Advertising and promotion -  129,616 129,616 -  129,616
+    Conferences and meetings -  44,784 44,784 -  44,784
+    Miscellaneous -  1,409 1,409 -  1,409
+    Interest -  3,793,906 3,793,906 -  3,793,906
+    Provision (credit) for credit losses -  (764,066) (764,066) -  (764,066)
+    Foreclosed properties expense -  1,301 1,301 -  1,301
+    Management and general -  366,682 366,682 -  366,682
+    Audit and accounting -  107,742 107,742 -  107,742
+    Depreciation -  44,369 44,369 -  44,369
+          Total expenses -  8,380,935 8,380,935 -  8,380,935
+Change in net assets -  9,170,292 9,170,292 210,000 9,380,292
+Net assets, beginning of year -  41,259,778 41,259,778 26,304,064 67,563,842
+Net assets, end of year $ -  $ 50,430,070 $ 50,430,070 $ 26,514,064 $ 76,944,134
+COMMUNITY HOUSING CAPITAL, INC.
+SCHEDULE OF ACTIVITIES BY TYPE
+FOR THE YEAR ENDED SEPTEMBER 30, 2025
+Grant Other Restrictions Restrictions Total
+Expendable Restrictions
+Total
+With DonorWithout Donor
+Restrictions
+Without Donor
+Without Donor
+Page 27 of 35
+===== PAGE 31 =====
+200 GALLERIA PARKWAY S.E., SUITE 1700 • ATLANTA, GA 30339-5946 • 770-955-8600 • 800-277-0080 • FAX 770-980-4489 • www.mjcpa.com 
+MEMBERS OF THE AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS 
+  
+ 
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING 
+AND ON COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT OF  
+FINANCIAL STATEMENTS PERFORMED IN ACCORDANCE WITH  
+GOVERNMENT AUDITING STANDARDS 
+ 
+To the Board of Directors 
+Community Housing Capital, Inc.  
+Decatur, Georgia 
+ 
+We have audited, in accordance with the auditing standards generally accepted in the United States of America and the 
+standards applicable to financial audits contained in Government Auditing Standards issued by the Comptroller General of 
+the United States, the financial statements of Community Housing Capital, Inc., a nonprofit public benefit corporation, 
+which comprise the statement of financial position as of September 30, 2025, and the related statements of activities and 
+cash flows for the year then ended, and the related notes to the financial statements, and have issued our report thereon 
+dated December 15, 2025. 
+Report on Internal Control Over Financial Reporting 
+In planning and performing our audit of the financial statements, we considered Community Housing Capital, Inc.’s 
+internal control over financial reporting (internal control) as a basis for designing audit procedures that are appropriate 
+in the circumstances for the purpose of expressing our opinion on the financial statements, but not for the purpose of 
+expressing an opinion on the effectiveness of Community Housing Capital, Inc.’s internal control.  Accordingly, we do not 
+express an opinion on the effectiveness of Community Housing Capital, Inc.’s internal control. 
+A deficiency in internal control exists when the design or operation of a control does not allow management or employees, 
+in the normal course of performing their assigned functions, to prevent, or detect and correct, misstatements on a timely 
+basis.  A material weakness is a deficiency, or a combination of deficiencies, in internal control, such that there is a 
+reasonable possibility that a material misstatement of the entity’s financial statements will not be prevented, or detected 
+and corrected, on a timely basis.  A significant deficiency is a deficiency, or a combination of deficiencies, in internal control 
+that is less severe than a material weakness, yet important enough to merit attention by those charged with governance. 
+Our consideration of internal control was for the limited purpose described in the first paragraph of this section and was 
+not designed to identify all deficiencies in internal control that might be material weaknesses or significant deficiencies.  
+Given these limitations, during our audit we did not identify any deficiencies in internal control that we consider to be 
+material weaknesses.  However, material weaknesses or significant deficiencies may exist that were not identified. 
+Report on Compliance and Other Matters 
+As part of obtaining reasonable assurance about whether Community Housing Capital, Inc. financial statements are free 
+from material misstatement, we performed tests of its compliance with certain provisions of laws, regulations, contracts, 
+and grant agreements, noncompliance with which could have a direct and material effect on the financial statements.  
+However, providing an opinion on compliance with those provisions was not an objective of our audit, and accordingly, 
+we do not express such an opinion.  The results of our tests disclosed no instances of noncompliance or other matters 
+that are required to be reported under Government Auditing Standards.  
+Purpose of This Report 
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance and the results 
+of that testing, and not to provide an opinion on the effectiveness of the organization’s internal control or on compliance.  
+This report is an integral part of an audit performed in accordance with Government Auditing Standards in considering the 
+organization’s internal control and compliance.  Accordingly, this communication is not suitable for any other purpose. 
+ 
+ 
+ 
+Atlanta, Georgia 
+December 15, 2025 
+
+===== PAGE 32 =====
+200 GALLERIA PARKWAY S.E., SUITE 1700 • ATLANTA, GA 30339-5946 • 770-955-8600 • 800-277-0080 • FAX 770-980-4489 • www.mjcpa.com 
+MEMBERS OF THE AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS 
+  
+ 
+ 
+INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE FOR EACH MAJOR  
+PROGRAM AND ON INTERNAL CONTROL OVER COMPLIANCE  
+REQUIRED BY THE UNIFORM GUIDANCE 
+ 
+ 
+To the Board of Directors  
+Community Housing Capital, Inc.  
+Decatur, Georgia 
+ 
+Report on Compliance for Each Major Federal Program  
+Opinion on Each Major Federal Program 
+We have audited Community Housing Capital, Inc.’s compliance with the types of compliance requirements identified as 
+subject to audit in the OMB Compliance Supplement that could have a direct and material effect on each of Community 
+Housing Capital, Inc.’s major federal programs for the year ended September 30, 2025. Community Housing Capital, Inc.’s 
+major federal programs are identified in the summary of auditor’s results section of the accompanying schedule of 
+findings and questioned costs.  
+In our opinion, Community Housing Capital, Inc. complied, in all material respects, with the types of compliance 
+requirements referred to above that could have a direct and material effect on each of its major federal programs for the 
+year ended September 30, 2025.  
+Basis for Opinion on Each Major Federal Program 
+We conducted our audit of compliance in accordance with auditing standards generally accepted in the United States of 
+America; the standards applicable to financial audits contained in Government Auditing Standards, issued by the 
+Comptroller General of the United States; and the audit requirements of Title 2 U.S. Code of Federal Regulations Part 200, 
+Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards (Uniform Guidance). Our 
+responsibilities under those standards and the Uniform Guidance are further described in the Auditor’s Responsibilities 
+for the Audit of Compliance section of our report. 
+We are required to be independent of Community Housing Capital, Inc. and to meet our other ethical responsibilities, in 
+accordance with relevant ethical requirements relating to our audit. We believe that the audit evidence we have obtained 
+is sufficient and appropriate to provide a basis for our opinion on compliance for each major federal program. Our audit 
+does not provide a legal determination of Community Housing Capital, Inc.’s compliance with the compliance 
+requirements referred to above.  
+Responsibilities of Management for Compliance 
+Management is responsible for compliance with the requirements referred to above and for the design, implementation, 
+and maintenance of effective internal control over compliance with the requirements of laws, statutes, regulations, rules, 
+and provisions of contracts or grant agreements applicable to Community Housing Capital, Inc.’s federal programs. 
+ 
+ 
+ 
+
+===== PAGE 33 =====
+ 
+mjcpa.com 
+ 
+ 
+Page 30 of 35 
+Auditor’s Responsibilities for the Audit of Compliance 
+Our objectives are to obtain reasonable assurance about whether material noncompliance with the compliance 
+requirements referred to above occurred, whether due to fraud or error, and express an opinion on Community Housing 
+Capital, Inc.’s compliance based on our audit. Reasonable assurance is a high level of assurance but is not absolute 
+assurance and therefore is not a guarantee that an audit conducted in accordance with generally accepted auditing 
+standards, Government Auditing Standards, and the Uniform Guidance will always detect material noncompliance when it 
+exists. The risk of not detecting material noncompliance resulting from fraud is higher than for that resulting from error, 
+as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control. 
+Noncompliance with the compliance requirements referred to above is considered material if there is a substantial 
+likelihood that, individually or in the aggregate, it would influence the judgment made by a reasonable user of the report 
+on compliance about Community Housing Capital, Inc.’s compliance with the requirements of each major federal program 
+as a whole. 
+In performing an audit in accordance with generally accepted auditing standards, Government Auditing Standards, and the 
+Uniform Guidance, we: 
+ Exercise professional judgment and maintain professional skepticism throughout the audit. 
+ Identify and assess the risks of material noncompliance, whether due to fraud or error, and design and perform 
+audit procedures responsive to those risks. Such procedures include examining, on a test basis, evidence 
+regarding Community Housing Capital, Inc.’s compliance with the compliance requirements referred to above 
+and performing such other procedures as we considered necessary in the circumstances. 
+ Obtain an understanding of Community Housing Capital, Inc.’s internal control over compliance relevant to the 
+audit in order to design audit procedures that are appropriate in the circumstances and to test and report on 
+internal control over compliance in accordance with the Uniform Guidance, but not for the purpose of expressing 
+an opinion on the effectiveness of Community Housing Capital, Inc.’s internal control over compliance. 
+Accordingly, no such opinion is expressed. 
+We are required to communicate with those charged with governance regarding, among other matters, the planned scope 
+and timing of the audit and any significant deficiencies and material weaknesses in internal control over compliance that 
+we identified during the audit. 
+Report on Internal Control over Compliance  
+A deficiency in internal control over compliance exists when the design or operation of a control over compliance does not 
+allow management or employees, in the normal course of performing their assigned functions, to prevent, or detect and 
+correct, noncompliance with a type of compliance requirement of a federal program on a timely basis. A material weakness 
+in internal control over compliance is a deficiency, or a combination of deficiencies, in internal control over compliance, 
+such that there is a reasonable possibility that material noncompliance with a type of compliance requirement of a federal 
+program will not be prevented, or detected and corrected, on a timely basis. A significant deficiency in internal control over 
+compliance is a deficiency, or a combination of deficiencies, in internal control over compliance with a type of compliance 
+requirement of a federal program that is less severe than a material weakness in internal control over compliance, yet 
+important enough to merit attention by those charged with governance.  
+Our consideration of internal control over compliance was for the limited purpose described in the Auditor’s 
+Responsibilities for the Audit of Compliance section above and was not designed to identify all deficiencies in internal 
+control over compliance that might be material weaknesses or significant deficiencies in internal control over compliance. 
+Given these limitations, during our audit we did not identify any deficiencies in internal control over compliance that we 
+consider to be material weaknesses, as defined above.  However, material weaknesses or significant deficiencies in 
+internal control over compliance may exist that were not identified. 
+Our audit was not designed for the purpose of expressing an opinion on the effectiveness of internal control over 
+compliance. Accordingly, no such opinion is expressed. 
+  
+===== PAGE 34 =====
+ 
+mjcpa.com 
+ 
+ 
+Page 31 of 35 
+The purpose of this report on internal control over compliance is solely to describe the scope of our testing of internal 
+control over compliance and the results of that testing based on the requirements of the Uniform Guidance. Accordingly, 
+this report is not suitable for any other purpose.  
+ 
+ 
+ 
+Atlanta, Georgia 
+December 15, 2025 
+
+===== PAGE 35 =====
+ 
+Page 32 of 35 
+COMMUNITY HOUSING CAPITAL, INC. 
+SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS 
+FOR THE YEAR ENDED SEPTEMBER 30, 2025 
+ 
+ 
+Federal Grantor/Pass-Through Grantor/ Program or Cluster Title 
+ Assistance 
+Listing 
+Number  
+Authorized 
+Disbursements/ 
+Expenditures 
+       
+U.S. Department of the Treasury: 
+Community Development Financial Institutions Program  
+ 
+ 
+     
+Direct-funded awards   21.020  $ 1,440,000 
+Direct-funded awards   21.011   6,250,000 
+Equitable recovery program   21.033   4,957,678 
+       
+NeighborWorks® America:       
+       
+Capital Grant awards made in current year with continuing compliance:       
+Direct-funded awards   21.020   2,500,000 
+       
+Capital Grant awards made in prior years with continuing compliance:       
+Direct-funded awards   21.020   33,666,387 
+       
+TOTAL FEDERAL AWARDS     $ 48,814,065 
+  
+===== PAGE 36 =====
+ 
+Page 33 of 35 
+COMMUNITY HOUSING CAPITAL, INC. 
+NOTES TO SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS 
+FOR THE YEAR ENDED SEPTEMBER 30, 2025 
+ 
+ 
+NOTE 1. BASIS OF PRESENTATION 
+ 
+The accompanying schedule of expenditures of federal awards (the “Schedule”) includes the federal grant 
+activity of Community Housing Capital, Inc. under programs for the federal government for the year ended 
+September 30, 2025.  The information in this Schedule is presented in accordance with the requirements 
+of Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and 
+Audit Requirements for Federal Awards (Uniform Guidance).  Because the Schedule presents only a selected 
+portion of the operations of CHC, it is not intended to and does not present the financial position, changes 
+in net assets, or cash flows of CHC. 
+ 
+ 
+NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+ 
+Expenditures reported on the Schedule are reported on the accrual basis of accounting. Such expenditures 
+are recognized following the cost principles contained in the Uniform Guidance, wherein certain types of 
+expenditures are not allowable or are limited as to reimbursement. 
+ 
+ 
+NOTE 3. PRIOR YEARS’ EXPENDITURES 
+ 
+The accompanying schedule of expenditures of federal awards includes $33,666,387 in expenditures from 
+prior years for which continuing compliance is required.   
+ 
+ 
+NOTE 4. EXPENDITURES RELEASED FROM RESTRICTIONS 
+ 
+As of September 30, 2025, capital grant awards made in prior years by NeighborWorks® America with 
+continuing compliance that have been removed in the fiscal year that CHC fulfilled the use of the 
+requirements and thereby satisfied the restrictions had a cumulative total to date of $590,000. 
+ 
+ 
+NOTE 5. INDIRECT COST RATE 
+ 
+CHC has elected not to use the 15-percent de minimis indirect cost rate allowed under the Uniform 
+Guidance.   
+ 
+  
+===== PAGE 37 =====
+ 
+Page 34 of 35 
+COMMUNITY HOUSING CAPITAL, INC. 
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS 
+FOR THE YEAR ENDED SEPTEMBER 30, 2025 
+ 
+Section I - Summary of Auditor’s Results 
+Financial Statements 
+Type of report the auditor issued on whether the financial statements 
+ Audited were prepared in accordance with GAAP: Unmodified 
+Internal control over financial reporting: 
+Material weakness(es) identified? _____ Yes     X     No 
+Significant deficiency(ies) identified that are not considered 
+to be material weakness(es)? _____ Yes     X     None Reported  
+Noncompliance material to financial statements noted? _____ Yes      X   No 
+Federal Awards 
+Internal control over major programs: 
+Material weakness(es) identified? _____ Yes      X    No 
+Significant deficiency(ies) identified that are not considered 
+to be material weakness(es)? _____ Yes    X      None Reported  
+Type of auditor’s report issued on compliance for major programs: Unmodified 
+Any audit findings disclosed that are required to be reported in 
+accordance with 2 CFR section 200.516(a)? _____ Yes      X    No 
+Identification of major programs Name of Federal Program or Cluster 
+Assistance Listing Number #21.020 U.S. Department of the Treasury –  
+Community Development Financial 
+Institutions Program  
+ NeighborWorks® America 
+Dollar threshold used to distinguish between 
+Type A and Type B programs: $1,464,422 
+Auditee qualified as low-risk auditee?          Yes      X      No 
+Section II - Financial Statement Findings 
+None Reported 
+Section III - Federal Award Findings and Questioned Costs 
+None Reported  
+===== PAGE 38 =====
+ 
+Page 35 of 35 
+COMMUNITY HOUSING CAPITAL, INC. 
+SUMMARY SCHEDULE OF PRIOR AUDIT FINDINGS 
+FOR THE YEAR ENDED SEPTEMBER 30, 2025 
+ 
+I.  FINANCIAL STATEMENT FINDINGS: 
+ NONE REPORTED 
+ 
+ 
+II. FINDINGS AND QUESTIONED COSTS FOR FEDERAL AWARDS 
+ NONE REPORTED 
+ 
+ 
+ 

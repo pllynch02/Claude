@@ -1,0 +1,2714 @@
+
+===== PAGE 1 =====
+ 
+ 
+ 
+ 
+The report accompanying these financial statements was issued by  
+BDO USA, P.C., a Virginia professional corporation, and the U.S. member  
+of BDO International Limited, a UK company limited by guarantee.
+ 
+National Trust for Historic 
+Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Consolidated Financial Statements, 
+Supplemental Schedules and 
+Independent Auditor’s Report  
+Years Ended June 30, 2023 and 2022 
+ 
+===== PAGE 2 =====
+National Trust for Historic 
+Preservation in the United States 
+and its Subsidiaries and Affiliates 
+Consolidated Financial Statements, 
+Supplemental Schedules and 
+Independent Auditor’s Report
+Years Ended June 30, 2023 and 2022 
+===== PAGE 3 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates  
+ 
+Contents 
+ 
+Independent Auditor’s Report 3-5 
+ 
+ 
+Consolidated Financial Statements 
+ 
+Consolidated Statements of Financial Position 6 
+ 
+Consolidated Statements of Activities 7-8 
+ 
+Consolidated Statements of Functional Expenses 9-10 
+ 
+Consolidated Statements of Cash Flows 11-12 
+ 
+Notes to Consolidated Financial Statements 13-48 
+ 
+ 
+Supplemental Schedules 
+ 
+Consolidating Schedule of Financial Position 49 
+ 
+Consolidating Schedule of Activities 50 
+ 
+Schedule of Activities (Parent Company Only) 51 
+ 
+===== PAGE 4 =====
+ 
+ 
+ 
+8401 Greensboro Drive 
+Suite 800 
+McLean, VA 22102 
+ 
+ 
+Te
+l:  703-893-0600 
+Fax:  703-893-2766 
+www.bdo.com 
+ 
+ 
+ 
+BDO USA, P.C., a Virginia professional corporation, is the U.S. member of BDO International Limited, a UK company limited by guarantee, and forms part of the international 
+BDO network of independent member firms.  
+ 
+BDO is the brand name for the BDO network and for each of the BDO Member Firms. 
+3 
+Independent Auditor’s Report 
+ 
+ 
+Board of Trustees 
+National Trust for Historic  
+  Preservation in the United States 
+  and its Subsidiaries and Affiliates 
+Washington, D.C. 
+ 
+Opinion 
+ 
+We have audited the consolidated  financial statements of the National Trust for Historic 
+Preservation in the United States and its Subsidiaries and Affiliates (the Trust), which comprise 
+the consolidated statements of financial positi on as of June 30, 2023 and 2022, and the related 
+consolidated statements of activities, functional expenses and cash fl ows for the years then 
+ended, and the related notes to the consolidated financial statements. 
+ 
+In our opinion, the accompanying consolidated financial statements present fairly, in all material 
+respects, the financial position of the Trust as of June 30, 2023 and 2022, and the changes in its 
+net assets and its cash flows for the years then ended in accordance with accounting principles 
+generally accepted in the United States of America. 
+ 
+Basis for Opinion 
+ 
+We conducted our audits in accordance with auditing standards generally accepted in the United 
+States of America (GAAS). Our responsibilities under those standards are further described in the 
+Auditor’s Responsibilities for the Audit of the Co nsolidated Financial Statements section of our 
+report. We are required to be independent of the Trust and to meet our other ethical 
+responsibilities, in accordance with the relevant ethical requirements relating to our audits. We 
+believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis 
+for our audit opinion. 
+ 
+Emphasis of Matter 
+ 
+A s  d i s c u s s e d  i n  N o t e  1  t o  t h e  c o n s o l i d a t e d  f inancial statements, the Trust adopted Financial 
+Accounting Standards Board (FASB) Accounting Standards Codification (ASC) Topic 842, Leases on 
+July 1, 2022. Our opinion is not modified with respect to this matter. 
+ 
+Responsibilities of Management for the Consolidated Financial Statements 
+ 
+Management is responsible for the preparation and fair presentation of the consolidated financial 
+statements in accordance with accounting principl es generally accepted in the United States of 
+America, and for the design, impl ementation, and maintenance of internal control relevant to 
+the preparation and fair presentation of consol idated financial statements that are free from 
+material misstatement, whether due to fraud or error.
+===== PAGE 5 =====
+ 
+ 
+4 
+In preparing the consolidated financial statements, management is required to evaluate whether 
+there are conditions or events, considered in the aggregate, th at raise substantial doubt about 
+the Trust’s ability to continue as a going conc ern within one year after the date that the 
+consolidated financial statements are issued or available to be issued. 
+ 
+Auditor’s Responsibilities for the Audit of the Consolidated Financial Statements 
+ 
+Our objectives are to obtain reasonable assu rance about whether the consolidated financial 
+statements as a whole are free from material mi sstatement, whether due to fraud or error, and 
+to issue an auditor’s report that includes our op inion. Reasonable assurance is a high level of 
+assurance but is not absolute assurance and therefore is not a guarantee that an audit conducted 
+in accordance with GAAS will always detect a ma terial misstatement when it exists. The risk of 
+not detecting a material misstatement resulting from fraud is higher than for one resulting from 
+error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the 
+override of internal control. Misstatements are considered material if there is a substantial 
+likelihood that, individually or in the aggregat e, they would influence the judgment made by a 
+reasonable user based on the consolidated financial statements. We did not audit the consolidated 
+financial statements of the National Trust Comm unity Investment Corporation and Subsidiaries 
+(NTCIC), a wholly-owned subsidiary which constitutes $20,716,728 and $21,133,917 of total 
+consolidated assets as of June 30, 2023 and 2022, respectively and $13,180,885 and $11,211,255 
+of total consolidated operating revenues for the years ended June 30, 2023 and 2022, 
+respectively. Those statements were audited in accordance with accounting principles generally 
+accepted in the United States of America, an d were audited by other auditors, whose reports 
+have been furnished to us. Our opinion, insofar as  it relates to the amounts included for NTCIC, 
+is based solely on the report of the other auditors. 
+ 
+In performing an audit in accordance with GAAS, we: 
+ 
+ Exercise professional judgment and maintain  professional skepticism throughout the 
+audit. 
+ Identify and assess the risks of material misstatement of the consolidated financial 
+statements, whether due to fraud or error, and design and perform audit procedures 
+responsive to those risks. Such procedures in clude examining, on a test basis, evidence 
+regarding the amounts and disclosures in the consolidated financial statements. 
+ Obtain an understanding of internal control relevant to the audit in order to design audit 
+procedures that are appropriate in the ci rcumstances, but not for the purpose of 
+expressing an opinion on the effectiveness of the Trust’s internal control. Accordingly, no 
+such opinion is expressed. 
+ Evaluate the appropriateness of accounting policies used and the reasonableness of 
+significant accounting estima tes made by management, as well as evaluate the overall 
+presentation of the consolidated financial statements. 
+ Conclude whether, in our judgment, there are conditions or events, considered in the 
+aggregate, that raise substantial doubt about the Trust’s ability to continue as a going 
+concern for a reasonable period of time. 
+ 
+We are required to communicate with those ch arged with governance regarding, among other 
+matters, the planned scope and timing of the audit, significant audit findings, and certain internal 
+control-related matters that we identified during the audit. 
+===== PAGE 6 =====
+ 
+ 
+5 
+Other Matter 
+ 
+Supplementary Information 
+ 
+Our audit was conducted for the purpose of form ing an opinion on the consolidated financial 
+statements as a whole. The consolidating schedule  of financial position, consolidating schedule 
+of activities, and schedule of activities (parent company only) as of and for the year ended June 
+30, 2023 are presented for purposes of additional analysis and are not a required part of the 
+consolidated financial statements. Such information is the responsibility of management and was 
+derived from and relates directly to the underlying accounting and other records used to prepare 
+the consolidated financial statements. The supplementary information has been subjected to the 
+auditing procedures applied in the audit of th e consolidated financial statements and certain 
+additional procedures, including comparing and reconciling such information directly to the 
+underlying accounting and other records used to prepare the consolidated financial statements 
+or to the consolidated financia l statements themselves, and ot her additional procedures in 
+accordance with auditing standard s generally accepted in the United States of America. In our 
+opinion, the information is fairly stated, in all ma terial respects, in relation to the consolidated 
+financial statements as a whole. 
+ 
+ 
+ 
+ 
+December 21, 2023 
+McLean, Virginia 
+===== PAGE 7 =====
+ 
+ 
+ 
+Consolidated Financial Statements 
+ 
+===== PAGE 8 =====
+2023 2022
+Assets
+Current assets:
+Cash and cash equivalents 21,692,192$           31,281,687$      
+Short-term investments (Notes 9 and 10) 2,892,942              3,050,436         
+Accounts receivable 15,322,398            12,812,993       
+Contributions receivable, current (Note 5) 9,577,427              6,490,353         
+Prepaid expenses and other assets 1,422,253              1,506,589         
+Total current assets 50,907,212            55,142,058       
+Noncurrent investments: (Notes 9, 10, and 11)
+Endowments and similar funds 291,133,456           279,701,769      
+Amounts held for others (Note 6) 15,766,355            15,285,767       
+Other investments (Note 7) 110,348,774           77,687,098       
+Total noncurrent investments 417,248,585           372,674,634      
+Contributions receivable, net of current (Note 5) 6,786,241              10,786,045       
+Property and equipment, net (Note 4) 14,063,602            15,003,435       
+Right-of-use asset—operating (Note 12) 8,399,452              -                       
+Other long-term assets 922,814                  1,103,419         
+Total noncurrent assets 447,420,694           399,567,533      
+Total assets 498,327,906$         454,709,591$    
+Liabilities and Net Assets
+Liabilities
+Current liabilities:
+Accounts payable 15,921,465$           12,533,622$      
+Accrued expenses 3,338,744              3,858,255         
+Refundable advances and deferred revenue, current 5,514,865              4,858,383         
+Lease liability—operating lease, current (Note 12) 2,789,272              -                       
+Notes payable, current (Note 13) 2,607,877              5,675,684         
+Total current liabilities 30,172,223            26,925,944       
+Refundable advances and deferred revenue, net of current 2,697,960              3,147,620         
+Lease liability—operating lease, net of current (Note 12) 11,943,946            -                       
+Notes payable, net of current (Note 13) 6,028,895              4,698,257         
+Amounts held for others (Note 6) 15,766,355            15,285,767       
+Other liabilities (Note 7) 3,056,933              9,063,137         
+Total liabilities 69,666,312            59,120,725       
+Commitments and Contingencies (Notes 8 and 17)
+Net assets (Note 14)
+Without donor restrictions 116,548,247           110,584,524      
+With donor restrictions 312,113,347           285,004,342      
+Total net assets 428,661,594           395,588,866      
+Total liabilities and net assets 498,327,906$         454,709,591$    
+See accompanying notes to consolidated financial statements.
+National Trust for Historic Preservation in the United States
+and its Subsidiaries and Affiliates
+Consolidated Statements of Financial Position
+June 30,
+6
+===== PAGE 9 =====
+Without Donor With Donor
+Restrictions Restrictions Total
+Operating revenues, gains, and 
+other support
+Contributions and grant income 27,692,808$     41,147,452$     68,840,260$     
+Contributions of nonfinancial assets 1,254,848         -                        1,254,848         
+Contract services 18,662,008       -                        18,662,008       
+Investment return 12,890,530       4,091,322         16,981,852       
+Admissions and special events 4,129,724         -                        4,129,724         
+Program fees and other income 7,104,101         -                        7,104,101         
+Net assets released from
+restrictions 23,017,508       (23,017,508)      -                        
+Total operating revenues, gains,
+and other support 94,751,527       22,221,266       116,972,793     
+Operating expenses and loss
+Program services
+Historic sites 25,488,450       -                        25,488,450       
+Preservation services 37,630,131       -                        37,630,131       
+Education and publications 6,028,526         -                        6,028,526         
+Total program services 69,147,107       -                        69,147,107       
+Support services
+General and administrative 10,534,212       -                        10,534,212       
+Fundraising 5,099,520         -                        5,099,520         
+Membership outreach 3,670,650         -                        3,670,650         
+Total support services 19,304,382       -                        19,304,382       
+Loss on sublease activity 525,021            -                        525,021            
+Total operating expenses and loss 88,976,510       -                        88,976,510       
+Excess of operating revenues, gains, and other
+support over operating expenses and loss 5,775,017         22,221,266       27,996,283       
+Nonoperating support (expense)
+Investment gains in excess of amounts 
+designated for operations 917,226            5,824,887         6,742,113         
+Change in contributions receivable 
+estimate (Note 1i) -                        (937,148)           (937,148)           
+Provision for income taxes (Note 1r) (728,520)           -                        (728,520)           
+Total nonoperating support (expense) 188,706            4,887,739         5,076,445         
+Change in net assets 5,963,723         27,109,005       33,072,728       
+Net assets, beginning of year 110,584,524     285,004,342     395,588,866     
+ 
+Net assets, end of year 116,548,247$   312,113,347$   428,661,594$   
+See accompanying notes to consolidated financial statements.
+National Trust for Historic Preservation in the United States
+and its Subsidiaries and Affiliates
+Consolidated Statement of Activities
+Year ended June 30, 2023
+7
+===== PAGE 10 =====
+Without Donor With Donor
+Restrictions Restrictions Total
+Operating revenues, gains, and 
+other support
+Contributions and grant income 20,091,694$       49,107,968$       69,199,662$       
+Contributions of nonfinancial assets 1,413,351           -                        1,413,351           
+Contract services 15,477,077         -                        15,477,077         
+Investment return 11,126,532         2,725,158           13,851,690         
+Admissions and special events 4,006,327           -                        4,006,327           
+Program fees and other income 6,084,071           -                        6,084,071           
+Net assets released from
+restrictions 19,196,252         (19,196,252)        -                        
+Total operating revenues, gains,
+and other support 77,395,304         32,636,874         110,032,178       
+Operating expenses
+Program services
+Historic sites 23,297,174         -                        23,297,174         
+Preservation services 25,743,714         -                        25,743,714         
+Education and publications 6,104,396           -                        6,104,396           
+Total program services 55,145,284         -                        55,145,284         
+Support services
+General and administrative 9,373,185           -                        9,373,185           
+Fundraising 4,260,768           -                        4,260,768           
+Membership outreach 3,304,815           -                        3,304,815           
+Total support services 16,938,768         -                        16,938,768         
+Loss on sublease activity 2,881,288           -                        2,881,288           
+Total operating expenses and loss 74,965,340         -                        74,965,340         
+Excess of operating revenues, gains, and 
+other support over operating expenses 2,429,964           32,636,874         35,066,838         
+Nonoperating support (expense)
+Investment losses in excess of amounts 
+designated for operations (18,067,159)        (36,115,081)        (54,182,240)        
+Change in contributions receivable 
+estimate (Note 1i) -                        996,372              996,372              
+Provision for income taxes (Note 1r) (233,100)            -                        (233,100)             
+Total nonoperating support (expense) (18,300,259)        (35,118,709)        (53,418,968)        
+Change in net assets (15,870,295)        (2,481,835)         (18,352,130)        
+Net assets, beginning of year 126,454,819       287,486,177       413,940,996       
+ 
+Net assets, end of year 110,584,524$     285,004,342$     395,588,866$      
+See accompanying notes to consolidated financial statements.
+National Trust for Historic Preservation in the United States
+and its Subsidiaries and Affiliates
+Consolidated Statement of Activities
+Year ended June 30, 2022
+8
+===== PAGE 11 =====
+Education Total
+Historic Preservation and program General and Membership Total support
+Year ended June 30, 2023 sites services publications services administrative Fundraising outreach services Total 
+Employee costs:
+   Salaries 7,584,262$     11,648,828$        2,275,663$             21,508,753$        4,603,774$         2,820,515$       291,922$       7,716,211$      29,224,964$        
+   Payroll taxes and benefits 1,504,206       2,258,363           544,316                  4,306,885           1,055,036           474,528            95,749           1,625,313        5,932,198           
+Total employee costs 9,088,468       13,907,191         2,819,979               25,815,638         5,658,810           3,295,043         387,671         9,341,524        35,157,162         
+Grants 555,963          16,965,964         49,800                    17,571,727         -                          -                        -                     -                       17,571,727         
+Professional services 864,210          2,958,018           546,459                  4,368,687           1,880,005           305,667            676,241         2,861,913        7,230,600           
+Real estate 5,369,629       -                          -                             5,369,629           -                          -                        -                     -                       5,369,629           
+Miscellaneous 1,439,125       1,089,722           139,395                  2,668,242           614,025               186,140            129,590         929,755           3,597,997           
+Occupancy 1,429,885       670,989               290,907                  2,391,781           309,996               354,668            91,908           756,572           3,148,353           
+Maintenance 2,440,594       38,203                -                             2,478,797           44,052                2,159                -                     46,211             2,525,008           
+Printing and media 273,819          123,455               633,181                  1,030,455           14,574                217,390            1,176,519      1,408,483        2,438,938           
+Computer and telecommunications 514,073          482,999               407,056                  1,404,128           583,800               139,384            33,332           756,516           2,160,644           
+Postage and delivery 30,856            12,831                166,187                  209,874               12,043                211,317            1,152,481      1,375,841        1,585,715           
+Insurance 1,059,128       90,390                -                             1,149,518           262,074               -                        -                     262,074           1,411,592           
+Travel 204,095          771,564               116,216                  1,091,875           146,619               111,604            1,754             259,977           1,351,852           
+Special events 499,889          63,684                408,273                  971,846               128,573               194,837            -                     323,410           1,295,256           
+Donated services -                      80,718                388,718                  469,436               785,412               -                        -                     785,412           1,254,848           
+Property development 1,191,168       -                          -                             1,191,168           -                          -                        -                     -                       1,191,168           
+Depreciation and amortization 527,548          374,403               62,355                    964,306               94,229                81,311              21,154           196,694           1,161,000           
+Total other expenses 16,399,982     23,722,940         3,208,547               43,331,469         4,875,402           1,804,477         3,282,979      9,962,858        53,294,327         
+Total operating expenses 25,488,450$   37,630,131$        6,028,526$             69,147,107$        10,534,212$        5,099,520$       3,670,650$    19,304,382$    88,451,489$        
+National Trust for Historic Preservation in the United States
+and its Subsidiaries and Affiliates
+Consolidated Statement of Functional Expenses
+See accompanying notes to consolidated financial statements.
+9
+===== PAGE 12 =====
+Education Total
+Historic Preservation and program General and Membership Total support
+Year ended June 30, 2022 sites services publications services administrative Fundraising outreach services Total 
+Employee costs:
+   Salaries 6,332,553$      8,838,533$        2,315,997$              17,487,083$    4,687,272$       2,648,306$    271,435$        7,607,013$       25,094,096$    
+   Payroll taxes and benefits 1,256,483        1,753,736          444,749                   3,454,968        933,298            431,429         33,694            1,398,421         4,853,389        
+Total employee costs 7,589,036        10,592,269        2,760,746                20,942,051      5,620,570         3,079,735      305,129          9,005,434         29,947,485      
+Grants 99,512            9,886,895          191,000                   10,177,407      -                       -                   -                    -                      10,177,407      
+Real estate 6,361,887        -                       -                             6,361,887        -                       -                   -                    -                      6,361,887        
+Professional services 636,980           2,307,203          593,779                   3,537,962        1,169,370         162,567         677,226          2,009,163         5,547,125        
+Miscellaneous 1,411,166        820,701             490,921                   2,722,788        457,215            173,842         125,811          756,868            3,479,656        
+Occupancy 1,178,849        961,495             418,664                   2,559,008        380,023            278,214         139,433          797,670            3,356,678        
+Maintenance 2,155,749        32,614              -                             2,188,363        56,023              2,192            -                    58,215              2,246,578        
+Printing and media 216,529           54,934              610,310                   881,773           12,076              191,760         971,818          1,175,654         2,057,427        
+Computer and telecommunications 537,470           458,054             311,727                   1,307,251        511,381            113,759         50,177            675,317            1,982,568        
+Property development 1,569,167        -                       -                             1,569,167        -                       -                   -                    -                      1,569,167        
+Postage and delivery 28,356            10,157              170,182                   208,695           7,264                198,240         1,004,400       1,209,904         1,418,599        
+Donated services 3,110              148,051             477,917                   629,078           784,273            -                   -                    784,273            1,413,351        
+Insurance 971,040           124,075             -                             1,095,115        268,715            400               -                    269,115            1,364,230        
+Depreciation and amortization 538,323           347,266             79,150                     964,739           106,275            60,059          30,821            197,155            1,161,894        
+Total other expenses 15,708,138      15,151,445        3,343,650                34,203,233      3,752,615         1,181,033      2,999,686       7,933,334         42,136,567      
+Total operating expenses 23,297,174$    25,743,714$      6,104,396$              55,145,284$    9,373,185$       4,260,768$    3,304,815$     16,938,768$     72,084,052$    
+National Trust for Historic Preservation in the United States
+and its Subsidiaries and Affiliates
+Consolidated Statement of Functional Expenses
+See accompanying notes to consolidated financial statements.
+10
+===== PAGE 13 =====
+2023                 2022                 
+Cash flows from operating activities
+Change in net assets 33,072,728$        (18,352,130)$        
+Adjustments to reconcile change in net assets to 
+cash provided by operating activities
+Depreciation and amortization 1,161,000           1,161,894             
+Loss on sublease activity 525,021              2,881,288             
+Loss on disposal of property and equipment 3,187                  1,408                   
+Loss on properties held for resale 187,980              -                          
+NTCIC deferred income tax (benefit) provision (130,687)             62,941                  
+Net realized and unrealized (gains) losses on investments (19,445,298)        44,097,092           
+Contributions restricted for long-term investment (3,063,997)          (4,501,752)            
+Investment losses allocated to endowments 
+  held for others (1,119,215)          (2,038,485)            
+Change in contributions receivable estimate 937,148              (996,372)               
+Accretion of discount on long-term
+  contributions receivable, net (400,462)             65,209                  
+Allowance for uncollectible receivables 454,655              145,499                
+Forgiveness of PPP loans -                          (2,614,958)            
+Amortization of retained life estates (579,660)             (499,660)               
+Non-cash operating lease expense 958,104              -                          
+Decrease (increase) in assets
+Accounts receivable (2,970,261)          (5,723,448)            
+Contributions receivable 382,245              (4,740,692)            
+Prepaid expenses and other assets 84,336                (29,082)                
+Other long-term assets 529,221              113,208                
+Increase (decrease) in liabilities
+Accounts payable 3,387,843           3,317,626             
+Accrued expenses (519,511)             178,857                
+Refundable advances and deferred revenue 786,482              2,063,549             
+Amounts held for others 1,599,803           (410,310)               
+Deferred rent -                          (4,251,533)            
+Lease liability-operating leases (2,023,182)          -                          
+Other liabilities 461,710              3,102,023             
+Net cash provided by operating activities 14,279,190         13,032,172           
+Cash flows from investing activities
+Purchases of investments (83,936,668)        (46,385,806)          
+Proceeds from sales of investments 58,965,509         26,457,253           
+Purchases of property and equipment (224,354)             (139,977)               
+Net cash used in investing activities (25,195,513)        (20,068,530)          
+Cash flows from financing activities
+Contributions restricted for long-term investment 3,063,997           4,501,752             
+Proceeds from notes payable 14,260,000         4,000,000             
+Principal payments on notes payable (15,997,169)        (865,145)               
+Net cash provided by financing activities 1,326,828           7,636,607             
+Net (decrease) increase in cash and cash equivalents (9,589,495)          600,249              
+Cash and cash equivalents, beginning of the year 31,281,687         30,681,438           
+Cash and cash equivalents, end of the year 21,692,192$        31,281,687$          
+Supplemental cash flow information
+Cash paid for income taxes 245,000$              325,000$              
+Cash paid for interest 528,539$              372,835$              
+(continued)
+National Trust for Historic Preservation in the United States
+and its Subsidiaries and Affiliates
+Consolidated Statements of Cash Flows
+Years ended June 30,
+11
+===== PAGE 14 =====
+2023                 2022                 
+National Trust for Historic Preservation in the United States
+and its Subsidiaries and Affiliates
+Consolidated Statements of Cash Flows
+Years ended June 30,
+Supplemental disclosure of noncash operating activity
+Non-cash operating lease assets obtained in exchange for new 
+operating lease liabilities - upon adoption 7,652,326$           -$                        
+Non-cash operating lease assets and deposits obtained in 
+exchange for new operating lease liabilities - new lease 2,230,251$           -$                        
+Non-cash change in deferred rent in other liabilities 195,148$              -$                        
+Non-cash change in accrued lease cost in other liabilities 6,678,675$           -$                        
+Forgiveness of PPP loans -$                        2,614,958$           
+See accompanying notes to consolidated financial statements.
+12
+===== PAGE 15 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+13 
+1. Summary of Significant Accounting Policies 
+ 
+(a) Organization 
+ 
+The National Trust for Historic Preservation in the United States (the National Trust) and its 
+subsidiaries and affiliates (collectively referred to as the Trust) is a private, non-profit organization 
+chartered by Congress. The Trust’s mission is to protect significant places representing our diverse 
+cultural experience by taking direct action and inspiring broad public support. 
+ 
+National Main Street Center, Inc. (NMSC) was established in 2012 as a non-profit organization, with 
+the National Trust as its sole member, but is governed by its own board of directors, bylaws, and 
+operating procedures. NMSC is committed to preservation-based community revitalization of historic 
+commercial and neighborhood districts throughout the United States. 
+ 
+The National Trust Community Investment Corpor ation (NTCIC) was organized as a wholly-owned 
+for-profit subsidiary of the National Trust in 2000 . It is governed by its own board of directors, 
+bylaws, and operating procedures. NTCIC serves as the managing member of a number of limited 
+liability companies that invest in properties that qualify for federal and state historic tax credits, 
+New Markets Tax Credits, and Low-Income Housing Tax Credits. Nearly all of NTCIC’s investments 
+are in qualified low-income census tracts. Among other purposes, its certificate of incorporation 
+allows it to provide other similar financial invest ment services related to the mission of historic 
+preservation in the United States. 
+ 
+National Trust Insurance Services, LLC (NTIS) was formed in 2003 to provide insurance services for 
+the preservation community. NTIS was established to qualify as a licensed insurance producer. NTIS 
+is 99% owned by NTCIC with the remaining ownership interest held by Maury, Donnelly & Parr, Inc. 
+who acts as the agent for NTIS and markets and fu lfills all insurance products as an experienced 
+insurance producer.  
+ 
+National Trust Tours, LLC (NTT), formerly known as  Heritage Travel, LLC, was formed in 2008 and 
+is wholly-owned and governed by NTCIC to provide and promote services related to heritage travel. 
+ 
+NT Solar, Inc. (NTS) was organized as a wholly -owned, for-profit subsidiary of NTCIC and was 
+incorporated in 2014. NTS was established to participate in the financing, directly or indirectly, of 
+renewable energy transactions for which investment tax credits are being utilized. 
+ 
+National Trust Historic Real Estate Debt Fund , LLC (NTHREDF) was formed in 2016. NTHREDF was 
+established to provide debt investment services and products for historic real estate under 
+management by NTCIC, but with majority ownership by the National Trust. As of June 30, 2023, the 
+entity has no operating activity, and there is no operating agreement established with NTCIC.  
+ 
+Cooper-Molera Preservation LLC (CMP LLC) is a joint venture between the National Trust and FHP 
+Adobe LLC (FHP). CMP LLC was established in 2016 to further the rehabilitation, reuse, and historic 
+preservation of Cooper-Molera Adobe, an importan t historic site located in downtown Monterey, 
+California. The National Trust is a 98% equity pa rtner as of June 30, 2023 and 2022, respectively. 
+FHP is an affiliate of Foothill Partners. Foothill Partners is the managing partner who maintains the 
+books and records on behalf of CMP LLC.  
+ 
+===== PAGE 16 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+14 
+Greenrock Corporation (Greenrock) is a wholly-owned , for-profit subsidiary of the National Trust. 
+Greenrock provides building an d grounds maintenance, and secu rity services and oversees 
+construction of capital improvements and special projects for the Pocantico estate (former home 
+of the Rockefeller family) owned by the National  Trust. Greenrock is located in Tarrytown, New 
+York. Greenrock was a bequest to the National Trust by the estate of Greenrock’s deceased former 
+owner in 2017. The Trust became sole owner of Greenrock on July 15, 2018.  
+ 
+(b) Basis of Accounting 
+ 
+The accompanying consolidated financial statements are presented in accordance with the accrual 
+basis of accounting in conformity with accounting principles generally accepted in the United States 
+of America (U.S. GAAP), whereby support and revenue are recogniz ed when earned and expenses 
+are recognized when incurred. 
+ 
+(c) Basis of Presentation 
+ 
+The accompanying consolidated financial statements present the consolidated financial position and 
+changes in net assets of the Trust. All significant inter-organizational accounts and transactions have 
+been eliminated in consolidation. 
+ 
+Net assets and revenues, gains, and losses are classified based on the existence or absence of donor-
+imposed restrictions. Accordingly, net assets of the Trust are classified and reported as follows: 
+ 
+Net Assets Without Donor Restrictions 
+ 
+Net assets without donor restrictions are not su bject to donor-imposed stipulations. Gains and 
+losses on investments are reported as increase s or decreases in net assets without donor 
+restrictions unless their use is restricted by explicit donor stipulations or by law. Revenues from 
+sources other than restricted contributions and investment income are reported as increases in 
+net assets without donor restrictions. Expenses charged to programs without restrictions are 
+reported as decreases in net assets without donor restrictions.  
+ 
+Net Assets With Donor Restrictions 
+ 
+Net assets with donor restrictions are subjec t to donor-imposed restrictions. Some donor-
+imposed restrictions are temporary in nature, such as those that will be met by the passage of 
+time or other events specified by the donor. Other donor-imposed restrictions are perpetual in 
+nature, where the donor stipulates those resources be maintained in perpetuity. Gifts of long-
+lived assets and gifts of cash restricted for the acquisition of long-lived assets are recognized as 
+revenue when the assets are placed in service. Donor-imposed restrictions are released when a 
+restriction expires, that is, when the stipulated time has elapsed, when the stipulated purpose 
+for which the resource was restricted has been fulfilled, or both.  
+ 
+(d) Recently Adopted Authoritative Guidance 
+ 
+In February 2016, the Financial Accounting Standards Board (the FASB) issued Accounting Standards 
+Update (ASU) 2016-02, Leases. From a lessee perspective, the new guidance is intended to increase 
+transparency and comparability by recognizing lease assets and lease liabilities in the consolidated 
+statement of financial position and disclosing key information about leasing arrangements. ASU 
+2016-02 requires lessees to report a right-of-use asset along with a lease liability for both operating 
+===== PAGE 17 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+15 
+and finance leases. The FASB has issued ASUs su bsequent to ASU 2016-02 to further clarify and 
+improve Topic 842. The Trust also adopted ASU 2023-01, Common Control Arrangements, to allow 
+practical expedients in the assessment of leases  between entities under common control (Topic 
+842). 
+ 
+The Trust adopted ASU 2016-02 using the modified retrospective method to record a cumulative-
+effect adjustment to the beginning of the period of adoption. The Trust elected to apply practical 
+expedients allowing it to 1) not reassess whethe r any expired or existing contracts previously 
+assessed as not containing leases are, or contain, leases; 2) not reassess the lease classification for 
+any expired or existing leases; and 3) not reassess initial direct costs for any existing leases. The 
+Trust also elected to apply the practical expedient to use hindsight in determining the lease term.  
+ 
+Upon the adoption of Topic 842 on July 1, 2022, th e Trust recorded an initial right-of-use asset of 
+$7,652,326, an initial lease liability of $15,051,170 (see Note 12), a reduction of deferred rent of 
+$195,148, a reduction of accrued lease cost in a ccrued expenses and other liabilities in the 
+consolidated statements of financial position of $6,678,675, and a loss on sublease activity of 
+$525,021 in the consolidated statements of activi ties effective July 1, 2022 (see Note 12). The 
+adoption of ASU 2016-02 did not have a significant impact on the Trust’s accounting for operating 
+leases in which the Trust is the lessor.  
+ 
+(e) Recent Accounting Pronouncements Not Yet Adopted 
+ 
+In June 2016, the FASB issued ASU 2016-13, Financial Instruments – Credit Losses (Topic 326), 
+Measurement of Credit Losses on Financial Instruments . This update, along with ASU 2018-19, 
+Codification Improvements to Topic 326, Financial Instruments – Credit Losses changes the 
+impairment model for most financial assets that are measured at amortized cost and certain other 
+instruments from an incurred loss mo del to an expected loss model.  Entities will be required to 
+estimate credit losses over the entire contractua l term of an instrument. The ASU is effective for 
+the Trust beginning on July 1, 2023. An entity must apply the amendments in the ASU through a 
+cumulative-effect adjustment to net assets as of the beginning of the first reporting period in which 
+the guidance is effective except  for certain exclusions. Management is currently evaluating the 
+impact of this ASU on the consolidated financial statements. 
+ 
+The Trust also assessed other accounting pronouncements issued or effective during the year ended 
+June 30, 2023 and deemed they were not applicable  to the Trust or are not anticipated to have a 
+material effect on the consolidated financial statements. 
+ 
+(f) Accounting for Historic Sites 
+ 
+Historic Sites Owned by the Trust 
+ 
+The Trust owns certain historic sites that are operated as museums or are otherwise integral to the 
+Trust's preservation programs and are either managed by the Trust or are managed for the Trust by 
+other non-profit preservation organizations or other groups under various cooperative 
+arrangements. Sites identified in italics below are managed by other entities. 
+ 
+  
+===== PAGE 18 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+16 
+Historic Sites Open to the Public  
+ 
+Belle Grove, Middletown, Virginia Brucemore, Cedar Ra pids, Iowa   
+  
+Chesterwood, Stockbrid
+ge, Massachusetts Cliveden, Philadelphia, Pennsylvania 
+  
+Cooper-Molera Adobe, Monterey, California Decatur House, Washington, District of 
+Columbia 
+  
+Drayton Hall, Charleston, South Carolina Edith Farnsworth House, Plano, Illinois 
+  
+Filoli, Woodside, California The Ga ylord Building, Lockport, Illinois 
+  
+The Glass House, New Canaan, Connecticut 
+James Madison’s Montpelier, Orange, Virginia 
+  
+Kykuit, Tarrytown, New York Lyndhurst, Tarrytown, New York 
+  
+Oatlands Historic House and Gardens, 
+Leesbur
+g, Virginia 
+Pope-Leighey House, Alexandria, Virginia 
+  
+President Lincoln’s Cottage, Washington, 
+District of Columbia 
+The President Woodrow Wilson House, 
+Washin
+gton, District of Columbia 
+  
+The Shadows, New Iberia, Louisiana Villa Finale, San Antonio, Texa
+s 
+  
+Woodlawn, Alexandria, Virginia  
+ 
+On December 22, 2017, the Trust received a gift of Thornton Gardens, a historic site in San Marino, 
+California, subject to a life estate of the donors. Due to the existence of the life estate, the site is 
+not currently open to the public. 
+ 
+The National Trust and Oatlands, Inc. were pa rties to an amended an d restated cooperative 
+agreement, an amended and restated lease, and an amended and restated loan agreement, dated 
+April 15, 2019 (the co-stewardsh ip agreements), which provided fo r Oatlands, Inc. to manage and 
+operate Oatlands Historic House and Gardens as a National Trust historic site.  On September 20, 
+2023, the National Trust terminated the co-stewa rdship agreements with Oatlands, Inc.  The 
+National Trust and Oatlands, Inc. have subsequently facilitated the transition of the management 
+of Oatlands Historic House and Gardens back to the National Trust utilizing a license agreement 
+dated September 28, 2023.   
+ 
+Accounting Practice for Trust-Owned Property and Other Collections
+ 
+ 
+The Trust’s museum collection includes historic sites, structures, landscapes and objects that are 
+available to the public or held for that purpose. It acquires its collections by purchase or by 
+donation. The Trust’s Collections Management Policy  i n c l u d e s  g u i d a n c e  o n  t h e  d o c u m e n t a t i o n ,  
+preservation, care, and management of the collections and procedures related to the accession and 
+deaccession of collections items. 
+ 
+I n  c o n f o r m i t y  w i t h  t h e  p r a c t i c e  g e n e r a l l y  f o l l o w e d  b y  m u s e u m s ,  n o  v a l u e  i s  a s s i g n e d  t o  t h e  
+collections in the consolidated statements of financial position. The historic sites, including objects 
+and furnishings, owned by the Trust with the intent of retention are not reported in the 
+accompanying consolidated statements of financ ial position. Purchases of collection items are 
+===== PAGE 19 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+17 
+recognized as reductions in net assets without dono r restrictions in the period of acquisition. Per 
+the Trust’s Collections Management Policy  and following professional standards and guidelines, 
+proceeds from deaccessions of colle ction items are designated for the replenishment or care of 
+other objects within the museum collection and the preservation of historic structures or historic 
+landscape features that are part of the Historic Structures and Landscapes Collection. Expenditures 
+for restoration, stabilization, reconstruction, and development are charged to expense as incurred. 
+ 
+Property the Trust May Own with Intent of Sale 
+ 
+Certain non-collection properties may be held with the intent for future sale. Properties accepted 
+with the intent of sale are recognized as revenue at the time of receipt at the then estimated fair 
+value less protected costs for historic evaluation , repair, maintenance, and the impact of the 
+easement on the fair value. Upon sale, the Trus t ensures the preservati on of these historic 
+properties by imposing perpetual preservation ea sements, where appropriate. Historic properties 
+held with the intent of sale have been acquired by the Trust through outright gifts, bequests, gifts 
+with retained life estates, purchases, or other me ans. Properties with a retained life estate are 
+recorded as other investments and operated as non-collection real estate until the sale is executed.  
+ 
+Subsequent to June 30, 2023, the Trust purchased the historic Robert Smalls House, a private 
+residence, located in Beaufort, South Carolina for $2.1 million. The Trust will hold the property for 
+resale. 
+ 
+(g) Cash and Cash Equivalents 
+ 
+Cash and cash equivalents consist of cash and am ounts invested in money market accounts. Cash 
+equivalents held in investment a ccounts are excluded as they are considered to be held for long-
+term purposes. As of June 30, 2023 and 2022, the Trust’s cash accounts held in excess of federally-
+insured limits were $18,266,452 and $27,975,027, respectively. 
+ 
+(h) Accounts Receivable 
+ 
+Accounts receivable consist primarily of amounts due from government grants, employee retention 
+credits, fundraising events, customers and lessees , income taxes, acquisition fees, and asset and 
+fund management fees. 
+ 
+Accounts receivable are stated at their net realiz able value and are charged to bad debt expense 
+when they are determined to be  uncollectible based upon review by management. U.S. GAAP 
+requires that the allowance method be used to recognize bad debts; however, the effect of using 
+the direct write-off method is not materially di fferent from the results that would have been 
+obtained under the allowance method. 
+ 
+(i) Contributions Receivable 
+ 
+Unconditional promises to give are recorded as contributions receivable and contribution revenue 
+in the period in which the Trust is notified by the donor of a commitment to make a contribution. 
+Conditional promises to give are recognized wh en the conditions on which they depend are 
+substantially met. Contributions to be received after one year are discounted at an appropriate 
+discount rate commensurate with the risks involved . Contributions receivable are recorded at net 
+present value. An allowance for uncollectible cont ributions is based upon management's judgment 
+===== PAGE 20 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+18 
+and analysis of the creditworthiness of the donors , past collection experience, and other relevant 
+factors. At June 30, 2023 and 2022, approximately 59% and 77% of net contributions receivable was 
+attributable to three and four donors, respectively. During the years ended June 30, 2023 and 2022, 
+contributions receivable decreased by $937,148 and increased by $996,372, respectively, due to a 
+change in the donor’s intent. This change is reflected in the nonoperating support (expense) section 
+in the accompanying consolidated statements of activities.  
+ 
+(j) Endowment Investments 
+ 
+Endowment assets consist of board-designated endowment funds and endowment funds with donor 
+restrictions. The Investments Committee monitors an d approves all changes to the investment of 
+these funds. Investments are reported at fair value. Income from interest and dividends is 
+recognized as investment income and realized  and unrealized gains and losses, net of board-
+authorized spending designated for operations, are reported as nonoperating support. 
+ 
+(k) Other Investments 
+ 
+Other investments consist of irrevo cable retained life estates of non-collection real estate, short-
+term investments, and split-interest agreements. 
+ 
+The Trust is the beneficiary of irrevocable retain ed life estates wherein the Trust has a remainder 
+interest in donated property. The donor has the righ t to live in the property until death at which 
+time the Trust takes possession of the property. In the year of the gift, revenue is recognized for 
+the assessed fair value of the property, with or  without donor restrictions based on donors’ 
+intentions, and is included in contribution re venue. Based on donors’ intentions, contributions 
+receivable may be reduced instead. Assets and the related liabilities are stated at fair value and 
+the liabilities are included in refundable advances and deferre d revenue on the consolidated 
+statements of financial position.  
+ 
+Short-term investments are invest ed in treasury instruments and certificates of deposit and are 
+reported at fair value. 
+ 
+The Trust is also the beneficiary in various split-interest agreements with donors primarily consisting 
+of charitable gift annuities and irrevocable charitable remainder unitrusts. In the year of the gift of 
+charitable gift annuities and irrevocable charitab le remainder unitrusts for which the Trust serves 
+as the trustee (the agreements), the Trust recogniz es contribution revenue on the net amount of 
+assets received and liabilities assumed on the agreements, either with donor restrictions or without 
+donor restrictions, based on donors’ intentions. Assets held under the agreements are stated at fair 
+value. 
+ 
+The Trust pays a variable annuity amount equal to  the specified percentage of the fair value of 
+assets on the date of payment to the donors or  the donors' designees for the remainder of their 
+lives. The discount rate is based on rates commensurate with the expected remaining life of donors 
+or donors’ designees and was 3.375% at both June  30, 2023 and 2022, respectively. The liability 
+under these agreements is recognized at the present value of estimated future payments based on 
+actuarial assumptions provided in the 2012 Indi vidual Annuity Reserve Mortality Table and is 
+included in other liabilities in the consolidated statements of financial position. Adjustments to the 
+liability to reflect changes in actuarial assumptions and amortization of discount are recognized in 
+contributions revenue in the consolidated statements of activities.  
+ 
+===== PAGE 21 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+19 
+The Trust is also named as a beneficiary of the remaining assets of irrevocable charitable remainder 
+unitrusts whose trust funds are managed by third parties. In the year of the gift, revenue is 
+recognized for the fair value of the Trust’s benefici al interest in the trust funds, with or without 
+donor restrictions based on donors’ intentions and is included in contribu tion revenue. Assets are 
+stated at fair value. The related liabilities are the responsibility of the third-party manager and are 
+not recorded in the Trust’s consolidated financial statements. 
+ 
+(l) Property and Equipment 
+  
+All property and equipment are capitalized at their historical cost. The Trust capitalizes all property 
+and equipment purchased with a cost of $10,000 or more.  
+ 
+Depreciation of equipment and vehicles and amortization of computer software is calculated on the 
+straight-line basis over estimated useful lives of three-to-10 years. The leasehold improvements and 
+fixtures for the Watergate headquarters building are amortized over the lesser of the 15-year term 
+of the lease, or the estimated useful life of the leasehold improvements using the straight-line basis. 
+Costs associated with renovation and construction pr ojects at historic sites, which are not part of 
+the historic site, are capitalized and depreciated over 20-to-30 years using the straight-line basis 
+once the project has been placed in service. Land is not depreciated or amortized. 
+ 
+(m)  Leases 
+ 
+A contract is or contains a lease if the contract conveys the right to control the use of an identified 
+asset for a period of time in exchange for consideration. The Trust determines if an arrangement is 
+or contains a lease at inception. The Trust does not apply the recognition requirements under FASB 
+Accounting Standards Codification (ASC) Topic 842, Leases, to short-term leases. Leases with an 
+initial term of 12 months or less are not recorded  in the consolidated statements of financial 
+position. The lease term is the non-cancelable period of the lease, including any options to extend, 
+purchase or terminate the lease when it is reason ably certain that the Trust will exercise that 
+option.  
+ 
+Right-of-use (ROU) assets represent the Trust’s right to use an underlying asset for the lease term 
+and lease liabilities represent the Trust’s obligation to make lease payments arising from the lease. 
+ROU assets and liabilities are recognized at le ase commencement date based on the present value 
+of lease payments over the lease term, calculated using a rate of return selected based on the term 
+of the lease. As an implicit rate for most leases is not determinable, the Trust made an accounting 
+policy election to use a risk-free discount rate as a practical expedient in lieu of its incremental 
+borrowing rate when assessing lease classification and when measuring its lease liabilities. The lease 
+payments for the initial measurement of lease ROU assets and lease liabilities include fixed 
+payments only. The Trust has elec ted the practical expedient to account for each separate lease 
+component of a contract and its associated non-lease components as a single lease payment for all 
+leases, except real estate leases, and to utilize the written terms and conditions of a lease between 
+entities under common control for purposes of assessing whether a lease exists and the classification 
+of and accounting for that lease.  For real estate leases, non-lease components are separated from 
+lease components for accounting pu rposes. The right-of-use asset is amortized over the shorter of 
+the lease term or the economic life  of the leased asset. Rent expe nse is recognized on a straight-
+line basis over the operating lease term and in cluded as occupancy costs in the accompanying 
+consolidated statements of functional expenses. 
+ 
+===== PAGE 22 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+20 
+(n) Impairment of Long-Lived Assets 
+ 
+The Trust reviews asset carrying amounts periodic ally in addition to whenever events or 
+circumstances indicate that such carrying amo unts may not be recoverable. When considered 
+impaired, the carrying amount of the asset is redu ced to its current fair value and charged to the 
+consolidated statements of activities. No impairment loss has been recognized at June 30, 2023 and 
+2022.  
+ 
+(o) Refundable Advances and Deferred Revenue  
+ 
+The Trust recognizes revenue from conditional grants as conditions are met. When cash is received 
+before conditions are met, a re fundable advance is recorded as a liability and shown in the 
+statements of financial position. Deferred revenue consists of use obligations which are based on 
+the actuarial life expectancy of the donor related to irrevocable retained life estates (See Note 1k), 
+which totaled $3,147,620 and $3,727,280 as of June  30, 2023 and 2022, respectively. Adjustments 
+to deferred revenue to reflect ch anges in actuarial assumptions and amortization of discount are 
+recognized in contributions and grant income in the consolidated statements of activities.  
+ 
+(p) Measure of Operations 
+ 
+The Trust defines operations as all revenues and expe nses that are an integral part of its current 
+year programs and supporting activities. Nonoperating support includes investment return in excess 
+of the Trust’s aggregate board-authorized spending rate, if any. 
+ 
+The Trust’s authorized spending rate was 4.80 % and 4.85% for restricted endowment funds, 
+endowment funds without donor restriction, and the two general Historic Sites Funds for the years 
+ended June 30, 2023 and 2022, respectively. 
+ 
+(q) Functional Allocation of Expenses 
+ 
+The costs of providing various programs and support activities have been summarized on a functional 
+basis in the consolidated statemen ts of activities. Direct expenses  are charged to the respective 
+program or supporting activity. Certain costs have been allocated among the programs and support 
+services benefited based upon management’s esti mate of each program’s share of the allocated 
+costs. The method of allocation is listed below.  
+ 
+Expense Method of Allocation 
+  
+Benefits Actual fringe benefit rate 
+Occupancy Full time equivalent employee headcount 
+Depreciation Full time eq uivalent employee headcount 
+Equipment and computer supplies Full  time equivalent employee headcount 
+ 
+(r) Income Tax Status 
+ 
+The Trust accounts for uncertain tax positions in accordance with FASB ASC 740, Income Taxes (ASC 
+740), which requires that an income tax position be recognized or derecognized based on a “more 
+likely than not” threshold. This applies to positions taken or expected to be taken in an income tax 
+return. The Trust does not believe its consolidat ed financial statements include any material 
+===== PAGE 23 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+21 
+uncertain tax positions. The Trust is still open to examination by taxing authorities from fiscal year 
+ended June 30, 2020 forward. 
+ 
+The National Trust and NMSC are Section 501(c)(3 ) organizations exempt from income taxes as 
+provided under Section 501(a) of the Internal Revenue Code (the IRC). Unrelated business taxable 
+income is subject to income tax.  
+ 
+NTT, a single member limited liability company, is a disregarded entity of NTCIC under the IRC and 
+operating activity from NTT flows to NTCIC. 
+ 
+NTIS, NTHREDF and CMP LLC are treated as partnerships under the IRC. Accordingly, the members 
+of these limited liability companies are taxed on their proportionate share of NTIS’s, NTHREDF’s, 
+and CMP LLC’s taxable income, respectively. 
+ 
+NTCIC, NTS, and Greenrock operate as private entities and are subject to federal and state income 
+taxes. They account for income taxes under the asset and liability method. Deferred tax assets and 
+liabilities are recognized for the future tax cons equences attributable to the differences between 
+the financial statement carrying amounts of existing  assets and liabilities and their respective tax 
+bases and operating loss and tax credit carryforwards. 
+ 
+The components of the provision for income taxes for NTCIC and Greenrock, included in 
+nonoperating support (expense) in the consolidated  statements of activities for the years ended 
+June 30, 2023 and 2022 are as follows: 
+ 
+June 30, 2023 2022 
+   
+Current:   
+Federal income tax expense $  489,044 $    274,396 
+Investment tax credits (162,061) (196,400) 
+State and local 165,000 92,160 
+   
+Total current tax expense 491,983 170,156 
+   
+Deferred:   
+Federal income tax expense 236,537 62,944 
+   
+Provision for income taxes $  728,520 $    233,100 
+ 
+The Trust uses the flow-through method to account for investment tax credits allocated to the Trust 
+from its equity investments in certain operating entities. Under this method, the investment tax 
+credits are recognized as a reduction to income tax expense in the year they are utilized. 
+ 
+  
+===== PAGE 24 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+22 
+Deferred tax assets and liabilities are adjusted for the effect of changes in tax laws and rates on 
+the date of enactment and they are included with other liabilities in the accompanying statements 
+of financial position. The components of NTCIC’ s deferred income taxes as of June 30, 2023 and 
+2022 were as follows: 
+ 
+June 30, 2023 2022 
+   
+Deferred income $  287,111 $    253,320 
+Investment tax credits 525,255 128,931 
+Unrealized (loss) gain on equity securities (55,209) 206,778 
+Investments in investment entities (655,843) (698,107) 
+IRC Section 50(d) income (670,667) (645,581) 
+Other 124,239 155,122 
+   
+Deferred tax liability  $ (445,114) $  (599,537) 
+ 
+Greenrock had approximately $424,000 and $438,000 in deferred tax assets as of December 31, 2022 
+and 2021, respectively. Deferred tax assets are related to net operating loss carryforwards that can 
+be used to offset taxable income in future periods and reduce income taxes payable in those future 
+periods. Total net operating losses carried fo rward totaled $2,019,228 and $2,085,842 as of 
+December 31, 2022 and 2021, respectively. The net operating losses can be carried forward 
+indefinitely until utilized. Greenrock establishes a valuation allowance when they no longer consider 
+it more likely than not that a deferred tax asse t will be realized. As of each reporting date, 
+Greenrock’s management considers new evidence, bo th positive and negati ve, that could impact 
+management’s view with regard to future real ization of deferred tax assets. A full valuation 
+allowance was recorded against Greenrock’s defe rred taxes. Management reviewed Greenrock’s 
+deferred taxes and related valuation allowance as of June 30, 2023 and 2022, noting no material 
+change from Greenrock’s calendar year presentation.     
+ 
+(s) Revenue Recognition 
+ 
+Contributions and Grant Income 
+ 
+Contributions, including unconditional promises to  give, are recognized as revenue in the period 
+received or when the pledge is made. Conditiona l promises to give are not recognized until the 
+conditions on which they depend are substantially met. (See Note 5).  
+ 
+Grants awarded by federal sponsors, which are ge nerally considered nonreciprocal transactions 
+restricted by sponsors for certain purposes, are recognized as revenue when qualifying reimbursable 
+expenses have been incurred and conditions under the agreements are met. The Trust has elected 
+the simultaneous release policy for donor-restrict ed contributions that were initially conditional 
+contributions, which allows a not-for-profit orga nization to recognize a restricted contribution 
+directly in net assets without donor restrictions if the restriction is met in the same period that the 
+revenue is recognized. Revenue is recognized as costs are incurred. 
+ 
+National Trust membership revenue is recognized when received as the receipt is solicited as and is 
+considered a contribution and is recognized i mmediately. National Trust programs are made 
+available to both members and non-members, and as such, there is no exchange of commensurate 
+value in its memberships.  
+===== PAGE 25 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+23 
+Contributions of Nonfinancial Assets 
+ 
+During the years ended June 30, 2023 and 2022, cont ributions of nonfinancial assets recognized in 
+the consolidated statements of activities, none of which had donor-imposed restrictions include the 
+following: 
+ 
+June 30, 2023 2022 
+   
+Professional services $    866,130 $    935,434 
+Public service announcements 388,718 477,917 
+   
+Contributions of nonfinancial assets  $ 1,254,848 $ 1,413,351 
+ 
+Professional services are comprised of attorneys who advise the Trust on various legal matters and 
+other professional services. Publ ic service announcements are comp rised of messages shared with 
+the general public that raise awareness of the mission of the Trust. For all services, the Trust valued 
+and reported the contributed services at the estimated fair value based on current rates for similar 
+services.  
+ 
+Contract Services 
+ 
+In accordance with FASB ASU 2014-09, Revenue from Contracts wi th Customers (Topic 606) , the 
+Trust recognizes contract servic es revenue when it satisfies it s performance obligation(s) by 
+performing services for a customer. The amount of  revenue recognized refl ects the consideration 
+the Trust expects to receive in exchange for satisfying distinct performance obligations. If a 
+performance obligation does not meet the criteria to be considered distinct, the Trust combines it 
+with other performance obligations until a distinct bundle of services exists.  
+ 
+Amounts received in advance of services performed, but not yet earned, are held and recorded as 
+refundable advances. The Trust expects that the period between the Trust’s transfer of services to 
+its customers and when the customers pay for those services will be one year or less or paid upfront. 
+Therefore, the Trust has elected the practical expedient not to adjust the promised amount of 
+consideration for the effects of a significant financing component. 
+ 
+Acquisition fee income is generate d from contracts with investors or project sponsors for services 
+provided in conjunction with the selection, st ructuring, underwriting, and project closing of 
+investment transactions. Acquisition fees are negotiated at the time of the contract and invoiced 
+based on contractual terms. Acquisition fee revenue is recognized at a point in time at the financial 
+closing of each transaction. 
+ 
+Fund management and asset management fee income  are generated from contracts with investors 
+or project sponsors for services provided in conjunction with the ongoing programmatic compliance 
+oversight of investment transactions. Fund management and asset management fees are negotiated 
+at the time of the contract and invoiced based on contractual terms. Fund and asset management 
+fee income is recognized over time using time as a measure of progress in satisfaction of the series 
+of distinct services included in the contractual performance obligations. 
+ 
+ 
+===== PAGE 26 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+24 
+Client fees include amounts paid by customers for maintenance services and are invoiced in monthly 
+installments based on actual time and material s for the month. Revenue from client fees is 
+recognized over time using time as a measure of pr ogress in satisfaction of the series of distinct 
+services included in the contractual performance obligations. 
+ 
+Other contract services revenue includes educational services to local nonprofit revitalization 
+organizations and consulting, planning, and training services to assist communities with the 
+revitalization of their traditional commercial districts. Contract services fees are negotiated at the 
+time of the contract and invoiced based on contractual terms. Revenue from services is recognized 
+over time using the input method based on the Trust’s level of effort over time relative to the total 
+estimated level of effort of the project. 
+ 
+The composition of contract services revenue is as follows: 
+ 
+June 30, 2023  2022 
+    
+Acquisition fee income $ 6,133,735 $ 6,256,479 
+Fund management and asset management fee income 4,803,654  3,214,868 
+Client fees 4,787,270  4,220,970 
+Other contract services revenue 2,937,349  1,784,760 
+    
+Total contract services revenue $ 18,662,008 $ 15,477,077 
+ 
+Investment Return 
+ 
+Investment return is reported as increases or de creases in net assets without donor restrictions 
+unless their use is limited by donor-imposed stipula tions whereby they are reported as changes in 
+net assets with donor restrictions. Income from interest and dividends and unrealized and realized 
+gains and losses representing board-approved spending designated for operations are recorded in 
+investment return in the consolidated statements of activities, net of investment expenses. 
+ 
+Admissions and Special Events 
+ 
+Admissions and special events revenue include reve nue from admissions to Trust-operated historic 
+sites, the exchange portion (fair market value) of special events held at historic sites, special 
+property usage of historic sites, and registration fees and sponsorships from annual conferences.  
+ 
+Revenue from admissions and special events at hist oric sites managed by the Trust, which help to 
+educate the public about historic preservation, is recognized at a point in time as the individual 
+receives the benefit of admission at the historic site or event. 
+ 
+Conference registration revenue includes amounts paid by confer ence participants and sponsors. 
+Registration fees are based on published fixed rates and are collected either at the time of 
+registration, in advance of the conference, cour se or workshop resultin g in a deferred revenue 
+balance, or at the time that the conference, course or worksh op takes place and immediately 
+recognized as revenue. Conference registration revenue is recognized in the period the events are 
+conducted.  
+ 
+  
+===== PAGE 27 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+25 
+Conference sponsorships, which are generally considered nonreciprocal transactions, are recognized 
+when the conditions associated with providing the sponsorship are met at the conference. As such, 
+all conference revenue is recognized upon comp letion of the annual conference. Conference 
+sponsorship revenue was $413,743 and $540,864 fo r the years ended June 30, 2023 and 2022, 
+respectively. 
+ 
+Program Fees and Other Income 
+ 
+Program fees and other income consists of the following types of revenue:  
+ 
+Revenue from NMSC membership dues is invoiced based on fixed rate schedules at the beginning of 
+the individual member’s memb ership year, which creates a deferred revenue balance upon 
+collection. Revenue is recognized on a pro rata basis over the individual member’s membership year 
+as commensurate value is provided. Membership dues received for membership periods subsequent 
+to year end or associated with unsatisfied performance obligations are recorded as deferred 
+revenue. 
+ 
+Rental income is recognized on a straight-line basis over the period relating to the rental of buildings 
+at the Trust’s historic sites an d other buildings owned by the Tr ust to staff and other unrelated 
+parties for business or office usage or housing. 
+ 
+Commission income is considered earned when specified events have taken place and/or the Trust’s 
+obligations have been met, most notably commission  income equaling 12.5% is earned on the sale 
+of insurance products by NTIS. 
+ 
+Revenue from merchandise sales is primarily earned at the Trust’s historic sites, which operate gift 
+shops that sell books and merchandise that reflect the site’s history and architecture and the field 
+of historic preservation. The shops further the educational and interpretive missions of the historic 
+sites and of the Trust. Revenue is recognized at a point in time when the hi storic site delivers the 
+physical product to the customer, as the customer receives the benefit when the item is purchased 
+at the store or online.  
+ 
+Royalty revenue consists primarily of revenues resulting from various third-party trademark licensing 
+agreements for the use of the Trust’s name on certain commercial products and marketing 
+arrangements, primarily from affinity credit ca rd programs. Contracts with customers for the 
+licensing of intangible property rights are considered under specific licensing guidance and the right 
+to use the Trust’s name is satisfied at a point in time based on activity generated by the program.  
+ 
+Advertising revenue consists pr imarily of revenue from the sale of advertisements in the 
+“Preservation” magazine and on the Trust's website. The Trust recognizes revenue at a point in time 
+in an amount equal to the amount the Trust has the right to invoice when the advertisement appears 
+in the publication or when the impressions on the Trust’s website are made available as the 
+customer purchasing the advertising receives the benefit when the publication is distributed to 
+recipients.  
+ 
+Miscellaneous or other revenue is received and recognized when the goods and services are rendered 
+and typically occur in the same fiscal year. 
+ 
+  
+===== PAGE 28 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+26 
+The composition of program fees and other income revenue is as follows: 
+ 
+June 30,  2023  2022 
+     
+Commission income $ 2,177,645 $ 1,589,361 
+Rental income 1,895,509  1,030,176 
+NMSC membership dues 817,411  836,673 
+Merchandise sales 548,778  708,497 
+Advertising revenue 488,404  658,723 
+Royalty revenue 323,594  314,280 
+Miscellaneous and other revenue 852,760  946,361 
+    
+Total program fees and other income $ 7,104,101 $ 6,084,071 
+ 
+(t) Guarantees 
+ 
+In accordance with FASB ASC 460, Guarantees, for all guarantees entered into after January 1, 2003, 
+the Trust’s obligation under the guarantee agreement (See Note 8) is estimated at the face value 
+of the underlying debt agreement.  
+ 
+(u) Joint Costs 
+ 
+In accordance with FASB ASC 958-720-50-2, Not-For-Profit Entities – Other Expenses – Disclosure – 
+Accounting for Costs of Activities That Include Fundraising , the Trust allocates costs between 
+fundraising and programmatic expenses where such joint costs serve education, advocacy, or other 
+programmatic purposes in addition to fundraising. During the years ended June 30, 2023 and 2022, 
+all costs were charged to fundraising as there were no calls to action which is required to allocate 
+costs in accordance with the applicable guidance. 
+ 
+(v) Investments in Operating Entities 
+ 
+NTCIC accounts for its investments in various operating entities (the Investment Entities) under the 
+equity method. Under the equity method, the inve stments are recorded at cost and adjusted for 
+NTCIC’s share of income or loss of the Investme nt Entities, additional investments, and cash 
+distributions from the Investment Entities. Since NTCIC has no obligation to fund liabilities of the 
+Investment Entities beyond its investments, including loans an d advances, investments in the 
+Investment Entities may not be reduced below zero . To the extent that equity losses are incurred 
+when NTCIC’s carrying values of it s investments in the Investment Entities have reached a zero 
+balance, any losses will be suspended to be used against future income. 
+ 
+NTCIC has determined that the Inve stment Entities are variable inte rest entities and NTCIC is not 
+the primary beneficiary. As a result, NTCIC is no t required to consolidat e its investments in the 
+Investment Entities. This conclusion was based on the determination that NTCIC does not have the 
+power to direct the activities that most signif icantly impact the Invest ment Entities economic 
+performance. 
+ 
+  
+===== PAGE 29 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+27 
+(w) Investment Risks and Uncertainties 
+ 
+The Trust’s invested assets consist of money mark et funds, short-term fixed income, marketable 
+and nonmarketable equity, and debt securities. Th ese investment assets are exposed to interest 
+rate, market, and credit risk. Due to the level of uncertainty relate d to changes in interest rate, 
+market volatility, and credit risk, it is at least reasonably possible that changes in these risks could 
+materially affect the fair value of investments reported in the consolidated statements of financial 
+position. However, the diversification of the Trus t’s investment assets among these various asset 
+classes is designed to mitigate the impact of any dramatic change on any one investment asset class. 
+ 
+(x) Estimates 
+ 
+The preparation of consolidated financial statemen ts in conformity with U.S. GAAP requires the 
+Trust to make estimates and assumptions that affect the reported amounts of assets and liabilities 
+of the consolidated financial statements and the reported amounts of revenues and expenses during 
+the reporting period. Actual results could differ from those estimates. 
+ 
+(y) Reclassifications 
+ 
+Deferred rent in the amount of $199,316 has been  reclassified to other liabilities in the 2022 
+consolidated financial statements to conform to the current year presentation. There has been no 
+change in the previously recorded change in net assets.  
+ 
+2. Description of Program and Support Services 
+ 
+Descriptions of the program and support services  in the accompanying consolidated financial 
+statements are as follows: 
+ 
+Historic Sites – Preserve and manage for public benefit the Trust’s property, real and personal; 
+encourage an understanding of historic preserva tion and history through site-based educational 
+programs; administer networks of historic sites th at collaborate on preser vation issues with the 
+Trust; and review any potential acquisition opportunities for new historic sites. 
+ 
+Preservation Services  – Provide direct action to save histor ic places that are either nationally 
+significant or the preservation of which will have national implications and undertake deep, 
+sustained effort on nationally important preserva tion priorities focusing on diversity, equity, 
+inclusion, and accessibility.  
+ 
+Within the preservation category, the law and pres ervation divisions advocate national historic 
+preservation policy positions before government agencies, Congress, and state and local legislative 
+bodies, and in courts of law (both as a party litigant and as a friend of the court); conduct research 
+on public policy issues relating to historic preservation; administer preservation easements on sites 
+nationwide; and provide professional expertise on the protection of historic resources and 
+educational materials to the legal and preservation communities. 
+ 
+Education and Publications  – The education division encourages an understanding of historic 
+preservation through conferences and seminars, communications, training, internships, 
+merchandising, public service announcements, and preservation-related products. 
+ 
+===== PAGE 30 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+28 
+The publications division educates, fosters kn owledge, stimulates interest, and facilitates 
+participation in public and private historic preservation through the printing and publication of the 
+Trust’s general materials, newsletters, professional journals, and magazines. 
+ 
+General and Administrative – Includes the functions necessary to maintain an equitable employment 
+program; ensures an adequate working environmen t; provides general management, coordination, 
+and articulation of the Trust’s programs and operations; secures proper administrative functioning 
+of the Board of Trustees and Board of Advisors; provides legal counsel; manages the Trust’s 
+information technology requirements; and mana ges the financial, endowment, and budgetary 
+responsibilities of the Trust. 
+ 
+Fundraising – Provides the structure necessary to en courage and secure financial support from 
+individuals, foundations, corporations, and other grant makers. 
+ 
+Membership Outreach – Educates the general public on the value of and techniques for preserving 
+our nation’s architectural and cultural heritage and develops membership. 
+ 
+3. Liquidity and Availability 
+ 
+Financial assets available for general expenditure,  that is, without donor or other restrictions 
+limiting their use, within one year comprise the following: 
+ 
+June 30,  2023  2022 
+     
+Cash and cash equivalents, unrestricted $ 16,004,748 $ 14,941,510 
+Short-term investments  2,892,942  3,050,436 
+Accounts receivable  15,322,398  10,710,221 
+Contributions receivable, current, without donor  
+  restrictions  4,031,746  843,000 
+     
+Financial assets available to meet cash needs for general 
+expenditures within one year $ 38,251,834 $ 29,545,167 
+ 
+The Trust has net assets with donor restrict ions of $312,113,347 and $285,004,342 as of  
+June 30, 2023 and 2022, respectively. Donor-re stricted endowment fu nds and unspent donor-
+restricted gifts are not available for general use. 
+ 
+The Trust has board-designated quasi-endowm ents which include $83, 643,386 and $82,470,736 of 
+net assets without donor restrictions subject to a board-imposed annual spending rate of 4.80% and 
+4.85% as of June 30, 2023 and 2022, respectively. Although the Trust does not intend to spend from 
+board-designated quasi-endowment funds, these amounts could be made available by board action, 
+if necessary. 
+ 
+Cash and cash equivalents and investments are subject to certain guarantees. See Note 8 for 
+additional information on guarantees and Note 13  for additional information on outstanding notes 
+payable.  
+ 
+  
+===== PAGE 31 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+29 
+Liquidity Management 
+ 
+The Trust maintains a policy of structuring its fi nancial assets to be available as its general 
+expenditures, liabilities, and other obligations come due. In addition, to help manage daily liquidity 
+needs, the Trust has a line-of-credit facility of up to $10 million with Bank of America. See Note 13 
+for additional information related to the line-of-credit.  
+ 
+4. Property and Equipment 
+ 
+Property and equipment comprised the following: 
+ 
+June 30,  2023  2022 
+     
+Land $ 133,000 $ 133,000 
+Buildings and improvements  17,633,827  17,533,915 
+Leasehold improvements  3,344,302  3,344,302 
+Furniture and equipment  2,711,898  2,609,878 
+Computer equipment  3,791,159  3,814,905 
+     
+  27,614,186  27,436,000 
+     
+Less: accumulated depreciation and amortization  (13,550,584)  (12,432,565) 
+     
+Total $ 14,063,602 $ 15,003,435 
+ 
+5. Contributions Receivable 
+ 
+Contributions receivable are summarized as follows: 
+ 
+June 30,  2023  2022 
+     
+Unconditional promises to give expected to be 
+collected in:     
+Less than one year $ 9,577,427 $ 6,490,353 
+One to five years  7,194,485  5,326,644 
+More than five years  -  6,274,308 
+     
+  16,771,912  18,091,305 
+Less:     
+Allowances for uncollectible pledges  (153,526)  (159,728) 
+Unamortized discount  (254,718)  (655,179) 
+     
+  16,363,668  17,276,398 
+     
+Less: current contributions receivable  (9,577,427)  (6,490,353) 
+     
+Contributions receivable, net of current $ 6,786,241 $ 10,786,045 
+ 
+===== PAGE 32 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+30 
+The discount rates used to calculate the present value of contributions receivable range from 0.68% 
+to 4.90% and from 0.53% to 2.93% as of June 30, 2023 and 2022, respectively. During the years ended 
+June 30, 2023 and 2022, the Trust recognized $400,461 of net positive accretion income and $65,209 
+of net negative accretion income, respectively, on discounts relating to contributions receivable. 
+ 
+Commitments from donors for conditional promis es to give totaled $1,050,000 and $1,150,000 at 
+June 30, 2023 and 2022, respectively , and consisted of letters of intent for existing programs. At 
+June 30, 2023 and 2022, the Trust also had $2,750,000 and $4,000,000, respectively, in conditional 
+promises for which it did not satisfy the donor’s conditions.   
+ 
+At June 30, 2023 and 2022, the Trust had remaining available award balances on the federal grants 
+and contracts of $9,508,967 and $5,561,698, respectively. These award balances are not recognized 
+as assets and will be recognized as revenue as the project progress and conditions are met, generally 
+as expenses are incurred. 
+ 
+6. Amounts Held for Others 
+ 
+Amounts held for others, reported as both an asse t and liability in the cons olidated statements of 
+financial position, comprised the following: 
+ 
+June 30,  2023  2022 
+     
+Endowment held for James Madison’s Montpelier $ 9,170,219 $ 8,941,789 
+Endowment held for the benefit of Congressional Cemetery  5,846,390  5,862,681 
+Endowment held for the benefit of Belle Grove  749,746  481,297 
+     
+Total amounts held for others $ 15,766,355 $ 15,285,767 
+ 
+7. Split-Interest Agreements 
+ 
+The Trust is a beneficiary of split-interest agreem ents in the form of charitable gift annuities, 
+charitable remainder unitrusts, unitrusts, and pool ed income funds that are included in other 
+investments in the consolidated statements of financial position, and include the following: 
+ 
+June 30,  2023  2022 
+     
+Charitable gift annuities $ 2,288,380 $ 2,274,729 
+Charitable remainder unitrusts, non-trusteed  1,849,417  1,662,923 
+Charitable remainder unitrusts, trusteed   699,518  691,678 
+Unitrusts  217,445  214,961 
+Pooled income funds  37,789  89,414 
+     
+Total assets held under split-interest agreements $ 5,092,549 $ 4,933,705 
+ 
+  
+===== PAGE 33 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+31 
+As of June 30, 2023 and 2022, liabilities associated with split-interest agreements in other liabilities 
+in the consolidated statements of financial position comprised the following: 
+ 
+June 30,  2023  2022 
+     
+Charitable gift annuities $ 1,794,736 $ 1,858,042 
+Charitable remainder unitrusts, trusteed   281,144  291,310 
+Pooled income funds  4,396  13,887 
+     
+Total liabilities related to split-interest agreements $ 2,080,276 $ 2,163,239 
+ 
+Liability balances represent the present value of future cash flows expected to be paid to the donor 
+or the donor’s designee over the estimated remain ing term of the agreem ent. During the years 
+ended June 30, 2023 and 2022, the Trust reco gnized $114,885 and $72,902, respectively, in 
+accretion of discounts related to split-interest agreements.  
+ 
+The Trust is the beneficiary of irrevocable retain ed life estates wherein the Trust has a remainder 
+interest in donated property. The donor has the righ t to live in the property until death at which 
+time the Trust takes possession of the property. Reta ined life estates are recorded at fair value in 
+the consolidated statements of activities in the period received. Fair value is generally determined 
+by appraisal at the time of the transfer of ownership. The input to the fair value estimate is 
+classified in Level 3 of the fair value hierarchy. Non-collection real estate held with retained life 
+estates totaled $20.0 million and $20.8 million at  June 30, 2023 and 2022, respectively, and is 
+included in other investments in the consolidated statements of financial position. 
+ 
+8. Guarantees 
+ 
+Bond Purchase and Loan Agreement 
+ 
+The Trust has executed a Guaranty  Agreement with respect to the obligation of The Montpelier 
+Foundation (the Foundation) under a Bond Purc hase and Loan Agreement. The Trust would be 
+obligated to pay any outstanding obligation, withou t limitations, to Capital One Bank in the event 
+the Foundation defaults under the Bond Purchase  and Loan Agreement. The maximum potential 
+amount of future payments under the guarante e is $9.1 million at J une 30, 2023 and 2022. The 
+outstanding bond balance at June 30, 2023 is $6,754,000 under the Bond Purchase and Loan 
+Agreement. The funds invested by the Trust for th e benefit of Montpelier or donor-restricted for 
+Montpelier are sufficient to offset potential co sts or payments incurred by the Trust under the 
+Agreement. 
+ 
+At June 30, 2023 and 2022, no liability was reported  in the accompanying consolidated statements 
+of financial position related to the Agreement as: (a) at this time, no information exists to indicate 
+that a future event will occur that would cause th e Trust to incur a contingent liability under the 
+Agreement; (b) the Trust is exempt from fair valuation treatment of non-contingent liabilities under 
+FASB ASC 460, Guarantees, under 460-10-30-1, and 460-10-25-1; and (c) the Trust and Foundation 
+are considered related parties. 
+ 
+  
+===== PAGE 34 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+32 
+Construction and Debt 
+ 
+On June 21, 2017, CMP LLC and Merchants Bank of Commerce were parties to a $3,800,000 
+construction loan for the renovation of the Cooper -Molera Adobe historic site. The National Trust, 
+FHP, and an individual partner of Foothill Partne rs were co-guarantors of the loan and guarantee 
+the full repayment of the loan. The loan was secured with real and personal property of the historic 
+site and was a ten-year loan with a maturity da te of June 20, 2027. The loan balance outstanding 
+was $0 and $3,560,020 as of June 30, 2023 and 2022, respectively. 
+ 
+On February 15, 2023, CMP LLC entered into a permanent loan in the amount of $4,760,000 with 
+Pacific Valley Bank. Proceeds from the financing were used to repay in full the loan with Merchants 
+Bank of Commerce, as described above. The Nation al Trust, FHP, and an individual partner of 
+Foothill Partners are co-guarantors of the loan and guarantee the full re payment of the loan. The 
+loan is secured with real and personal property of  the historic site and is a ten-year loan with a 
+maturity date of March 15, 2033. The loan balance outstanding was $4,709,718 as of June 30, 2023. 
+ 
+9. Investments 
+ 
+The composition of investments held by the Trust at June 30, 2023 is presented below: 
+ 
+   
+Endowment and 
+similar funds 
+including 
+amounts held 
+for others  
+Other 
+investments 
+including 
+short-term 
+investments Total 
+       
+Cash holdings   $ 12,159,888 $ 4,705,502 $ 16,865,390 
+Short-term holdings  - 17,959,673 17,959,673 
+Mutual funds  - 5,915,172 5,915,172 
+Equities – U.S.   83,581,433 4,869,703 88,451,136 
+Equities – global   54,697,936 2,841,873 57,539,809 
+Fixed income  11,832,497 47,302,605 59,135,102 
+Hedge funds  57,506,909 2,145,739 59,652,648 
+Opportunistic  - 652,263 652,263 
+Real assets  13,309,605 4,106,407 17,416,012 
+Non-collection real estate   - 20,000,000 20,000,000 
+Private equity  73,811,543 2,742,779 76,554,322 
+     
+Total investments  $ 306,899,811 $ 113,241,716 $ 420,141,527 
+ 
+  
+===== PAGE 35 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+33 
+The composition of investments held by the Trust at June 30, 2022 is presented below: 
+ 
+   
+Endowment and 
+similar funds 
+including 
+amounts held 
+for others  
+Other 
+investments 
+including 
+short-term 
+investments Total 
+       
+Cash holdings   $ 18,068,823 $ 953,005 $ 19,021,828 
+Short-term holdings   -  40,000,688 40,000,688 
+Mutual funds   -  260,920 260,920 
+Equities – U.S.    75,965,655  4,377,930 80,343,585 
+Equities – global    49,237,641  2,517,267 51,754,908 
+Fixed income   11,726, 991  2,468,830 14,195,821 
+Hedge funds     
+ 
+54,469,688  1,970,029 56,439,717 
+Opportunistic   -  532,701 532,701 
+Real assets   14,177,672  4,342,143 18,519,815 
+Non-collection real estate    -  20,760,000 20,760,000 
+Private equity   71,341,066  2,554,021 73,895,087 
+       
+Total investments  $ 294,987,536 $ 80,737,534 $ 375,725,070 
+ 
+The endowment and similar funds include all origin al donor-restricted gi ft amounts and amounts 
+required to be maintained in perpetuity, accumula ted investment gains, a ssets designated by the 
+board for long-term purposes, and a general fund for unspent contributions with donor restrictions. 
+Funds held for others are a component of the endowment funds. Other investments represent 
+donated non-collection property under irrevocabl e retained life estates, unspent grant funds 
+received that the Trust has invested to obtain higher yields and split-interest agreements. 
+ 
+10. Fair Value Measurements  
+ 
+FASB ASC 820, Fair Value Measurements and Disclosures  ( A S C  8 2 0 )  d e f i n e s  f a i r  v a l u e ,  r e q u i r e s  
+disclosures about fair value measurements, and es tablishes a three-level hierarchy for fair value 
+measurements based on the inputs to the valuation s of an asset or liability at the measurement 
+date. Fair value is defined as the price that would be received to sell an asset or paid to transfer a 
+liability in an orderly transaction between mark et participants at the measurement date. The 
+following three-level hierarchy classifies the inputs used to determine fair value: 
+ 
+• Level 1 - quoted prices in active markets for identical assets or liabilities; 
+• Level 2 - inputs, other than quoted prices, that are observable by a marketplace participant, 
+either directly or indirectly; and 
+• Level 3 - unobservable inputs that are significant to the fair value measurement. 
+ 
+The Trust applies the guidance in ASC 820 to it s investments including equities, bonds and fixed 
+income, hedge funds, real assets, and private eq uity. This guidance permits, as a practical 
+expedient, the fair values of investments within its scope to be estimated using net asset value 
+(NAV) per share or its equivalent. 
+ 
+===== PAGE 36 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+34 
+It should be noted that invest ment risk cannot be estimated based on this classification 
+methodology.  
+ 
+The following table classifies all investments into the hierarchy set forth by ASC 820 as of  
+June 30, 2023:  
+ 
+  Fair Value Hierarchy Level 
+Reported at 
+NAV * 
+  
+Description  Level 1  Level 2  Level 3   Total 
+           
+Cash holdings $ 16,865,390 $          - $             - $              - $  16,865,390 
+Short-term 
+holdings  17,959,673  -  -  -  17,959,673 
+Mutual funds  5,915,172  -  -  -  5,915,172 
+Equities – 
+U.S.   1,783,202  -  -  86,667,934  88,451,136 
+Equities – 
+global  11,551,770  -  -  45,988,039  57,539,809 
+Fixed income  47,334,988  605,936  -  11,194,179  59,135,103 
+Hedge funds - 
+other  -  -  -  408,997  408,997 
+Hedge funds - 
+credit-
+driven/ 
+distressed  -  -  -  11,259,067  11,259,067 
+Hedge funds – 
+global  -  -  -  47,984,583  47,984,583 
+Opportunistic  652,263  -  -  -  652,263 
+Real assets   -  -  -  17,416,012  17,416,012 
+Non-
+collection 
+real estate   -  -  20,000,000  
+ 
+-  20,000,000 
+Private 
+equity  -  -  -  76,554,322  76,554,322 
+           
+Total $ 102,062,458 $ 605,936 $ 20,000,000 $ 297,473,133 $ 
+ 
+420,141,527 
+ 
+* Certain investments that are measured at NAV, as a prac tical expedient, have not been categorized in the fair 
+value hierarchy. The fair value amounts presented in this table are intended to permit reconciliation of the fair 
+value hierarchy to the amounts presented in the accompanying consolidated statements of financial position. 
+  
+===== PAGE 37 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+35 
+The following table classifies all investments into the hierarchy set forth by ASC 820 as of June 30, 
+2022:  
+ 
+  Fair Value Hierarchy Level 
+Reported at 
+NAV * 
+  
+Description  Level 1  Level 2  Level 3   Total 
+           
+Cash holdings $ 19,021,828 $ - $ - $ - $ 19,021,828 
+Short-term 
+holdings  40,000,688 -  -  -  40,000,688 
+Mutual funds  260,920 -  -  -  260,920 
+Equities – U.S.   1,659,994 -  -  78,683,591  80,343,585 
+Equities – 
+global  10,065,412 -  -  41,689,496  51,754,908 
+Fixed income  2,921,739 136,167   -  11,137,915  14,195,821 
+Hedge funds - 
+othe
+r  - -  -  243,262  243,262 
+Hedge funds - 
+credit-
+driven/ 
+distressed  - -  -  3,932,444  3,932,444 
+Hedge funds –  
+global  - -  -  52,264,011  52,264,011 
+Opportunistic    532,701 -  -  -  532,701 
+Real assets   - -  -  18,519,815  18,519,815 
+Non-collection 
+real estate   - -  20,760,000  -  20,760,000 
+Private equity  -  -   -   73,895,087  73,895,087 
+          
+Total $ 74,463,282 $ 136,167 $ 20,760,000 $ 280,365,621 $ 375,725,070 
+ 
+* Certain investments that are measured at NAV, as a prac tical expedient, have not been categorized in the fair 
+value hierarchy. The fair value amounts presented in this table are intended to permit reconciliation of the fair 
+value hierarchy to the amounts presented in the accompanying consolidated statements of financial position. 
+ 
+Changes in Fair Value Levels 
+ 
+To assess the appropriate classification of inve stments within the fair value hierarchy, the 
+availability of market data is monitored. Change s in economic conditions or valuation techniques 
+may require the transfer of investments from one fair value level to another. The Trust’s 
+management evaluates the significance of transfer s between levels based upon the nature of the 
+investment. For the year ended June 30, 2023, there were $760,000 of sales/redemptions of Level 
+3 non-collection real estate investments. For the year ended June 30, 2022, there were no transfers 
+in or out of Level 3.  
+ 
+  
+===== PAGE 38 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+36 
+The following table sets forth a summary of the Trust’s investments with a reported Level 3 and 
+NAV as of June 30, 2023: 
+ 
+  
+Investments 
+measured at 
+NAV and 
+Level 3  
+Unfunded 
+commitments  
+Redemption 
+frequency  
+Notice 
+period 
+         
+Equities – U.S. (a) $ 86,667,934 $ -  
+Monthly to 
+quarterly  
+30 – 60 
+days 
+Equities - global (a)  45,988,039  -  
+Daily to 
+monthly  
+6 – 30 
+days 
+Fixed income (b)  11,194,179  -  Daily  3 days 
+Hedge funds - other (c)  408,997  -  Quarterly  
+60 – 90 
+days 
+Hedge funds - credit-
+driven/distressed (c)  11,259,067  728,069  Quarterly  
+60 – 90 
+days 
+Hedge funds - global (c)  47,984,583  -  
+Quarterly to 
+annually  
+60 - 90 
+days 
+Real assets (d)  17,416,012  401,116  Locked  N/A 
+Non-collection real 
+estate (e)  20,000,000  -  
+No fixed 
+redemption 
+period  N/A 
+Private equity (f)  76,554,322  22,745,315  Locked  N/A 
+         
+Total investments 
+measured at NAV and 
+Level 3  $ 317,473,133 $ 23,874,500     
+ 
+The nature and risks inherent in each of the Trust's major categories of investments where the fair 
+value was estimated using the practical expedient are summarized as follows: 
+ 
+a) This category includes U.S. and global equity  investments and share in the returns and risks 
+associated with exposure to their respective markets. 
+b) This category includes fixed income investment s and share in the returns and risks associated 
+with exposure to U.S. and non-U.S. credit markets, interest rates, and foreign currencies. 
+c) Hedge fund investments are comprised of a diversified portfolio and share in the returns and 
+risks associated with the equity markets, credit markets, interest rates, and foreign currencies. 
+In addition, some of these fund s may present lower liquidity, organizational risk, event and 
+deal risks, leverage, and counterparty risk. Reduced redemption rights have been accepted for 
+certain funds in order to access these funds.  
+d) Real assets are invested globally, principally in  the energy and materials sector with smaller 
+amounts invested in land, timber, and renewabl e energy, and share in the returns and risks 
+associated with equity markets, interest rates, and commodities markets.  
+e) Non-collection real estate consists of donated property with irrevocable retained life estates 
+wherein the Trust has a remainder interest in the property.  
+f) Private equity investments are invested gl obally in consumer, computer, medical/ 
+pharmaceuticals, communications, financials, se rvices, energy, and elec tronics and share in 
+the risks and returns associated with the equity markets and credit market risks. 
+===== PAGE 39 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+37 
+The following table sets forth a summary of the Trust’s investments with a reported level 3 and NAV 
+as of June 30, 2022: 
+ 
+  
+Investments 
+measured at 
+NAV and 
+Level 3  
+Unfunded 
+commitments  
+Redemption 
+frequenc
+y  
+Notice 
+period 
+         
+Equities – U.S. (a) $ 78,683,591 $ -  
+Monthly to 
+quarterly  
+30 – 60 
+days 
+Equities - global (a)  41,689,496  -  
+Daily to 
+monthly  
+6 – 30 
+days 
+Fixed income (b)  11,137,915  -  Daily  3 days 
+Hedge funds - other (c)  243,262  -  Quarterly  
+60 – 90 
+days 
+Hedge funds - credit-
+driven/distressed (c)  3,932,444  2,277,114  Quarterly  
+60 – 90 
+days 
+Hedge funds - global (c)  52,264,011  -  
+Quarterly to 
+annually  
+60 - 90 
+days 
+Real assets (d)  18,519,815  1,045,459  Locked  N/A 
+Non-collection real 
+estate (e)  20,760,000  -  
+No fixed 
+redemption 
+period  N/A 
+Private equity (f)  73,895,087  15,121,366  Locked  N/A 
+         
+Total investments 
+measured at NAV and 
+Level 3 $ 301,125,621 $ 18,443,939     
+ 
+The nature and risks inherent in each of the Trust's major categories of investments where the fair 
+value was estimated using the practical expedient are summarized as follows: 
+ 
+a) This category includes U.S. non-U.S., and glob al equity investments an d share in the returns 
+and risks associated with exposure to their respective markets. 
+b) This category includes fixed income investment s and share in the returns and risks associated 
+with exposure to U.S. and non-U.S. credit markets, interest rates, and foreign currencies. 
+c) Hedge fund investments are comprised of a diversified portfolio and share in the returns and 
+risks associated with the equity markets, credit markets, interest rates, and foreign currencies. 
+In addition, some of these fund s may present lower liquidity, organizational risk, event and 
+deal risks, leverage, and counterparty risk. Reduced redemption rights have been accepted for 
+certain funds in order to access these funds.  
+d) Real assets are invested globally, principally in  the energy and materials sector with smaller 
+amounts invested in land, timber, and renewabl e energy, and share in the returns and risks 
+associated with equity markets, interest rates, and commodities markets.  
+e) Non-collection real estate consists of donated property with irrevocable retained life estates 
+wherein the Trust has a remainder interest in the property.  
+f) Private equity investments are invested gl obally in consumer, computer, medical/ 
+pharmaceuticals, communications, financials, se rvices, energy, and elec tronics and share in 
+the risks and returns associated with the equity markets and credit market risks. 
+===== PAGE 40 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+38 
+11. Management of Endowment Funds 
+ 
+The Trust’s endowment includes both donor-restricted endowment funds and funds designated by 
+the Board of Trustees to function as endowmen ts. Donor-restricted endowment funds and donor-
+restricted term endowment funds are classified as net assets with donor restrictions. 
+ 
+The Trust has interpreted the District of Columbia Uniform Prudent Management of Institutional 
+Funds Act of 2007 (the Act) as requiring the Trust, absent explicit donor stipulations to the contrary, 
+to act in good faith and with the care that an or dinarily prudent person in a like position would 
+exercise under similar circumstances in making determinations to appropriate or accumulate donor-
+restricted endowment funds, taking  into account both its obligation  to preserve the value of the 
+endowment and its obligation to  use the endowment to  achieve the purposes  for which it was 
+donated. The Trust classifies as net assets with donor restrictions (a) the original value of gifts 
+donated to the permanent endowment, (b) the original value of subsequent gifts to the permanent 
+endowment, and (c) accumulations to the permanent endowment required by the applicable donor 
+gift instrument. The remaining portion of donor-restricted endowment funds that are not classified 
+as described above, are classified as accumulated investment gain net assets with donor restrictions 
+until those amounts are appropriated for expenditure by the Trust.  
+ 
+In making a determination to appropriate or a ccumulate, the Trust adheres to the standard of 
+prudence prescribed by the Act and considers the following factors: 
+ 
+1) The duration and preservation of the fund; 
+2) The purpose of the Trust and the donor-restricted endowment; 
+3) General economic conditions; 
+4) The possible effect of inflation and deflation; 
+5) The expected unrealized appreciation and depreciation of the investments; 
+6) Other resources of the Trust; and 
+7) The investment policy of the Trust. 
+ 
+From time to time, the fair value of assets asso ciated with individual donor-restricted endowment 
+funds may fall below the level that the donor or the Act requires. These deficiencies resulted from 
+unfavorable market fluctuations that occurred shortly after the investment of net contributions for 
+donor-restricted endowment funds. While the Trust has interpreted UPMIFA to permit spending from 
+underwater endowments in accordance with the pr udent measures required under law, no funds 
+were appropriated from these funds once balances were determined to be underwater. Deficiencies 
+of this nature are reported in net assets with donor restrictions. As of June 30, 2023, funds with 
+deficiencies had an original gift value of $1 ,088,500, a current fair value of $995,437 and a 
+deficiency of $(93,063). As of June 30, 2022, funds wi th deficiencies had an original gift value of 
+$1,000,000, a current fair value of $888,206 and a deficiency of $(111,794). 
+ 
+  
+===== PAGE 41 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+39 
+Endowment net assets consist of the following as of June 30, 2023: 
+ 
+  
+Without Donor 
+Restriction  
+With Donor 
+Restrictions  Total 
+       
+Board-designated quasi-
+endowment funds: $ 83,643,386 $ - $ 83,643,386 
+Donor-restricted endowment funds:       
+Original donor-restricted gift 
+amount and amounts required to 
+be maintained in perpetuity by 
+donor  -  106,567,153  106,567,153 
+Accumulated investment gains  -  78,421,800  78,421,800 
+Term endowments  -  24,768,841  24,768,841 
+       
+Total  $ 83,643,386 $ 209,757,794 $ 293,401,180 
+ 
+Changes in endowment net assets for year ended June 30, 2023 are as follows: 
+ 
+  
+Without Donor 
+Restriction  
+With Donor 
+Restrictions  Total 
+       
+Endowment net assets, 
+beginning of year $ 82,470,736 $ 199,877,050 $ 282,347,786 
+Contributions  635,413  3,128,997  3,764,410 
+Appropriation for operational 
+expenditures  (4,936,726)  (7,815,600)  (12,752,326) 
+Investment return  5,473,963  14,567,347  20,041,310 
+       
+Endowment net assets, end of year $ 83,643,386 $ 209,757,794 $ 293,401,180 
+ 
+Endowment net assets consist of the following as of June 30, 2022: 
+ 
+  
+Without Donor 
+Restriction  
+With Donor 
+Restrictions  Total 
+       
+Board-designated quasi-
+endowment funds $ 82,470,736 $ - $ 82,470,736 
+Donor-restricted endowment funds:       
+Original donor-restricted gift 
+amount and amounts required to 
+be maintained in perpetuity by 
+dono
+r  -  103,503,156  103,503,156 
+Accumulated investment gains  -  71,670,053  71,670,053 
+Term endowments  -  24,703,841  24,703,841 
+       
+Total  $ 82,470,736 $ 199,877,050 $ 282,347,786 
+ 
+  
+===== PAGE 42 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+40 
+Changes in endowment net assets for year ended June 30, 2022 are as follows: 
+ 
+  
+Without Donor 
+Restriction  
+With Donor 
+Restrictions  Total 
+       
+Endowment net assets, 
+beginning of year $ 98,730, 834 $ 220,039,819 $ 318,770,653 
+Contributions  30,000  13,982,730  14,012,730 
+Appropriation for operational 
+expenditures  (4,519,633)  (7,673,500)  (12,193,133) 
+Investment return  (11,770, 465)  (26,471,999)  (38,242,464) 
+       
+Endowment net assets, end of year $ 82,470,736 $ 199,877,050 $ 282,347,786 
+ 
+12. Rental Income (Lessor) and Rental Expense (Lessee) 
+ 
+The Emerson building, located in Denver, Colorado, is used for both Trust staff offices and a leased 
+space to third parties. The cost of the Emerso n building and renovati ons at June 30, 2023 was 
+$4,623,513, with accumulated depreciation and amortization of $740,392. The leased portion of the 
+Emerson building accounts for 82% of the total square footage of 14,120. Of the leased portion, the 
+property is 93% occupied under 10 leases rangin g from 16 to 182 months. The individual tenants’ 
+square footage leased ranges from 192 to 1,697 square feet. Leases expire at various periods through 
+December 2024. The Cooper-Molera Adobe historic si te leases commercial portions of the site to 
+third parties. The cost of renovations to the buildings used for commercial purposes at June 30, 
+2023 was $7,821,823, with accumulated deprecia tion and amortization of $1,020,487. The 
+commercial portion of the Cooper-Molera Adobe histor ic site is 8,565 square feet. The property is 
+100% occupied under three leases ranging from 61 to 121 months. The individual tenants’ square 
+footage leased ranges from 1,761 to 3,789 square feet.   Leases expire at various periods through 
+July 2028. The exercise of lease renewals, if availa ble under the lease options, is generally at the 
+Trust’s discretion and is considered in the Trust’s assessment of the respective lease term. There is 
+no option for a lessee to purchase the rental space in the lease agreement. 
+ 
+The Trust also rents buildings at it s historic sites to staff or unrelated parties as housing or other 
+uses and also leases space for site staff offices, visitor facilities, and related uses with various lease 
+expiration dates. Most of these buildings are co nsidered part of the Trust’s collection and are 
+therefore not included in the consolidated financial statements.  
+ 
+During the years ended June 30, 2023 and 2022, the Trust recognized rental income of $761,905 and 
+$904,891, respectively, which is included program fees and other income in the accompanying 
+consolidated statements of activities. 
+ 
+During 2022, the Trust entered into a sublease agreement for its Washington, D.C. headquarters 
+office space, which is currently under the terms of an operating lease. The lease includes provisions 
+for rental abatement and rental rate escalation and expires De cember 2028. The rental income 
+received under the terms of the sublease agreement does not exceed the costs of the original lease. 
+In accordance with FASB ASC 840, Leases, the resulting estimated loss from sublease income not 
+exceeding the core operating lease payments was recognized in 2022. The loss was accrued and is 
+included in accrued expenses and other liabilitie s in the accompanying co nsolidated statement of 
+financial position as of June 30, 2022, and as a loss in the accompanying consolidated statement of 
+===== PAGE 43 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+41 
+activities. Upon the adoption of ASU 2016-02 on July 1, 2022, the accrued loss was removed from 
+the consolidated statement of financial position and was credited against the right-of-use asset-
+operating balance associated with the lease. Du ring the years ended June 30, 2023 and 2022, the 
+Trust recognized sublease income of $1,110,730 an d $97,227, respectively, which is included in 
+program fees and other income in the accompanying consolidated statements of activities. 
+ 
+Future minimum lease income from non-cancelable operating leases is as follows: 
+ 
+Years ending June 30,     
+     
+2024   $ 1,745,261 
+2025    1,885,056 
+2026    1,920,031 
+2027    1,990,961 
+2028    2,064,551 
+Thereafter    814,940 
+     
+Total   $  10,420,800 
+ 
+Rental Expense 
+ 
+The Trust leases office space that was previously used for its Washington, D.C. headquarters office 
+space under an operating lease that extends through December 2028. The lease requires fixed 
+monthly payments with annual escalations and provided for certain rent abatement and 
+improvement allowances. The lease includes an option to extend the lease for one five-year term.  
+The exercise of this option is not considered reasonably certain; and therefore, the period covered 
+under the option term has not been  included in the calculation of  the related lease liability and 
+right-of-use asset that are included in the a ccompanying consolidated statement of financial 
+position.  
+ 
+During the year ended June 30, 2023, the Trust en tered into a lease agreement for office space to 
+be used for its new Washington, DC headquarters. The lease requires fixed monthly payments with 
+annual escalations. The original term of the lease is for three years with options to extend the term 
+for two consecutive one-year periods (through No vember 2027). The Trust is reasonably certain to 
+exercise these two options; and therefore, the pe riods covered under the option terms have been 
+included in the calculation of the related lease liab ility and right-of-use asset that are included in 
+the accompanying consolidated statement of fina ncial position. Effective December 1, 2023, the 
+Trust executed an amendment to the original agreement to lease additional space under the same 
+terms as the original agreement. 
+ 
+The Trust leases certain other facilities and eq uipment under operating leases with terms that 
+expire at various times through 2027. Right-of-use assets and lease liabilities for these leases are 
+included in the accompanying consolidated stat ement of financial position. Total lease expense 
+under these operating leases was $2,415,067 and $2,661,534 for the years ended June 30, 2023 and 
+2022, respectively, and is included  in occupancy expenses within the consolidated statements of 
+functional expenses.  
+  
+===== PAGE 44 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+42 
+Minimum future lease commitments on office space and equipment are as follows: 
+ 
+Years ending June 30,    Operating 
+     
+2024   $ 3,180,491 
+2025    2,922,359 
+2026    2,942,325 
+2027    3,020,167 
+2028    2,708,571 
+Thereafter    1,207,320 
+     
+Total undiscounted future cash flows    15,981,233 
+Less: imputed interest    (1,248,015) 
+     
+Net lease liabilities   $ 14,733,218 
+ 
+Supplemental information related to the Trust’s operating leases is as follows: 
+Year ended June 30, 2023    Operating 
+     
+Cash paid for amounts included in the measurement of lease liabilities— 
+  operating cash flows 
+   
+$ 
+ 
+2,942,163 
+Right-of-use assets obtained in exchange for new lease obligations   $   2,217,252 
+Weighted-average remaining lease term (in years)    5.2 
+Weighted-average discount rate    3.09% 
+ 
+Previous lease standard – 2022 The Emerson building, located in Denver, Colorado, is used for both 
+Trust staff offices and a leased space to third parties. The cost of the Emerson building and 
+renovations at June 30, 2022 was $4,623,513, with accumulated depreciation and amortization of 
+$615,128. The Cooper-Molera Adobe historic site leas es commercial portions of the site to third 
+parties. The cost of renovations to the buildings used for commercial purposes at June 30, 2022 was 
+$7,721,911, with accumulated depreciation and amor tization of $811,374. The Trust also rents 
+buildings at its historic sites to staff or unrelated parties as housin g or other uses and also leases 
+space for site staff offices, visitor facilities, and related uses with various lease expiration dates. 
+Most of these buildings are considered a part of the Trust’s collection and are therefore not included 
+in the consolidated financial statements.  
+ 
+During 2022, the Trust entered in to a sublease agreement for its Washington D.C. headquarters 
+office space, which is currently under the terms of an operating lease. The lease includes provisions 
+for rental abatement and rental rate escalation, and expires December 2028. The anticipated rental 
+income under the terms of the sublease agreement did not exceed the costs of the original lease. 
+In accordance with FASB ASC 840 Leases, the resulting estimated loss from sublease income not 
+exceeding the core operating lease payments was recognized in 2022. The loss was accrued and is 
+included in accrued expenses and other liabilities in the accompanying consolidated statements of 
+financial position, and as a loss in the accompanying consolidated statement of activities.   
+ 
+  
+===== PAGE 45 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+43 
+Future minimum lease income from non-cancelable operating leases is as follows: 
+ 
+Years ending June 30,     
+     
+2023   $ 1,094,760 
+2024    1,508,282 
+2025    1,617,806 
+2026    1,663,726 
+2027    1,714,963 
+Thereafter    2,579,322 
+     
+Total   $  10,178,859 
+ 
+The Trust leases certain office space for the headquarters buildings and equipment under operating 
+leases. Total lease expense was $2,661,534 for the ye ar ended June 30, 2022, and is included in 
+occupancy expenses within the consolidated stat ement of functional ex penses. During 2022, the 
+Trust entered into a lease agreement to lease new Washington D.C. headquarters office space under 
+an operating lease with two one-year term extens ion options. The lease includes provisions for 
+rental rate escalation and expires in November 2027.  
+ 
+Minimum future lease commitments on office space and equipment are as follows: 
+ 
+Years ending June 30,   
+   
+2023 $ 2,510,532 
+2024  2,769,569 
+2025  2,852,917 
+2026  2,929,900 
+2027  3,010,040 
+Thereafter  3,913,468 
+   
+Total  $ 17,986,426 
+ 
+13. Notes Payable 
+ 
+Notes payable at June 30, 2023 and 2022 consist of the following: 
+ 
+  2023  2022 
+     
+Bank of America line-of-credit $10,000,000 for operations with 
+an interest rate of Daily Se cured Overnight Financing Rate 
+(SOFR) plus the SOFR adjustment (0.11448%) plus 0.75% 
+(5.92% at June 30, 2023) paid  monthly. The line-of-credit 
+expires, if not renewed, on July 15, 2024. The line-of-credit 
+is secured with deposits and accounts maintained with Bank 
+of America. $ 2,500,000 $ - 
+     
+     
+===== PAGE 46 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+44 
+  2023  2022 
+     
+JPMorgan Chase Bank line-o f-credit $10,000,000 for 
+operations with an interest rate of LIBOR plus 1.28% (2.90% 
+at June 30, 2022) paid monthly.  The line-of-credit was not 
+renewed on July 23, 2022. The outstanding balance was paid 
+in full with the proceeds from the new line-of-credit on July 
+18, 2022.   
+ 
+ 
+ 
+ 
+ 
+-  
+ 
+ 
+ 
+ 
+ 
+5,000,000 
+     
+Ruth Falkenberg $1,500,000 loan for the renovation of 
+Emerson School Building in Denver at 5% monthly interest 
+with interest and principal payments of $8,052 due May 1, 
+2013 through September 30, 2022. In March 2022, the loan 
+was amended at 4% monthly in terest with interest and 
+principal payments of $5,991 due May 1, 2022 through April 
+1, 2027. The loan is secured with the deed of trust on the 
+Emerson School Building.  1,227,046  1,249,365 
+     
+Pacific Valley Bank $4,760,000 permanent loan at 6.20% 
+annual interest through Febr uary 14, 2028. Beginning 
+February 15, 2028, the annual interest rate will be equal to 
+the United States Treasury Secu rities yield, adjusted to a 
+constant maturity of 10 years, plus 2.74%. Principal and 
+interest payments are $31,513 per month. The loan matures 
+on December 5, 2032 and is secured with a leasehold interest 
+in the commercial portions of the Cooper-Molera Adobe 
+property.  4,709,718  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+     
+Merchants Bank of Commerce $3,800,000 construction loan for 
+the renovation of the Cooper -Molera Adobe property at 
+5.15% monthly interest for the first seven years and the five-
+year Constant Maturity Treasury Rate plus 2.75% thereafter. 
+Principal and interest payments are $22,719 per month with 
+principal payments based on a 25-year amortization. The 
+loan was set to mature on June 20, 2027 and was secured 
+with a leasehold interest in th e commercial portions of the 
+property. The outstanding balance was paid in full with the 
+proceeds from the new permanen t loan with Pacific Valley 
+Bank on February 28, 2023.  -  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3,560,020 
+     
+Unsecured promissory notes for the renovation of Coope r-
+Molera Adobe historic site in Monterey, California at 8-9% 
+interest per annum. Principal and unpaid accrued interest 
+are due and payable in full on May 15, 2025.   200,008  564,556 
+     
+Total  8,636,772  10,373,941 
+     
+Less: current portion  (2,607,877 ) (5,675,684)
+     
+Noncurrent portion $ 6,028,895 $ 4,698,257 
+ 
+===== PAGE 47 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+45 
+Effective December 1, 2023, the Trust reduced its line-of-credit facility with Bank of America from 
+$10 million to $7.5 million and extended the maturity date from July 15, 2024 to March 31, 2026. 
+Additionally, the interest rate was changed to th e Daily Secured Overnight Financing Rate (SOFR) 
+plus the SOFR Adjustment (0.10%) plus 1.10%. At the date of issuance, the line-of-credit had a drawn 
+balance of $1.5 million. 
+ 
+Future principal payments of notes payable outstanding at June 30, 2023 are as follows: 
+ 
+Years ending June 30,   
+   
+2024 $ 2,607,877 
+2025  318,208 
+2026  125,184 
+2027  1,260,886 
+2028  112,459 
+Thereafter  4,212,158 
+   
+Total  $ 8,636,772 
+ 
+14. Net Assets 
+ 
+Net assets without donor restrictions consist of the following at June 30, 2023: 
+ 
+  
+Available for 
+operations  
+Board-
+designated  Total 
+      
+Net investment in property and equipment $ 14,063,602 $ - $ 14,063,602 
+Other operating funds  16,611,995  -  16,611,995 
+Funds functioning as board - designated 
+quasi-endowment funds  -  83,643,386  83,643,386 
+Other board-designated  -  2,229,264  2,229,264 
+       
+ $ 30,675,597 $ 85,872,650 $ 116,548,247 
+ 
+Net assets without donor restrictions consist of the following at June 30, 2022: 
+ 
+  
+Available for 
+operations  
+Board-
+designated  Total 
+      
+Net investment in property and equipment $ 15,003,435 $ - $ 15,003,435 
+Other operating funds  10,234,644  -  10,234,644 
+Funds functioning as board - designated 
+quasi-endowment funds  -  82,470,736  82,470,736 
+Other board-designated  -  2,875,709  2,875,709 
+       
+ $ 25,238,079 $ 85,346,445 $ 110,584,524 
+ 
+  
+===== PAGE 48 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+46 
+Net assets with donor restrictions result from gi fts of cash and other assets with donor-imposed 
+restrictions to (a) support particular program activities, (b) invest for a specified term, (c) use in a 
+specified period, or (d) acquire lo ng-lived assets. Net assets with donor restrictions are restricted 
+for the following purposes or periods: 
+ 
+June 30,  2023  2022 
+    
+Subject to expenditure for a specified purpose:    
+NMSC subsidiary $ 2,546,364 $ 3,720,376 
+Specific properties or programs  79,909,461  58,588,423 
+    
+  82,455,825  62,308,799 
+     
+Subject to the passage of time:     
+Beneficial interest in charitable trusts  3,516  2,211 
+Assets held under split-interest agreements  46,112  38,440 
+    
+  49,628  40,651 
+Endowments:     
+Subject to appropriation and expenditure when a specified 
+event occurs:      
+Restricted by donors for preservation and maintenance of     
+specific historic properties or programs  103,190,641  96,373,893 
+     
+Subject to endowment policy and appropriation:     
+Specific properties  69,181,650  66,326,775 
+Specific programs  25,701,371  25,502,249 
+General operations  11,684,132  11,674,133 
+    
+  209,757,794  199,877,050 
+     
+Unconditional promises to give, net – permanently restricted     
+to endowment  19,687,074  22,615,286 
+     
+Not subject to spending policy or appropriation:     
+Beneficial interest in charitable trusts held by others  246,592  246,591 
+Assets held under split-interest agreements  (83,566)  (84,035) 
+    
+  163,026  162,556 
+     
+Total net assets with donor restrictions $ 312,113,347 $ 285,004,342 
+ 
+  
+===== PAGE 49 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+47 
+15. Designated by Board of Trustees 
+ 
+Funds designated by the Board of Trustees represent the portion of funds without donor restrictions 
+that have been set aside for specific purposes by action of the Board of Trustees.  
+ 
+Following is a summary of activity in funds designated by the Trustees for the years ended June 30: 
+ 
+  2023 2022 
+    
+Board-designated net assets, beginning of year $ 85,346,445 $ 101,143,240 
+    
+Activity for the year:    
+Amounts transferred to board-designated  659,266 465,012 
+Net gains (losses) on quasi-endowments  5,473,963  (11,770,465) 
+Funds expended for board-designated purposes  (5,607,024) (4,491,342) 
+    
+Total activity for the year  526,205 (15,796,795) 
+    
+Board-designated net assets, end of year $ 85,872,650 $ 85,346,445 
+ 
+16. Retirement Plans 
+ 
+The Trust adopted a noncontributory defined contri bution pension plan effective January 1, 1986. 
+The plan provides benefits to all eligible empl oyees of the Trust. Cont ributions are determined 
+based on 5% of the eligible empl oyees’ earnings for the calendar year. Employer contributions for 
+eligible employees were $848,429 and $745,016 for the year ended 2023 and 2022, respectively. 
+ 
+Participants are 20% vested after two years of service, 50% vested after three years of service, 75% 
+vested after four years of service, and 100% vested after five years of service or upon reaching age 
+55. Forfeitures of non-vested participant balances are used to offset future employer contributions. 
+ 
+The Trust adopted a voluntary employee contribution  403(b) retirement plan in 2007 to provide 
+retirement benefits to eligible employees on an elective deferral contribution basis. The Plan is 
+subject to the requirements of the Employee Retirement Income Security Act of 1974 (ERISA). 
+Employees are 100% vested in their accounts at all times. 
+ 
+The Trust adopted a nonqualified deferred retirement savings plan (457(b)) for senior management 
+and highly compensated employees on January 1, 2003. The plan currently allows eligible employees 
+to defer salary amounts up to the maximum a llowed under IRS regulations. The Retirement 
+Committee adopted a resolution on November 18, 2015 specifying that a select group of 
+management or highly compensated employees are eligible to participate. As of June 30, 2023 and 
+2022, assets and liabilities associated with this plan are $491,982 and $382,733, respectively. 
+ 
+17. Contingencies 
+ 
+Government Grants 
+ 
+The Trust receives federal grants which are subject to audit. Until such audits have been completed 
+and final settlement reached, there exists a contin gency to refund amounts received in excess of 
+===== PAGE 50 =====
+National Trust for Historic Preservation in the United States 
+and its Subsidiaries and Affiliates 
+ 
+Notes to Consolidated Financial Statements 
+ 
+48 
+allowable costs. Management believes that adjustments, if any, would not have a significant effect 
+on the consolidated financial statements. 
+ 
+Litigation 
+ 
+The Trust occasionally has participated as plaintiff or defendant in litigation to defend its general 
+corporate interests, for example in matters relati ng to contractual, employment, or tort-related 
+claims. Management believes that the outcome of litigation, if an y, will not be material to the 
+consolidated financial statements.  
+ 
+18. Payment Protection Program and the CARES Act 
+ 
+On March 27, 2020, President Trump signed into la w the “Coronavirus Aid, Relief, and Economic 
+Security (CARES) Act.” On March 15, 2021, the Nati onal Trust received funds totaling $2 million 
+pursuant to the Paycheck Protection Program un der the CARES Act. As management expected to 
+meet the PPP’s forgiveness criteria, the receipt of the funds was treated as a grant under the 
+guidance contained in ASC 958-605, Not-for-Profit Entities – Revenue Recognition.  The Trust filed 
+a loan forgiveness application in fiscal year 2022 and received full forgiveness from the Small 
+Business Administration (SBA) on February 13, 2022.  As such, the entire $2 million was recognized 
+as revenue and is included in contributions and grant income in the cons olidated statement of 
+activities for the year ended June 30, 2022. 
+ 
+The National Trust’s subsidiary, NTCIC applied for and received $606, 700 in funds under the 
+Paycheck Protection Program in fiscal year 2020. NTCIC filed for and received full loan forgiveness 
+in fiscal year 2022. In fiscal year 2022, the entire $606,700 was recognized as revenue and is included 
+in contributions and grant income in the consolid ated statement of activities for the year ended 
+June 30, 2022. 
+ 
+19. Subsequent Events 
+ 
+The Trust has evaluated events subsequent to June 30, 2023 and through December 21, 2023, which 
+is the date the consolidated financial statements were available to be issued. There were no events 
+noted that required adjustment to or disclosure in these consolidated financial statements, except 
+as described in Note 1(f) as it relates to historic sites owned by  the Trust and property the Trust 
+may own with intent of sale, Note 12 as it relates to rental expense, and Note 13 as it relates to the 
+Trust’s amended line-of-credit. 
+===== PAGE 51 =====
+ 
+ 
+Supplemental Schedules 
+===== PAGE 52 =====
+National Subsidiaries
+June 30, 2023 Trust and affiliates Eliminations Total
+Assets
+Current assets:
+Cash and cash equivalents 6,933,556$       14,758,636$   -$                      21,692,192$      
+Short-term investments 374,197             2,892,942       (374,197)           2,892,942          
+Accounts receivable 9,615,136         6,086,028       (378,766)           15,322,398        
+Contributions receivable,
+current 9,577,427         -                      -                        9,577,427          
+Prepaid expenses and other
+assets 1,109,073         313,180          -                        1,422,253          
+Investment in subsidiaries 19,494,938       -                      (19,494,938)     -                         
+Total current assets 47,104,327       24,050,786     (20,247,901)     50,907,212        
+Noncurrent investments:
+Endowments and similar funds 290,926,463      206,365          628                   291,133,456      
+Amounts held for others 15,973,348       -                      (206,993)           15,766,355        
+Other investments 106,972,519      3,376,255       -                        110,348,774      
+Total noncurrent investments 413,872,330      3,582,620       (206,365)           417,248,585      
+Contributions receivable, net of
+current 6,786,241         -                      -                        6,786,241          
+Property and equipment, net 6,230,029         7,833,573       -                        14,063,602        
+Right-of-use asset—operating  
+lease 7,958,709         1,795,990       (1,355,247)       8,399,452          
+Other long-term assets 922,814             -                      -                        922,814             
+Total noncurrent assets 435,770,123      13,212,183     (1,561,612)       447,420,694      
+Total assets 482,874,450$    37,262,969$   (21,809,513)$   498,327,906$    
+Liabilities and Net Assets
+Current liabilities:
+Accounts payable 12,491,473$      3,502,462$     (72,470)$           15,921,465$      
+Accrued expenses 2,324,418         1,014,326       -                        3,338,744          
+Refundable advances and
+deferred revenue, current 2,879,282         2,635,583       -                        5,514,865          
+Lease liability—operating 
+lease, current 2,388,183         401,089          -                        2,789,272          
+Notes payable, current 2,523,229         84,648            -                        2,607,877          
+Total current liabilities 22,606,585       7,638,108       (72,470)             30,172,223        
+Refundable advances and 
+ deferred revenue, net of current 2,697,960         -                      -                        2,697,960          
+Lease liability—operating 
+lease, net of current 11,846,587       1,758,274       (1,660,915)       11,943,946        
+Notes payable, net of current 1,203,816         5,199,279       (374,200)           6,028,895          
+Amounts held for others 15,973,348       -                      (206,993)           15,766,355        
+Other liabilities 2,636,726         420,207          -                        3,056,933          
+Total liabilities 56,965,022       15,015,868     (2,314,578)       69,666,312        
+Net assets
+Without donor restrictions 116,342,443      19,700,739     (19,494,935)     116,548,247      
+With donor restrictions 309,566,985      2,546,362       -                        312,113,347      
+Total net assets 425,909,428      22,247,101     (19,494,935)     428,661,594      
+Total liabilities and net assets 482,874,450$    37,262,969$   (21,809,513)$   498,327,906$    
+National Trust for Historic Preservation in the United States
+and its Subsidiaries and Affiliates
+Consolidating Schedule of Financial Position
+See accompanying notes to consolidated financial statements.
+49
+===== PAGE 53 =====
+National Subsidiaries
+Year ended June 30, 2023 Trust and affiliates Eliminations Total
+Operating revenues, gains, and
+other support
+Contributions and grant income 63,145,261$     5,694,999$     -$                     68,840,260$       
+Contributions of nonfinancial assets 1,174,130         80,718            -                       1,254,848           
+Contract services 307,634            18,657,193     (302,819)          18,662,008         
+Investment income 18,991,724       661,606          (2,671,478)       16,981,852         
+Admissions and special events 2,868,828         1,261,796       (900)                 4,129,724           
+Program fees and other income 4,470,042         3,779,051       (1,144,992)       7,104,101           
+Total operating revenues, gains
+and other support 90,957,619       30,135,363     (4,120,189)       116,972,793       
+Operating expenses and loss
+Program services
+  Historic sites 19,226,999       6,261,451       -                       25,488,450         
+  Preservation services 22,794,171       16,386,004     (1,550,044)       37,630,131         
+  Education and publications 3,790,130         2,238,396       -                       6,028,526           
+Total program services 45,811,300       24,885,851     (1,550,044)       69,147,107         
+Support services
+  General and administration 6,852,595         3,681,617       -                       10,534,212         
+  Fundraising 5,099,520         -                      -                       5,099,520           
+  Membership outreach 3,670,650         -                      -                       3,670,650           
+Total support services 15,622,765       3,681,617       -                       19,304,382         
+Loss on sublease activity 525,021            -                      -                       525,021               
+Total operating expenses and loss 61,959,086       28,567,468     (1,550,044)       88,976,510         
+Excess of operating revenues, 
+gains, and other support
+ over operating expenses and loss 28,998,533       1,567,895       (2,570,145)       27,996,283         
+Nonoperating support (expense)
+Investment gains in excess of 
+  amounts designated for operations 6,436,854         17,791            287,468           6,742,113           
+Change in contributions 
+  receivable estimate (Note 1i) (937,148)           -                      -                       (937,148)             
+Provision for income taxes (Note 1r) -                        (728,520)         -                       (728,520)             
+Total nonoperating support (expense) 5,499,706         (710,729)         287,468           5,076,445           
+Change in net assets before 
+inter-organizational dividends 34,498,239       857,166          (2,282,677)       33,072,728         
+Inter-organizational dividends -                        (4,615,000)     4,615,000        -                          
+Change in net assets after 
+inter-organizational dividends 34,498,239       (3,757,834)     2,332,323        33,072,728         
+Net assets, beginning of year 391,411,189     26,004,935     (21,827,258)     395,588,866       
+Net assets, end of year 425,909,428$   22,247,101$   (19,494,935)$   428,661,594$      
+National Trust for Historic Preservation in the United States
+and its Subsidiaries and Affiliates
+Consolidating Schedule of Activities
+See accompanying notes to consolidated financial statements.
+50
+===== PAGE 54 =====
+Without Donor With Donor
+Restrictions Restrictions Total
+Operating revenues, gains, and 
+other support
+Contributions and grant income 23,448,899$     39,696,362$     63,145,261$     
+Contributions of nonfinancial assets 1,174,130         -                        1,174,130         
+Contract services 307,634            -                        307,634             
+Investment return 14,900,402       4,091,322         18,991,724       
+Admissions and special events 2,868,828           -                        2,868,828         
+Program fees and other income 4,470,042         -                        4,470,042         
+Net assets released from
+restrictions 20,392,406       (20,392,406)      -                        
+Total operating revenues, gains,
+and other support 67,562,341       23,395,278       90,957,619       
+Operating expenses and loss
+Program services
+Historic sites 19,226,999       -                        19,226,999       
+Preservation services 22,794,171       -                        22,794,171       
+Education and publications 3,790,130         -                        3,790,130         
+Total program services 45,811,300       -                        45,811,300       
+Support services
+General and administrative 6,852,595         -                        6,852,595         
+Fundraising 5,099,520         -                        5,099,520         
+Membership outreach 3,670,650         -                        3,670,650         
+Total support services 15,622,765       -                        15,622,765       
+Loss on sublease activity 525,021            -                        525,021             
+Total operating expenses and loss 61,959,086       -                        61,959,086       
+Excess of operating revenues, gains,
+and other support over operating 
+ expenses and loss 5,603,255         23,395,278       28,998,533       
+Nonoperating support (expense)
+Investment gains in excess of amounts 
+designated for operations 611,967            5,824,887         6,436,854         
+Change in contributions receivable 
+estimate (Note 1i) -                        (937,148)           (937,148)           
+Total nonoperating support (expense) 611,967            4,887,739         5,499,706         
+Change in net assets 6,215,222         28,283,017       34,498,239       
+Net assets, beginning of year 110,127,222     281,283,967     391,411,189     
+ 
+Net assets, end of year 116,342,444$   309,566,984$   425,909,428$   
+See accompanying notes to consolidated financial statements.
+National Trust for Historic Preservation in the United States
+Schedule of Activities (Parent Company)
+Year ended June 30, 2023
+51

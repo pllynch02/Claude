@@ -1,0 +1,2581 @@
+
+===== PAGE 1 =====
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Consolidated Financial Statements and 
+Schedules of Expenditures of Federal and State of New Jersey Awards 
+September 30, 2023 
+(With Independent Auditors’ Reports Thereon) 
+
+===== PAGE 2 =====
+CO
+MMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Table of Contents 
+Page(s) 
+I. Financial Statements
+Independent Auditors’ Report I-1
+Financial Statements:
+Consolidated Statements of Financial Position as of September 30, 2023 and 2022 I-3
+Consolidated Statement of Activities for the year ended September 30, 2023 I-4
+Consolidated Statement of Activities for the year ended September 30, 2022 I-5
+Consolidated Statements of Cash Flows for the years ended September 30, 2023 and 
+2022 I-6
+Notes to Consolidated Financial Statements I-7
+Schedule of Expenditures of Federal Awards I-46
+Schedule of Expenditures of State of New Jersey Awards I-47
+Notes to Schedules of Expenditures of Federal and State of New Jersey Awards  I-48
+II. Internal Control and Compliance
+Independent Auditors’ Report on Internal Control Over Financial Reporting and on
+Compliance and Other Matters Based on an Audit of Financial Statements Performed in 
+Accordance With Government Auditing Standards II-1
+Independent Auditors’ Report on Compliance for each Major Federal and State of New 
+Jersey Program; Report on Internal Control Over Compliance; and Report on Schedule 
+of Expenditures of Federal Awards Required by the Uniform Guidance and Schedule of 
+Expenditures of State of New Jersey Awards Required by New Jersey OMB 
+Circular 15-08 II-3
+Schedule of Findings and Questioned Costs II-7
+===== PAGE 3 =====
+I
+ndependent Auditors’ Report 
+The Board of Directors 
+Community Loan Fund of New Jersey, Inc. and Subsidiaries: 
+Report on the Audit of the Consolidated Financial Statements 
+Opinion 
+We have audited the consolidated financial statements of Community Loan Fund of New Jersey, Inc. and 
+Subsidiaries (the Organization), which comprise the consolidated statements of financial position as of 
+September 30, 2023 and 2022, and the related consolidated statements of activities and cash flows for the 
+years then ended, and the related notes to the consolidated financial statements.  
+In our opinion, the accompanying consolidated financial statements present fairly, in all material respects, the 
+financial position of the Organization as of September 30, 2023 and 2022, and the changes in their net assets 
+and their cash flows for the years then ended in accordance with U.S. generally accepted accounting principles. 
+Basis for Opinion 
+We conducted our audits in accordance with auditing standards generally accepted in the United States of 
+America (GAAS) and the standards applicable to financial audits contained in Government Auditing Standards , 
+issued by the Comptroller General of the United States. Our responsibilities under those standards are further 
+described in the Auditors’ Responsibilities for the Audit of the Consolidated Financial Statements section of our 
+report. We are required to be independent of the Organization and to meet our other ethical responsibilities, in 
+accordance with the relevant ethical requirements relating to our audits. We believe that the audit evidence we 
+have obtained is sufficient and appropriate to provide a basis for our audit opinion. 
+Emphasis of Matter 
+As discussed in Note 2(t) to the consolidated financial statements, the Organization adopted Accounting 
+Standards Update No. 2016-02, Leases (Topic 842), during the year ended September 30, 2023. Our opinion is 
+not modified with respect to this matter. 
+Responsibilities of Management for the Consolidated Financial Statements 
+Management is responsible for the preparation and fair presentation of the consolidated financial statements in 
+accordance with U.S. generally accepted accounting principles, and for the design, implementation, and 
+maintenance of internal control relevant to the preparation and fair presentation of consolidated financial 
+statements that are free from material misstatement, whether due to fraud or error.  
+In preparing the consolidated financial statements, management is required to evaluate whether there are 
+conditions or events, considered in the aggregate, that raise substantial doubt about the Organization’ s ability 
+to continue as a going concern for one year after the date the consolidated financial statements are available to 
+be issued. 
+KPMG LLP
+Suite 4000
+150 John F . Kennedy Parkway
+Short Hills, NJ 07078-2702
+KPMG LLP , a Delaware limited liability partnership and a member firm of  
+the KPMG global organization of independent member firms affiliated with  
+KPMG International Limited, a private English company limited by guarantee. 
+===== PAGE 4 =====
+I-2
+A
+uditors’ Responsibilities for the Audit of the Consolidated Financial Statements  
+Our objectives are to obtain reasonable assurance about whether the consolidated financial statements as a 
+whole are free from material misstatement, whether due to fraud or error, and to issue an auditors ’ report that 
+includes our opinion. Reasonable assurance is a high level of assurance but is not absolute assurance and 
+therefore is not a guarantee that an audit conducted in accordance with GAAS and Government Auditing 
+Standards will always detect a material misstatement when it exists. The risk of not detecting a material 
+misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, 
+forgery, intentional omissions, misrepresentations, or the override of internal control. Misstatements are 
+considered material if there is a substantial likelihood that, individually or in the aggregate, they would influence 
+the judgment made by a reasonable user based on the consolidated financial statements.  
+In performing an audit in accordance with GAAS and Government Auditing Standards, we: 
+• Exercise professional judgment and maintain professional skepticism throughout the audit.
+• Identify and assess the risks of material misstatement of the consolidated financial statements, whether
+due to fraud or error, and design and perform audit procedures responsive to those risks. Such procedures
+include examining, on a test basis, evidence regarding the amounts and disclosures in the consolidate
+d
+f
+inancial statements.
+• Obtain an understanding of internal control relevant to the audit in order to design audit procedures that ar e
+appr
+opriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of
+the Organization’s internal control. Accordingly, no such opinion is expressed.
+• Evaluate the appropriateness of accounting policies used and the reasonableness of significant accountin g
+es
+timates made by management, as well as evaluate the overall presentation of the consolidated financial
+statements.
+• Conclude whether, in our judgment, there are conditions or events, considered in the aggregate, that raise
+s
+ubstantial doubt about the Organization’s ability to continue as a going concern for a reasonable period of
+time.
+We are required to communicate with those charged with governance regarding, among other matters, the 
+planned scope and timing of the audit, significant audit findings, and certain internal control related matters that 
+we identified during the audit. 
+Other Reporting Required by Government Auditing Standards 
+In accordance with Government Auditing Standards, we have also issued our report dated January 26, 2024 on 
+our consideration of the Organization’s internal control over financial reporting and on our tests of its 
+compliance with certain provisions of laws, regulations, contracts, and grant agreements and other matters. 
+The purpose of that report is solely to describe the scope of our testing of internal control over financial 
+reporting and compliance and the results of that testing, and not to provide an opinion on the effectiveness of 
+the Organization’s internal control over financial reporting or on compliance. That report is an integral part of an 
+audit performed in accordance with Government Auditing Standards in considering the Organization’s internal 
+control over financial reporting and compliance. 
+S
+hort Hills, New Jersey 
+January 26, 2024 
+
+===== PAGE 5 =====
+I-3
+COMMUNITY LOAN FUND OF NEW JERSEY, INC.
+AND SUBSIDIARIES
+Consolidated Statements of Financial Position
+September 30, 2023 and 2022
+Assets 2023 2022
+Current assets:
+Cash and cash equivalents (notes 2(l) and 17) $ 35,615,381 52,499,393
+Investments (note 7) 270,741 14,302,650
+Grants receivable, net 5,215,243 6,630,285
+Loans receivable, net of allowance for uncollectible loans of $1,440,253 and
+$1,193,098, respectively (notes 3, 4 and 17) 24,911,306 23,818,886
+Other current assets 22,662,519 16,791,163
+Total current assets 88,675,190 114,042,377
+Loans receivable, net of current portion and allowance for uncollectible loans
+of $5,960,951 and $4,039,842, respectively (notes 3, 4 and 17) 101,606,487 77,831,270
+Restricted cash (notes 2(l)) 11,773,434 11,643,468
+Investments (note 7) 12,320,092 13,138,932
+Purchased credit impaired loans held for investment (note 5) 369,816 380,296
+Real property held for sale (note 2(i)) 13,764,306 20,942,047
+Program-related investments (note 6) 21,276,866 16,479,253
+Fixed assets, net (note 8) 53,744,541 56,729,133
+Other assets 4,908,694 4,478,580
+Operating right-of-use assets (note 15) 5,107,407 —
+Total assets $ 313,546,833 315,665,356
+Liabilities and Net Assets
+Current liabilities:
+Accounts payable and accrued expenses $ 6,280,904 3,034,188
+Funds held in trust, escrows, and other (note 10) 11,587,456 9,365,983
+Current portion of long-term debt (note 11) 38,477,225 35,458,903
+Operating lease liabilities (note 15) 490,738 —
+Total current liabilities 56,836,323 47,859,074
+Long-term liabilities:
+Unearned fee income 1,223,630 1,077,758
+Funds held in trust, escrows, and other, net of current portion (note 10) 3,518,273 6,928,896
+Long-term debt, net of current portion (note 11) 168,155,358 176,439,349
+Operating lease liabilities (note 15) 5,156,037 —
+Total liabilities 234,889,621 232,305,077
+Commitments and contingencies (note 16)
+Net assets:
+Net assets without donor restrictions:
+Community Loan Fund and Subsidiaries 33,854,031 35,212,421
+Noncontrolling interest in Subsidiaries 7,109,260 9,016,256
+Total net assets without donor restrictions 40,963,291 44,228,677
+Net assets with donor restrictions (note 12) 37,693,921 39,131,602
+Total net assets 78,657,212 83,360,279
+Total liabilities and net assets $ 313,546,833 315,665,356
+See accompanying notes to consolidated financial statements.
+===== PAGE 6 =====
+I-4
+COMMUNITY LOAN FUND OF NEW JERSEY, INC.
+AND SUBSIDIARIES
+Consolidated Statement of Activities
+Year ended September 30, 2023
+Without donor With donor
+restrictions restrictions Total
+Operating revenues, gains, and other support:
+Interest from loans receivable $ 6,948,117  —  6,948,117  
+Investment interest and dividends 556,215  298,453  854,668  
+Total investment income 7,504,332  298,453  7,802,785  
+Interest expense (note 14) (4,662,288) —  (4,662,288) 
+Net investment income 2,842,044  298,453  3,140,497  
+Provision for uncollectible loans receivable, net (notes 4 and 14) (2,782,525) —  (2,782,525) 
+Net investment income after provision for
+loan losses 59,519  298,453  357,972  
+Contributions, gifts, and grants (note 9) 3,462,977  9,852,358  13,315,335  
+Fees 4,110,566  —  4,110,566  
+Rental income 4,668,590  —  4,668,590  
+Loss on sale of property and mortgages (309,130) —  (309,130) 
+Net assets released from restrictions 11,179,447  (11,179,447) —  
+Total operating revenues, gains, and other
+support 23,171,969  (1,028,636) 22,143,333  
+Operating expenses (note 14):
+Program services 22,572,081  —  22,572,081  
+Supporting services:
+Management and general 1,762,713  —  1,762,713  
+Fundraising 915,580  —  915,580  
+Total supporting services 2,678,293  —  2,678,293  
+Total operating expenses 25,250,374  —  25,250,374  
+Changes in net assets before nonoperating
+activity (2,078,405) (1,028,636) (3,107,041) 
+Nonoperating activity:
+Impairment loss on other assets and real property held for sale (782,763) —  (782,763) 
+Distributions to noncontrolling interest in Subsidiaries (1,743,717) —  (1,743,717) 
+Realized gain (loss) on investments 2,038,060  (247,948) 1,790,112  
+Unrealized loss on investments (698,561) (161,097) (859,658) 
+Total nonoperating activity (1,186,981) (409,045) (1,596,026) 
+Decrease in net assets (3,265,386) (1,437,681) (4,703,067) 
+Net assets, beginning of year 44,228,677  39,131,602  83,360,279  
+Net assets, end of year $ 40,963,291  37,693,921  78,657,212  
+See accompanying notes to consolidated financial statements.
+===== PAGE 7 =====
+I-5
+COMMUNITY LOAN FUND OF NEW JERSEY, INC.
+AND SUBSIDIARIES
+Consolidated Statement of Activities
+Year ended September 30, 2022
+Without donor With donor
+restrictions restrictions Total
+Operating revenues, gains, and other support:
+Interest from loans receivable $ 6,210,492  —  6,210,492  
+Investment interest and dividends 365,372  300,180  665,552  
+Total investment income 6,575,864  300,180  6,876,044  
+Interest expense (note 14) (3,841,469) —  (3,841,469) 
+Net investment income 2,734,395  300,180  3,034,575  
+Provision for uncollectible loans receivable, net (notes 4 and 14) (192,970) —  (192,970) 
+Net investment income after provision for
+loan losses 2,541,425  300,180  2,841,605  
+Contributions, gifts, and grants (note 9) 3,239,432  7,165,850  10,405,282  
+Fees 3,594,013  —  3,594,013  
+Rental income 4,750,585  —  4,750,585  
+Gain on sale of property and mortgages 3,754,496  —  3,754,496  
+Net assets released from restrictions 6,873,831  (6,873,831) —  
+Total operating revenues, gains, and other
+support 24,753,782  592,199  25,345,981  
+Operating expenses (note 14):
+Program services 18,551,434  —  18,551,434  
+Supporting services:
+Management and general 1,950,018  —  1,950,018  
+Fundraising 1,232,302  —  1,232,302  
+Total supporting services 3,182,320  —  3,182,320  
+Total operating expenses 21,733,754  —  21,733,754  
+Changes in net assets before nonoperating
+activity 3,020,028  592,199  3,612,227  
+Nonoperating activity:
+Impairment loss on other assets and real property held for sale (263,472) —  (263,472) 
+Contributions from noncontrolling interest in Subsidiaries 238,262  —  238,262  
+Realized gain (loss) on investments 658,475  (12,063) 646,412  
+Unrealized loss on investments (3,866,889) (970,472) (4,837,361) 
+Total nonoperating activity (3,233,624) (982,535) (4,216,159) 
+Decrease in net assets (213,596) (390,336) (603,932) 
+Net assets, beginning of year 44,442,273  39,521,938  83,964,211  
+Net assets, end of year $ 44,228,677  39,131,602  83,360,279  
+See accompanying notes to consolidated financial statements.
+===== PAGE 8 =====
+I-6
+COMMUNITY LOAN FUND OF NEW JERSEY, INC.
+AND SUBSIDIARIES
+Consolidated Statements of Cash Flows
+Years ended September 30, 2023 and 2022
+2023 2022
+Cash flows from operating activities:
+Decrease in net assets $ (4,703,067) (603,932) 
+Adjustment to reconcile decrease in net assets to net cash provided by (used in) operating
+activities:
+Distributions to (contributions from) noncontrolling interests 1,743,717  (238,262) 
+Realized gain on program-related investments (213,218) (549,683) 
+Realized gain on investments (1,576,606) (96,729) 
+Unrealized loss on investments 859,658  4,837,361  
+Distribution from equity investees 1,615,791  2,112,027  
+Equity in net gain of investees (287) (327) 
+Provision for uncollectible loans receivable, net 2,782,525  192,970  
+Loss on sale of real property held for sale 1,708,159  —  
+Gain on sale of fixed assets (1,394,543) (3,737,767) 
+Impairment loss on real property held for sale 224,242  263,472  
+Impairment loss on other assets 558,521  —  
+Reduction in the carrying value of the right-of-use assets 472,705  —  
+Depreciation and amortization 1,743,231  1,371,089  
+Changes in operating assets and liabilities:
+Grants receivable 1,415,042  2,835,492  
+Other current assets and other assets (6,946,081) (6,655,180) 
+Accounts payable and accrued expenses 3,246,716  (557,790) 
+Unearned fee income 145,872  227,391  
+Operating lease liabilities (54,632) —  
+Funds held in trust, escrows, and other (1,189,150) (2,170,990) 
+Net cash provided by (used in) operating activities 438,595  (2,770,858) 
+Cash flows from investing activities:
+Repayment of loans receivable 21,564,927  45,480,225  
+Issuance of loans receivable (49,215,089) (38,025,458) 
+Proceeds from sale of investments 38,097,983  14,786,827  
+Purchases of investments (22,535,890) (14,529,708) 
+Repayment of purchased credit impaired loans held for investment 10,480  4,617  
+Purchases of program-related investments (6,199,899) (1,859,714) 
+Proceeds from sale of real property held for sale 12,979,744  14,195,918  
+Purchases of real property held for sale (7,395,343) (9,419,212) 
+Proceeds from sale of fixed assets 4,839,251  4,609,568  
+Purchases of fixed assets (2,329,419) (825,812) 
+Net cash (used in) provided by investing activities (10,183,255) 14,417,251  
+Cash flows from financing activities:
+(Distributions to) contributions from noncontrolling interests (1,743,717) 238,262  
+Payments of long-term debt (28,709,537) (25,945,505) 
+Proceeds from issuance of long-term debt 23,443,868  31,859,646  
+Net cash (used in) provided by financing activities (7,009,386) 6,152,403  
+Net (decrease) increase in cash, cash equivalents and restricted cash (16,754,046) 17,798,796  
+Cash, cash equivalents and restricted cash:
+Beginning of year 64,142,861  46,344,065  
+End of year $ 47,388,815  64,142,861  
+Supplemental disclosure of cash flow information:
+Cash paid for interest $ 6,892,445  6,700,046  
+Right-of-use assets upon ASC 842 implementation - operating leases 5,580,112  —  
+Supplemental disclosure of noncash investing activity:
+Transfers of real property held for sale (from) to real property held for rental in fixed assets $ (287,469) 1,882,656  
+Reconciliation of total cash, cash equivalents and restricted cash reported within the consolidated
+statements of financial position that sum to the total of the same such amounts shown above:
+Cash and cash equivalents $ 35,615,381  52,499,393  
+Restricted cash 11,773,434  11,643,468  
+Total cash, cash equivalents and restricted cash shown above $ 47,388,815  64,142,861  
+See accompanying notes to consolidated financial statements.
+===== PAGE 9 =====
+I-7 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+(1) Organization 
+New Jersey Community Capital is the registered trade name utilized by Community Loan Fund of New 
+Jersey, Inc. and its subsidiaries (the Organization) for its financial products, consulting services, and 
+affordable housing preservation and development services. 
+• Community Loan Fund of New Jersey, Inc. 
+Community Loan Fund of New Jersey, Inc. (CLFNJ) was formed for the purpose of providing capital 
+and technical assistance in order to build the economic self-sufficiency of low-income individuals and 
+communities. 
+CLFNJ is the sole member of Community Asset Preservation Corporation (CAPC), Community Lending 
+Partners of New Jersey, Inc. (Lending Partners), NJCC 151 MLK Boulevard LLC (151 MLK), NCC 
+Holdings, LLC (NCCH), NJCC LMI Mortgage Platform LLC (LMI), NJCC Mortgage Holdings LLC 
+(Mortgage Holdings), National Community Capital III, LLC (NCC III), 545 West Broad Street LLC (545 
+West Broad) and NJCC Supportive Housing Fund, LLC (Supportive Housing). CAPC is the sole 
+member of Community Asset Preservation Alliance of Jersey City 3, LLC (CAPAJC 3), CAPC 
+Affordable Rental Fund LLC (CAPC-ARF), CAPC Washington Street Urban Renewal, LLC (CAPC 
+Washington), CAPC Property Management, LLC (Property Management), CAPC Construction LLC 
+(CAPC Construction), CAPC Brokerage LLC (Brokerage), CAPC 4th Ave. Urban Renewal LLC (CAPC 
+4th Ave), CAPC E-Port Revitalization 1, LLC (E-Port 1), CAPC E-Port Revitalization 2, LLC (E-Port 2), 
+CAPC USA Fund II Invest LLC (Fund II Invest), South Ward Neighborhood Housing Urban Renewal 
+LLC (Southward Neighborhood) and CAPC Southward, LLC (Southward). Additionally, CLFNJ owns 
+the majority of the voting shares of University Ventures, Inc. (University Ventures). These entities are 
+included in the Organization’s consolidated financial statements.  
+In 2021, the Equitable Small Business Initiative LLC (ESBI) was formed to bring capital to small 
+business enterprises in New Jersey, focusing on support for Black-owned businesses most affected by 
+the Covid-19 pandemic. CLFNJ has 50.00% ownership in ESBI and control of the entity, therefore the 
+entity is included in the Organization’s consolidated financial statements. 
+In 2022, the Community Aggregators Group (CAG) Members Fund 1 LLC CAG was formed to provide 
+capital to indirectly purchase interest in the CAG National Fund Membership. CLFNJ’s interest is 
+16.81% and is accounted for using the equity method. 
+In 2016, CLFNJ had a 25.90% interest in NJCC Fund 1, LLC (Fund #1). CLFNJ was the managing 
+member of Fund #1 and since the other members had substantive rights, the equity method of 
+accounting was used in 2017 and 2018. During 2018, CAPC acquired the remaining ownership interest 
+of Fund #1 and has 100.00% ownership, and it is included in the Organization’s consolidated financial 
+statements. In 2020 and 2021, Fund #1 fully repaid CLFNJ of its equity investment. 
+CLFNJ has a minority interest in Community Development Fund I (CDF I), Community Development 
+Fund II (CDF II) and Community Development Fund III (CDF III). As of September 2023 and 2022, 
+===== PAGE 10 =====
+I-8 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+CDF I, CDF II and CDF III hold 5 mortgage pools consisting of 13 mortgages located in Florida and 
+New Jersey. 
+CAPC has a 50.00% ownership interest in CHS-CAPC JV1, LLC (CHS-CAPC). CAPC is not the 
+managing partner and has no control of CHS-CAPC. This entity is accounted for using the equity 
+method. 
+In 2018, CAPC has a 40.00% ownership interest in 306 MLK Blvd Urban Renewal Company, LLC 
+(306 MLK) and was accounted for using the equity method. In December 2019, CAPC’s interest in 
+306 MLK increased to 60.00% and is now included in the Organization’s consolidated financial 
+statements. 
+In 2021, CAPC Affordable Rental Fund III LLC (CAPC-ARF III) was formed to hold and operate CAPC 
+rental properties. CAPC has a 100.00% ownership interest in CAPC-ARF III, and the entity is included 
+in the Organization’s consolidated financial statements. 
+In 2021, New Jersey Community Development Corporation-CAPC Housing LLC (NJCDC) was set up 
+as a sponsor and developer of the Barclay Street LIHTC project. CAPC has a 50.00% ownership 
+interest in the project. CAPC is not the managing partner of NJCDC, and this entity is accounted for 
+using the equity method. 
+In 2021, NJCC NYS Community Restoration Fund II, LLC (NYS CRF II) was formed to own, service, 
+and liquidate nonperforming mortgage notes. CLFNJ has a 48.63% ownership interest in NYS CRF II 
+which is accounted for using the equity method. 
+In 2021, NJCC NJS Community Restoration Fund II, LLC (NJS CRF II) was formed to own, service, 
+and liquidate nonperforming mortgage notes. CLFNJ has a 99.00% ownership interest in NJS CRF II 
+which had no activity in either 2023 or 2022. 
+In 2021, Remsen Ave Development, LLC (Remsen) was formed to build a 13 unit affordable apartment 
+building in New Brunswick, N.J. CAPC has a 100.00% ownership interest in Remsen and the entity is 
+included in the Organization’s consolidated financial statements.  
+In 2021, CAPC USA Fund I LLC (USA Fund 1) was created to make investments into the purchase and 
+renovation of scattered site properties. CAPC has a 45.00% ownership interest in USA Fund I, 
+managing and controlling the entity, therefore the entity is included in the Organization’s consolidated 
+financial statements. 
+In 2021, CAPC USA Fund II LLC (USA Fund II) was created to make investments into the purchase 
+and renovation of scattered site properties. CAPC has a 100.00% ownership interest in USA Fund II 
+and the entity is included in the Organization’s consolidated financial statements. 
+In 2021, NJCC ET Library Project, LLC (ET Library) was created to make improvements to the East 
+Trenton Library. CLFNJ was a 100.00% ownership interest in the ET Library and the entity is included 
+in the Organization’s consolidated financial statements. 
+===== PAGE 11 =====
+I-9 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+In 2021, CAPC USA Pledgor, LLC (Pledgor) was formed to pledge equity for USA Fund 1. CAPC has a 
+100.00% interest in Pledgor, and the entity is included in the Organization’s consolidated financial 
+statements. 
+In 2021, CAPC USA Pledgor II LLC (Pledgor II) was formed to pledge equity for USA Fund II. USA 
+Fund II has a 100.00% ownership interest in Pledgor II and the entity is included in the Organization’s 
+consolidated financial statements. 
+In 2020, Valley Revitalization LLC (Valley) was created to purchase and improve properties to revitalize 
+the Valley Neighborhood in Orange, New Jersey and West Orange, New Jersey. CAPC has a 50.00% 
+ownership interest in Valley. CAPC is not the managing partner in the project and no control of Valley. 
+This entity is accounted for using the equity method. 
+In 2020, CAPC Affordable Rental Fund II LLC (CAPC-ARF II) was formed to hold and operate CAPC 
+rental properties. CAPC has a 100.00% ownership interest in CAPC-ARF II and the entity is included in 
+the Organization’s consolidated financial statements. 
+CAPC SFR Home Impact Fund LLC (CAPC SFR) was created to purchase vacant urban lots and 
+construct affordable homeownership units on the lots. In 2020, CAPC has a 100.00% ownership 
+interest in CAPC SFR. In September 2021, Ellavoz Neighborhood Homes Fund LLC acquired 40.00% 
+of CAPC SFR. CAPC now has a 60.00% ownership interest in CAPC SFR and this entity is included in 
+the Organization’s consolidated financial statements. 
+In December 2019, NJCC Shared Value LLC (Shared) was formed to facilitate opportunity zone 
+investments. It is 100.00% owned by CLFNJ and is a 50.00% member in Allevo Community Capital 
+(Allevo). Allevo was formed in August 2019. 
+In October 2019, Mills Memorial Social Services Building, Inc. (Mills), a New Jersey Title 15A nonprofit 
+corporation, was formed to purchase property located at 60 South Fullerton, Montclair, NJ from the 
+United Way. CAPC has a 100.00% ownership interest in Mills and this entity is included in the 
+Organization’s consolidated financial statements. 
+In October 2019, 60 South Fullerton, LLC (60 South) entered an operating agreement with UW 
+Member LLC (United Way) to create the entity UWNNJ Montclair, LLC (UWNNJ). Also, it is the 
+managing member of UWNNJ. CAPC has a 100.00% ownership interest in 60 South and this entity is 
+included in the Organization’s consolidated financial statements. 
+In October 2019, UWNNJ was formed for the purpose of being the master leaseholder responsible for 
+managing, rehabbing, and securing financing for the property located at 60 South Fullerton, Montclair, 
+NJ. 60 South and UW Member LLC have a 95.00% and 5.00% ownership interest in UWNNJ, 
+respectively, and the entity is included in the Organization’s consolidated financial statements. 
+In 2019, WPB Arts Housing LLC (WPB) was formed for the development, construction, and operation 
+of a 52 unit affordable housing apartment building in West Palm Beach, Florida. CAPC has an 80.00% 
+ownership interest in WPB.  The 52 units were sold in 2023. 
+===== PAGE 12 =====
+I-10 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+In 2019, CAPC Supportive Needs Housing, Inc. (Supportive Needs) was formed for the purpose of 
+providing housing within Union County NJ to persons who are low and moderate income or homeless 
+or victims of domestic violence or financially distressed or special needs. CAPC has a 100.00% 
+ownership interest and the entity is included in the Organization’s consolidated financial statements. 
+In 2019, CAPC USA, LLC (CAPC USA) was formed to acquire, rehabilitate and sell distressed and 
+foreclosed homes from NJCC’s nonperforming loan funds. CAPC has a 100.00% ownership interest in 
+CAPC USA and the entity is included in the Organization’s consolidated financial statements. 
+In 2018, CAPC AMG, LLC (CAPC AMG) was formed to enter into an investment and asset 
+management agreement with CAPC USA. CAPC has a 100.00% ownership interest in CAPC AMG, 
+and this entity is included in the Organization’s consolidated financial statements. 
+In 2018, CAPC acquired 100.00% interest in National Community Capital Fund Tampa #1, LLC 
+(Tampa #1). In prior years, CAPC was the managing member but had no ownership interest. This 
+entity is included in the Organization’s consolidated financial statements.  There was no activity in 
+2023. 
+In 2017, CAPC had a 100.00% ownership interest in CAPC NJ Asset Stabilization Fund #1 LLC (CAPC 
+ASF #1). During 2018, Synchrony Bank acquired a 19.97% ownership interest in CAPC ASF #1. This 
+entity is included in the Organization’s consolidated financial statements. 
+In 2018, CAPC Asset Stabilization Fund 2 LLC (CAPC ASF #2) was created. CAPC has a 52.89% 
+ownership interest, CLFNJ has a 27.17% interest and Synchrony Bank has a 19.94% ownership 
+interest. This entity is included in the Organization’s consolidated financial statements. 
+In 2018, CAPC invested, along with three other Housing Partnership Network, Inc. members, in a 
+partnership called HPN Leverage IV, LLC to take advantage of New Market Tax Credit (NMTC) 
+financing. NMTC financing allows an entity to receive a loan or investment capital from outside 
+investors who will receive new market tax credits to be applied against their federal tax liability. As a 
+result, CAPC invested $8,222,118 to acquire a 40.00% ownership interest in the partnership and was 
+able to secure a 20-year loan in the amount of $11,700,000 payable to a community development 
+entity. The loan proceeds are to be used for the purpose of acquiring, rehabilitating or constructing 
+homes in distressed communities in New Jersey and Florida. Since the other members have 
+substantive rights, these entities are accounted for using the equity method. 
+In November 2018, Parramore Assets Stabilization Fund, LLC was formed for the purpose to acquire, 
+stabilize, rehabilitate, lease and sell 45 distressed rental properties consisting of 86 units in the 
+Parramore section of Orlando Florida. NJCC is the managing member and the tax matters partner. 
+CLFNJ has a 33.33% ownership interest and will serve as the investment and asset manager in the 
+joint venture with two (2) other nonprofit entities. The Organization accounts for this entity using the 
+equity method. 
+In 2018, CLFNJ formed NJCC Fund #5, LLC (Fund #5) with PRP to purchase residential mortgage 
+loans in 10 states. CLFNJ and PRP have a 1.98% and 98.02% ownership interest, respectively, in 
+===== PAGE 13 =====
+I-11 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+Fund #5. At the same time Community Aggregator Asset Management Group, LLC was formed in an 
+initiative with three (3) other entities to manage the assets of the loan pool. CLFNJ and NCC III each 
+have a 25.00% ownership interest in this entity. Since the other members have substantive rights, 
+accordingly, these entities are accounted for using the equity method. 
+In 2017, CLFNJ formed NJCC MM Invest LLC (NJCC MM) in an initiative with PRP Holdings LP (PRP) 
+to join in a venture with the State of New York’s Department of Homes and Community Development 
+(SONYMA Community Restoration Fund) to purchase residential mortgage loans in New York State 
+(NYS). CLFNJ has a 5.00% ownership interest in NJCC MM. NJCC MM has a 56.73% investment in 
+NJCC-NYS Community Restoration Fund, LLC (NJCC-NYS CRF) and a 6.19% investment in 
+NJCC-NYS Erie County Community Restoration Fund, LLC (Erie CRF). Also in 2017, CLFNJ formed 
+NJCC Fund #4, LLC (Fund #4) with PRP to purchase residential mortgage loans in New Jersey. 
+CLFNJ has a 10.00% ownership interest in Fund #4. Since the other members have substantive rights, 
+accordingly, these entities are accounted for using the equity method. 
+In 2016, LMI invested $2,000,000 to purchase 10.00% of the outstanding shares in CUMAnet, LLC 
+(CUMAnet) from Affinity Credit Union. The purpose of this investment was to support the provision of 
+affordable mortgages to low- and moderate-income families in New Jersey. CUMAnet was accounted 
+for using the cost method. In 2023, LMI sold its investment in CUMAnet at a loss of  approximately 
+$600,000. 
+In 2023, 151 MLK acquired 99.00% interest in 306 MLK Master Tenant LLC (306 MLK Master). This 
+entity is included in the Organization’s consolidated financial statements. 
+CLFNJ has formed the following special purpose entities (SPEs): NJCC CDE Ocean LLC, NJCC CDE 
+Camden LLC, NJCC CDE Passaic LLC, NJCC CDE Cumberland LLC, NJCC CDE Monmouth LLC, 
+NJCC CDE Middlesex LLC, NJCC CDE Campbell LLC and NJCC CDE Wilson LLC, (collectively as 
+NMTC IV); NJCC CDE Edison LLC, NJCC CDE Hamilton LLC, NJCC CDE Kilmer LLC, NJCC CDE 
+Livingston LLC, NJCC CDE Morris LLC and NJCC CDE Eagleton LLC, (collectively as NMTC V); 
+NJCC CDE Barton LLC, NJCC CDE Stockton LLC, NJCC CDE Parker LLC, NJCC CDE Amos LLC, 
+NJCC CDE Robeson LLC and NJCC CDE Whitman LLC, (collectively as NMTC VI); NJCC CDE 
+Houston LLC, NJCC CDE Field LLC, NJCC CDE Peterson LLC. NJCC CDE Salem LLC, and NJCC 
+CDE Grimesfarm LLC (collectively as NMTC VII) and NJCC CDE 42 LLC and NJCC CDE 44 LLC 
+(collectively as NMTC IX). CLFNJ serves as the managing member of each of the SPEs. The limited 
+partners in the SPEs have substantive participating rights, and accordingly, the SPEs are accounted for 
+using the equity method. 
+NJCC CDE 43 LLC, NJCC CDE 45 LLC, NJCC CDE 46 LLC were formed in 2022 and NJCC CDE 47 
+LLC, NJCC CDE 48 LLC, NJCC CDE 49 LLC, NJCC CDE 50, and NJCC CDE 51 LLC were formed in 
+2023. These entities have yet to be assigned an NMTC allocation. 
+===== PAGE 14 =====
+I-12 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+Operating Divisions 
+CLFNJ has aligned its operations into several operating divisions: Community Loan Fund, Proprietary 
+Managed Assets, Third Party Managed Assets, NMTC IV, V, VI VII, VIII and IX, University Ventures, 
+CAPC, and Restart and Restart the Shore. A discussion of each follows: 
+Community Loan Fund 
+Community Loan Fund provides financing and technical assistance to three primary sectors: housing, 
+community services, and businesses. To maximize its impact, Community Loan Fund provides flexible 
+and creative financing through a broad spectrum of credit offerings to customers who either lack 
+access to capital or cannot afford the cost of capital from conventional sources. 
+Proprietary Managed Assets 
+Proprietary Managed Assets include loan pools developed by CLFNJ and targeted to specialized 
+sectors as follows: 
+(a) Neighborhood Prosperity Fund 
+The purpose of the Neighborhood Prosperity Fund (NPF) is to provide a permanent, flexible source 
+of lending capital for high-impact neighborhood stabilization projects in areas of economic distress. 
+As a revolving loan fund, the capital will be recycled for developers of such projects to continually 
+acquire, renovate, and place troubled properties back on the market. 
+(b) Charter Fund 
+The purpose of the Charter Fund is to credit enhance loans, leases, and investments made on 
+behalf of charter schools for their facility needs. 
+(c) ReBuild Fund 
+In 2013, the Organization formed the ReBuild Fund to provide quick access to low-interest capital 
+to small businesses in New Jersey that were impacted by Hurricane Sandy. 
+(d) Camden POWER (Camden Fund) 
+The Camden Power pool was developed to provide lending capital to eligible business 
+establishments in Camden for the purpose of energy efficiency and health and life safety 
+improvements. CLFNJ received grants and advances from the City of Camden and the NJEDA to 
+fund this pool. 
+Third Party Managed Assets 
+Third Party Managed Assets include loan pools administered by CLFNJ. 
+(a) Sustainable Employment and Economic Development Loan Program (SEED Fund) 
+During 2000, CLFNJ successfully submitted a proposal to manage a pre-development loan pool for 
+community economic development projects sponsored by nonprofit organizations and community 
+===== PAGE 15 =====
+I-13 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+development corporations. The program is managed on behalf of the Housing and Community 
+Development Network of New Jersey, a trade association serving the community development 
+corporation sector. CLFNJ services and administers the program on behalf of the Housing and 
+Community Development Network of New Jersey. 
+(b) Asbury Park Urban Enterprise Zone Revolving Loan Fund 
+In 2003, the City of Asbury Park’s Urban Enterprise Zone (UEZ) announced a revolving microloan 
+program with certain services provided by CLFNJ. The program is established to provide 
+low-interest-rate financial assistance of up to $25,000 to new and established companies in Asbury 
+Park. The UEZ entered into a contractual relationship whereby CLFNJ services and administers 
+the program on behalf of the UEZ. 
+(c) Bank of America Fund (BofA Fund) 
+In 2005, Bank of America capitalized a pre-development loan fund for housing and real estate 
+initiatives. The program is established to provide low-interest-rate financial assistance to nonprofit 
+and for-profit developers looking to create and preserve affordable housing and develop real estate 
+in low – to moderate-income communities. CLFNJ services and administers the program on behalf 
+of Bank of America. 
+(d) Thrift Institutions Community Investment Corporation of New Jersey (TICIC) Portfolio 
+In 2013, CLFNJ purchased the rights to service a multiple participant loan portfolio originated and 
+previously serviced by TICIC, an affiliate of the NJ Bankers Association. 
+(e) Gap Funding Initiative (GFI) 
+The GFI was launched in 2013. It was a $15,000,000 grant program funded by the Hurricane 
+Sandy New Jersey Relief Fund and the American Red Cross and administered by New Jersey 
+Community Capital. GFI offered up to $30,000 (reduced to $20,000 in August 2014) to help eligible 
+homeowners cover costs of home repairs they face as a result of Hurricane Sandy. During 2019, 
+CLFNJ disbursed $130,000 to eligible recipients. No funds were disbursed to recipients in 2023 or 
+2022. 
+NMTC 
+The Organization, through SPEs for which CLFNJ is the managing member, provides investment 
+capital and technical assistance to companies spurring revitalization efforts in New Jersey’s low-income 
+communities historically lacking access to traditional sources of capital. 
+As a not-for-profit organization exempt from federal income tax under Section 501(c)(3) of the Internal 
+Revenue Code (the Code), and therefore, without tax liability, CLFNJ cannot itself use New Market Tax 
+Credits (NMTCs). In order to utilize the allocation received by CLFNJ, the Organization suballocates 
+NMTC investment authority to various Limited Liability Companies (LLCs) organized and managed by 
+CLFNJ. These LLCs are Community Development Entities (CDEs). The Organization seeks to 
+===== PAGE 16 =====
+I-14 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+suballocate NMTC investment authority to CDEs that provide investments in projects that accomplish 
+goals consistent with the mission of the Organization. 
+NMTC III 
+In 2013, CLFNJ received a $30,000,000 allocation of NMTCs from the United States Department of 
+Treasury’s Community Development Financial Institutions in the tenth round of a national economic 
+development initiative With the dissolution of NJCC CDE Bergen LLC and NJCC CDE Hudson LLC, all 
+investors and SPEs exited NMTC III as of September 2022. 
+NMTC IV 
+In 2015, CLFNJ received a $50,000,000 allocation of NMTCs from the United States Department of 
+Treasury’s Community Development Financial Institutions in the twelfth round of a national economic 
+development initiative. 
+NMTC V 
+In 2017, CLFNJ received a $45,000,000 allocation of NMTCs from the United States Department of 
+Treasury’s Community Development Financial Institutions in the thirteenth round of a national 
+economic development initiative. 
+NMTC VI 
+In 2018, CLFNJ received a $40,000,000 allocation of NMTCs from the United States Department of 
+Treasury’s Community Development Financial Institutions in the fourteenth round of a national 
+economic development initiative. 
+NMTC VII 
+In 2019, CLFNJ received a $35,000,000 allocation of NMTCs from the United States Department of 
+Treasury’s Community Development Financial Institutions in the fifteenth round of a national economic 
+development initiative. 
+NMTC VIII 
+In 2021, CLFNJ received a $50,000,000 allocation of NMTCs from the United States Department of 
+Treasury’s Community Development Financial Institutions in the seventeenth round of a national 
+economic development initiative. 
+NMTC IX 
+In 2023, CLFNJ received a $40,000,000 allocation of NMTCs from the United States Department of 
+Treasury’s Community Development Financial Institutions in the eighteenth round of a national 
+economic development initiative. 
+University Ventures 
+In 2004, CLFNJ acquired a majority interest in the nonvoting common stock (Class A) and a controlling 
+interest in the voting common stock (Class B) of University Ventures, a specialized small businesses 
+===== PAGE 17 =====
+I-15 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+investment company licensed by the United States Small Business Administration.  Since then, CLFNJ 
+has increased their interests through acquisition and donation of shares.  As of September 30, 2023, 
+CLFNJ owns 99.32% of Class A stock and 94.67% of Class B stock. 
+University Ventures provides capital and managerial assistance to small business, specifically targeting 
+the needs of entrepreneurs who have been denied the opportunity to own and operate a business 
+because of social or economic disadvantage. 
+CAPC 
+In May 2010, CLFNJ became the sole member of CAPC. 
+CAPC was created to negotiate bulk purchases of mortgage notes, real estate owned (REO), and other 
+properties from financial institutions and convey the properties in smaller numbers to partnering 
+nonprofit organizations, private institutions, local government agencies, and other partners able to 
+rehabilitate and return the property to productive use. 
+In 2014, CAPC began to rent renovated homes to low and moderate-income families. CAPC makes 
+exit (rent vs. sell) decisions based on neighborhood real estate activity, surrounding blight, community 
+stability, and local economic factors. At September 30, 2023 and 2022, CAPC had 213 and 228 
+properties, respectively, in rental status which are included in fixed assets with a net book value 
+(including land) of $51,334,014 and $55,564,108, respectively. 
+ReStart and ReStart the Shore 
+In 2013, the Organization established its ReStart family of programs as an innovative home 
+preservation initiative designed to prevent foreclosures and stabilize communities. The Organization 
+won the right to purchase three pools of delinquent Federal Housing Administration (FHA) loans from 
+the U.S. Department of Housing and Urban Development (HUD). NCCH acquired 15 mortgages of 
+properties located in the greater Newark, New Jersey area.  
+In 2017, CLFNJ acquired a minority interest in 3 mortgage pools. NJCC-NYS CRF acquired 370 
+mortgages, Erie CRF acquired 28 mortgages and Fund #4 acquired 55 mortgages. 
+In 2018, CLFNJ acquired a minority interest in 1 mortgage pool. Fund #5 acquired 601 mortgages. 
+In 2021, CLFNJ acquired minority interest in 1 mortgage pool. NJCC NYS CRF II acquired 70 
+mortgages. 
+In 2022, CLFNJ acquired minority interest in 1 mortgage pool. CAG Members Fund I LLC acquired 169 
+mortgages. 
+NCC II provides investment management services to NCCH. NCC II was dissolved in 2020. In NCC III 
+provides investment management services to NJCC-NYS CRF, Erie CRF, Fund #4, Fund #5 and 
+NJCC NYS CRF II. The Organization was also engaged as a loss mitigation advisor by other 
+purchasers of FHA loan pools. 
+===== PAGE 18 =====
+I-16 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+(2) Summary of Significant Accounting Policies 
+The significant accounting policies followed by the Organization are described below: 
+(a) Accrual Basis 
+The accompanying consolidated financial statements have been prepared on the accrual basis of 
+accounting. 
+(b) Basis of Presentation 
+Net assets, revenues, gains, and losses are classified based on the existence or absence of 
+donor-imposed restrictions. The net assets of the Organization and changes therein are classified and 
+reported as follows: 
+Net assets without donor restrictions – Net assets that are not subject to donor-imposed stipulations 
+and net assets attributable to CLFNJ’s controlling interest and noncontrolling interest in subsidiaries. In 
+2023, the noncontrolling interest in subsidiaries decreased by $1,906,996, which represents the net 
+distributions of $1,743,717 to noncontrolling interest in subsidiaries and CLFNJ’s share of the net loss 
+(expenses over revenues) of $163,279.  In 2022, the noncontrolling interest in subsidiaries increased 
+by $732,804 which represents the net contributions of $238,262 to noncontrolling interest in 
+subsidiaries and $494,542 share of the net gain. 
+Net assets with donor restrictions – Either net assets subject to donor-imposed stipulations that will be 
+met by actions of the Organization and/or the passage of time or net assets subject to donor-imposed 
+stipulations that they be maintained permanently by the Organization. All resources granted to the 
+NeighborWorks America Revolving Loan for housing and capital projects must be maintained 
+permanently, unless specific approval is granted by NeighborWorks America to release a portion of the 
+grants. 
+(c) Principles of Consolidation 
+The consolidated financial statements include the accounts of CLFNJ and its wholly-owned and 
+majority-owned subsidiaries. All intercompany accounts and transactions have been eliminated in 
+consolidation. 
+(d) Cash and Cash Equivalents 
+Cash equivalents include short-term investments with original maturities of three (3) months or less and 
+include money market funds that are not maintained by the investment managers. 
+(e) Investments 
+The Organization records its investments in marketable securities at fair value based on quoted prices. 
+Program-related investments are accounted for using the cost or equity methods, as appropriate. 
+Distributions received from program-related investments accounted for under the equity method are 
+classified using the cumulative earnings approach. Distributions received are considered returns on 
+investment and classified as cash inflows from operating activities. 
+===== PAGE 19 =====
+I-17 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+Investment securities are exposed to various risks, such as interest rate, market, and credit risks. Due 
+to the level of risk associated with certain investment securities, it is at least reasonably possible that 
+changes in values of investment securities will occur in the near term and those changes could 
+materially affect the amounts reported in the consolidated statements of financial position. 
+(f) Loans Receivable and Allowance for Uncollectible Loans Receivable 
+The Organization provides commercial and mortgage loans to entities that support the development, 
+preservation, and operation of housing, community services, and businesses primarily in New Jersey. 
+Loans receivables are stated at unpaid principal balances less an allowance for loan losses. Interest on 
+loans is recognized over the term of the loan and is calculated using the interest method on principal 
+amounts outstanding. 
+The accrual of interest on loans is discontinued when the loans are 90 days past due unless the credit 
+is well secured and in the process of collection. Past due status is based on the contractual terms of 
+the loan. In all cases, loans are placed on nonaccrual or are charged off at an earlier date if 
+management believes, after considering economic conditions, business conditions, and collection 
+efforts, that collection of principal or interest is considered doubtful. 
+All interest accrued, but not collected for loans that are placed on nonaccrual or charged off, is 
+reserved and recorded as bad debt expense. Loans are returned to accrual status when all the 
+principal and interest payments contractually due are brought current and future payments are 
+reasonably assured. 
+The allowance for uncollectible loans receivable is established as losses are estimated to have 
+occurred through a provision for loan losses charged to earnings. Loan losses are charged against the 
+allowance when management believes the non-collectability of a loan balance is confirmed. 
+The allowance for uncollectible loans receivable is evaluated on a regular basis by management and is 
+based upon management’s periodic review of the collectability of the loans in light of historical 
+experience, the nature and volume of the loan portfolio, adverse situations that may affect the 
+borrower’s ability to repay, estimated value of any underlying collateral, and prevailing economic 
+conditions. This evaluation is inherently subjective as it requires estimates that are susceptible to 
+significant revision as more information becomes available. 
+(g) Troubled Debt Restructured (TDR) Loans 
+TDR loans are those loans whose terms have been modified because of deterioration of the financial 
+condition of the borrower. The concessions made by the Organization are principally reductions in 
+interest rate or extensions of maturities. In cases where the loan is collateral dependent, the 
+Organization measures impairment as the difference between the loan and the fair value of the 
+collateral (less cost to sell the collateral) based upon recent appraisals. In general, the Organization 
+obtains appraisals annually. 
+===== PAGE 20 =====
+I-18 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+(h) Purchased Credit Impaired (PCI) Loans 
+PCI loans are initially recorded at fair value based on the transaction price with no allowance for loan 
+loss. Under Accounting Standards Codification Subtopic 310-30, Accounting for Purchased Loans with 
+Deteriorated Credit Quality, the PCI loans are aggregated and accounted for as pools of loans based 
+on common risk characteristics. The allowance for loan losses on PCI loans is measured at each 
+financial reporting date based on future expected cash flows. This assessment and measurement is 
+performed at the pool level and not at the individual loan level. Accordingly, decreases in expected 
+cash flows resulting from further credit deterioration, on a pool basis, as of such measurement date 
+compared to those originally estimated are recognized by recording a provision and allowance for 
+credit losses on PCI loans. Subsequent increases in the expected cash flows of the loans in each pool 
+would first reduce any allowance for loan losses on PCI loans; and any excess will be accreted 
+prospectively as a yield adjustment. The analysis of expected cash flows for loan pools incorporates 
+expected sale prices of foreclosed property less costs to sell, and estimated principal and interests on 
+the loans prior to foreclosure. Actual cash flows could differ from those expected. The difference 
+between the undiscounted cash flows expected at acquisition and the investment in the PCI loans 
+(the carrying value), or the “accretable yield,” is recognized as interest income over the life of the pool 
+of loans. 
+(i) Real Property Held for Sale 
+The Organization acquires certain real properties either through purchase or foreclosure which it holds, 
+improves and repairs, and then either sells or rents. Such properties are valued at the lower of cost or 
+fair value as determined by appraisals, and are $13,764,306 and $20,942,047 at September 30, 2023 
+and 2022, respectively. Revenues related to the sale will be recognized when the entity satisfies the 
+performance obligation of the sales contract by transferring the property to the buyer. 
+(j) Fixed Assets 
+Fixed assets are carried at cost less accumulated depreciation. Contributed assets are recorded at fair 
+value at the date of the gift. Maintenance and minor repair costs are expensed as incurred. Building, 
+improvements, furniture, and equipment are depreciated on a straight-line basis over their estimated 
+useful lives. 
+Description Estimated life
+Computers and equipment 3 years
+Buildings and improvements 40 years
+ 
+(k) Other Assets 
+Other assets include rent receivables, management fee receivables, advances to NMTC entities, 
+miscellaneous receivables and mortgages. Those assets that are expected to be realized within one 
+(1) year are recorded in other current assets. All other items are recorded in other assets in the 
+consolidated statements of financial position. 
+===== PAGE 21 =====
+I-19 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+(l) Funds Held in Trust, Escrows, and Other 
+Funds held in trust, escrows, and other are held in a high-credit quality financial institution. Funds held 
+in trust, escrows, and other include escrow deposits. The cash related to these funds is included in 
+restricted cash and amounts to approximately $5,104,000 and $5,452,000 at September 30, 2023 and 
+2022, respectively. 
+Funds held in trust also include third-party resources entrusted to the Organization’s oversight, 
+generally for its Third Party Managed Assets programs. The Organization does not record the loans 
+receivable associated with these programs in its consolidated financial statements as its responsibility 
+is limited to servicing and/or administering the loans. The cash related to these programs that will be 
+returned within one (1) year is included in cash and cash equivalents and amounts to approximately 
+$841,000 and $925,000 at September 30, 2023 and 2022, respectively. The cash related to these 
+programs that will be returned in more than one (1) year is included in restricted cash and amounts to 
+approximately $3,605,000 and $1,445,000 at September 30, 2023 and 2022, respectively. 
+There are four (4) programs that advance funds with conditions to the Organization. The cash related 
+to these programs amounts to approximately $1,197,000 and $1,388,000 and is included in restricted 
+cash at September 30, 2023 and 2022, respectively. 
+Approximately $4,359,000 and $5,970,000 of funds held in trust were used to renovate real property 
+held for rental at September 30, 2023 and 2022, respectively. The revenue related to these programs 
+will be recognized when the conditions are met, which is generally when the property is leased to a 
+low- or moderate-income tenant for a specific time period. 
+(m) Unearned Fee Income 
+Commitment fees are recorded as unearned fee income when received. The deferred commitment fees 
+are then amortized and recorded as commitment fee income based on the life of the loan. The current 
+portion of unearned fee income is included in accounts payable and accrued expenses in the 
+accompanying consolidated statements of financial position. 
+(n) Contributions, Gifts, and Grants 
+Contributions, gifts, and grants are reported in the accompanying consolidated financial statements at 
+their estimated fair value at date of receipt or binding commitment. As referenced in 2(b), the 
+Organization records contributions and grants as with donor restrictions or without donor restrictions, 
+depending on the existence and/or nature of donor restrictions or conditions. A contribution is 
+conditional if the agreement includes both a barrier that must be overcome for the recipient to be 
+entitled to the assets transferred and a right of return for the transferred assets or a right of release of 
+the promisor’s obligation to the transferred assets. Conditional promises to give are not recognized until 
+they become unconditional, that is, when the barriers on which they depend are met. However, if a 
+restriction is fulfilled in the same time period in which the contribution or grant is received, the 
+Organization reports the support as without donor restriction. Unconditional promises to give are 
+recognized as revenues or gains in the period received. Unconditional promises to give due in the next 
+year are reflected as current promises to give and are recorded at their net realizable value. 
+===== PAGE 22 =====
+I-20 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+Unconditional promises to give due in subsequent years are reflected as long-term promises to give 
+and are recorded at the present value of their net realizable value, using risk-adjusted interest rates 
+applicable to the years in which the promises are received to discount the amounts. 
+Contributions of donated noncash assets are recorded at their estimated fair values in the period 
+received. Contributions of donated services that create or enhance nonfinancial assets or that require 
+specialized skills, are provided by individuals possessing those skills, and would typically need to be 
+purchased if not provided by donation, are recorded at their fair value in the period received. 
+(o) Leases 
+The Organization classifies leases as either operating or financing depending on the terms and 
+conditions set forth in the contract at the inception of the lease. In the consolidated statements of 
+financial position, right-of-use assets represent the Organization’s right to use the underlying assets for 
+the lease term and lease liabilities represents the Organization’s obligation to make lease payments 
+arising from the leases. Right-of-use assets and lease liabilities are recognized based on the present 
+value of the future minimum lease payments over the lease term at commencement date. Lease 
+expense for minimum lease payments is recognized on a straight-line basis over the lease term. The 
+discount rate is based on a risk-free rate using a period comparable to the lease term.  
+As discussed in note 2(t), the Organization adopted Accounting Standards Update (ASU) No. 2016-02, 
+Leases (Topic 842) in 2023. The Organization elected the package of practical expedients permitted 
+under the transition guidance within Accounting Standards Codification Topic 842, which allowed the 
+Organization to carry forward its identification of contracts that are or contain leases, its historical 
+classification of existing leases and its accounting for initial direct costs for existing leases. The 
+Organization elected the short-term lease exception under ASU 2016-02 for all leases, and therefore, 
+leases with an initial term of 12 months or less are not included in the consolidated statements of 
+financial position. 
+(p) Income Taxes 
+CLFNJ, Lending Partners, Supportive Needs, Mills, UWNNJ and CAPC are exempt from federal 
+income taxes under Section 501(c)(3) of the Code. As nonprofit entities, they are also exempt from 
+New Jersey corporate income taxes. 
+University Ventures is a for-profit corporation with federal net operating loss carryovers of $566,102 
+that may be offset against future taxable federal income. Given the history of losses for University 
+Ventures, a full valuation allowance has been taken for federal and state deferred tax assets. 
+306 MLK, CAPC ASF #2, CAPC USA, ESBI, CHS-CAPC and LMI are LLCs treated as partnerships for 
+tax purposes and, as such, the income or loss generated from the LLC is reported by the members on 
+their respective returns. 
+NJCC MM, Fund #4 and Fund #5 are LLCs treated as corporations for tax purposes and, as such, the 
+income or loss generated from the LLC is reported by the members on their respective returns. 
+===== PAGE 23 =====
+I-21 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+CAPAJC 3, CAPC-ARF, CAPC-ARF II, CAPC-ARF III, CAPC Washington, Property Management, 
+CAPC Construction, Brokerage, CAPC 4th Ave, E-Port 1, E-Port 2, Fund II Invest, Southward 
+Neighborhood, Southward, Tampa #1 and Fund #1 (sole member of these entities is CAPC), 151 MLK, 
+NCC II, NCC III, NCCH, Mortgage Holdings, 545 West Broad, Supportive Housing, ET Library and 
+Shared (sole member of these entities is CLFNJ), CAPC AMG, USA Fund II, 60 South, Remsen, 
+Pledgor and Pledgor II are single-member LLCs treated as a disregarded entity with respect to its sole 
+member, and each member is exempt under Code Section 501(c)(3). 
+CAPC ASF #1 was a single member LLC owned by CLFNJ in 2017 and was considered a disregarded 
+entity. In 2018, 19.97% interest in CAPC ASF #1 was purchased by an outside organization and is now 
+treated as a partnership. 
+CAPC SFR was a single member LLC owned by CAPC in 2020 and was considered a disregarded 
+entity. In 2021, 40.00% interest in CAPC SFR was purchased by an outside organization and is now 
+treated as a partnership. 
+NJCC recognizes the effect of income tax positions only if those positions are more likely than not of 
+being sustained. Recognized income tax positions are measured at the largest amount of benefit that is 
+greater than 50.00% likely to be realized upon settlement. Changes in measurement are reflected in 
+the period in which the change in judgment occurs. NJCC did not recognize the effect of any income 
+tax positions in either 2023 or 2022. 
+(q) Functional Allocation of Expenses 
+The cost of providing various programs and other activities has been summarized on a functional basis 
+in the consolidated statements of activities. Costs are allocated between program services, 
+management and general, and fundraising based on an evaluation of the related benefits. Interest 
+expense and provision for loan losses are not included in functional expenses in the consolidated 
+statements of activities but are considered to be program activities. For description of program 
+activities, see note 1 of the consolidated financial statements. 
+(r) Operating Measure 
+Nonoperating activity includes changes in noncontrolling interest in subsidiaries, gains or losses on 
+investments, and other nonrecurring items. 
+(s) Use of Estimates 
+The preparation of consolidated financial statements requires management to make estimates and 
+assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent 
+assets and liabilities at the date of the consolidated financial statements and the reported amounts of 
+revenues and expenses during the reporting period. Significant estimates in the consolidated financial 
+statements include valuations of investments, allowance for uncollectible loans receivable, and 
+recognition and measurement of real property held for sale. Actual results could differ from those 
+estimates. 
+===== PAGE 24 =====
+I-22 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+(t) New Accounting Standard Adopted 
+The Financial Accounting Standards Board (FASB) issued Accounting Standards Update 
+(ASU) No. 2016-02, Leases (Topic 842) which is effective for the Organization’s fiscal year ended 
+September 30, 2023 (as amended) and is designed to increase transparency and comparability among 
+organizations by recognizing lease assets and lease liabilities on the consolidated statements of 
+financial position and disclosing key information about leasing arrangements. The Organization has 
+adopted this ASU using the modified retrospective transition approach and the effective date method 
+which allowed the Organization to apply the new leases standard at the adoption date of October 1, 
+2022. As such, the Organization is not required to adjust comparative periods or provide comparative 
+period disclosures. The Organization also elected to use the transition package of practical expedients 
+and short-term lease exemption. The discount rate is based on a risk-free rate using a period 
+comparable with the lease term. The Organization recognized right-of-use assets and lease liabilities of 
+$5,531,107 and $5,562,402, respectively, on October 1, 2022. 
+(u) Future Accounting Standard 
+In June 2016, the FASB issued ASU No. 2016-13, Measurement of Credit Losses on Financial 
+Instruments, that changes the impairment model for most financial assets and certain other 
+instruments. For receivables, loans and other instruments, entities will be required to use a new 
+forward-looking “expected loss” model that generally will result in the earlier recognition of allowance 
+for losses. In addition, an entity will have to disclose significantly more information about allowances, 
+credit quality indicators and past due securities. The new provisions will be applied as a cumulative-
+effect adjustment to net assets. The Organization will adopt the new standard October 1, 2023. The 
+Organization is currently evaluating the requirements of this guidance and has not yet determined the 
+impact of its adoption on the Organization’s consolidated financial position, activities, and cash flows. 
+(3) Loans Receivable 
+The Organization, directly or through agreements with other entities, provides credit facilities primarily in 
+the form of loans receivable. 
+(a) Community Loan Fund 
+Loans are primarily to nonprofit organizations, although loans are also made to for-profit corporations, 
+partnerships, and individuals for business purposes. Loans are generally for terms of three months to 
+seven years, unless there is specific capital that allows for longer-term lending. 
+At September 30, 2023, there were no variable rate loans. At September 30, 2023, fixed rate loans of 
+$107,856,659 had interest rates ranging from 1.00% to 9.50%. Included are loans for the Garden State 
+Relief Fund that are 0.00% for the first 6 months and switch to 3.00% thereafter. 
+At September 30, 2022, there were no variable rate loans. At September 30, 2022, fixed rate loans of 
+$93,428,562 had interest rates ranging from 1.00% to 9.50%. Included are loans for the Garden State 
+Relief Fund that are 0.00% for the first 6 months and switch to 3.00% thereafter. 
+===== PAGE 25 =====
+I-23 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+At September 30, 2023, there were fifteen (15) loans classified as nonaccrual and 90 days past due 
+with a total balance of $4,309,860. 
+At September 30, 2022, there were fourteen (14) loans classified as nonaccrual and 90 days past due 
+with a total balance of $2,429,133. 
+On a case-by-case basis, the Organization may agree to modify the contractual terms of a borrower’s 
+loan to assist customers who may be experiencing financial difficulty, as well as preserve the 
+Organization’s loan position in the loan. If the borrower is experiencing financial difficulties and a 
+concession has been made at the time of such modification, the loan is classified as a TDR loan. 
+All TDRs are classified as impaired loans, which are individually evaluated for impairment. At 
+September 30, 2023 and 2022, there were twenty-three (23) loans with balances that totaled 
+$2,939,628 and seventeen (17) loans with balances that totaled $2,510,153, respectively, that were 
+considered TDR loans. 
+(b) Proprietary Managed Assets – NPF 
+At September 30, 2023, these loans bear interest at an annual rate of 5.75% to 6.50% and are either 
+unsecured or, if applicable, secured by the assets financed. At September 30, 2023, these loans 
+amounted to $2,098,879. 
+At September 30, 2022, these loans bear interest at an annual rate of 5.75% to 7.50% and are either 
+unsecured or, if applicable, secured by the assets financed. At September 30, 2022, these loans 
+amounted to $2,651,975. 
+(c) Camden Power 
+At September 30, 2023 and 2022, the outstanding loan has a balance of $114,432 and $119,580, 
+respectively, and bears interest at 4.00%. The loan matures on February 1, 2024. 
+(d) University Ventures 
+University Ventures had a $500,000 loan receivable from Red Restaurant Ventures, LLC (Red) under a 
+four-year credit facility at 13.50% interest. In May 2011, Red filed for Chapter 11 bankruptcy. University 
+Ventures performed a lien search and noted that they are the only secured party. As part of the 
+bankruptcy proceedings, Red was required to make monthly payments of $2,000, which Red did 
+sporadically in 2019. After careful consideration, the loan was written off in 2020. 
+Since 2019, a total of three (3) new loans bearing interest at an annual rate of 6.50% to 7.50% were 
+added for entities unrelated to Red Restaurant Ventures. At September 30, 2023 and 2022, these 
+loans amounted to $1,261,583 and $678,505, respectively. 
+(e) Lending Partners 
+Loans receivable are primarily to nonprofit organizations and for-profit corporations and partnership 
+entities. All loans are collateralized by liens on the assets financed. 
+===== PAGE 26 =====
+I-24 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+Fixed rate loans are generally for twelve (12) to two hundred sixty-seven months (267). At 
+September 30, 2023 and 2022, fixed rate loans bear interest at 4.50% to 7.00% per annum and 
+amounted to $22,587,444 and $10,004,474, respectively. 
+At September 30, 2023 and 2022, there was one (1) loan classified as 90 days past due, for which the 
+Organization did not accrue interest and was considered a TDR loan. The loan has outstanding 
+balance of $1,022,973 and $1,090,601, as of September 30, 2023 and 2022, respectively. 
+The Organization assesses the risk of loss on its loans receivable internally by credit quality ratings. 
+The Organization utilizes a six-point internal risk rating system. Loans deemed to be acceptable quality 
+are rated one through three (pass), with a rating of one established for loans with minimal risk. Loans 
+that are deemed to be of potential weakness are rated four (watch), and questionable repayment are 
+rated five (substandard). Loans with serious doubt are rated six (doubtful). There were no doubtful 
+receivables at September 30, 2023 or September 30, 2022. The following table includes the amounts 
+of the outstanding loans receivable at September 30, 2023 and 2022, using the Organization’s 
+internally assigned credit quality indicators. 
+2023 2022
+Pass $ 115,412,888  95,499,818  
+Watch 13,124,060  7,147,328  
+Substandard 5,382,049  4,235,950  
+Total loans receivable $ 133,918,997  106,883,096  
+ 
+(4) Allowance for Uncollectible Loans Receivable 
+The following table presents the changes in the allowance for uncollectible loans receivable at 
+September 30, 2023 and 2022: 
+2023 2022
+Opening balance $ 5,232,940  5,504,940  
+Write-offs (614,261) (464,970) 
+Provision for uncollectible loans receivable, net of recoveries 2,782,525  192,970  
+Ending balance $ 7,401,204  5,232,940  
+ 
+===== PAGE 27 =====
+I-25 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+(5) Purchased Credit Impaired  Loans Held for Investments 
+The following table summarizes information for purchased credit impaired loans held for investment at 
+September 30, 2023 and 2022: 
+2023 2022
+Contractually required payments $ 791,543  791,543  
+Nonaccretable difference 123,457  (13,793) 
+Cash flows expected to be collected 915,000  777,750  
+Accretable yield (800,092) (662,842) 
+Initial carrying amount at acquisition 114,908  114,908  
+Accretion recorded since acquisition 254,908  265,388  
+Carrying value at September 30 $ 369,816  380,296  
+ 
+There was no accretion recorded for the years ended September 30, 2023 and 2022. 
+===== PAGE 28 =====
+I-26 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+(6) Program-Related Investments 
+Program-related investments at September 30, 2023 and 2022 are as follows: 
+2023 2022
+NMTC IV:
+NJCC CDE Ocean LLC $ 7  693  
+NJCC CDE Cumberland LLC 2  597  
+NJCC CDE Passaic LLC 2  500  
+NJCC CDE Camden LLC 495  494  
+NJCC CDE Monmouth LLC (8) 597  
+NJCC CDE Middlesex LLC —  674  
+NJCC CDE Campbell LLC 699  698  
+NJCC CDE Wilson LLC 773  774  
+NMTC V:
+NJCC CDE Hamilton LLC 1,038  1,039  
+NJCC CDE Edison LLC 788  788  
+NJCC CDE Kilmer LLC 502  501  
+NJCC CDE Morris LLC 683  680  
+NJCC CDE Livingston LLC 1,000  1,001  
+NJCC CDE Eagleton LLC 1,043  1,035  
+NMTC VI:
+NJCC CDE Barton LLC 197  196  
+NJCC CDE Stockton LLC 399  399  
+NJCC CDE Whitman LLC 852  853  
+NJCC CDE Robeson LLC 520  520  
+NJCC CDE Parker LLC 1,044  1,045  
+NJCC CDE Amos LLC 797  797  
+NMTC VII and VIII:
+NJCC CDE Houston LLC (VII only) 1,041  1,041  
+NJCC CDE Field LLC (VII only) 795  796  
+NJCC CDE Peterson LLC (VII and VIII) 1,069  1,070  
+NJCC CDE Salem LLC (VII and VIII) 889  —  
+NJCC CDE Grimesfarm LLC (VII and VIII) 1,260  —  
+NMTC IX:
+NJCC CDE 42 LLC 995  —  
+NJCC CDE 44 LLC 700  —  
+ 
+===== PAGE 29 =====
+I-27 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+2023 2022
+University Ventures, Inc.:
+Terracycle $ 200,000  200,000  
+Other:
+Lincoln Park-CAPC Urban Renewal, LLC —  (53) 
+Community Development Trust, Inc. 500  500  
+CUMAnet, LLC —  2,000,000  
+Tampa and Community Development Funds —  2,517  
+CHS-CAPC JV1, LLC 15,000  15,000  
+NJCC Fund # 5 LLC —  77,981  
+306 MLK Blvd Urban Renewal LLC 302,000  302,000  
+Parramore Asset Stabilization Fund 696,675  564,967  
+HPN Leverage IV LLC 7,893,234  7,975,454  
+Allevo Community Capital LLC 200,000  200,000  
+Valley Revitalization LLC 28,489  28,489  
+Wood Street Housing Partnership, LP 281,933  282,816  
+OZ 306 MLK Landlord LLC 3,002,047  2,315,400  
+306 MLK Master Tenant LLC —  9,048  
+NJCC-NYS Community Restoration Fund II LLC 1,450,673  931,740  
+CAG Members Fund I 1,475,720  1,356,472  
+HPN Leverage VIII LLC 5,512,879  —  
+Socially Responsible Certificates of Deposit:
+Self Help Credit Union, 1.70%, 7/2/20 100,134  100,134  
+Self Help Credit Union, 2.10% 12/23/20 100,000  100,000  
+$ 21,276,866  16,479,253  
+ 
+In 2023, CLFNJ invested $900 in NJCC CDE Salem LLC, $1,300 in NJCC CDE Grimesfarm LLC, $1,000 in 
+NJCC CDE 42 LLC and $700 in NJCC CDE 44 LLC. 
+Net gain related to equity investments of $213,218 and $549,683 is included in realized gain on 
+investments in the accompanying consolidated statements of activities as of September 30, 2023 and 
+2022, respectively. 
+===== PAGE 30 =====
+I-28 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+The table below sets forth overview information about the NMTC IV, V, VI, VII, VIII and IX: 
+Managing Managing Investor Net income
+member(s) member(s) member(s) Assets at Liabilities at for
+ow nership initial initial December 31, December 31, December 31,
+stake investment investment 2022 2022 2022
+NMTC IV :
+NJCC CDE Ocean LLC 0.01 700  7,000,000  7,021,211  3,917  86,259  
+NJCC CDE Cumberland LLC 0.01 600  6,000,000  6,000,600  —  56,766  
+NJCC CDE Passaic  LLC 0.01 500  5,000,000  5,001,636  —  27,998  
+NJCC CDE Camden LLC 0.01 500  5,000,000  5,043,586  34,000  109,017  
+NJCC CDE Monmouth LLC 0.01 600  6,000,000  6,028,100  12,500  60,000  
+NJCC CDE Middlesex LLC 0.01 675  6,750,000  6,767,856  14,313  38,459  
+NJCC CDE Campbell LLC 0.01 700  7,000,000  7,000,701  —  35,000  
+NJCC CDE Wilson LLC 0.01 800  8,000,000  8,035,935  3,708  383,056  
+NMTC V :
+NJCC CDE Hamilton LLC 0.01 1,050  10,500,000  10,521,819  5,395  132,908  
+NJCC CDE Edison LLC 0.01 800  8,000,000  8,048,912  —  268,661  
+NJCC CDE Kilmer LLC 0.01 500  5,000,000  5,026,468  16,673  29,017  
+NJCC CDE Morris LLC 0.01 700  7,000,000  7,095,108  47,444  294,487  
+NJCC CDE Livingston LLC 0.01 1,000  10,000,000  10,044,535  8,155  54,795  
+NJCC CDE Eagleton LLC 0.01 1,050  10,500,000  10,512,550  11,500  318,925  
+NMTC V I:
+NJCC CDE Barton LLC 0.01 200  2,000,000  2,017,069  11,500  52,405  
+NJCC CDE Stockton LLC 0.01 400  4,000,000  4,011,900  11,500  20,000  
+NJCC CDE Whitman LLC 0.01 880  8,800,000  8,805,598  4,099  354,511  
+NJCC CDE Robeson LLC 0.01 520  5,200,000  5,205,619  2,776  27,322  
+NJCC CDE Parker LLC 0.01 1,050  10,500,000  10,511,650  —  76,164  
+NJCC CDE A mos LLC 0.01 800  8,000,000  8,012,663  11,500  46,244  
+NMTC VII and NMTC VIII:
+NJCC CDE Houston LLC (VII only) 0.01 1,050  10,500,000  10,517,050  16,000  103,635  
+NJCC CDE Field LLC (VII only) 0.01 800  8,000,000  8,009,192  3,444  57,442  
+NJCC CDE Peterson LLC (VII and VIII) 0.01 1,075  10, 750,000  10,751,075  —  68,678  
+NJCC CDE Salem LLC (VII and VIII) 0.01 900  9, 000,000  9,030,025  15,250  24,050  
+NJCC CDE Grimes f arm LLC (V II and V III) 0.01 1,300  13, 000,000  13,012,800  11,500  15,109  
+NMTC IX:
+NJCC CDE 42 LL
+C 0.01 1,000  10,000,000  Not Available Not Available Not Available
+NJCC CDE 44 LLC 0.01 700  7,000,000  Not Available Not Available Not Available
+ 
+Certain SPEs have been formed but are not yet funded. 
+Assets, liabilities and net income for NJCC CDE Middlesex LLC, NJCC CDE Hamilton LLC, NJCC CDE 
+Parker LLC, and NJCC CDE Field LLC are at October 31, 2022. 
+On NJCC CDE Wilson’s total members initial investment, $750,000 have been expended under NMTC V. 
+On NJCC CDE Eagleton’s total members initial investment, $6,750,000 have been expended under NMTC 
+VI. On NJCC CDE Amos’ total members initial investment, $5,250,000 have been expended under 
+NMTC VII. On NJCC CDE Peterson’s total members initial investment, $10,000,000 have been expended 
+under NMTC VIII. On NJCC CDE Salem’s total members initial investment, $1,500,000 have been 
+expended under NMTC VIII. On NJCC CDE Grimesfarm’s total members initial investment, $10,000,000 
+have been expended under NMTC VIII. 
+===== PAGE 31 =====
+I-29 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+As of September 30, 2023 and 2022, all of the New Market Tax Credits have been expended for NMTC II, 
+NMTC III, NMTC IV, NMTC V and NMTC VI. As of September 30, 2023, all the New Market Tax Credits 
+have been expended for NMTC VII. As of September 30, 2023, approximately $23,500,000 and 
+$33,000,000 were available to be expended on NMTC VIII and NMTC IX, respectively. 
+(7) Investments and Fair Value Measurements 
+Fair value is defined as the exchange price that would be received to sell an asset or paid to transfer a 
+liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly 
+transaction between market participants on the measurement date. 
+The fair value hierarchy requires an entity to maximize the use of observable inputs and minimize the use 
+of unobservable inputs when measuring fair value. The three levels of inputs that may be used to measure 
+fair value are as follows: 
+• Level 1: Quoted prices in active markets for identical assets or liabilities 
+• Level 2: Observable inputs other than Level 1 pric es such as quoted prices for similar assets or 
+liabilities; quotes prices in markets that are not active; or other inputs that are observable or can be 
+corroborated by observable market data for substantially the full term of the assets or liabilities 
+• Level 3: Unobservable inputs that are supported by littl e or no market activity and that are significant to 
+the fair value of the asset or liabilities 
+Fair value estimates are made at a specific point in time, based on available market information and 
+judgments about the financial asset, including estimates of timing, amount of expected future cash flows, 
+and the credit standing of the issuer. In some cases, the fair value estimates cannot be substantiated by 
+comparison to independent markets. In addition, the disclosed fair value may not be realized in the 
+immediate settlement of the financial asset and do not reflect any premium or discount that could result 
+from offering for sale at one time an entire holding of a particular financial asset. Potential taxes and other 
+expenses that would be incurred in an actual sale or settlement are not reflected in amounts disclosed. 
+The following is a description of the valuation methodologies used for the Organization’s investments 
+measured at fair value and included in the fair value hierarchy table. There have been no changes in the 
+methodologies used for periods presented in these consolidated financial statements. 
+Certificates of deposit: Valued based on yields currently available on comparable securities of issuers with 
+similar credit rates. 
+U.S. government and agency obligations: Level 1 securities are valued at the closing price reported on the 
+active market on which the individual securities or bonds are traded at September 30, 2023 and 2022. 
+Level 2 securities are valued at the closing price reported on inactive markets or at the quoted price for a 
+similar security. 
+Mutual funds and U.S. equity securities: Valued at the closing prices reported on an active market at 
+September 30, 2023 and 2022. 
+===== PAGE 32 =====
+I-30 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+The following tables represent the Organization’s fair value hierarchy for its financial assets measured at 
+fair value on a recurring basis as of September 30, 2023 and 2022: 
+2023
+Level 1 Level 2 Level 3 Total
+Inv estments:
+Certificates of deposit $ —  3,304,637  —  3,304,637  
+U.S. government and
+agency obligations 9,286,196  —  —  9,286,196  
+$ 9,286,196  3,304,637  —  12,590,833  
+ 
+2022
+Level 1 Level 2 Level 3 Total
+Inv estments:
+Certificates of deposit $ —  4,154,753  —  4,154,753  
+U.S. government and
+agency obligations 12,268,357  2,096,221  —  14,364,578  
+Mutual funds 1,650,456  —  —  1,650,456  
+U.S. equity securities:
+Consumer discretionary 902,862  —  —  902,862  
+Consumer staples 229,521  —  —  229,521  
+Energy 111,017  —  —  111,017  
+Financial services 805,229  —  —  805,229  
+Healthcare 1,227,339  —  —  1,227,339  
+Industrials 993,701  —  —  993,701  
+Information technology 1,483,152  —  —  1,483,152  
+Materials 208,613  —  —  208,613  
+Telecommunications 950,977  —  —  950,977  
+Utilities 204,299  —  —  204,299  
+Other 140,748  14,337  —  155,085  
+$ 21,176,271  6,265,311  —  27,441,582  
+ 
+===== PAGE 33 =====
+I-31
+COMMUNI
+TY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+(Continued)
+(8)
+Fixed Assets, Net
+Fixed a
+ssets at September 30, 2023 and 2022 consist of the following:
+2023 2022
+Land $ 9,804,298  10,405,808
+Computers and equipment 614,768 627,752
+Buildings and improvements held for rental purposes 49,319,034 50,903,416
+Building and improvements 1,148,178 846,541
+60,886,278  62,783,517
+Less accumulated depreciation 7,141,737 6,054,384
+Fixed assets, net $ 53,744,541 56,729,133
+Dep
+reciation expense for the years ended September 30, 2023 and 2022 amounted to $1,645,769 and 
+$1,284,806, respectively. 
+(9) Gran
+ts
+(a)
+Credit Enhancement Grant
+On Ju
+ne 13, 2006, the Organization received a credit enhancement grant from the U.S. Department of
+Educatio
+n, which was recognized as donor restricted revenue at that time. The Organization was
+awa
+rded $8,150,000 to use as credit enhancement for the financing of current and future charter
+school
+s. The project period began on August 10, 2009 and ends on the date on which all of the grant
+funds a
+nd earnings thereon have been expended for eligible grant project purposes or when financing
+sup
+ported by the grant project has been retired, whichever is later. The grant allows the Organization to
+also u
+se the investment income earned on the award. In July 2016, the Organization received an
+addition
+al credit enhancement grant from the U.S. Department of Education for $8,000,000 which was
+recogni
+zed as donor restricted revenue in the 2016 consolidated statement of activities. For the years
+ende
+d September 30, 2023 and 2022, the net investment return was $298,454 and $300,180,
+respectively. At September 30, 2023 and 2022, $2,016,545 and $1,825,800, respectively, has been
+use
+d to credit enhance loans issued by the Organization to charter schools and $547,766 and
+$315,081, respectively, has been used to credit enhance loans issued by outside organizations. As of
+Septembe
+r 30, 2023 and 2022, $14,591,286 and $15,086,611, respectively, are available for credit
+enha
+ncements.
+(b)
+Supportive Housing Fund Grant
+In 2017, CLF
+NJ received an $8,000,000 grant from Goldman Sachs to be used to finance loans to
+borro
+wers to acquire and rehabilitate affordable supportive housing units in New Jersey. These funds
+were co
+mbined with a $7,000,000 loan from an affiliate of the grantor to establish a $15,000,000
+revolvi
+ng fund that will finance up to 80 units. The grant funds were committed to eligible project
+===== PAGE 34 =====
+I-32
+COMMUNI
+TY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+(Continued)
+borro
+wers by June 21, 2020. In 2023 and 2022, respectively, $5,596,258 and $3,777,337 were used to 
+finance loans. 
+In 2020, the $7,000,000 loan expired and is no longer being used, therefore there is no timeline for 
+disbursement. New loans are funded 50.00% from the $8,000,000 grant and 50.00% from CLFNJ’s 
+own sources of capital. As of September 30, 2023 and 2022, $2,403,742 and $4,222,663, respectively, 
+are available for lending. 
+(c)
+THRIVE South Jersey Initiative Grant
+In 2019 an
+d 2017 respectively, CLFNJ received a $1,600,000 and $1,500,000 grant from the Pascal
+Syke
+s Foundation to support financing of businesses in eligible areas of Atlantic, Cumberland,
+Glou
+cester and Salem counties, as part of CLFNJ’s THRIVE South Jersey Initiative. Pascal Sykes
+Found
+ation provided two grants totaling $4,100,000 in 2015 to support community and economic
+developm
+ent via the THRIVE South Jersey Initiative. The unexpended portion of all grants totaled
+$65,53
+7 and are included in net assets with donor restrictions as of September 30, 2023 and 2022.
+(d)
+Pascal Sykes Foundation Grant
+In 2020, $2,9
+00,000 was received from the Pascal Sykes Foundation. The grant is to be used for loans
+to small bu
+sinesses and nonprofits located in the South Jersey market area negatively impacted by the
+COVID-19 p
+andemic. The grant is allocated to three sectors as follows; $100,000 to the African
+American Ch
+amber of Commerce Partnership; $1,475,000 to THRIVE South Jersey Initiative; and
+$1,325,0
+00 to the Garden State Relief Fund in the South Jersey Area. The unexpended portion of the
+grant totaled 
+$211,715 and $533,268 and are included in net assets with donor restrictions at
+Septembe
+r 30, 2023 and 2022, respectively. Additionally, in 2021, the organization received
+$1,000,000 grant from the foundation to support the E
+SBI Fund. The grant funded the ESBI Fund with
+a $500,0
+00 equity contribution from CLFNJ and another $500,000 equity contribution from the African
+American Ch
+amber of Commerce Partnership. The unexpended portion of the grant totaled $313,541
+and $3
+55,233 at September 30, 2023 and 2022, respectively and are included in net assets with donor
+rest
+rictions.
+(e)
+NeighborWorks America Grant
+The Organi
+zation is a subrecipient of a grant through NeighborWorks America. NeighborWorks
+America provi
+ded a donor restricted grant (corpus to be maintained in perpetuity) in the amount of
+$750,0
+00 during the year ended September 30, 2016, for making affordable loans for housing and
+capital p
+rojects. This amount is permanently restricted although proceeds on capital projects, or
+intere
+st earned, over and above corpus may be transferred to net assets without donor restrictions
+furtheri
+ng the Organization’s mission. Additionally, NeighborWorks America may authorize amounts to
+be tran
+sferred to net assets without donor restrictions. In 2020, $343,000 was authorized to be
+transferred resulting in no remaining unexpended funds. However, should the Organization become
+defun
+ct, all remaining grant funds, interest earnings, capital project proceeds, and the loan and capital
+projects portf
+olios representing the use of these funds will revert to NeighborWorks America.
+Additionall
+y, NeighborWorks America provided unrestricted grants totaling $563,750 and $584,000
+durin
+g the years ended September 30, 2023 and 2022, respectively.
+===== PAGE 35 =====
+I-33 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+(f) Capital Magnet Fund Award 
+In 2020, the Organization received $2,250,000 for the Capital Magnet Fund (CMF) 2019 award from 
+the Community Development Financial Institutions Fund (CDFI). The funds are to be used for the 
+funding and direct expenses towards providing affordable housing rentals for very low-income families 
+in areas of economic distress. The unexpended portion of the grant totaled $687,500 and $1,062,500 
+and are included in net assets with donor restrictions at September 30, 2023 and 2022, respectively. In 
+2023, the Organization received another $4,935,000 for the CMF 2022 award from CDFI. The 
+unexpended portion of the grant totaled $4,115,424 and $0 and are included in net assets with donor 
+restrictions at September 30, 2023 and 2022, respectively. 
+(g) Financial Assistance Award 
+The CDFI provided $565,000 in 2020 for financial assistance for the Partnership to Invest in 
+Transformative Community Health (PITCH). The purpose of the funds is to be used for general lending 
+in different areas of New Jersey. All of the funds were fully expended at September 30, 2020. 
+In 2021, CDFI provided $650,000 Base Financial Assistance (Base-FA) and $500,000 Financial 
+Assistance under the Healthy Food Financing Initiative (HFFI-FA). The purpose of the fund is to 
+support the philanthropic and institutional capital and healthy food financing activities in different areas 
+of New Jersey. All of the funds under Base-FA were fully expended at September 30, 2022 while the 
+HFFI-FA unexpended portion totaled $129,870 and $456,203 and are included in net assets with donor 
+restrictions at September 30, 2023 and 2022, respectively. 
+(h) East Trenton Collaborative 
+The grants received for the East Trenton Collaborative (ETC) program are to be used for revitalizing 
+the East Trenton neighborhood of Trenton. In 2020, the Neighborhood Revitalization Tax Credit Project 
+(NRTC) provided $720,000 to the ETC. The unexpended portion of the grant totaled $0 and $64,037 
+and are included in net assets with donor restrictions at September 30, 2023 and 2022, respectively. In 
+2021, the NRTC provided $1,035,000 grant for the same program. The unexpended portion of the 
+grant totaled $473,060 and $781,739 and are included in net assets with donor restrictions at 
+September 30, 2023 and 2022, respectively. In 2021, the State of New Jersey Department of 
+Community Affairs (DCA) through the Balanced Housing NPP 2018 provided $612,800 grant to the 
+program. The grant is unexpended and is included in net assets with donor restrictions at September 
+2023 and 2022. In 2022, Merancas Foundation provided a $100,000 grant to the program. The grant is 
+unexpended and is included in net assets with donor restrictions at September 2023 and 2022. In 
+2022, the NRTC provided $985,000 grant for the same program. The unexpended portion of the grant 
+totaled $836,277 and $985,000 and are included in net assets with donor restrictions at September 30, 
+2023 and 2022, respectively. In 2023, the NRTC provided $800,000 grant for the same program. The 
+grant is unexpended and is included in net assets with donor restrictions at September 30, 2023. 
+(i) Grant from Individual Donor 
+In 2020, $510,000 was received from an individual donor. The purpose of the grant is to support 
+CLFNJ’s Small Business Emergency Loan Fund. The funding is allocated into four areas; Interest rate 
+buy down; loans ranging from $10,000 – $75,000; a loan loss reserve for the Small Business 
+===== PAGE 36 =====
+I-34 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+Emergency Loan Fund; and $25,000 for administrative fees for all loans. The unexpended portion of 
+the grant totaled $5,182 and $10,000 and are included in net assets with donor restrictions at 
+September 30, 2023 and 2022, respectively. 
+(j) CDFI Rapid Response Program 
+In 2021, CDFI Fund provided $1,826,265 grant to be used for commercial real estate, small business, 
+microenterprise, community facilities, affordable housing and intermediary lending to NPs and CDFIs. 
+The unexpended portion of the grant totaled $0 and $620,713 and are included in the net assets with 
+donor restrictions at September 30, 2023 and 2022, respectively. 
+(k) New Jersey Pandemic Relief Fund Grant 
+In 2021, the Organization received $1,000,000 grant from New Jersey Pandemic Relief Fund to fund 
+small businesses in New Jersey, particularly Black Business Enterprise Capital Fund (BBECF) and to 
+provide financial products and technical assistance to eligible small businesses. The unexpended 
+portion of the grant totaled $83,151 and $89,334 and are included in the net assets with donor 
+restrictions at September 30, 2023 and 2022, respectively. 
+(l) Robert Wood Johnson Foundation Grant 
+In 2021, the Organization received $2,307,500 grant from Robert Wood Foundation to fund various 
+programs of the organizations. The $1,000,000 was allocated for modifying nonperforming mortgage 
+loans, $1,000,000 to capitalize the newly formed BBECF and the $307,500 to support the exploration 
+and development of the B. The unexpended portion of the grant totaled $500,605 and $606,195 and 
+are included in the net assets with donor restrictions at September 30, 2023 and 2022, respectively. 
+(m) Foreclosure Mitigation Program 
+In 2021, the DCA through its Mortgage Mitigation and Neighborhood Stabilization Program provided a 
+$2,900,000 grant for the foreclosure mitigation 2021 and $3,000,000 for the foreclosure mitigation 
+2022. The unexpended portion of the grant totaled $0 and $1,805,000 and are included in the net 
+assets with donor restrictions at September 30, 2023 and 2022, respectively. In 2023, the DCA 
+provided an additional $3,000,000 grant for the foreclosure mitigation 2023. The unexpended portion of 
+the grant totaled $79,735 at September 30, 2023. 
+(n) East Trenton Public Library Program 
+In 2021, the State of New Jersey New Jersey Historic Trust provided $750,000 to the Organization. 
+The grant will be used for the restoration of the East Trenton Public Library. The City of Trenton also 
+contributed a matching grant of $750,000 towards the total project cost. In 2022, DCA provided 
+$928,863 for the same program. The unexpended portion of the grant totaled $1,582,844 and 
+$2,259,306 and are included in the net assets with donor restrictions at September 30, 2023 and 2022, 
+respectively. 
+===== PAGE 37 =====
+I-35 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+(o) Wells Fargo Grants 
+In 2021, Wells Fargo Bank provided a $2,500,000 grant to the organization. The grant will be used to 
+serve the Black and Brown enterprises and to further capitalize and operationalize the ESBI. The 
+unexpended portion of the grant totaled $784,424 and $787,200 and are included in the net assets with 
+donor restrictions at September 30, 2023 and 2022, respectively. 
+(p) CDFI Equitable Recovery Program 
+In 2023, CDFI through its Equitable Recovery Program (ERP) provided a $4,957,678 grant to the 
+organization. The grant will be used to assist Low-or Moderate-Income communities and borrowers, 
+including minorities, that have significant unmet capital or Financial Service’s needs. The unexpended 
+portion of the grant totaled $4,957,678 and is included in the net assets with donor restrictions at 
+September 30, 2023. 
+(10) Funds Held in Trust, Escrows, and Other 
+The funds held in trust, escrows, and other funds consist of the following: 
+2023 2022
+SEED funds $ 204,980  198,128  
+BofA funds 960,759  950,452  
+TICIC funds 2,267,066  1,221,479  
+GFI funds 426,538  426,538  
+Escrows 5,103,589  5,435,228  
+Other 1,263,963  1,459,145  
+Conditional program advances:
+Neighborhood enhancement program 1,826,447  3,671,411  
+Camden Power funds 1,013,403  1,013,403  
+Neighborhood stabilization program 1,590,349  1,590,349  
+Loan loss reserves 168,535  171,715  
+LIFT downpayment assistance program 45,576  157,031  
+Housing and Community Development 234,524  —  
+$ 15,105,729  16,294,879  
+ 
+===== PAGE 38 =====
+I-36 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+(11) Long-Term Debt 
+Balances at September 30, 2023 and 2022 are as follows: 
+2023 2022
+Community Loan Fund:
+Various notes payable (a) $ 75,743,908  83,947,040  
+Credit facility (b) 42,929,838  44,287,771  
+Equity equivalent investment (c) 15,500,000  15,500,000  
+Proprietary Managed Assets – notes payable (d) 191,000  191,000  
+CAPC:
+Credit facility (e) 21,706,288  25,878,475  
+Equity equivalent investment (f) 1,500,000  1,500,000  
+Other loans (g) 15,751,632  17,530,623  
+NMTC related loans (h) 19,460,000  11,700,000  
+Lending Partners:
+Credit facility (i) 12,197,207  9,415,627  
+Equity equivalent investment (j) 1,000,000  1,000,000  
+NCC Mortgage Holdings (k) 652,710  947,716  
+Total long-term debt 206,632,583  211,898,252  
+Current portion of long-term debt 38,477,225  35,458,903  
+Long-term debt, net of current portion $ 168,155,358  176,439,349  
+ 
+(a) Notes payable of the Community Loan Fund division  represent loans by approximately 59 individuals, 
+religious organizations, foundations, units of government and financial institutions in principal amounts 
+ranging from $500 to $7,500,000. These notes bear interest at rates ranging up to 5.00%, payable at 
+varying maturities of one to ten years through 2041. The notes are unsecured. 
+These loan agreements are subject to financial covenant clauses that the Organization is required to 
+meet. The Organization did not meet a certain financial covenant under one of its loan agreements; 
+however, on September 30, 2022, the Organization received a waiver of the financial covenant from 
+the lender, which waiver is effective from such date through October 1, 2024. The outstanding balance 
+is presented as a noncurrent liability at September 30, 2023 and 2022. 
+(b) Community Loan Fund had a $5,000,000 credit facility from an insurance company to support its 
+lending activities. On September 28, 2015, NJCC closed on a $28,000,000 bond program as part of the 
+US Treasury CDFI Bond Guarantee Program that has an outstanding balance of $24,124,910 at 
+September 30, 2023. These funds will mature on March 15, 2045 with an interest rates ranging from 
+1.31% to 3.60%. Also, on November 4, 2019, NJCC closed on a $25,000,000 bond program as part of 
+the US Treasury CDFI Bond Guarantee Program that has an outstanding balance of $17,029,464 at 
+September 30, 2023. These funds will mature on March 15, 2049 with an interest rates ranging from 
+===== PAGE 39 =====
+I-37 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+2.02% to 3.73%. This program is designed to provide CDFIs with long term fixed rate affordable capital 
+they need to spur development in low income and under resourced communities. The Supportive 
+Housing Fund Grant which has an interest rate of 5.50% has a balance of $1,775,464 at 
+September 30, 2023. 
+These loan agreements are subject to financial covenant clauses that the Organization is required to 
+meet. The Organization did not meet a certain financial covenant under the loan agreements with 
+Opportunity Finance Network (OFN) under the US Treasury CDFI Bond Guarantee Program; however, 
+on September 30, 2022, OFN agreed to permanently waive such financial covenant effective from such 
+date. The outstanding balance is presented as a noncurrent liability at September 30, 2022 and 2023. 
+(c) The Community Loan Fund division has an aggregate  of $15,500,000 of equity equivalent investments 
+at September 30, 2023. $500,000 of the equity equivalent investments will mature on June 2024 with a 
+rate of 1.25%, $5,000,000 will mature on August 2025 with a rate of 3.50%, $2,000,000 will mature on 
+June 2026 with a rate of 2.50%, $1,500,000 will mature on June 2029 with a date of 3.00%, $3,000,000 
+will mature on June 2030 with a rate of 2.00% and $2,000,000 will mature on May 2030 with a rate of 
+0.00% until May 2024. A $3,000,000 equity equivalent investment with a rate of 3.50% that matures on 
+December 2029 was allocated between CLFNJ and CAPC with each entity receiving $1,500,000. The 
+equity equivalent investments are subordinated and junior in right of payment to all other obligations of 
+CLFNJ. 
+(d) Notes payable of the NPF division represent reco verable grants from financial institutions. These 
+consist of $41,000 in noninterest bearing notes and $150,000 in interest bearing notes with a rate of 
+2.00%. They have stated maturities from October 31, 2023 to fiscal year 2024. The notes are 
+unsecured. 
+(e) CAPC has an aggregate of $21,706,288 in credit fac ilities, with interest rate ranging from 3.75% to 
+9.00% to support its activities. Maturities vary from October 2023 to January 2051. These notes are 
+secured by properties purchased by CAPC. 
+(f) A $3,000,000 equity equivalent investment with a rate of 3.50% that matures on December 2029 was 
+allocated between CLFNJ and CAPC with each entity receiving $1,500,000. 
+(g) CAPC has various other loans from financial institutions and individuals bearing interest rates up to 
+8.00%. These loans have maturity dates ranging from December 2023 to November 2039 and are 
+secured by properties financed. 
+(h) In September 2018 CAPC participated in a New Ma rkets Tax Credit Program to provide funds for 
+investment in qualified low-income investments. This program required the creation of HPN Leverage 
+IV, LLC (HPN). As a result, CAPC borrowed $7,847,300 from a Community Development Financial 
+Institution to finance a portion of its investment in HPN. Principal payments in the amount of 
+$1,356,884 were made in 2019. This financing matured August 2, 2020 with a floating rate of interest 
+equal to the 30-day LIBOR rate plus a spread of five hundred twenty five basis points. Additionally, 
+CAPC secured a 20-year loan in the amount of $11,700,000 payable to a Community Development 
+Entity. This debt requires interest only payments until September 2025 at a rate of 0.70%. The loan 
+===== PAGE 40 =====
+I-38 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+matures in September 2038 and is secured by substantially all the assets acquired by the Organization 
+from the project loan proceeds. In April 2023 CAPC participated in a New Markets Tax Credit Program 
+to provide funds for investment in qualified low-income investments. This program required the creation 
+of HPN Leverage VIII, LLC (HPN). As a result, CAPC borrowed $3,570,000 from a Community 
+Development Financial Institution to finance a portion of its investment in HPN. Principal payments in 
+the amount of $650,000 were made in 2023. This financing matures April 2026 with a fixed rate of 
+6.50%.  Additionally, CAPC secured a 20-year loan in the amount of $7,760,000 payable to a 
+Community Development Entity. This debt requires interest only payments until May 2030 at a rate of 
+0.71%. The loan matures in April 2043 and is secured by substantially all the assets acquired by the 
+Organization from the project loan proceeds. 
+(i) Lending Partners has an aggregate $16,500,000 of fixed rate credit facility which expired on April 30, 
+2018. The rates range from 3.25% to 8.33%. Individual notes underlying the credit facility mature at 
+various times through April 2028 and the amount outstanding at September 30, 2023 is $12,197,207. 
+(j) Lending Partners has an aggregate $1,000,000 of equity  equivalent investments. The equity equivalent 
+investments, evidenced by notes, have a stated maturity of ten years; however, upon the stated 
+maturity the term shall automatically be extended for a period of one additional year, and thereafter 
+each such extended maturity date shall automatically be extended for one additional year, unless the 
+investor exercises its right to cancel the automatic maturity extension provisions of the investment. The 
+equity equivalent investments are subordinate and junior in right of payment to all other obligations of 
+Lending Partners. The equity equivalent investments are unsecured and will mature on June 30, 2025 
+with a rate of 3.00%. 
+(k) NCC Mortgage Holdings has $652,710 in loans outs tanding at September 30, 2023, with installment 
+payments due on April 2024 with interest rate ranging from 5.42% to 5.75%. 
+Aggregate maturities of the Organization’s long-term debt payments during the next five (5) years ending 
+September 30 and thereafter are as follows: 
+Community Lending Mortgage
+loan fund CAPC partners holdings Total
+2024 $ 31,011,491  4,766,063  2,046,961  652,710  38,477,225  
+2025 20,859,071  1,002,237  2,373,429  —  24,234,737  
+2026 18,615,603  3,717,461  2,648,025  —  24,981,089  
+2027 6,173,215  3,076,388  117,825  —  9,367,428  
+2028 1,625,954  787,405  6,010,967  —  8,424,326  
+Thereafter 56,079,412  45,068,366  —  —  101,147,778  
+$ 134,364,746  58,417,920  13,197,207  652,710  206,632,583  
+ 
+===== PAGE 41 =====
+I-39 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+  (Continued) 
+(12) Net Assets with Donor Restrictions 
+Net Assets with Donor Restrictions are available for the following purposes at September 30, 2023 and 
+2022: 
+2023 2022
+Credit enhancements from USDOE grant $ 17,155,597  17,227,492  
+Camden county businesses involved in energy efficiency
+improvements 500,000  500,000  
+Loan loss reserves 550,000  550,000  
+South Jersey economic initiative 63,537  373,103  
+Goldman Sachs supportive housing initiative 2,403,742  4,222,663  
+East Trenton Collaborative 2,822,138  2,543,577  
+Garden State Relief Fund – THRIVE 245,205  263,702  
+Capital Magnet Fund 4,802,924  5,997,500  
+Equitable Recovery Program 4,957,678  —  
+Foreclosure Mitigation 79,735  1,805,000  
+Equitable Small Business Initiative 1,471,721  1,627,961  
+Rapid Response Program —  620,713  
+East Trenton Public Library restoration 1,582,844  2,259,306  
+Modification of nonperforming loans and reintroduction of REO
+properties 210,000  210,000  
+Downpayment assistance program 455,380  —  
+Healthy Foods Financing Initiative 129,870  456,203  
+Downtown Newark Revitalization 141,359  148,210  
+Other 122,191  326,172  
+$ 37,693,921  39,131,602  
+ 
+(13) Financial Assets and Liquidity Resources 
+The Organization monitors the availability of resources required to meet its operating needs and other 
+contractual commitments, while striving to maximize the investment of its available funds. For purposes of 
+analyzing resources available to meet general expenditures over a 12-month period, the Organization 
+considers all expenditures related to its ongoing mission-related activities, as well as the conduct of 
+services undertaken to support those activities, to be general expenditures. 
+===== PAGE 42 =====
+I-40
+COMMUNI
+TY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+(Continued)
+As of Septem
+ber 30, 2023 and 2022, the following financial assets could be made readily available within 
+one year of the consolidated statement of financial position date to meet general expenditures: 
+2023 2022
+Cash and cash equivalents $ 35,561,821 52,499,393
+Investments 12,590,833  14,302,650
+Payments on loans receivable 24,911,306 23,818,886
+Total financial assets and liquidity resources available to
+meet cash needs for general expenditures within one year $ 73,063,960 90,620,929
+In addition to the financi
+al assets noted above, the Organization operates with a balanced budget and 
+anticipates collecting sufficient revenues and loan payments to cover general expenditures not covered by 
+net assets with donor restrictions. Refer to the statement of cash flows which identifies the sources and 
+uses of the Organization’s cash. 
+(14) Function
+al Expenses
+The costs of providing program services and support services of the Organization have been summarized
+on a functio
+nal basis in the consolidated statement of activities. The following chart shows the relationship
+betwe
+en the functional and natural classifications of expenses. Certain operating costs have been allocated
+among the functional categories as disclosed in note 2(q).
+===== PAGE 43 =====
+I-41
+COMMUNI
+TY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+ 
+ (Continued)
+Expen
+ses by natural classification for the year ended September 30, 2023 consist of the following: 
+Program services Supporting services
+Community
+Community Lending Community
+Loan Fund of Partners of Asset
+New Jersey, New Jersey, Preservation Management Total
+Inc. Inc. Corporation Total and general Fundraising Total expenses
+Salaries and benefits $ 3,932,255 142,981  3,780,401  7,855,637  1,046,481 546,146  1,592,627  9,448,264
+Depreciation and amortization 247,484 —  1,385,508  1,632,992 75,866 34,373 110,239  1,743,231
+Insurance 136,430 — 5
+2,256  188,686 34
+,635 18
+,949 53
+,584  242,270
+Occupancy 606,135 — 93,671  699,806  152,480 84,185  236,665  936,471
+Office supplies 490,606 (375) 86,984  577,215  123,464 68,140  191,604  768,819
+Professional development 72,847 — 2
+6,665 9
+9,512 18
+,481 10
+,118 28
+,599  128,111
+Professional fees 2,602,321 14,955  1,117,124  3,734,400  212,598  115,216  327,814  4,062,214
+Publicity 37,119 — 2,485 3
+9,604 6,589 14
+,512 21
+,101 6
+0,705
+Loan servicing and commitment fees 47,831 — 230,034 277,865 12,841 6,643 19,484 297,349
+Grants expense 2,185,723 —  40,000  2,225,723 — — —
+ 2,225,723
+Rental expenses 40,624 —  4,714,524  4,755,148 57,777 5,642 63,419  4,818,567
+Property held for sale holding costs 272,026 — — 272,026 — — — 272,026
+Travel-site visits 20,139 —  31,487  51,626 — — —
+ 51,626
+Other 98,185 — 6
+3,656  161,841 21
+,501 11
+,656 33
+,157  194,998
+Total operating expenses 10,789,725 157,561  11,624,795  22,572,081 1,762,713 915,580 2,678,293  25,250,374
+Interest expense 4,210,775  762,522  (311,009) 4,662,288 — — —
+ 4,662,288
+Provision for loan losses 2,280,015  502,510 —  2,782,525 — — —
+ 2,782,525
+Total other expenses 6,490,790  1,265,032  (311,009) 7,444,813 — — —
+ 7,444,813
+Total expenses $ 17,280,515 1,422,593  11,313,786  30,016,894 1,762,713 915,580 2,678,293  32,695,187
+===== PAGE 44 =====
+I-42 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+     (Continued) 
+Expenses by natural classification for the year ended September 30, 2022 consist of the following: 
+Program services Supporting services
+Community
+Community Lending Community
+Loan F und of Partners of Asset
+N ew Jersey, N ew Jersey, Preservation Management Total
+Inc. Inc. Corporation Total and general Fundraising Total expenses
+Salaries and benefits $ 3,864,145  167,685  2,650,936  6,682,766  1,129,596  740,489  1,870,085  8,552,851  
+Depreciation and amortization 32,820  —  1,205,626  1,238,446  87,350  45,293  132,643  1,371,089  
+Insurance 105,688  —  46,681  152,369  28,383  19,402  47,785  200,154  
+Occupancy 231,534  — 65,145 296,679  5 9,733  41,280  101,013  397,692  
+O ffice supplies 268,401  1,778  7 6,726  346,905 69,638  47,893  117,531  464,436  
+Professional development 31,614  — 15,211  46,825 8,573  5, 845 14,418  61,243  
+Professional fees 1,992,041  17,235 1,302,799  3,312,075  184,472  121,532  306,004  3,618,079  
+Publicity 31,065 — 3,578  34,643  5, 698  13,356  19,054  5 3,697 
+Loan servicing and commitment fees 69,788  —  360,459  430,247  23,503  15,192  38,695  468,942  
+Grants expense 736,524  —  25,000  761,524  —  —  —  761,524  
+Rental expenses 57,708  —  4,932,595  4,990,303  339,043  172,366  511,409  5,501,712  
+Property held for sale holding costs 129,537 — — 129,537 — — — 129,537 
+Travel-site visits 15,239  — 27,952  43,191  — — — 43,191  
+Other 55, 271  47 30,606  85,924  14,029  9,654  23,683  109,607 
+Total operating expenses 7,621,375  186,745  10,743,314  18,551,434  1,950,018  1,232,302  3,182,320  21,733,754  
+Interest expense 3,569,576  679,848  (407,955) 3,841,469  —  —  —  3,841,469  
+Provision for loan losses 784,605  (591,635) —  192,970  —  —  —  192,970  
+Total other expenses 4,354,181  88,213  (407,955) 4,034,439  —  —  —  4,034,439  
+Total expenses $ 11,975,556  274,958  10,335,359  22,585,873  1,950,018  1,232,302  3,182,320  25,768,193  
+ 
+===== PAGE 45 =====
+I-43
+COMMUNI
+TY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+(Continued)
+(
+15) L
+eases
+The Organi
+zation is committed to minimum annual rent payments under a long-term non-cancellable
+operating lea
+ses for office space through fiscal year 2033. Operating leases with lease terms greater than
+one year a
+re reported as operating lease right-of-use assets and operating lease liabilities in the
+con
+solidated statement of financial position.
+The table bel
+ow presents a maturity analysis of operating lease liabilities and a reconciliation of the total
+amount of su
+ch liabilities in the consolidated statement of financial position as of September 30, 2023:
+Year ending September 30:
+2024 $ 697,207
+2025 680,167
+2026 674,295
+2027 687,167
+2028 697,388
+Thereafter 3,324,353
+Total 6,760,577
+Less: discount for present value (1,113,802) 
+Operating lease liability $ 5,646,775
+Other information:
+Cash paid for amounts included in measurement of lease liabilities:
+Operating cash flows for operating leases $ 277,502
+Weighted-average remaining lease term 9.4 years
+Weighted-average discount rate 3.84 %
+Total rental expense under noncancelable operating leases for fiscal year 2023 was $695,575.
+(16
+) Commitments and Contingencies
+(a) Contingent 
+Liabilities for Charter Fund
+At September 30, 2023 an
+d 2022, the Organization has $547,766 and $315,081, respectively, of
+contin
+gent guarantees outstanding for the benefit of three (3) charter school transactions, respectively,
+funded b
+y unrelated lenders. The guarantees will expire at various dates through 2046.
+===== PAGE 46 =====
+I-44
+COMMUNI
+TY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+(Continued)
+(b) Co
+mmitments
+In the normal course of business, the Organization has various outstanding commitments that are not
+reflecte
+d in the accompanying consolidated financial statements. At September 30, 2023 and 2022, the
+prin
+cipal commitments of the Organization are as follows:
+2023 2022
+Financings committed but not yet closed:
+Community Loan Fund $ 26,626,587 26,538,996
+$ 26,626,587  26,538,996
+Financings closed but not yet funded:
+Community Loan Fund $ 37,542,882 24,965,119
+Neighborhood Prosperity Fund 1,000,000 450,597
+Lending Partners 892,865 700,000
+$ 39,435,747  26,115,716
+(17
+) Conc
+entrations
+Financial instruments that potentially subject the Organization to credit risk include loans receivable
+amountin
+g to $133,918,997 and $106,883,096 at September 30, 2023 and 2022, respectively. As of
+Septembe
+r 30, 2023 and 2022, $88,568,779 and $54,582,760, respectively, of the Organization’s loans
+were to nonp
+rofits, representing approximately 58.82% and 51.00%, respectively, of the loans receivable
+repo
+rted in the consolidated statements of financial position. One hundred percent of the Organization’s
+outstan
+ding loans receivable are to entities located in the State of New Jersey.
+The Organization maintains cash balances at several financial institutions. Accounts at each institution are
+insu
+red by the Federal Deposit Insurance Corporation up to $250,000. In 2023 and 2022, the
+Organization’s cash balances exceeded the insured amounts. Management monitors the financial strength
+of the financi
+al institutions.
+(18
+) Related Party Transactions
+As of September 30, 2023, and 2022, the Organization had notes payable to various employees or current
+membe
+rs of the board of directors totaling $51,210 and $74,570, respectively. Interest of $1,028 and
+$1,615 
+was paid to these individuals. Contributions were made to the Organization by various employees
+or cu
+rrent members of the board of directors in the amount of and $2,452 and $5,800 during the years
+ende
+d September 30, 2023, and 2022, respectively.
+===== PAGE 47 =====
+I-45
+COMMUNI
+TY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Consolidated Financial Statements 
+September 30, 2023 and 2022 
+(19) Employee Benefit Plans
+The Organization sponsors a qualified 401(k) profit sharing plan for all eligible employees. The plan allows
+eligible em
+ployees to elect to defer a portion of their annual compensation and have those amounts
+contri
+buted to the plan. Among other things, the plan provides for (a) discretionary matching by the
+Orga
+nization of a percentage of employees’ contributions; (b) discretionary employer contributions of a
+percenta
+ge of salary; (c) normal retirement age of 65; and (d) vesting in Organization contributions after
+spe
+cified years of service, as defined in the plan. The Organization’s contributions to the plan reflected in
+the accomp
+anying consolidated statements of activities for the years ended September 30, 2023 and 2022
+was approximately $145,000 and $173,000, respectively.
+(20
+) COVID
+-19
+On March 11, 2020, the World Health Organization declared the COVID-19 outbreak a public health
+emergen
+cy. In response, various governmental agencies mandated stringent regulations and guidelines to
+help organi
+zations promote the health and safety of their communities. In connection with this event and
+rest
+rictions by state and local governments, the Organization successfully transitioned most operations and
+related staff to remote working environments. The Organization focused its efforts on providing support to
+the families a
+nd organizations it currently serves by providing $363,800 in loan payment deferrals to 62
+borro
+wers and approximately $402,000 in rent deferrals to 67 families. Additionally, renovations of several
+prop
+erties were delayed, resulting in loss of rental income.
+The Organi
+zation also established the Garden State Relief Fund (GSRF) to provide immediate, low cost
+loan
+s with deferred payment options to small businesses experiencing decreased income as a result of
+COVID-19 re
+strictions. As of September 30, 2022, loans totaling $2,076,014 were disbursed through
+GSRF. No n
+ew loans were issued in 2023.
+The Unite
+d States Congress passed the Coronavirus Aid, Relief, and Economic Security (CARES) Act on
+March 27, 20
+20. Recognizing that the Organization’s response to COVID-19 would negatively impact
+incom
+e available for operating expenses, the Organization applied for and received a $1,391,332 loan
+under the Paycheck Protection Program (PPP). This loan i
+s included in long-term debt in the Organization’s
+con
+solidated statement of financial position as of September 30, 2020. The Organization applied for
+forgiveness on the PPP loan in August 2021. On May 
+16, 2022, the U.S. Small Business Administration
+granted the Organi
+zation full forgiveness on its PPP loan.
+(21
+) Subsequ
+ent Events
+The Organization has evaluated events subsequent to September 30, 2023 and through the date of
+Jan
+uary 26, 2024 which is the date the consolidated financial statements were available to be issued. The
+Orga
+nization has determined that there are no subsequent events which require disclosure in the
+con
+solidated financial statements.
+===== PAGE 48 =====
+I-46
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. AND
+SUBSIDIARIES
+Schedule of Expenditures of Federal Awards
+Year ended September 30, 2023
+Federal Pass-through
+assistance entity grant Current year
+Grantor/pass-through grantor/program title listing number number expenditures
+U.S. Department of Housing and Urban Development (HUD):
+Passed through County of Union assignment from Interfaith Council for the Homeless of Union County:
+HOME Investments Partnerships Program 14.239  M-02-DC-34-0222; M-13-DC-34-0222 $ 772,788  
+HOME Investments Partnerships Program 14.239  M-04-DC-34-0222; M-05-DC-34-0222 225,945  
+HOME Investments Partnerships Program 14.239  M-05-DC-34-0222; M-08-DC-34-0222; M-09-DC-34-0222 534,779  
+HOME Investments Partnerships Program 14.239  M-07-DC-34-0222 350,000  
+HOME Investments Partnerships Program 14.239  M-09-DC-34-0222 227,903  
+HOME Investments Partnerships Program 14.239  M-10-DC-34-0222 97,000  
+HOME Investments Partnerships Program 14.239  M-12-DC-34-0222 229,846  
+HOME Investments Partnerships Program 14.239  M-99-DC-34-0222 216,950  
+HOME Investments Partnerships Program 14.239  98-2950-00 285,200  
+Total passed through County of Union assignment from Interfaith Council for the Homeless of Union County 2,940,411  
+Passed through City of Elizabeth:
+HOME Investment Partnerships Program 14.239  RHP-L48 400,000  
+Passed through County of Hudson:
+HOME Investment Partnerships Program 14.239  2248-2017 131,226  
+Total Home Investment Partnerships Program (14.239) (note 3) 3,471,637  
+Passed through Start Easy Eagle Development (SEED):
+Continuum of Care Program 14.267  NJ0220B040900 108,885  
+Passed through New Jersey Department of Community Affairs:
+Hurricane Sandy Community Development Block Grant – Disaster Recovery Grants:
+Neighborhood Enhancement Program 14.269  2015-02325-0287-00 29,686  
+Neighborhood Enhancement Program 14.269  2015-02325-0289-00 185,639  
+Total Hurricane Sandy Community Development Block Grant – Disaster Recovery Grants (14.269) 215,325  
+Total HUD 3,795,847  
+U.S. Department of Treasury:
+FY 2019 Capital Magnet Fund 21.011  351,102  
+FY 2021 Capital Magnet Fund 21.011  819,576  
+Total Capital Magnet Fund (21.011) 1,170,678  
+Passed through Opportunity Finance Network:
+Community Development Financial Institutions Bond Guarantee Program 21.014  15-2-BG-012323 23,878,002  
+Community Development Financial Institutions Bond Guarantee Program 21.014  19-BGA-00003 18,108,564  
+Total Community Development Financial Institutions Bond Guarantee Program (21.014) (note 3) 41,986,566  
+Community Development Financial Institutions Program 21.020  45,130  
+Community Development Financial Institutions Rapid Response Program 21.024  920,074  
+NeighborWorks America (P.L. 115-31) 21.UNK 563,750  
+Total U.S. Department of Treasury 44,686,198  
+U.S. Department of Energy:
+Passed through City of Camden:
+Energy Efficiency and Conservation Block Grant Program – ARRA (note 3) 81.128  1-11-111 119,581  
+Total U.S. Department of Energy 119,581  
+U.S. Department of Education:
+Credit Enhancement for Charter School Facilities 84.354A 9,014,072  
+Credit Enhancement for Charter School Facilities 84.354A 8,141,525  
+Total Credit Enhancement for Charter School Facilities (84.354A) (notes 2 and 3) 17,155,597  
+Total U.S. Department of Education 17,155,597  
+Total expenditures of Federal awards $ 65,757,223  
+See accompanying notes to schedules of expenditures of Federal and State of New Jersey awards.
+===== PAGE 49 =====
+I-47
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. AND
+SUBSIDIARIES
+Schedule of Expenditures of State of New Jersey Awards
+Year ended September 30, 2023
+Pass-through
+Grant grant Award Grant Pass-through to Current year
+Grantor/program title number number amount period Subrecipients expenditures
+New Jersey Economic Development Authority:
+South Jersey Economic Initiative (note 3) P40172 —  $ 1,000,000  September 2015 – December 2025 $ —  993,612  
+CDFI Emergency Assistance Grant Program (note 3) PROD-00188102 —  1,500,000  March 2021 – June 2041 —  1,500,000  
+Total New Jersey Economic Development Authority 2,500,000  —  2,493,612  
+New Jersey Housing and Mortgage Finance Agency:
+Homes for Success IV (note 3) HMFA 2539/ SNHTF #211 —  729,254  March 2010 – May 2040 —  729,254  
+Mountain Central Homes (note 3) HMFA 02643/ SNHTF #257 —  1,159,172  February 2011 – February 2041 —  1,159,172  
+Cranford Benjamin Homes (note 3) HMFA 02931/ SSNHTF #37 —  664,433  July 2014 – July 2044 —  664,433  
+2,552,859  —  2,552,859  
+New Jersey Historic Trust:
+East Trenton Public Library 2019.2066 —  750,000  January 2020 – January 2025 —  191,025  
+750,000  —  191,025  
+New Jersey Department of Community Affairs:
+Passed through Catholic Charities, Diocese of Metuchen:
+Neighborhood Revitalization Tax Credit Program – Unity Square Neighborhood 2017-02240-0288-00 2017-02240-0288-00 240,000  October 2020 – March 2023 —  140,000  
+Balanced Housing Neighborhood Preservation Program 2018 2018-02352-0311-00 —  612,800  April 2023 – May 2023 —  324,276  
+Neighborhood Revitalization Tax Credit Project – East Trenton Collaborative:
+Neighborhood Revitalization Tax Credit Project 20 2020-02240-0266-00 —  720,000  March 2020 – April 2023 64,037  64,037  
+Neighborhood Revitalization Tax Credit Project 21 2021-02240-0180-00 —  985,000  March 2021 – September 2023 234,665  299,047  
+Neighborhood Revitalization Tax Credit Project 22 2022-02240-0267-00 —  985,000  March 2022 – July 2023 221,408  340,545  
+Total Neighborhood Revitalization Tax Credit Project 2,690,000  520,110  703,629  
+Passed through City of Trenton:
+Advance Agreement for Phase One of the East Trenton
+Library Community Center Rehabilitation Project (match portion) Resolution No. 21-569 Not provided 750,000  None —  448,562  
+Community Capital Needs 2022 2022-05231-0437-00 —  928,863  June 2022 – May 2024 —  14,718  
+Foreclosure Mitigation:
+Foreclosure Mitigation 2022 2022-05219-0028-00 —  3,000,000  July 2021 – June 2023 —  1,523,168  
+Foreclosure Mitigation 2023 2023-05219-0074-00 —  3,000,000  July 2022 – June 2023 594,000  2,965,761  
+Total Foreclosure Mitigation 6,000,000  594,000  4,488,929  
+Total New Jersey Department of Community Affairs $ 11,221,663  $ 1,114,110  6,120,114  
+Total expenditures of State of New Jersey awards $ 11,357,610  
+See accompanying notes to schedules of expenditures of Federal and State of New Jersey awards.
+===== PAGE 50 =====
+I-48 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Schedules of Expenditures of Federal and State of New Jersey Awards 
+Year ended September 30, 2023 
+(Continued) 
+(1) Basis of Presentation 
+The accompanying schedules of expenditures of Federal and State of New Jersey awards include the 
+Federal and State of New Jersey grant activity of the Community Loan Fund of New Jer sey, Inc. and 
+Subsidiaries (the Organization) and is presented on the accrual basis. The information in these schedules 
+is presented in accordance with the requirements of Title 2 U.S. Code of Federal Regulations Part 200, 
+Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards 
+(Federal Uniform Guidance) and New Jersey Office of Management and Budget Circular 15-08, Single 
+Audit Policy for Recipients of Federal Grants, State Grants and State Aid. Therefore, some amounts 
+presented in this schedule may differ from amounts presented in, or used in the preparation of, the 
+Organization’s 2023 consolidated financial statements. 
+(2) Credit Enhancement for Charter School Facilities 
+The U.S. Department of Education (U.S. DOE) has awarded total grants of $16,150,000 to the 
+Organization to credit enhance the loans made by financial institutions to stimulate the financing of charter 
+schools. The grant funds are to remain invested in separate grant reserve accounts in accordance with the 
+requirements of the grant. Such financial assistance is considered federal awards expended based on the 
+amounts in the reserve accounts at the beginning of the grantee fiscal year; plus any funds drawn dow n 
+plus investment earnings received in the grantee’s fiscal year to add to the reserve account; less any 
+payments resulting from the credit enhancements provided. The reserve account balance as of 
+September 30, 2023 is $17,155,597, consisting of the grant balance of $16,150,000 and accumulated net 
+investment earnings of $1,005,597. 
+As of September 30, 2023, $2,564,311 has been used to credit enhance loans to charter schools and 
+outside organizations and $14,591,286 is available to use as credit enhancements in future years. 
+(3) Loan and Loan Guarantee Programs 
+The Organization is responsible for certain aspects of the following loan and loan guarantee programs. The 
+Organization had the following loan and loan guarantee balances outstanding at September 30, 2023. 
+Federal: 
+Federal
+a ssista nce
+listing Amount
+Program title number outstanding
+HOME Investment Partnerships Program 14.239 $ 3,471,637  
+Community Development Financial Institutions Bond Guarantee Program 21.014 40,304,858  
+Energy Efficiency and Conservation Block Grant Program – ARRA 81.128 119,581  
+Credit Enhancement for Charter School Facilities 84.354A 17,155,597  
+$ 61,051,673  
+ 
+===== PAGE 51 =====
+I-49 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Notes to Schedules of Expenditures of Federal and State of New Jersey Awards  
+Year ended September 30, 2023 
+ 
+State of New Jersey: 
+Amount
+Program title Grant number outstanding
+South Jersey Economic Initiative P40712 $ 993,612  
+CDFI Emergency Assistance Grant Program PROD-00188102 1,000,000  
+Homes for Success IV HMFA 2539/SNHTF #211 729,254  
+Mountain Central Homes HMFA 02643/SNHTF #257 1,159,172  
+Cranford Benjamin Homes HMFA 02931/SNHTF #37 664,433  
+$ 4,546,471  
+ 
+The amounts on the schedule of expenditures of Federal awards and schedule of expenditures of State of 
+New Jersey awards represent the outstanding loan balance as of October  1, 2022 and new loans issued 
+during fiscal year 2023. 
+(4) Indirect Cost Rate 
+During the year ended September 30, 2023, the Organization did not elect to use the 10% de minimis 
+indirect cost rate. The Organization elected to use its negotiated indirect cost rate. 
+(5) Subrecipients 
+The Organization did not pass any Federal funds to subrecipients. State of New Jersey funds were passed 
+to subrecipients as included in the schedule of expenditures of State of New Jersey awards. 
+===== PAGE 52 =====
+II-1 
+ 
+Independent Auditors’ Report on Internal Control Over Financial Reporting and 
+on Compliance and Other Matters Based on an Audit of Financial Statements  
+Performed in Accordance With Government Auditing Standards 
+The Board of Directors 
+Community Loan Fund of New Jersey, Inc. and Subsidiaries: 
+We have audited, in accordance with the auditing standards generally accepted in the United States of America 
+and the standards applicable to financial audits contained in Government Auditing Standards  issued by the 
+Comptroller General of the United States, the consolidated financial statements of Community Loan Fund of 
+New Jersey, Inc. and Subsidiaries (the Organization), which comprise the consolidated statement of financial 
+position as of September 30, 2023, and the related consolidated statements of activities and cash flows for the 
+year ended, and the related notes to the consolidated financial statements, and have issued our report thereon 
+dated January 26, 2024. That report contained an unmodified opinion on those consolidated financial 
+statements with an emphasis of matter paragraph regarding the Organization’s adoption of Accounting 
+Standards Update No. 2016-02, Leases (Topic 842). 
+Report on Internal Control Over Financial Reporting 
+In planning and performing our audit of the consolidated financial statements, we considered the Organization’s 
+internal control over financial reporting (internal control) as a basis for designing audit procedures that are 
+appropriate in the circumstances for the purpose of expressing our opinion on the consolidated financial 
+statements, but not for the purpose of expressing an opinion on the effectiveness of the Organization ’s internal 
+control. Accordingly, we do not express an opinion on the effectiveness of the Organization’ s internal control. 
+A deficiency in internal control exists when the design or operation of a control does not allow management or 
+employees, in the normal course of performing their assigned functions, to prevent, or detect and correct, 
+misstatements on a timely basis. A material weakness is a deficiency, or a combination of deficiencies, in 
+internal control, such that there is a reasonable possibility that a material misstatement of the Organization’ s 
+consolidated financial statements will not be prevented, or detected and c orrected on a timely basis. A 
+significant deficiency is a deficiency, or a combination of deficiencies, in internal control that is less severe than 
+a material weakness, yet important enough to merit attention by those charged with governance.  
+Our consideration of internal control was for the limited purpose described in the first paragraph of this section 
+and was not designed to identify all deficiencies in internal control that might be material weaknesses or 
+significant deficiencies. Given these limitations, during our audit we did not identify any deficiencies in internal 
+control that we consider to be material weaknesses. However, material weaknesses or significant deficiencies 
+may exist that were not identified. 
+Report on Compliance and Other Matters 
+As part of obtaining reasonable assurance about whether the Organization’s consolidated financial statements 
+are free from material misstatement, we performed tests of its compliance with certain provisions of laws, 
+regulations, contracts, and grant agreements, noncompliance with which could have a direct and material effect 
+on the financial statements. However, providing an opinion on compliance with those provisions was not an 
+objective of our audit, and accordingly, we do not express such an opinion. The results of our tests disclosed no 
+instances of noncompliance or other matters that are required to be reported under Government Auditing 
+Standards. 
+KPMG LLP
+Suite 4000
+150 John F . Kennedy Parkway
+Short Hills, NJ 07078-2702
+KPMG LLP , a Delaware limited liability partnership and a member firm of  
+the KPMG global organization of independent member firms affiliated with  
+KPMG International Limited, a private English company limited by guarantee. 
+===== PAGE 53 =====
+II-2 
+ 
+Purpose of This Report 
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance and 
+the results of that testing, and not to provide an opinion on the effectiveness of the Organization ’s internal 
+control or on compliance. This report is an integral part of an audit performed in accordance with Government 
+Auditing Standards in considering the Organization’s internal control and compliance. Accordingly, this 
+communication is not suitable for any other purpose. 
+ 
+Short Hills, New Jersey 
+January 26, 2024 
+
+===== PAGE 54 =====
+II-3 
+ 
+Independent Auditors’ Report on Compliance for Each Major Federal and State of New Jersey Program; 
+Report on Internal Control Over Compliance; and Report on Schedule of Expenditures of Federal 
+Awards Required by the Uniform Guidance and Schedule of Expenditures of State of New  Jersey 
+Awards Required by New Jersey OMB Circular 15-08 
+The Board of Directors 
+Community Loan Fund of New Jersey, Inc. and Subsidiaries: 
+Report on Compliance for Each Major Federal and State of New Jersey Program  
+Qualified and Unmodified Opinions on Each Major Federal and State of New Jersey Program 
+We have audited Community Loan Fund of New Jersey, Inc. and Subsidiaries’ (the Organization) compliance 
+with the types of compliance requirements identified as subject to audit in the OMB Compliance Supplement 
+and the New Jersey OMB State Grant Compliance Supplement that could have a direct and material effect on 
+each of the Organization’s major Federal and State of New Jersey programs for the year ended September 30, 
+2023. The Organization’s major Federal and State of New Jersey programs are identified in the summary of 
+auditors’ results section of the accompanying schedule of findings and questioned costs.  
+Qualified Opinion on State of New Jersey Program Foreclosure Mitigation 
+In our opinion, except for the noncompliance described in the Basis for Qualified and Unmodified Opinions 
+section of our report, the Organization complied, in all material respects, with the compliance requirements 
+referred to above that could have a direct and material effect on the State of New Jersey Program Foreclosure 
+Mitigation for the year ended September 30, 2023. 
+Unmodified Opinion on Each Major Federal and Other State of New Jersey Programs 
+In our opinion, the Organization complied, in all material respects, with the compliance requirements referred to 
+above that could have a direct and material effect on its major federal program and other State of New Jersey 
+program identified in the summary of auditors’ results section of the accompanying schedule of findings and 
+questioned costs for the year ended September 30, 2023. 
+Basis for Qualified and Unmodified Opinions 
+We conducted our audit of compliance in accordance with auditing standards generally accepted in the United 
+States of America (GAAS); the standards applicable to financial audits contained in Government Auditing 
+Standards issued by the Comptroller General of the United States; the audit requirements of Title 2 U.S. Code 
+of Federal Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit 
+Requirements for Federal Awards (Uniform Guidance); and the audit requirements of New Jersey OMB Circular 
+15-08, Single Audit Policy for Recipients of Federal Grants, State Grants and State Aid (New Jersey OMB 
+Circular 15-08). Our responsibilities under those standards, Uniform Guidance and the New Jersey OMB 
+Circular 15-08 are further described in the Auditor’s Responsibilities for the Audit of Compliance section of our 
+report. 
+We are required to be independent of the Organization and to meet our other ethical responsibilities, in 
+accordance with relevant ethical requirements relating to our audit. We believe that the audit evidence we have 
+obtained is sufficient and appropriate to provide a basis for our qualified and unmodified opinions on 
+compliance for each major Federal and State of New Jersey program. Our audit does not provide a legal 
+determination of the Organization’s compliance with the compliance requirements referred to above. 
+KPMG LLP
+Suite 4000
+150 John F . Kennedy Parkway
+Short Hills, NJ 07078-2702
+KPMG LLP , a Delaware limited liability partnership and a member firm of  
+the KPMG global organization of independent member firms affiliated with  
+KPMG International Limited, a private English company limited by guarantee. 
+===== PAGE 55 =====
+II-4 
+ 
+Matters Giving Rise to Qualified Opinion on State of New Jersey Program Foreclosure Mitigation 
+As described in the accompanying schedule of findings and questioned costs, the Organization did not comply 
+with requirements regarding allowability and reporting for the State of New Jersey Program Foreclosure 
+Mitigation as described in finding number 2023-002. Compliance with such requirements is necessary, in our 
+opinion, for the Organization to comply with the requirements applicable to that program.  
+Responsibilities of Management for Compliance 
+Management is responsible for compliance with the requirements referred to above and for the design, 
+implementation, and maintenance of effective internal control over compliance with the requirements of laws, 
+statutes, regulations, rules and provisions of contracts or grant agreements applicable to the Organization’s 
+Federal and State of New Jersey programs. 
+Auditor’s Responsibilities for the Audit of Compliance 
+Our objectives are to obtain reasonable assurance about whether material noncompliance with the compliance 
+requirements referred to above occurred, whether due to fraud or error, and express an opinion on the 
+Organization’s compliance based on our audit. Reasonable assurance is a high level of assurance but is not 
+absolute assurance and therefore is not a guarantee that an audit conducted in accordance with 
+GAAS, Government Auditing Standards, Uniform Guidance, and the New Jersey OMB Circular 15-08 will 
+always detect material noncompliance when it exists. The risk of not detecting material noncompliance resulting 
+from fraud is higher than for that resulting from error, as fraud may involve collusion, forgery, intentional 
+omissions, misrepresentations, or the override of internal control. Noncompliance with the compliance 
+requirements referred to above is considered material, if there is a substantial likelihood that, individually or in 
+the aggregate, it would influence the judgment made by a reasonable user of the report on compliance about 
+the Organization’s compliance with the requirements of each major Federal or State of New Jersey program as 
+a whole. 
+In per
+forming an audit in accordance with GAAS, Government Auditing Standards, Uniform Guidance, and the 
+New Jersey OMB Circular 15-08, we: 
+• E xercise professional judgment and maintain professional skepticism throughout the audit. 
+• I dentify and assess the risks of material noncompliance, whether due to fraud or error, and design and 
+perform audit procedures responsive to those risks. Such procedures include examining, on a test basis, 
+evidence regarding the Organization’s compliance with the compliance requirements referred to above and 
+performing such other procedures as we considered necessary in the circumstances. 
+• O btain an understanding of the Organization’s internal control over compliance relevant to the audit in 
+order to design audit procedures that are appropriate in the circumstances and to test and report on 
+internal control over compliance in accordance with the Uniform Guidance and New Jersey OMB 
+Circular 15-08, but not for the purpose of expressing an opinion on the effectiveness of the Organization’s 
+internal control over compliance. Accordingly, no such opinion is expressed. 
+We are required to communicate with those charged with governance regarding, among other matters, the 
+planned scope and timing of the audit and any significant deficiencies and material weaknesses in internal 
+control over compliance that we identified during the audit. 
+Other Matters 
+The results of our auditing procedures disclosed an instance of noncompliance which is required to be reported 
+in accordance with the Uniform Guidance and which is described in the accompanying schedule of findings and 
+questioned costs as item 2023-001 (Federal program). Our opinion on the major federal program is not 
+modified with respect to this matter. 
+
+===== PAGE 56 =====
+II-5 
+ 
+Government Auditing Standards requires the auditor to perform limited procedures on the Organization’s 
+responses to the noncompliance findings identified in our compliance audit described in the accompanying 
+schedule of findings and questioned costs. The Organization is also responsible for preparing a corrective 
+action plan to address each audit finding included in our auditors’ report. The Organization’s responses and 
+corrective action plan were not subjected to the other auditing procedures applied in the audit of compliance 
+and, accordingly, we express no opinion on the responses or the corrective action plan. 
+Report on Internal Control Over Compliance 
+Our consideration of internal control over compliance was for the limited purpose described in the Auditors ’ 
+Responsibilities for the Audit of Compliance section above and was not designed to identify all deficiencies in 
+internal control over compliance that might be material weaknesses or significant deficiencies in internal control 
+over compliance and therefore, material weaknesses or significant deficiencies may exist that were not 
+identified. However, as discussed below, we did identify certain deficiencies in internal control over compliance 
+that we consider to be material weaknesses and significant deficiencies. 
+A deficiency in internal control over compliance exists when the design or operation of a control over 
+compliance does not allow management or employees, in the normal course of performing their assigned 
+functions, to prevent, or detect and correct, noncompliance with a type of compliance requirement of a federal  
+or State of New Jersey program on a timely basis. A material weakness in internal control over compliance is a 
+deficiency, or a combination of deficiencies, in internal control over compliance, such that there is a reasonable 
+possibility that material noncompliance with a type of compliance requirement of a federal or State of New 
+Jersey program will not be prevented, or detected and corrected, on a timely basis. We consider the deficienc y 
+in internal control over compliance described in the accompanying schedule of findings and questioned costs 
+as item 2023-002 (State of New Jersey program) to be a material weakness. 
+A significant deficiency in internal control over compliance is a deficiency, or a combination of deficiencies, in 
+internal control over compliance with a type of compliance requirement of a federal or State of New Jersey 
+program that is less severe than a material weakness in internal control over compliance, yet important enough 
+to merit attention by those charged with governance. We consider the deficienc y in internal control over 
+compliance described in the accompanying schedule of findings and questioned costs as item 2023- 001 
+(Federal program) to be a significant deficiency. 
+Our audit was not designed for the purpose of expressing an opinion on the effectiveness of internal control 
+over compliance. Accordingly, no such opinion is expressed. 
+Government Auditing Standards requires the auditor to perform limited procedures on the Organization’s 
+responses to the internal control over compliance findings identified in our audit described in the accompanying 
+schedule of findings and questioned costs. The Organization is also responsible for preparing a corrective 
+action plan to address each audit finding included in our auditors’ report. The Organization’s responses and 
+corrective action plan were not subjected to the other auditing procedures applied in the audit of compliance 
+and, accordingly, we express no opinion on the responses or the corrective action plan.  
+The purpose of this report on internal control over compliance is solely to describe the scope of our testing of 
+internal control over compliance and the results of that testing based on the requirements of the Uniform 
+Guidance and New Jersey OMB Circular 15-08. Accordingly, this report is not suitable for any other purpose. 
+
+===== PAGE 57 =====
+II-6 
+ 
+Report on Schedule of Expenditures of Federal Awards Required by the Uniform Guidance and Report 
+on Schedule of Expenditures of State of New Jersey Awards Required by New Jersey OMB 
+Circular 15-08 
+We have audited the consolidated financial statements of the Organization as of and for the years ended 
+September 30, 2023 and 2022, and have issued our report thereon dated January 26, 2024, which contained 
+an unmodified opinion on those consolidated financial statements with an emphasis of matter paragraph 
+regarding the Organization’s adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). Our 
+audit was performed for the purpose of forming an opinion on the consolidated financial statements as a whole. 
+The accompanying schedule of expenditures of federal awards for the year ended September 30, 2023 is 
+presented for purposes of additional analysis as required by the Uniform Guidance and the accompanying 
+schedule of expenditures of State of New Jersey awards for the year ended September 30, 2023 is presented 
+for the purposes of additional analysis as required by New Jersey OMB Circular 15- 08 and are not a required 
+part of the 2023 consolidated financial statements. Such information is the responsibility of management and 
+was derived from and relates directly to the underlying accounting and other records used to prepare the 2023  
+consolidated financial statements. The information has been subjected to the auditing procedures applied in the 
+audit of the 2023 consolidated financial statements and certain additional procedures, including comparing and 
+reconciling such information directly to the underlying accounting and other records used to prepare the 2023 
+consolidated financial statements or to the 2023 consolidated financial statements themselves, and other 
+additional procedures in accordance with GAAS. In our opinion, the schedule of expenditures of federal awards  
+and the schedule of expenditures of State of New Jersey are fairly stated in all material respects in relation to 
+the 2023 consolidated financial statements as a whole. 
+ 
+Short Hills, New Jersey 
+June 24, 2024 
+
+===== PAGE 58 =====
+II-7 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Schedule of Findings and Questioned Costs 
+Year ended September 30, 2023 
+(Continued) 
+(1) Summary of Auditors’ Results 
+(a) Type of report issued on whether the consolidated financial statements were prepared in accordance 
+with generally accepted accounting principles: Unmodified 
+(b) Internal control deficiencies over financial reporting disclosed by the audit of the consolidated financial 
+statements: 
+• Material weaknesses: No 
+• Significant deficiencies: None Reported 
+(c) Noncompliance material to the consolidated financial statements: No 
+(d) Internal control deficiencies over major Federal and State of New Jersey programs disclosed by the 
+audit: 
+• Material weaknesses: Yes (State of New Jersey 2023-002) 
+• Significant deficiencies: Yes (Federal 2023-001) 
+(e) Type of report issued on compliance for major Federal and State of New Jersey programs: 
+Unmodified except for State of New Jersey Program Foreclosure Mitigation which is Qualified 
+(f) Audit findings that are required to be reported in accordance with 2 CFR 200.516(a) or New Jersey 
+OMB Circular 15-08: Yes 
+(g) Major programs: 
+Federal: 
+• U.S. Department of Treasury, Community Development Financial Institutions Bond Guarantee 
+Program (ALN 21.014) 
+State of New Jersey: 
+• New Jersey Housing and Mortgage Finance Agency, Mountain Central Homes  (Grant Number 
+HMFA 02643/ SNHTF #257) 
+• New Jersey Department of Community Affairs, Foreclosure Mitigation (Grant Number s 
+2023-05219-0074-00 and 2022-05219-0028-00) 
+===== PAGE 59 =====
+II-8 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Schedule of Findings and Questioned Costs 
+Year ended September 30, 2023 
+(Continued) 
+(h) The dollar threshold used to distinguish between Type A and Type B Federal and State of New Jersey 
+programs: $750,000. 
+(i) The Organization qualified as a low risk auditee for Federal and State of New Jersey awards for the 
+year ended September 30, 2023. 
+(2) Findings Relating to the Consolidated Financial Statements Reported in Accordance with 
+Government Auditing Standards 
+None 
+(3) Findings and Questioned Costs Relating to Federal and State of New Jersey Awards 
+2023-001 Procurement – Suspension and Debarment 
+U.S. Department of Treasury 
+Community Development Financial Institutions Bond Guarantee Program (ALN 21.014)  
+Statistically Valid Sample: No, and it was not intended to be. 
+Prior Year Finding: Not a repeat finding. 
+Finding Type: Significant deficiency and noncompliance 
+Criteria 
+Prior to entering into subawards and contracts with award funds, recipients must verify that such 
+contractors and subrecipients are not suspended, debarred, or otherwise excluded pursuant to 31 
+CFR section 19.300. 
+Additionally, 2 CFR 200.303 (a) states that non-federal entities must establish and maintain effective 
+internal control over federal awards that provide reasonable assurance that the non- federal entity is 
+managing the federal award in compliance with federal statutes, regulations, and the terms and conditions 
+of the federal award. 
+Condition and Context 
+During our testwork over suspension and debarment, we noted the following as of the year ended 
+September 30, 2023, for 1 of 10 items selected for testwork, we found no evidence that a suspension and 
+debarment independent status search of SAM.gov was performed. However, the entity was able to obtain 
+certification from the recipient through the signed loan agreement that the entity was registered in SAM.gov 
+and in good standing. 
+Cause 
+The Organization did not perform an independent status search of the recipient to ensure that it was not 
+suspended or debarred. 
+===== PAGE 60 =====
+II-9 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Schedule of Findings and Questioned Costs 
+Year ended September 30, 2023 
+(Continued) 
+Effect 
+The funds could be paid to an entity that has been suspended or debarred and costs paid to the entity 
+would be unallowable. 
+Questioned Costs 
+Cannot be determined. 
+Recommendation 
+We recommend that the Organization strengthen its process to ensure that all recipients have independent 
+status search whether they are suspended or debarred prior to entering into a loan agreement. 
+Views of Responsible Officials 
+A process and checklist will be put in place to ensure the independent status search is performed on 
+recipients when a payment is made. The process and checklist will include a verification by someone other 
+than the person preparing the request. 
+2023-002 Allowability and Reporting 
+New Jersey Department of Community Affairs 
+ Foreclosure Mitigation – Grant Number 2023-05219-0074-00 
+Statistically Valid Sample: No, and it was not intended to be. 
+Prior Year Finding: Not a repeat finding. 
+Finding Type: Material Weakness and material noncompliance. 
+Criteria 
+Funds must be expended only for allowable expenditures. In addition, per the grant agreement, a Fiscal 
+Monitoring Report comparing the Recipient’s actual expenditures of the project with the approved Budget 
+included in this Grant/Loan Agreement shall be submitted with each request for payment, except for 
+advance funding, if any. 
+Condition and Context 
+During our testwork over allowability and reporting, we noted expenditures in the amount of $143,885 were 
+claimed and reported in the 2022 and 2023 fiscal monitoring reports. 
+Cause 
+The Organization did not properly review the expenditure details prior to submission to the Agency and 
+reported the same costs in both years. 
+===== PAGE 61 =====
+II-10 
+COMMUNITY LOAN FUND OF NEW JERSEY, INC. 
+AND SUBSIDIARIES 
+Schedule of Findings and Questioned Costs 
+Year ended September 30, 2023 
+ 
+Effect 
+The expenditures were reported twice. 
+Questioned Costs 
+$143,885 
+Recommendation 
+We recommend that the Organization review its existing policies and procedures related to allowability and 
+reporting and ensure that only allowable expenditures are claimed and to the correct grant award.  
+Views of Responsible Officials 
+A process will be established whereby a person in the Finance area, Assistant Controller or above, will 
+review the fiscal monitoring reports for completeness and accuracy. Subsequent to the audit, the 
+organization submitted a revised report which was accepted by the grantor agency.  
+===== PAGE 62 =====
+
+===== PAGE 63 =====

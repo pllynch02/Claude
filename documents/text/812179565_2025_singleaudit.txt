@@ -1,0 +1,1456 @@
+
+===== PAGE 1 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Montgomery County Green Bank Corporation  
+ 
+Financial Statements and Supplemental Information 
+With Report of Independent Auditors  
+June 30, 2025 and 2024  
+ 
+ 
+ 
+ 
+===== PAGE 2 =====
+ 
+ 
+TABLE OF CONTENTS 
+ 
+              
+   Page 
+ 
+Report of Independent Auditors 3-5 
+ 
+Financial Statements: 
+ 
+ Statements of Financial Position 6 
+ 
+ Statements of Activities  7 
+ 
+Statements of Functional Expenses 8 
+ 
+ Statements of Cash Flows 9 
+ 
+ Notes to the Financial Statements 10-23 
+ 
+ Schedule of Expenditures of Federal Awards 24 
+ 
+ Notes to the Schedule of Expenditures of Federal Awards 25 
+ 
+ Report of Independent Auditors on Internal Control Over Financial 
+     Reporting and on Compliance and Other Matters Based on an Audit 
+     of Financial Statements Performed in Accordance with Government 
+    Auditing Standards 26-27 
+ 
+ Report of Independent Auditors on Compliance for the Major Program  
+ and on Internal Control Over Compliance Required by the Uniform Guidance 28-30 
+ 
+ Schedule of Audit Findings and Questioned Costs 31 
+ 
+ Summary Schedule of Prior Audit Findings and Questioned Costs 32 
+===== PAGE 3 =====
+ 
+ 
+ 
+CERTIFIED PUBLIC ACCOUNTANTS
+ 
+Report of Independent Auditors 
+ 
+To the Board of Directors of 
+Montgomery County Green Bank Corporation: 
+ 
+Report on the Audit of the Financial Statements 
+ 
+Opinion 
+ 
+We have audited the accompanying financial statements of Montgomery County Green Bank Corporation, 
+a Maryland Corporation, which comprise the statements of financial position as of June 30, 2025 and 
+2024 and the related statements of activities, functional expenses, and cash flows for the years then 
+ended, and the related notes to the financial statements. 
+ 
+In our opinion, the accompanying financial statements referred to above present fairly, in all material 
+respects, the financial position of Montgomery County Green Bank Corporation as of June 30, 2025 and 
+2024, and the results of its operations and its cash flows for the years then ended in accordance with 
+accounting principles generally accepted in the United States of America. 
+ 
+Basis for Opinion 
+ 
+We conducted our audits in accordance with auditing standards generally accepted in the United States of 
+America (“GAAS”) and the standards applicable to financial audits contained in Government Auditing 
+Standards issued by the Comptroller General of the United States. Our responsibilities under those 
+standards are further described in the Auditors’ Responsibilities for the Audit of the Financial Statements 
+section of our report. We are required to be independent of Montgomery County Green Bank Corporation 
+and to meet our other ethical responsibilities in accordance with the relevant ethical requirements 
+relating to our audits. We believe that the audit evidence we have obtained is sufficient and appropriate to 
+provide a basis for our audit opinion. 
+ 
+Responsibilities of Management for the Financial Statements 
+ 
+Management is responsible for the preparation and fair presentation of these financial statements in 
+accordance with accounting principles generally accepted in the United States of America and for the 
+design, implementation, and maintenance of internal control relevant to the preparation and fair 
+presentation of financial statements that are free from material misstatement, whether due to fraud or 
+error. 
+ 
+In preparing the financial statements, management is required to evaluate whether there are conditions 
+or events, considered in the aggregate, that raise substantial doubt about Montgomery County Green 
+Bank Corporation’s ability to continue as a going concern within one year after the date that the financial 
+statements are available to be issued. 
+ 
+===== PAGE 4 =====
+ 
+ 
+ 
+Auditors’ Responsibilities for the Audit of the Financial Statements 
+ 
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are 
+free from material misstatement, whether due to fraud or error, and to issue an auditors’ report that 
+includes our opinion. Reasonable assurance is a high level of assurance but is not absolute assurance and 
+therefore is not a guarantee that an audit conducted in accordance with GAAS and Government Auditing 
+Standards will always detect a material misstatement when it exists.  The risk of not detecting a material 
+misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve 
+collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.  
+Misstatements are considered material if there is a substantial likelihood that, individually or in the 
+aggregate, they would influence the judgment made by a reasonable user based on the financial 
+statements. 
+ 
+In performing an audit in accordance with GAAS and Government Auditing Standards we: 
+ 
+ Exercise professional judgment and maintain professional skepticism throughout the audit. 
+ Identify and assess the risks of material misstatement of the financial statements, whether due to 
+fraud or error, and design and perform audit procedures responsive to those risks.  Such 
+procedures include examining, on a test basis, evidence regarding the amounts and disclosures in 
+the financial statements. 
+ Obtain an understanding of internal control relevant to the audit in order to design audit 
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an 
+opinion on the effectiveness of Montgomery County Green Bank Corporation’s internal control.  
+Accordingly, no such opinion is expressed. 
+ Evaluate the appropriateness of accounting policies used and the reasonableness of significant 
+accounting estimates made by management, as well as evaluate the overall presentation of the 
+financial statements. 
+ Conclude whether, in our judgment, there are conditions or events, considered in the aggregate, 
+that raise substantial doubt about Montgomery County Green Bank Corporation’s ability to 
+continue as a going concern for a reasonable period of time. 
+ 
+We are required to communicate with those charged with governance regarding, among other matters, the 
+planned scope and timing of the audit, significant audit findings, and certain internal control related 
+matters that we identified during the audit. 
+ 
+Other Information 
+ 
+Our audits were conducted for the purpose of forming an opinion on the financial statements as a whole.  
+The accompanying schedule of expenditures of federal awards, as required by Title 2 U.S. Code of Federal 
+Regulations (CFR) Part 200, Uniform Administrative Requirements, Cost Principles, and Audit 
+Requirements for Federal Awards, is presented for purposes of additional analysis and is not a required 
+part of the financial statements.  Such information is the responsibility of management and was derived 
+from and relates directly to the underlying accounting and other records used to prepare the financial 
+statements.  The information has been subjected to the auditing procedures applied in the audit of the 
+financial statements and certain additional procedures, including comparing and reconciling such 
+information directly to the underlying accounting and other records used to prepare the financial 
+statements or to the financial statements themselves, and other additional procedures in accordance with 
+auditing standards generally accepted in the United States of America. In our opinion, the schedule of 
+expenditures of federal awards is fairly stated, in all material respects, in relation to the financial 
+statements as a whole. 
+ 
+===== PAGE 5 =====
+ 
+ 
+ 
+Other Reporting Required by Government Auditing Standards 
+ 
+In accordance with Government Auditing Standards , we have also issued a report dated                  
+January 5, 2026, on our consideration of Montgomery County Green Bank Corporation’s internal control 
+over financial reporting and on our tests of its compliance with certain provisions of laws, regulations, 
+contracts, and grant agreements and other matters. The purpose of that report is solely to describe the 
+scope of our testing of internal control over financial reporting and compliance and the results of that 
+testing, and not to provide an opinion on the effectiveness of Montgomery County Green Bank 
+Corporation’s internal control over financial reporting or on compliance. That report is an integral part of 
+an audit performed in accordance with Government Auditing Standards  in considering Montgomery 
+County Green Bank Corporation’s internal control over financial reporting and compliance. 
+ 
+ 
+ 
+ 
+Malvern, Pennsylvania 
+January 5, 2026 
+
+===== PAGE 6 =====
+2025 2024
+Cash and cash equivalents 25,315,974 $         19,836,297$         
+Restricted cash - loss reserve 1,032,735              1,076,165             
+Restricted cash - revolving fund 6,285,374             6,285,374             
+Restricted cash - grant funds 67,267,709            -                             
+Accounts receivable - trade 181,788                 354,914                
+Accounts receivable - energy tax 2,604,581             2,638,374             
+Interest receivable 26,373                   -                             
+Program loans receivable, net 36,504,003           27,214,041           
+Prepaid expenses 47,905                   65,747                  
+Deposits 16,842                   2,886                     
+Furniture and equipment, net 106,588                 -                             
+Software costs 270,193                 -                             
+Right of use asset - operating 1,424,306              -                             
+Total Assets 141,084,371 $       57,473,798 $         
+Liabilities
+Accounts payable and accrued expenses 556,018$              472,528$              
+Lease liability - operating 1,498,401              -                             
+Deferred revenue 65,889,031            -                             
+Funds held for program liability 105,000                105,000                
+Funds held on behalf of the County - revolving fund 6,285,374             6,285,374             
+Total Liabilities 74,333,824            6,862,902              
+Net Assets
+Net assets without donor restrictions 54,326,568           41,213,942           
+Net assets with donor restrictions 12,423,979           9,396,954              
+Total Net Assets 66,750,547            50,610,896           
+Total Liabilities and Net Assets 141,084,371$       57,473,798 $         
+LIABILITIES AND NET ASSETS
+MONTGOMERY COUNTY GREEN BANK CORPORATION
+STATEMENTS OF FINANCIAL POSITION
+JUNE 30, 2025 AND 2024
+ASSETS
+See accompanying notes to financial statements 
+6
+===== PAGE 7 =====
+Without Donor With Donor Without Donor With Donor
+ Restrictions Restrictions Total  Restrictions Restrictions Total
+OPERATING REVENUE AND SUPPORT
+Grants and contributions 882,909 $             2,789,150$          3,672,059$          500,494 $             134,663$             635,157$             
+Program revenue 990,494                -                           990,494               311,939                -                           311,939               
+In-kind contributions 20,471                  -                           20,471                 19,952                  -                           19,952                 
+Investment income 1,174,759             977,315                2,152,074            1,619,633             -                           1,619,633            
+Energy tax revenue 12,159,044           6,547,178            18,706,222          11,837,171           6,373,861            18,211,032          
+Net assets released from restrictions 7,286,618            (7,286,618)          -                           4,476,146            (4,476,146)          -                           
+Total operating revenue and support 22,514,295          3,027,025            25,541,320          18,765,335           2,032,378            20,797,713          
+OPERATING EXPENSES
+Program services:
+Clean energy investment 7,937,200            -                           7,937,200            3,760,178             -                           3,760,178            
+Supporting Services
+Management and general 1,376,215            -                           1,376,215            824,855                -                           824,855               
+Fundraising 88,254                  -                           88,254                 60,324                  -                           60,324                 
+Total operating expenses 9,401,669            -                           9,401,669            4,645,357             -                           4,645,357            
+CHANGE IN NET ASSETS 13,112,626          3,027,025            16,139,651          14,119,978           2,032,378            16,152,356          
+Net assets, beginning of year 41,213,942          9,396,954            50,610,896          27,093,964           7,364,576            34,458,540          
+Net assets, end of year 54,326,568 $        12,423,979$        66,750,547$        41,213,942 $        9,396,954$          50,610,896$        
+2025 2024
+MONTGOMERY COUNTY GREEN BANK CORPORATION
+STATEMENTS OF ACTIVITIES
+FOR THE YEARS ENDED JUNE 30, 2025 AND 2024
+See accompanying notes to financial statements 
+7
+===== PAGE 8 =====
+Program Services
+Clean Energy 
+Investment
+Management 
+and General Fundraising Total
+Salaries, benefits and payroll tax 1,526,774$           865,978 $         52,824 $        2,445,576$       
+Professional services 551,172                 312,623           19,069           882,864            
+Product development 4,931,713              -                        -                    4,931,713         
+Advertising and promotion 164,317                 9,395                13,076          186,788            
+Rent 76,010                   43,002             2,429             121,441            
+Office expenses 233,501                 128,012           -                     361,513            
+Insurance 26,792                   15,158             856                42,806              
+Bad debt expense 400,198                 -                        -                    400,198            
+Depreciation 8,299                     -                        -                    8,299                
+In-kind expense 18,424                   2,047                -                     20,471              
+Total operating expenses 7,937,200$           1,376,215$      88,254 $        9,401,669$       
+Program Services
+Clean Energy 
+Investment
+Management 
+and General Fundraising Total
+Salaries, benefits and payroll tax 1,383,410$           702,346 $         42,566 $        2,128,322$       
+Professional services 176,780                 56,569              2,357             235,706            
+Product development 1,080,549              -                        -                    1,080,549         
+Advertising and promotion 111,918                 5,267                14,484          131,669            
+Rent 29,810                   15,134             917                45,861              
+Office expenses 67,773                   33,381             -                     101,154            
+Insurance 20,635                   10,163             -                     30,798              
+Bad debt expense 832,094                 -                        -                    832,094            
+Loss on loan forgiveness 39,252                   -                        -                    39,252              
+In-kind expense 17,957                   1,995                -                     19,952              
+Total operating expenses 3,760,178$           824,855 $         60,324 $        4,645,357$       
+2024
+Supporting Services
+MONTGOMERY COUNTY GREEN BANK CORPORATION
+STATEMENTS OF FUNCTIONAL EXPENSES
+FOR THE YEARS ENDED JUNE 30, 2025 AND 2024
+Supporting Services
+2025
+See accompanying notes to financial statements 
+8
+===== PAGE 9 =====
+Cash flows from operating activities:
+Change in net assets $ 16,139,651     $ 16,152,356   
+Adjustments to reconcile change in net assets to
+net cash provided by (used in) operating activities:
+Loss on loan forgiveness -                      39,252          
+Depreciation 8,299              -                     
+Amortization of right of use asset - operating lease 54,265            -                     
+Bad debt expense 400,198          832,094         
+Changes in operating assets and liabilities:
+Accounts receivable - trade 173,126          (187,057)       
+Accounts receivable - energy tax 33,793            (78,842)         
+Interest receivable (26,373)           -                     
+Program loans receivable, net (9,690,160)      (21,114,675)  
+Prepaid expenses 17,842            (43,519)         
+Deposits (13,956)           (1,000)            
+Accounts payable and accrued expenses 83,490            230,394        
+Lease liability - operating 19,830            -                     
+Deferred revenue 65,889,031     -                     
+     Net cash provided by (used in) operating activities 73,089,036    (4,170,997)     
+Cash flows from investing activities:
+Purchases of fixed assets (114,887)         -                     
+Payment of software costs (270,193)         -                     
+Net cash used in investing activities (385,080)         -                     
+Net change in cash, cash equivalents and restricted cash 72,703,956     (4,170,997)     
+Cash, cash equivalents and restricted cash at beginning of year 27,197,836    31,368,833    
+Cash, cash equivalents and restricted cash at end of year $ 99,901,792    $ 27,197,836   
+Cash and cash equivalents $ 25,315,974     $ 19,836,297   
+Restricted cash - loss reserve 1,032,735       1,076,165      
+Restricted cash - revolving fund 6,285,374       6,285,374      
+Restricted cash - grant funds 67,267,709     -                     
+Total cash, cash equivalents and restricted cash $ 99,901,792     $ 27,197,836   
+SUPPLEMENTAL DISCLOSURE OF NONCASH INVESTING AND FINANCING ACTIVITIES:
+Increase in right of use asset -  operating $ 1,478,571       $ -                     
+Increase in lease liability - operating $ 1,478,571       $ -                     
+2025 2024
+MONTGOMERY COUNTY GREEN BANK CORPORATION
+STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED JUNE 30, 2025 AND 2024
+See accompanying notes to financial statements 
+9
+===== PAGE 10 =====
+ 
+ 
+MONTGOMERY COUNTY GREEN BANK CORPORATION 
+NOTES TO FINANCIAL STATEMENTS 
+JUNE 30, 2025 AND 2024 
+10 
+1. Organization 
+ 
+Montgomery County Green Bank Corporation (the “Organization”) was formed in 2015 as a 
+nonprofit organization. The Organization was designated as Montgomery County, Maryland’s green 
+bank in August 2016, pursuant to Montgomery County Code Chapter 18A Article 7. The 
+Organization is a private nonprofit charitable organization under Internal Revenue Code 501(c)(3). 
+ 
+The Organization is a publicly chartered nonprofit dedicated to accelerating affordable energy 
+efficiency and clean energy investment in Montgomery County, Maryland. The Organization partners 
+with the private sector to build a more diverse, equitable, and inclusively prosperous, resilient, 
+sustainable, and healthy community. The Organization’s work supports Montgomery County’s goal 
+to reduce its greenhouse gas emissions. 
+ 
+The Organization was capitalized by Montgomery County government (“Montgomery County”) with 
+funding from the Exelon-Pepco merger. The Organization will use this funding to mobilize and 
+provide investments and facilitate reinvestment in energy-efficiency and clean energy. The 
+Organization will combine its funds with lender partners to establish financing vehicles that help to 
+improve the energy savings benefit to county residents, property owners, and businesses, to lower 
+county emissions, to support jobs in the county, to create healthy living and working environments, to 
+foster a more resilient economy and environment and to help Montgomery County achieve its 
+environmental goals.  
+ 
+2. Summary of significant accounting policies  
+ 
+Basis of accounting 
+The Organization prepares its financial statements on the accrual basis of accounting consistent with 
+accounting principles generally accepted in the United States of America. 
+ 
+Basis of presentation 
+The Organization follows the requirements of Financial Accounting Standards Board (FASB) 
+Accounting Standards Codification (“ASC”) 958-205, “Not-for-Profit Entities.” As required by the 
+Not-for-Profit Entities Topic of the FASB ASC, the Organization is required to report information 
+regarding its financial position and activities according to two classes of net assets: net assets without 
+donor restriction and net assets with donor restrictions.  
+ 
+Net assets without donor restrictions: Net assets that are not subject to donor-imposed restrictions and 
+may be expended for any purpose in performing the primary objectives of the Organization. These net 
+assets may be used at the discretion of the Organization’s management and the board of directors. 
+ 
+Net assets with donor restrictions: Net assets subject to stipulations imposed by donors and grantors. 
+Some donor restrictions are temporary in nature, which will be met by actions of the Organization or 
+by the passage of time. Other donor restrictions are perpetual in nature, whereby the donor has 
+stipulated the funds be maintained in perpetuity.  
+ 
+===== PAGE 11 =====
+ 
+ 
+MONTGOMERY COUNTY GREEN BANK CORPORATION 
+NOTES TO FINANCIAL STATEMENTS 
+JUNE 30, 2025 AND 2024 
+11 
+2. Summary of significant accounting policies (continued) 
+ 
+Basis of presentation (continued) 
+When a donor restriction expires as a result of a stipulated time restriction ending or purpose 
+restriction being accomplished, net assets with donor restrictions are reclassified to net assets without 
+donor restrictions and reported in the accompanying statements of activities and change in net assets 
+as net assets released from restrictions.  
+ 
+Measure of operations 
+The statements of activities report all changes in net assets, including changes in net assets from 
+operating and non-operating activities. Operating activities consist of items attributable to the 
+Organization’s ongoing program services. Non-operating activities are limited to activities considered 
+to be of a more unusual or nonrecurring nature.  
+ 
+Cash and cash equivalents 
+Cash and cash equivalents include money market funds and treasury bills available for operating 
+purposes with an original maturity of three months or less.  
+ 
+Restricted cash – loss reserve 
+Restricted cash – loss reserve represents the total of all assets that are encumbered by legal 
+agreements. This category includes funds that are held by the Organization for the purpose of 
+reimbursing the lender for future loans which may default. As of June 30, 2025 and 2024, the 
+restricted cash – loss reserve was sufficient to cover the Organizations liability under its agreements 
+for the outstanding loans issued by its partner lenders. 
+ 
+Restricted cash – revolving fund 
+Restricted cash – revolving fund represents funds received under the contract between the 
+Organization and Montgomery County. These funds are to be used only by Montgomery County and 
+for Montgomery County purposes as Montgomery County would request. Montgomery County may, 
+in its sole discretion, replenish the revolving fund. Any funds remaining in the revolving fund at the 
+conclusion of the contract are to be returned to Montgomery County, and may not remain with the 
+Organization.  
+ 
+The corresponding obligation is recorded as a liability as funds held on behalf of the county on the 
+accompanying statements of financial position, as of June 30, 2025 and 2024.  
+ 
+Restricted cash - grant funds 
+Restricted cash - grant funds represent funds received from entering a subgrant agreement from the 
+National Clean Investment Fund ("NCIF") with Coalition for Green Capital ("CGC"). The funds were 
+then transferred to Capital Bank, N.A. ("Capital Bank") in accordance with a Deposit Account 
+Control Agreement ("DACA"). The funds are controlled by Capital Bank and are only to be released 
+to the Organization for the usage of funds in accordance with their intended purpose as noted in the 
+DACA. Restricted cash also includes $2,720,974 held at Climate First Bank, reserved for approved 
+future loan disbursements under the NCIF program. 
+ 
+ 
+===== PAGE 12 =====
+ 
+ 
+MONTGOMERY COUNTY GREEN BANK CORPORATION 
+NOTES TO FINANCIAL STATEMENTS 
+JUNE 30, 2025 AND 2024 
+12 
+2. Summary of significant accounting policies (continued) 
+ 
+Accounts receivable – energy tax 
+Accounts receivable also consists of energy tax revenue that is generated by Montgomery County of 
+which 10% of the revenue is appropriated to the Organization, which is recognized as revenue in the 
+period earned. Management is of the opinion that all accounts receivable – energy tax are fully 
+collectible and therefore no allowance for doubtful accounts is provided. 
+ 
+Program loans receivable and allowance for credit losses 
+Loans receivable is stated at the unpaid principal balances less an allowance for credit losses. Interest 
+income is recognized on a monthly basis as earned.  Loan fees do not exceed the cost per loan and, 
+therefore, are recognized as fee income upon loan closing. 
+ 
+The Organization records an allowance for credit losses based on losses expected to arise over the 
+contractual term of the financial asset.  Assets are written off when the Organization deems the loan 
+receivable to be uncollectable.  Write-offs are recognized as a deduction from the allowance for credit 
+losses.  Expected recoveries of amounts previously written off, which do not exceed the aggregate of 
+previous write-offs, are included in determining the allowance account.   
+ 
+In developing estimates for expected credit losses, management considers historical loss information 
+updated for current conditions and reasonable and supportable forecasts that affect expected 
+collectability using a loss-based approach.  Management considers factors such as the borrower’s 
+financial condition, the borrower’s ability to make scheduled interest or principal payments based on 
+the current and forecasted direction of the economic and business environment, the remaining 
+payment terms of the loan, the remaining time to maturity, and the value of underlying collateral.  
+Although management uses many factors to estimate credit losses, because of uncertainties associated 
+with local economic conditions, collateral values, and future cash flows, it is reasonably possible that 
+a material change could occur in the allowance for credit loan losses in the near term. However, the 
+amount of the change that is reasonably possible cannot be estimated.   
+ 
+Loans that are 90 days or more past due, based on the contractual terms of the loan, are classified on 
+nonaccrual status.  Uncollectable interest previously accrued is charged off, or an allowance is 
+established by a charge to interest income. Interest income on nonaccrual loans is recognized only to 
+the extent cash payments are received and the principal balance is believed to be collectable. A loan 
+previously classified on nonaccrual status will resume accruing interest based on the contractual terms 
+of the loan when payments on the loan become current.  There were no loans on nonaccrual status at 
+June 30, 2025 and 2024 (See Note 5). 
+ 
+  
+===== PAGE 13 =====
+ 
+ 
+MONTGOMERY COUNTY GREEN BANK CORPORATION 
+NOTES TO FINANCIAL STATEMENTS 
+JUNE 30, 2025 AND 2024 
+13 
+2. Summary of significant accounting policies (continued) 
+ 
+ Contributions revenue 
+Contributions are recognized as revenue in the period that an unconditional promise to give is 
+received.  Contributions are recorded as net assets without donor restrictions or net assets with donor 
+restrictions, depending on the existence and/or nature of any donor-imposed restrictions. 
+Contributions that are restricted by the donor are reported as an increase in net assets without donor 
+restrictions if the restriction expires in the reporting period in which the contribution is recognized. 
+All other donor restricted contributions are reported as an increase in net assets with donor 
+restrictions, depending on the nature of restriction. When a restriction expires (that is, when a 
+stipulated time restriction ends or purpose restriction is accomplished), net assets with donor 
+restrictions are reclassified to net assets without donor restrictions and reported in the statements of 
+activities as net assets released from restrictions.  
+ 
+In-kind contributions 
+Contributed goods and services are recorded at their fair value at the date of receipt. Donated services 
+are recognized as contributions if the services (a) create or enhance non-financial assets or (b) require 
+specialized skills that would otherwise be purchased by the Organization. During the years ended 
+June 30, 2025 and 2024, the Organization received donated services of $20,471 and $19,952, 
+respectively. 
+ 
+Functional expenses 
+The costs of providing various programs and other activities have been summarized on a functional 
+basis in the statements of activities. Accordingly, certain costs have been allocated among the 
+programs and supporting services benefited. Expenses directly attributed to a specific functional area 
+of the Organization are reported as direct expenses to the programmatic areas and those expenses that 
+benefit more than one function are allocated on a basis of estimated time and effort or another 
+reasonable basis. Management and general expenses include those expenses that are not directly 
+identifiable with any specific program function but provide overall support and direction of the 
+Organization.  
+ 
+The expenses that are allocated include the following: 
+ 
+Expense Method of Allocation 
+Salaries, benefits, and payroll tax Time and effort 
+Professional services Time and effort 
+Product development Time and effort 
+Advertising and promotion Time and effort 
+Rent Usage 
+Office expenses Usage 
+Insurance Usage 
+Bad debt expense Usage 
+Depreciation  Usage 
+Loss on loan forgiveness Usage 
+In-kind expense Time and effort 
+ 
+===== PAGE 14 =====
+ 
+ 
+MONTGOMERY COUNTY GREEN BANK CORPORATION 
+NOTES TO FINANCIAL STATEMENTS 
+JUNE 30, 2025 AND 2024 
+14 
+2. Summary of significant accounting policies (continued) 
+ 
+Income taxes 
+The Organization is a not-for-profit Organization which is exempt from income taxes under Section 
+501(c)(3) of the Internal Revenue Code (“IRC”).  The Organization is not taxed on income derived 
+from its exempt functions.  However, the Organization is subject to tax on unrelated business income, 
+which is generated from the Organization's investment income and other activities not related to their 
+stated exempt purposes.   
+ 
+The preparation of financial statements in accordance with accounting principles generally accepted 
+in the United States of America requires the Organization to report information regarding its exposure 
+to various tax positions taken by the Organization, including changes to the Organization’s status as a 
+not-for-profit entity. Management has determined whether any tax positions have met the recognition 
+threshold and has measured the Organization’s exposure to those tax positions. Management believes 
+that the Organization has adequately addressed all relevant tax positions and that there are no 
+unrecorded tax liabilities. Federal and state tax authorities generally have the right to examine and 
+audit the previous three years of tax returns filed. Any interest or penalties assessed to the 
+Organization are recorded in operating expenses. No interest or penalties from federal or state tax 
+authorities were recorded in the accompanying financial statements. 
+ 
+Estimates 
+The preparation of financial statements in accordance with accounting principles generally accepted 
+in the United States of America requires management to make estimates and assumptions that affect 
+the amounts reported in the financial statements and accompanying notes.  Actual results could differ 
+from those estimates. 
+ 
+Concentration of credit risk 
+The Organization’s assets that are exposed to credit risk consist primarily of cash and cash 
+equivalents, accounts receivable and program loans receivable. Cash and cash equivalents are 
+maintained at various financial institutions and at times these balances may exceed the federally 
+insured limit. The Organization has not experienced any losses with respect to its bank balances in 
+excess of government provided insurance. The Organization’s accounts and program loans receivable 
+balances consist primarily of amounts due from the Montgomery County and companies. Historically, 
+the Organization has not experienced significant losses related to the accounts and program loans 
+receivable balances and, therefore, believes that the credit risk related to them is minimal. 
+ 
+Concentration of grant and contribution revenue 
+Approximately 75% of grant and contribution revenue was derived from the Environmental 
+Protection Agency ("EPA") through the NCIF subgrant agreement between CGC and the 
+Organization for the year ended June 30, 2025, and approximately 84% of grant and contribution 
+revenue was derived from the Montgomery County contract associated with the funding from the 
+Exelon-Pepco merger for the year ended June 30, 2024. 
+ 
+ 
+ 
+ 
+===== PAGE 15 =====
+ 
+ 
+MONTGOMERY COUNTY GREEN BANK CORPORATION 
+NOTES TO FINANCIAL STATEMENTS 
+JUNE 30, 2025 AND 2024 
+15 
+2. Summary of significant accounting policies (continued) 
+ 
+Prepaid expenses 
+Prepaid expenses represent amounts paid as of the reporting date that will benefit future operations.  
+ 
+Furniture and equipment, net 
+Purchases of property, equipment or improvements costing more than $5,000 are recorded at cost.  
+Major improvements are charged to the fixed asset account, while maintenance and repairs, which do 
+not extend the life of the respective assets, are expensed. When fixed assets are retired or otherwise 
+disposed, the cost of the fixed asset and the related accumulated depreciation are removed from the 
+accounts and any resulting gains or losses are reflected in income. 
+ 
+Depreciation is computed on the straight-line method over the estimated useful lives of the assets.  
+Depreciation expense during the years ended June 30, 2025 and 2024 was $8,299 and $0, 
+respectively. The useful lives of the assets are estimated to be 5-7 years.  
+ 
+Furniture and equipment consist of the following as of June 30: 
+ 
+ 2025  2024 
+      
+Furniture and equipment $ 114,887   $ -  
+      
+Less: accumulated depreciation  (8,299)         (-) 
+      
+      Furniture and equipment, net $   106,588   $   -  
+ 
+Software costs  
+Software costs incurred related to the development of a program are recorded at cost. Costs incurred 
+after implementation of a program are expensed.  Amortization is computed on the straight-line 
+method over the estimated useful lives of the asset.  
+ 
+During the year ended June 30, 2025, the Organization incurred expenditures related to the 
+development and customization of new software intended to replace the existing loan management 
+system. As of June 30, 2025, total capitalized costs associated with this software amounted to 
+$270,193. Implementation of the new software had not commenced and accordingly, no amortization 
+expense has been recognized for the year ended June 30, 2025.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+===== PAGE 16 =====
+ 
+ 
+MONTGOMERY COUNTY GREEN BANK CORPORATION 
+NOTES TO FINANCIAL STATEMENTS 
+JUNE 30, 2025 AND 2024 
+16 
+2. Summary of significant accounting policies (continued) 
+ 
+Leases  
+The Organization determines if an arrangement is a lease at inception.  An arrangement is a lease if 
+the arrangement conveys a right to direct the use of and to obtain substantially all of the economic 
+benefits from the use of an asset for a period of time in exchange for consideration. 
+ 
+Operating lease right-of use assets and liabilities are recognized at the lease commencement date 
+based on the present value of lease payments over the lease term.  The Organization uses a risk-free 
+rate at the commencement date in determining the present value of lease payments.  
+ 
+The operating lease right-of-use asset also includes any lease payments made and excludes lease 
+incentives. The lease terms may include options to extend or terminate the lease when it is reasonably 
+certain that the Organization will exercise that option.  The lease agreement does not contain any 
+material residual value guarantees or material restrictive covenants. Lease expense for lease payments 
+is recognized on a straight-line basis over the lease term. 
+ 
+Deferred revenue 
+Deferred revenue represents amounts received in advance for program services and other activities for 
+which the Organization has not yet satisfied its performance obligations. These amounts are recorded 
+as liabilities until the related services are provided or conditions are met. Revenue is recognized as the 
+funds are expended for their intended purpose, as noted within the underlying grant agreement. 
+ 
+During the year ended June 30, 2025, the Organization entered into a subgrant agreement with CGC 
+from the EPA under the NCIF as part of the Greenhouse Gas Reduction Fund. The Organization 
+received the full award of $68,655,000 during the year. Of this amount, $2,765,969 was recognized as 
+revenue and is included in Grants and Contributions in the accompanying statement of activities. 
+Subsequently, the GGRF program became subject to certain administrative disputes and judicial 
+review, halting the Organization’s ability to satisfy its performance obligations under the subgrant 
+agreement. The remaining $65,889,031 of the award is recorded as deferred revenue as of             
+June 30, 2025. 
+ 
+Subsequent events  
+Subsequent events have been evaluated through January 5, 2026, which is the date the financial 
+statements were available to be issued, and there are no subsequent events requiring disclosure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+===== PAGE 17 =====
+ 
+ 
+MONTGOMERY COUNTY GREEN BANK CORPORATION 
+NOTES TO FINANCIAL STATEMENTS 
+JUNE 30, 2025 AND 2024 
+17 
+3. Legal contingencies 
+ 
+In the course of normal business operations, the Organization is faced with routine legal matters. In 
+the opinion of management, all matters are adequately covered by insurance or the costs have been 
+accrued.  
+ 
+4. Liquidity and availability of financial assets 
+ 
+ The following represents the Organization’s financial assets as of June 30: 
+ 
+ 2025   2024  
+Financial assets at year end:    
+Cash and cash equivalents $       25,315,974  $     19,836,297  
+Restricted cash – loss reserve   1,032,735  1,076,165  
+Restricted cash – revolving fund   6,285,374  6,285,374  
+Restricted cash – grant funds   67,267,709  -  
+Accounts receivable - trade 
+Accounts receivable - energy tax 
+ 181,788 
+2,604,581 
+354,914 
+2,638,374  
+Interest receivable   26,373  -  
+Program loan receivable, net   36,504,003  27,214,041  
+   
+Total financial assets  139,218,537   57,405,165   
+   
+Less amounts not available for general expenditure  
+within one year due to: 
+  
+Restricted cash – loss reserve   1,032,735  1,076,165  
+Restricted cash – revolving fund   6,285,374 6,285,374 
+Restricted cash – grant funds   67,267,709 - 
+Donor-imposed restrictions 12,423,979  9,396,954  
+Program loan receivable, net 35,377,119 25,850,512 
+    
+Financial assets available to meet cash needs   
+for general expenditures within one year $       14,065,652 $     14,796,160 
+ 
+As part of the Organization’s liquidity management, the Organization has a policy to structure its 
+financial assets to be available and liquid as its obligations become due. The Organization had no debt 
+on the statements of financial position as of June 30, 2025 and 2024, and typically pays its obligations 
+using cash. As of June 30, 2025 and 2024, the Organization has enough financial assets to cover at 
+least one year of operating expenses.  
+ 
+ 
+ 
+ 
+ 
+ 
+===== PAGE 18 =====
+ 
+ 
+MONTGOMERY COUNTY GREEN BANK CORPORATION 
+NOTES TO FINANCIAL STATEMENTS 
+JUNE 30, 2025 AND 2024 
+18 
+5. Program loans receivable and allowance for credit losses 
+ 
+Program loans receivable  
+Program loans receivable relate to the loan portfolio offered by the Organization. The various loans 
+outstanding bear interest at rates ranging from 0% to 6.5% and have maturities ranging from 1 to 35 
+years. Loans receivable at June 30, 2025 and 2024 consisted of the following: 
+ 
+ 2025  2024 
+Portfolio segmentation:    
+Bridge loans $      222,769  $      627,605 
+Developer debt 10,905,730  2,902,130 
+Term debt-origination -  10,597,059 
+Term debt-repayment-low risk 10,485,178  3,534,916 
+Term debt-repayment-moderate risk 16,361,864  10,663,671 
+Total program loans receivable   37,975,541   28,325,381   
+Less - allowance for credit losses    (1,471,538)     (1,111,340) 
+    
+Program loans receivable, net  $ 36,504,003    $  27,214,041  
+ 
+As of June 30, 2025 and 2024, interest receivable from the program loans receivable amounted to 
+$26,373 and $0, respectively. 
+ 
+The following table presents the activity in the allowance for credit losses by portfolio segmentation 
+for the program loans for the year ended June 30, 2025: 
+ 
+  Allowance for Credit Losses 
+         
+   
+Beginning 
+  
+Cancellation 
+  
+Credit Loss 
+  
+Ending 
+  Balance  of Debt  Expense, net  Balance 
+Bridge loans  $   142,419  $      (40,000)  $        (29,841)  $     72,578 
+         
+Developer debt  136,423  -  391,787  528,210 
+         
+Term debt-origination  370,897  -  (358,794)  12,103 
+         
+Term debt-repayment-low risk  88,373  -  196,889  285,262 
+         
+Term debt-repayment-moderate risk  373,228  -  200,157  573,385 
+         
+          Total, net  $ 1,111,340  $      (40,000)  $        400,198  $1,471,538 
+ 
+===== PAGE 19 =====
+ 
+ 
+MONTGOMERY COUNTY GREEN BANK CORPORATION 
+NOTES TO FINANCIAL STATEMENTS 
+JUNE 30, 2025 AND 2024 
+19 
+5. Program loans receivable and allowance for credit losses (continued) 
+ 
+Program loans receivable (continued) 
+The following table presents the activity in the allowance for credit losses by portfolio segmentation 
+for the program loans for the year ended June 30, 2024: 
+ 
+  Allowance for Credit Losses 
+           
+  Beginning 
+Balance, 
+Prior to 
+  
+ 
+  
+ 
+Loss on 
+  
+ 
+Credit  
+ Ending 
+Balance, 
+After 
+  Adoption 
+of ASC 326 
+ Cancellation 
+of Debt 
+ Loan 
+Forgiveness 
+ Loss 
+Expense 
+ Adoption 
+of ASC 326 
+Bridge loans  $          56,096  $     (12,718)  $         5,659  $  93,382  $     142,419 
+           
+Developer debt  158,462  (134,375)  33,593  78,743  136,423 
+           
+Term debt-origination  -  -  -  370,897  370,897 
+           
+Term debt-repayment-low risk  32,774  -  -  55,599  88,373 
+           
+Term debt-repayment-moderate risk  139,755  -  -  233,473  373,228 
+           
+          Total, net  $        387,087  $   (147,093)  $       39,252  $832,094  $  1,111,340 
+ 
+6. Operating leases 
+ 
+On June 20, 2017, the Organization entered into an agreement to lease office space located at 155 
+Gibbs Street, Rockville, Maryland (“Gibbs Street Lease”). Since the original execution of the Gibbs 
+Street Lease the Organization has exercised multiple renewal options. On July 1, 2022, the 
+Organization entered into an extension of the lease through June 30, 2023, with monthly payments of 
+$1,455. On July 1, 2024, the Gibbs Street Lease was extended to June 30, 2025, with monthly 
+payments of $4,247. The Organization terminated the Gibbs Street Lease on August 12, 2024. Rent 
+expense related to the lease for the years ended June 30, 2025  and 2024 was $33,389 and $45,861, 
+respectively. 
+ 
+On August 12, 2024, the Organization entered into a new agreement to lease office space at 21 
+Church Street, Rockville, Maryland. The leasing agreement has been classified as an operating lease. 
+The term of the lease is 132 months. Base annual rent is $167,475 and increases by 2.50% on each 
+anniversary of the rent commencement date. Base annual rent of $167,475 for the initial 12 months of 
+the operating lease term was fully abated.  
+ 
+The present value of the lease payments is $1,478,571, using a discount rate of 4.57%. As of          
+June 30, 2025 and 2024, the right of use asset amounted to $1,424,306 and $0, respectively. As of 
+June 30, 2025 and 2024, the operating leasing liability amounted to $1,498,401 and $0, respectively. 
+ 
+As of June 30, 2025 the operating lease liability consisted of the following: 
+ 
+Total undiscounted cash flows  $  1,923,187 
+Less: Imputed interest   (424,786) 
+Present value of lease obligation  $  1,498,401 
+===== PAGE 20 =====
+ 
+ 
+MONTGOMERY COUNTY GREEN BANK CORPORATION 
+NOTES TO FINANCIAL STATEMENTS 
+JUNE 30, 2025 AND 2024 
+20 
+6. Operating leases (continued) 
+ 
+Total rent expense under the operating lease was $88,052 for the year ended June 30, 2025. 
+ 
+Aggregate future minimum lease payments are as follows as of June 30: 
+ 
+2026  $ 171,686 
+2027   175,960 
+2028   180,363 
+2029   184,892 
+2030   189,486 
+Thereafter   1,020,800 
+Total  $   1,923,187 
+ 
+ 
+7. In-kind contributions – nonfinancial assets 
+ 
+In-kind contributions consist of the following for the years ended June 30, 2025 and 2024: 
+ 
+  
+2025 
+Revenue 
+recognized 
+  
+2024 
+Revenue 
+recognized 
+ Utilization 
+in 
+programs/a
+ctivities 
+  
+ 
+Donor 
+restrictions 
+  
+Valuation 
+techniques and 
+inputs 
+Legal 
+services 
+$     20,471   $     19,952   Legal 
+assistance 
+ No 
+associated 
+donor 
+restrictions 
+ Based on 
+Occupational 
+Employment and 
+Wage Statistics from 
+Bureau of Labor 
+Statistics. 
+ 
+===== PAGE 21 =====
+ 
+ 
+MONTGOMERY COUNTY GREEN BANK CORPORATION 
+NOTES TO FINANCIAL STATEMENTS 
+JUNE 30, 2025 AND 2024 
+21 
+8. Net assets with donor restrictions 
+  
+ Net assets with donor restrictions consist of the following at June 30, 2025: 
+ 
+   
+Beginning 
+balance 
+  
+ 
+Additions 
+ Released 
+from 
+restrictions 
+  
+Ending 
+balance 
+Montgomery County 
+Contract 
+  
+$ 4,987,852 
+  
+$               - 
+  
+$                  - 
+  
+$ 4,987,852 
+Grant for EPA-NCIF                 -  2,765,969       (2,765,969)                     - 
+Grant for homeowner 
+energy efficiency 
+program 
+  
+   
+165,358 
+  
+  
+23,181 
+  
+ 
+      (87,824)           
+  
+   
+100,715 
+Grant for EV chargers  95,401  -  (50,581)  44,820 
+Investment income 
+restricted 
+  
+- 
+  
+977,315 
+  
+- 
+  
+977,315 
+Energy tax credit    4,148,343  6,547,178  (4,382,244)    6,313,277 
+         
+Total  $ 9,396,954   $10,313,643  $ (7,286,618)                   $12,423,979  
+ 
+Net assets with donor restrictions consist of the following at June 30, 2024: 
+ 
+   
+Beginning 
+balance 
+  
+ 
+Additions 
+ Released 
+from 
+restrictions 
+  
+Ending 
+balance 
+Montgomery County 
+Contract 
+  
+$ 4,987,852 
+  
+$               - 
+  
+$                  - 
+  
+$ 4,987,852 
+Grant for solar program         124,919                 -        (124,919)                 - 
+Grant for homeowner 
+energy efficiency 
+program 
+  
+       
+84,559            
+    
+               
+134,663 
+  
+ 
+      (53,864)           
+  
+   
+165,358 
+Grant for EV chargers  183,748  -  (88,347)  95,401 
+Energy tax credit     1,983,498  6,373,861  (4,209,016)    4,148,343 
+         
+Total  $ 7,364,576  $6,508,524  $ (4,476,146)                   $ 9,396,954 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+===== PAGE 22 =====
+ 
+ 
+MONTGOMERY COUNTY GREEN BANK CORPORATION 
+NOTES TO FINANCIAL STATEMENTS 
+JUNE 30, 2025 AND 2024 
+22 
+8. Net assets with donor restrictions (continued) 
+ 
+Montgomery County Contract 
+The Montgomery County Contract funds, which are derived from funding from the Exelon-Pepco 
+merger, are available to the Organization to support a comprehensive package of programs that 
+leverage investments into clean energy and energy-efficient technologies. The Organization can use 
+up to a maximum amount of funds of $22,970,374. The Organization may use the funds in a variety 
+of methods, including credit enhancements, loan loss reserves, guarantees, loans, and other methods 
+that leverage private capital into clean energy and energy-efficient technologies. The Organization 
+may serve multiple sectors, including commercial, single-family and multifamily residential, 
+nonprofits and public buildings. A portion of these funds are donor-restricted as they are designated 
+to target financing vehicles for the benefit of limited- and moderate-income households, nonprofits, 
+and multifamily and common ownership communities. 
+ 
+Grant for solar program 
+These funds are targeted to support activities related to various solar projects in the county with an 
+emphasis on low- and moderate-income households. 
+ 
+Grant for EPA – NCIF 
+These funds are targeted to reducing emissions of greenhouse gases and other air pollutants, 
+delivering benefits to American communities, particularly low-income and disadvantaged 
+communities, and mobilizing financing and private capital. 
+ 
+Grant for homeowner energy efficiency program 
+These funds are part of a pilot Clean Energy Advantage program (the “CEA Program”) between the 
+Organization, Maryland Clean Energy Center, and six Maryland utilities and funded under the 
+EmPOWER program.  The pilot CEA Program was implemented to offer residential customers in 
+Maryland access to home improvement financing offered by third-party lenders that support qualified 
+energy efficient improvements made by homeowners. 
+ 
+Grant for EV chargers 
+These funds are targeted to support equitable access to electric vehicle chargers (and thus electric 
+vehicles) by occupants of affordable rental properties and low- and moderate-income households.  
+ 
+Investment income restricted 
+These funds relate to income generated from the grant for EPA-NCIF. The funds are to be utilized to 
+reinvest back into the program to carry out the purpose of the program.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+===== PAGE 23 =====
+ 
+ 
+MONTGOMERY COUNTY GREEN BANK CORPORATION 
+NOTES TO FINANCIAL STATEMENTS 
+JUNE 30, 2025 AND 2024 
+23 
+8. Net assets with donor restrictions (continued) 
+ 
+Energy tax credit 
+Montgomery County passed legislation in February 2022 that annually dedicates 10% of the county’s 
+Fuel Energy Tax to the Organization.  Montgomery County approved over $18 million in funding to 
+the Organization in its 2023 budget related to this newly enacted legislation.  This funding is received 
+by the Organization over the course of the year and is based on the actual tax revenue received by 
+Montgomery County. 20% of the funds must be used to support the Organization’s activities in 
+Equity Emphasis Areas in Montgomery County as defined by the Metropolitan Washington Council 
+of Governments, and 15% of the funds must be used to reduce the cost of energy projects undertaken 
+by property owners by a loan subsidy, interest rate buydown, technical assistance, pre-development, 
+blended capital, or other similar tools. 
+ 
+===== PAGE 24 =====
+Federal Grantor/Program or Cluster Title
+Assistance
+Listing Number
+Amount Provided to 
+Subrecipients
+Federal 
+Expenditures
+Environmental Protection Agency
+Pass Through
+Coalition for Green Capital
+Greenhouse Gas Reduction Fund: National Clean 
+Investment Fund 66.957 171,361$  
+2,765,969$  
+MONTGOMERY COUNTY GREEN BANK CORPORATION
+SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS
+FOR THE YEAR ENDED JUNE 30, 2025
+See accompanying notes to schedule of expenditures of federal awards 
+24
+===== PAGE 25 =====
+MONTGOMERY COUNTY GREEN BANK CORPORATION 
+NOTES TO SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS 
+FOR THE YEAR ENDED JUNE 30, 2025 
+25 
+1. Basis of Presentation
+The accompanying Schedule of Expenditures of Federal Awards (the “Schedule”) includes the expenditures of
+Montgomery County Green Bank Corporation (a Maryland non-profit public benefit corporation) under
+programs of the federal government for the year ended June 30, 2025. The information in the Schedule is
+presented in accordance with the requirements of Uniform Administrative Requirements, Cost Principles and
+Audit Requirements for Federal Awards.  Therefore, some amounts presented in the Schedule may differ from
+amounts presented in or used in the preparation of the basic financial statements.
+For purposes of the Schedule, federal awards include all subawards to the Organization by nonfederal
+organizations pursuant to federal grants, contracts and similar agreements.
+2. Summary of Significant Accounting Policies
+Expenditures reported in the Schedule are reported on the accrual basis of accounting.  Such expenditures are
+recognized following the cost principles contained in Uniform Administrative Requirements, Cost Principles
+and Audit Requirements for Federal Awards, wherein certain types of expenditures are not allowed.
+Assistance Listing Numbers (“ALN”) are provided when available.
+The Organization elected to use the 15% de minimis indirect cost rate.
+3. Pass-through Awards to Subrecipients
+See Schedule for amount of pass-through awards to subrecipients.
+===== PAGE 26 =====
+CERTIFIED PUBLIC ACCOUNTANTS
+ 
+ 
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER FINANCIAL 
+REPORTING AND ON COMPLIANCE AND OTHER MATTERS BASED ON 
+AN AUDIT OF FINANCIAL STATEMENTS PERFORMED 
+IN ACCORDANCE WITH GOVERNMENT AUDITING STANDARDS 
+ 
+To the Board of Directors of 
+Montgomery County Green Bank Corporation  
+ 
+We have audited, in accordance with the auditing standards generally accepted in the United States of America and 
+the standards applicable to financial audits contained in Government Auditing Standards issued by the 
+Comptroller General of the United States, the financial statements of Montgomery County Green Bank 
+Corporation, which comprise the statement of financial position as of June 30, 2025, and the related statements of 
+activities and changes in net assets, functional expenses, and cash flows for the year then ended, and the related 
+notes to the financial statements, and have issued our report thereon dated January 5, 2026. 
+ 
+Report on Internal Control over Financial Reporting 
+ 
+In planning and performing our audit of the financial statements, we considered Montgomery County Green Bank 
+Corporation’s internal control over financial reporting (internal control) as a basis for designing audit procedures 
+that are appropriate in the circumstances for the purpose of expressing our opinion on the financial statements, but 
+not for the purpose of expressing an opinion on the effectiveness of Montgomery County Green Bank Corporation’s 
+internal control.  Accordingly, we do not express an opinion on the effectiveness of the organization’s internal 
+control. 
+ 
+A deficiency in internal control exists when the design or operation of a control does not allow management or 
+employees, in the normal course of performing their assigned functions, to prevent, or detect and correct, 
+misstatements on a timely basis. A material weakness is a deficiency, or a combination of deficiencies, in internal 
+control, such that there is a reasonable possibility that a material misstatement of the entity’s financial statements 
+will not be prevented, or detected and corrected on a timely basis. A significant deficiency is a deficiency, or a 
+combination of deficiencies, in internal control that is less severe than a material weakness, yet important enough 
+to merit attention by those charged with governance. 
+ 
+Our consideration of internal control was for the limited purpose described in the first paragraph of this section and 
+was not designed to identify all deficiencies in internal control that might be material weaknesses or significant 
+deficiencies. Given these limitations, during our audit we did not identify any deficiencies in internal control that we 
+consider to be material weaknesses. However, material weaknesses or significant deficiencies may exist that were 
+not identified. 
+Report on Compliance and Other Matters 
+ 
+As part of obtaining reasonable assurance about whether Montgomery County Green Bank Corporation’s financial 
+statements are free from material misstatement, we performed tests of its compliance with certain provisions of 
+laws, regulations, contracts, and grant agreements, noncompliance with which could have a direct and material 
+effect on the financial statements. However, providing an opinion on compliance with those provisions was not an 
+objective of our audit, and accordingly, we do not express such an opinion. The results of our tests disclosed no 
+instances of noncompliance or other matters that are required to be reported under Government Auditing 
+Standards. 
+ 
+ 
+ 
+ 
+ 
+===== PAGE 27 =====
+ 
+ 
+ 
+Purpose of this Report 
+ 
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance and the 
+results of that testing, and not to provide an opinion on the effectiveness of the organization’s internal control or on 
+compliance. This report is an integral part of an audit performed in accordance with Government Auditing 
+Standards in considering the organization’s internal control and compliance.  Accordingly, this communication is 
+not suitable for any other purpose. 
+ 
+ 
+ 
+Malvern, Pennsylvania 
+January 5, 2026 
+
+===== PAGE 28 =====
+CERTIFIED PUBLIC ACCOUNTANTS
+ 
+ 
+INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE  
+FOR THE MAJOR PROGRAM AND ON INTERNAL CONTROL  
+OVER COMPLIANCE REQUIRED BY THE UNIFORM GUIDANCE 
+ 
+ 
+To the Board of Directors of 
+Montgomery County Green Bank Corporation  
+ 
+Report on Compliance for The Major Federal Program 
+ 
+Opinion on the Major Federal Program 
+ 
+We have audited Montgomery County Green Bank Corporation’s compliance with the types of compliance 
+requirements identified as subject to audit in the OMB Compliance Supplement that could have a direct and 
+material effect on Montgomery County Green Bank Corporation’s major federal programs for the year ended     
+June 30, 2025.  Montgomery County Green Bank Corporation’s major federal programs are identified in the 
+summary of auditor’s results section of the accompanying schedule of findings and questioned costs. 
+ 
+In our opinion, Montgomery County Green Bank Corporation complied, in all material respects, with the 
+compliance requirements referred to above that could have a direct and material effect on each of its major federal 
+programs for the year ended June 30, 2025. 
+ 
+Basis for Opinion on the Major Federal Program 
+ 
+We conducted our audit of compliance in accordance with auditing standards generally accepted in the United 
+States of America; the standards applicable to financial audits contained in Government Auditing Standards, 
+issued by the Comptroller General of the United States; and the audit requirements of Title 2 U.S. Code of Federal 
+Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal 
+Awards (Uniform Guidance). Our responsibilities under those standards and the Uniform Guidance are further 
+described in the Auditor’s Responsibilities for the Audit of Compliance section of our report. 
+ 
+We are required to be independent of Montgomery County Green Bank Corporation and to meet our other ethical 
+responsibilities, in accordance with relevant ethical requirements relating to our audit. We believe that the audit 
+evidence we have obtained is sufficient and appropriate to provide a basis for our opinion on compliance for each 
+major federal program. Our audit does not provide a legal determination of Montgomery County Green Bank 
+Corporation’s compliance with the compliance requirements referred to above.  
+ 
+Responsibilities of Management for Compliance 
+ 
+Management is responsible for compliance with the requirements referred to above and for the design, 
+implementation, and maintenance of effective internal control over compliance with the requirements of laws, 
+statutes, regulations, rules, and provisions of contracts or grant agreements applicable to Montgomery County 
+Green Bank Corporation’s federal programs. 
+===== PAGE 29 =====
+ 
+ 
+Auditor’s Responsibilities for the Audit of Compliance 
+ 
+Our objectives are to obtain reasonable assurance about whether material noncompliance with the 
+compliance requirements referred to above occurred, whether due to fraud or error, and express an 
+opinion on Montgomery County Green Bank Corporation’s compliance based on our audit. Reasonable 
+assurance is a high level of assurance but is not absolute assurance and therefore is not a guarantee that 
+an audit conducted in accordance with generally accepted auditing standards, Government Auditing 
+Standards, and the Uniform Guidance will always detect material noncompliance when it exists. The risk 
+of not detecting material noncompliance resulting from fraud is higher than for that resulting from error, 
+as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of 
+internal control. Noncompliance with the compliance requirements referred to above is considered 
+material if there is a substantial likelihood that, individually or in the aggregate, it would influence the 
+judgment made by a reasonable user of the report on compliance about Montgomery County Green Bank 
+Corporation’s compliance with the requirements of each major federal program as a whole. 
+ 
+In performing an audit in accordance with generally accepted auditing standards, Government Auditing 
+Standards, and the Uniform Guidance, we: 
+ 
+ Exercise professional judgment and maintain professional skepticism throughout the audit. 
+ 
+ Identify and assess the risks of material noncompliance, whether due to fraud or error, and design 
+and perform audit procedures responsive to those risks. Such procedures include examining, on a 
+test basis, evidence regarding Montgomery County Green Bank Corporation’s compliance with 
+the compliance requirements referred to above and performing such other procedures as we 
+considered necessary in the circumstances. 
+ 
+ Obtain an understanding of Montgomery County Green Bank Corporation’s internal control over 
+compliance relevant to the audit in order to design audit procedures that are appropriate in the 
+circumstances and to test and report on internal control over compliance in accordance with the 
+Uniform Guidance, but not for the purpose of expressing an opinion on the effectiveness of 
+Montgomery County Green Bank Corporation’s internal control over compliance. Accordingly, no 
+such opinion is expressed. 
+ 
+We are required to communicate with those charged with governance regarding, among other matters, the 
+planned scope and timing of the audit and any significant deficiencies and material weaknesses in internal 
+control over compliance that we identified during the audit. 
+ 
+Report on Internal Control over Compliance 
+ 
+A deficiency in internal control over compliance exists when the design or operation of a control over 
+compliance does not allow management or employees, in the normal course of performing their assigned 
+functions, to prevent, or detect and correct, noncompliance with a type of compliance requirement of a 
+federal program on a timely basis. A material weakness in internal control over compliance is a 
+deficiency, or a combination of deficiencies, in internal control over compliance, such that there is a 
+reasonable possibility that material noncompliance with a type of compliance requirement of a federal 
+program will not be prevented, or detected and corrected, on a timely basis. A significant deficiency in 
+internal control over compliance is a deficiency, or a combination of deficiencies, in internal control over 
+compliance with a type of compliance requirement of a federal program that is less severe than a material 
+weakness in internal control over compliance, yet important enough to merit attention by those charged 
+with governance.   
+ 
+===== PAGE 30 =====
+ 
+ 
+Our consideration of internal control over compliance was for the limited purpose described in the 
+Auditor’s Responsibilities for the Audit of Compliance section above and was not designed to identify all 
+deficiencies in internal control over compliance that might be material weaknesses or significant 
+deficiencies in internal control over compliance. Given these limitations, during our audit we did not 
+identify any deficiencies in internal control over compliance that we consider to be material weaknesses, 
+as defined above. However, material weaknesses or significant deficiencies in internal control over 
+compliance may exist that were not identified. 
+ 
+Our audit was not designed for the purpose of expressing an opinion on the effectiveness of internal 
+control over compliance. Accordingly, no such opinion is expressed. 
+ 
+The purpose of this report on internal control over compliance is solely to describe the scope of our testing 
+of internal control over compliance and the results of that testing based on the requirements of the 
+Uniform Guidance. Accordingly, this report is not suitable for any other purpose.  
+ 
+ 
+ 
+Malvern, Pennsylvania 
+January 5, 2026 
+ 
+ 
+ 
+ 
+
+===== PAGE 31 =====
+MONTGOMERY COUNTY GREEN BANK CORPORATION 
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS 
+FOR THE YEAR ENDED JUNE 30, 2025  
+31 
+ 
+Section I - Summary of Auditor’s Results 
+ 
+Financial Statements 
+ 
+Type of auditors’ report issued:  Unmodified   
+Internal control over financial reporting:     
+          Material weakness(es) identified?  Yes     x No 
+Significant deficiency(ies) identified     not 
+considered to be material weaknesses? 
+ 
+Yes     x None reported 
+Noncompliance material to financial 
+statements noted? 
+ 
+Yes     x No 
+ 
+Federal Awards 
+ 
+Internal Control over major programs:     
+          Material weakness(es) identified?  Yes     x No 
+Significant deficiency(ies) identified     not 
+considered to be material weaknesses? 
+ 
+Yes     x None reported 
+Type of auditor’s report issued on compliance 
+for major programs: 
+ 
+Unmodified   
+Audit findings required to be reported in 
+accordance with 2 CFR section 200.516(a)? 
+ 
+Yes     x No 
+ 
+Identification of major programs: 
+ 
+AL Number(s) Name of Federal Program or Cluster 
+66.957 Greenhouse Gas Reduction Fund: National Clean Investment Fund 
+ 
+ 
+Dollar threshold used to distinguish   between Type A 
+and Type B programs: 
+ 
+    $750,000   
+ 
+Auditee qualified as low-risk auditee?      Yes     x No 
+ 
+Section II – Financial Statement Findings 
+ 
+There were no findings noted. 
+ 
+Section III – Federal Award Findings and Questioned Costs 
+ 
+There were no findings noted. 
+ 
+===== PAGE 32 =====
+MONTGOMERY COUNTY GREEN BANK CORPORATION 
+SUMMARY SCHEDULE OF PRIOR AUDIT FINDINGS AND QUESTIONED COSTS 
+FOR THE YEAR ENDED JUNE 30, 2025  
+32 
+ 
+Section II - Financial Statement Findings 
+ 
+There were no findings noted. 
+ 
+Section III - Federal Award Findings and Questioned Costs 
+ 
+There were no findings noted. 
+ 
+ 

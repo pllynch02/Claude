@@ -1,0 +1,910 @@
+
+===== PAGE 1 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC. 
+CONSOLIDATED FINANCIAL STATEMENTS IN ACCORDANCE WITH GOVERNMENT AUDITING STANDARDS AND UNIFORM GUIDANCE JUNE 30, 2025 AND 2024 
+  
+===== PAGE 2 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Contents June 30, 2025 and 2024 
+  
+ 
+          Pages  Unmodified Opinion on Financial Statements Accompanied by Supplementary  Information – Not-For-Profit Entity  .................................................................................................  1 - 1B  Consolidated Financial Statements:  Consolidated Statements of Financial Position  .............................................................................  2   Consolidated Statements of Activities and Changes in Net Assets  ...............................................  3 - 4  Consolidated Statements of Cash Flows  .......................................................................................  5  Consolidated Statements of Functional Expenses  ........................................................................  6 - 7  Notes to Consolidated Financial Statements  ................................................................................  8 - 33  Supplementary Information:  Supplemental Consolidated Statements of Financial Position  ....................................................  34 - 35  Supplemental Consolidated Statements of Activities and Changes in Net Assets  ......................  36 - 37  Schedule of Expenditures of Federal Awards  ..................................................................................  38  Report on Internal Control Over Financial Reporting and on Compliance and Other  Matters Based on an Audit of Financial Statements Performed in Accordance  With Government Auditing Standards  ............................................................................................  39 - 40  Report on Compliance for Each Major Federal Program and Report on Internal Control  Over Compliance Required by the Uniform Guidance  ....................................................................  41 - 43  Schedule of Findings and Questioned Costs  ....................................................................................  44   
+===== PAGE 3 =====
+ 
+Page 1 
+50 Washington Street Westborough, MA 01581 508.366.9100 aafcpa.com   
+    Unmodified Opinion on Financial Statements Accompanied by Supplementary  Information – Not-For-Profit Entity  Independent Auditor’s Report    To the Board of Directors of New Hampshire Community Loan Fund, Inc.:   Report on the Audit of the Financial Statements  Opinion  We have audited the consolidated financial statements of New Hampshire Community Loan Fund, Inc. (a New Hampshire corporation, not for profit) and Affiliate (collectively, the Community Loan Fund) which comprise the consolidated statements of financial position as of June 30, 2025 and 2024, and the related consolidated statements of activities and changes in net assets, cash flows and functional expenses for the years then ended, and the related notes to the consolidated financial statements.  In our opinion, the accompanying consolidated financial statements present fairly, in all material respects, the consolidated financial position of New Hampshire Community Loan Fund, Inc. and Affiliate as of June 30, 2025 and 2024, and the changes in their net assets and their cash flows for the years then ended in accordance with accounting principles generally accepted in the United States of America.  Basis for Opinion  We conducted our audits in accordance with auditing standards generally accepted in the United States of America (GAAS) and the standards applicable to financial audits contained in Government Auditing Standards, issued by the Comptroller General of the United States.  Our responsibilities under those standards are further described in the Auditor’s Responsibilities for the Audit of the Financial Statements section of our report.  We are required to be independent of the Community Loan Fund and to meet our other ethical responsibilities in accordance with the relevant ethical requirements relating to our audits.  We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinion.    Responsibilities of Management for the Financial Statements  Management is responsible for the preparation and fair presentation of these consolidated financial statements in accordance with accounting principles generally accepted in the United States of America; this includes the design, implementation, and maintenance of internal control relevant to the preparation and fair presentation of consolidated financial statements that are free from material misstatement, whether due to fraud or error.  In preparing the consolidated financial statements, management is required to evaluate whether there are conditions or events, considered in the aggregate, that raise substantial doubt about the Community Loan Fund's ability to continue as a going concern within one year after the date that the consolidated financial statements are available to be issued.     
+===== PAGE 4 =====
+ 
+Page 1A 
+Auditor’s Responsibilities for the Audit of the Financial Statements  Our objectives are to obtain reasonable assurance about whether the consolidated financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion.  Reasonable assurance is a high level of assurance but is not absolute assurance and therefore is not a guarantee that an audit conducted in accordance with GAAS and Government Auditing Standards will always detect a material misstatement when it exists.  The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.  Misstatements are considered material if there is a substantial likelihood that, individually or in the aggregate, they would influence the judgment made by a reasonable user based on the consolidated financial statements.  In performing an audit in accordance with GAAS and Government Auditing Standards, we:   Exercise professional judgment and maintain professional skepticism throughout the audit.   Identify and assess the risks of material misstatement of the consolidated financial statements, whether due to fraud or error, and design and perform audit procedures responsive to those risks.  Such procedures include examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements.   Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Community Loan Fund's internal control.  Accordingly, no such opinion is expressed.   Evaluate the appropriateness of accounting policies used and the reasonableness of significant accounting estimates made by management, as well as evaluate the overall presentation of the consolidated financial statements.   Conclude whether, in our judgment, there are conditions or events, considered in the aggregate, that raise substantial doubt about the Community Loan Fund's ability to continue as a going concern for a reasonable period of time.  We are required to communicate with those charged with governance regarding, among other matters, the planned scope and timing of the audit, significant audit findings, and certain internal control related matters that we identified during the audit.  Supplementary Information  Our audits were conducted for the purpose of forming an opinion on the consolidated financial statements as a whole.  The accompanying supplementary information shown on pages 35 through 37 is presented for purposes of additional analysis and is not a required part of the consolidated financial statements.  Additionally, the Schedule of Expenditures of Federal Awards for the year ended June 30, 2025, as required by Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards, is presented for purposes of additional analysis and is not a required part of the consolidated financial statements.  Such information is the responsibility of management and was derived from and relates directly to the underlying accounting and other records used to prepare the consolidated financial statements.  The information has been subjected to the auditing procedures applied in the audit of the consolidated financial statements and certain additional procedures, including comparing and reconciling such information directly to the underlying accounting and other records used to prepare the consolidated financial statements or to the consolidated financial statements themselves, and other additional procedures in accordance with auditing standards generally accepted in the United States of America.  In our opinion, the supplementary information shown on pages 35 through 37 and the Schedule of Expenditures of Federal Awards are fairly stated, in all material respects, in relation to the consolidated financial statements as a whole.   
+===== PAGE 5 =====
+ 
+Page 1B 
+Other Reporting Required by Government Auditing Standards  In accordance with Government Auditing Standards, we have also issued our report dated September 25, 2025, on our consideration of the Community Loan Fund’s internal control over financial reporting and on our tests of its compliance with certain provisions of laws, regulations, contracts, and grant agreements and other matters.  The purpose of that report is solely to describe the scope of our testing of internal control over financial reporting and compliance and the results of that testing, and not to provide an opinion on the effectiveness of the Community Loan Fund’s internal control over financial reporting or on compliance.  That report is an integral part of an audit performed in accordance with Government Auditing Standards in considering the Community Loan Fund’s internal control over financial reporting and compliance.     Westborough, Massachusetts September 25, 2025    
+===== PAGE 6 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.
+Consolidated Statements of Financial Position
+June 30, 2025 and 2024
+Assets 2025 2024
+Current Assets:
+Cash and cash equivalents 11,942,497$      15,664,028$      
+Marketable securities 1,985,800           2,000,647           
+Grants, contracts and other receivables 998,383              1,224,819           
+Pledges receivable 25,000                145,000              
+Current portion of loans receivable, net of allowance for credit losses
+of $125,826 and $119,504, respectively and deferred loan fees 5,670,131           5,500,468           
+Accrued interest receivable 879,786              822,166              
+Property held for sale -                           65,000                
+Prepaid expenses and other 559,335              257,591              
+Total current assets 22,060,932        25,679,719        
+Restricted Cash 5,470,490           4,695,005           
+Loans Receivable, net of current portion, deferred loan fees, and allowance for credit
+loan losses of $4,415,067 and $3,901,636 at June 30, 2025 and 2024, respectively 202,771,724      181,103,357      
+Program-Related Development Investments, net 3,498,318            5,029,452           
+Equity Investments 29,932                264,979              
+Property and Equipment, net 3,522,514           3,452,537           
+Total assets 237,353,910$    220,225,049$    
+Liabilities and Net Assets
+Current Liabilities:
+Current portion of loans payable 33,013,204 $      27,571,560$      
+Accounts payable and accrued expenses 1,331,998           852,100              
+Accrued interest payable 1,347,569           1,339,168           
+Conditional advances 67,093                186,958              
+Allowance for unfunded commitments - credit losses -                           55,507                
+Total current liabilities 35,759,864        30,005,293        
+Long-Term Liabilities:
+Loans payable, net of current portion 116,180,214      121,761,393      
+Non-recourse participation in loans receivable 34,804                35,724                
+Subordinated loans payable - equity equivalent investments 11,600,000        11,600,000        
+Total liabilities 163,574,882      163,402,410      
+Net Assets:
+Without donor restrictions:
+Program 6,059,802           5,844,577           
+Financing 55,775,978        38,519,689        
+Total without donor restrictions 61,835,780        44,364,266        
+With donor restrictions:
+Program 66,558                166,558              
+Financing 11,759,009        12,169,012        
+Pass-through 117,681              122,803              
+Total with donor restrictions 11,943,248        12,458,373        
+Total net assets 73,779,028        56,822,639        
+Total liabilities and net assets 237,353,910$    220,225,049$    
+The accompanying notes are an integral part of these consolidated statements. Page 2
+===== PAGE 7 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.
+Consolidated Statement of Activities and Changes in Net Assets
+For the Year Ended June 30, 2025
+(With Summarized Comparative Totals for the Year Ended June 30, 2024)
+2024
+Without Donor With Donor
+Restrictions Restrictions Total Total
+Operating Revenues:
+Earned revenue:
+Financial revenue:
+Interest on loans 12,975,151 $   323,097 $         13,298,248$   11,596,558 $   
+Investment income 892,943           216,883           1,109,826        888,436           
+Loan related fees 374,885           -                         374,885           425,104           
+Recovery (provision) for credit losses on  
+unfunded commitments -                         55,507              55,507              (55,507)            
+Net credit loss provision (662,389)          (24,846)            (687,235)          (536,805)          
+Less - interest expense (4,937,877)      (60,045)            (4,997,922)      (4,510,318)      
+Net financial revenue 8,642,713        510,596           9,153,309        7,807,468        
+Grant administration fees 3,821,756         -                          3,821,756        2,451,348         
+Training and other fees 15,117              -                         15,117              63,088              
+Other net losses -                         -                         -                         (25,073)            
+Total earned revenue 12,479,586      510,596           12,990,182      10,296,831      
+Public support:
+Grants - pass-through 41,789,888       -                          41,789,888      7,007,682         
+Grants and contributions 15,966,204       90,801               16,057,005      3,875,145         
+Net assets released from restrictions 1,111,400        (1,111,400)      -                         -                         
+Net assets released from restrictions - pass-through5,122                (5,122)              -                         -                         
+Less - grants passed through to others (41,795,010)    -                         (41,795,010)    (6,884,879)      
+Net public support 17,077,604      (1,025,721)      16,051,883      3,997,948        
+Total operating revenues 29,557,190      (515,125)          29,042,065      14,294,779      
+Operating Expenses:
+Program services 8,915,484        -                         8,915,484        7,368,430        
+Management and administrative 1,063,866        -                         1,063,866        915,200           
+Fundraising 476,226           -                         476,226           433,154           
+Total operating expenses 10,455,576      -                         10,455,576      8,716,784        
+Changes in net assets from operations 19,101,614      (515,125)          18,586,489      5,577,995        
+Non-Operating Revenue (Expense):
+Share of income (loss) from program-related 
+development investment (1,469,634)       -                          (1,469,634)      1,756,477         
+Net realized and unrealized loss on investments (160,466)          -                         (160,466)          (274,499)          
+Total non-operating revenue (expense) (1,630,100)      -                         (1,630,100)      1,481,978        
+Total changes in net assets 17,471,514      (515,125)          16,956,389      7,059,973        
+Net Assets:
+Beginning of year 44,364,266      12,458,373      56,822,639      40,948,704      
+Cumulative adjustment from adoption of CECL 
+on July 1, 2023 -                         -                         -                         410,830           
+Net asset transfer - from NCIC acquisition -                         -                         -                         8,403,132        
+End of year 61,835,780$   11,943,248$   73,779,028$   56,822,639$   
+2025
+The accompanying notes are an integral part of these consolidated statements. Page 3
+===== PAGE 8 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.
+Consolidated Statement of Activities and Changes in Net Assets
+For the Year Ended June 30, 2024
+Without Donor With Donor
+Restrictions Restrictions Total
+Operating Revenues:
+Earned revenue:
+Financial revenue:
+Interest on loans 11,461,180$     135,378$           11,596,558$     
+Investment income 810,866             77,570               888,436             
+Loan related fees 425,104             -                          425,104             
+Provision for credit losses on unfunded 
+commitments (55,507)              -                          (55,507)              
+Net credit loss (provision) recovery (552,420)            15,615               (536,805)            
+Less - interest expense (4,502,693)        (7,625)                (4,510,318)        
+Net financial revenue 7,586,530          220,938             7,807,468          
+Grant administration fees 2,451,348          -                          2,451,348          
+Training and other fees 63,088               -                          63,088               
+Other net losses (25,073)              -                          (25,073)              
+Total earned revenue 10,075,893       220,938             10,296,831       
+Public support:
+Grants - pass-through 6,878,379          129,303             7,007,682          
+Grants and contributions 2,060,293          1,814,852          3,875,145          
+Net assets released from restrictions 2,132,090          (2,132,090)        -                          
+Net assets released from restrictions - pass-through6,500                  (6,500)                -                          
+Less - grants passed through to others (6,884,879)        -                          (6,884,879)        
+Net public support 4,192,383          (194,435)            3,997,948          
+Total operating revenues 14,268,276       26,503               14,294,779       
+Operating Expenses:
+Program services 7,368,430          -                          7,368,430          
+Management and administrative 915,200             -                          915,200             
+Fundraising 433,154             -                          433,154             
+Total operating expenses 8,716,784          -                          8,716,784          
+Changes in net assets from operations 5,551,492          26,503               5,577,995          
+Non-Operating Revenue (Expense):
+Share of income from program-related 
+development investment 1,756,477          -                          1,756,477          
+Net realized and unrealized loss on investments (274,499)            -                          (274,499)            
+Total non-operating revenue (expense) 1,481,978          -                          1,481,978          
+Total changes in net assets 7,033,470          26,503               7,059,973          
+Net Assets:
+Beginning of year 32,771,274       8,177,430          40,948,704       
+Cumulative adjustment from adoption of CECL 
+on July 1, 2023 -                          410,830             410,830             
+Net asset transfer - from NCIC acquisition 4,559,522          3,843,610          8,403,132          
+End of year 44,364,266$     12,458,373$     56,822,639$     
+The accompanying notes are an integral part of these consolidated statements. Page 4
+===== PAGE 9 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.
+Consolidated Statements of Cash Flows
+For the Years Ended June 30, 2025 and 2024
+2025 2024
+Cash Flows from Operating Activities:
+Changes in net assets 16,956,389$    7,059,973$      
+Adjustments to reconcile changes in net assets to net cash provided by operating activities:
+Depreciation 256,038            261,166            
+Loans payable converted to contributions (97,828)             (263,851)           
+Net credit loss provision 687,235            536,805            
+(Recovery) provision for credit losses on unfunded commitments (55,507)             55,507              
+Net loss on equity investments and marketable securities 160,466            274,499            
+Amortization of premiums/discounts on marketable securities 29,541              8,977                
+Share of (income) loss from program-related development investment 1,469,634         (1,756,477)       
+Other net losses -                         28,823              
+Changes in operating assets and liabilities:
+Grants, contracts and other receivables 226,436            (476,999)           
+Pledges receivable 120,000            105,000            
+Accrued interest receivable (57,620)             (93,292)             
+Prepaid expenses and other (301,744)           (81,473)             
+Deferred loan fees 160,327            (51,833)             
+Accounts payable and accrued expenses 479,898            80,658              
+Accrued interest payable 8,401                91,477              
+Conditional advances (119,865)           (17,564)             
+Net cash provided by operating activities 19,921,801      5,761,396         
+Cash Flows from Investing Activities:
+Issuance of loans receivable (34,268,082)     (33,376,746)     
+Principal payments of loans receivable 11,581,570      16,678,148      
+Purchase of property and equipment (326,015)           (56,833)             
+Proceeds from property held for sale 65,000              167,360            
+Cash acquired through acquisition of NCIC -                         6,506,595         
+Purchases of marketable securities (14,855,908)     (1,882,722)       
+Proceeds from sale of marketable securities 14,915,795      2,396,094         
+Purchases of program-related development investments (1,000)               -                         
+Dividends received from program-related development investments 62,500 78,125
+Net cash used in investing activities (22,826,140)     (9,489,979)       
+Cash Flows from Financing Activities:
+Proceeds from loans payable 9,673,545         17,964,759      
+Payments on line of credit -                         (378,007)           
+Principal payments on loans payable (9,715,252)       (7,122,490)       
+Principal payments on subordinated loans payable - equity equivalent investments -                         (500,000)           
+Net cash provided by (used in) financing activities (41,707)             9,964,262         
+Net Change in Cash, Cash Equivalents and Restricted Cash (2,946,046)       6,235,679         
+Cash, Cash Equivalents and Restricted Cash:
+Beginning of year 20,359,033      14,123,354      
+End of year 17,412,987$    20,359,033$    
+Reconciliation of Cash, Cash Equivalents and Restricted Cash Reported 
+Within the Statements of Financial Position:
+Cash and cash equivalents 11,942,497$    15,664,028$    
+Restricted cash 5,470,490         4,695,005         
+Total cash, cash equivalents and restricted cash shown in the statements of cash flows 17,412,987$    20,359,033$    
+Supplemental Disclosure of Cash Flow Information:
+Cash paid for interest 4,989,521$      4,391,085$      
+Other real estate owned acquired by foreclosure -$                       65,000$            
+Supplemental Disclosure of Non-Cash Transactions:
+Loans receivable, net of allowance for credit losses acquired from NCIC acquisition -$                       7,615,099$      
+Interest receivable acquired from NCIC acquisition -$                       48,128$            
+Other receivables acquired from NCIC acquisition -$                       4,689$              
+Loans payable acquired from NCIC acquisition -$                       5,743,623$      
+Interest payable acquired from NCIC acquisition -$                       27,756$            
+The accompanying notes are an integral part of these consolidated statements. Page 5
+===== PAGE 10 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.
+Consolidated Statement of Functional Expenses
+For the Year Ended June 30, 2025
+(With Summarized Comparative Totals for the Year Ended June 30, 2024)
+2024
+Management
+Capitalization Total and
+Community Affordable Business and and Program Adminis-
+Services Housing Community Philanthropy Services trative Fundraising Total Total
+Personnel costs:
+Salaries 87,140 $       3,036,307$   1,710,837 $   639,691 $       5,473,975$   407,184 $       275,359 $     6,156,518$      4,825,383 $   
+Benefits 13,268 516,176 281,605 107,758 918,807          64,116 44,574 1,027,497         791,107          
+Payroll taxes 6,080 232,927 127,733 48,627 415,367          30,722 20,372 466,461            354,683          
+Total personnel costs 106,488       3,785,410      2,120,175       796,076          6,808,149      502,022          340,305        7,650,476        5,971,173       
+Professional services 5,541 358,852 146,056 41,458 551,907          130,099 22,235 704,241            1,044,859      
+Office expense 3,094             168,876 95,433 44,602 312,005          75,603            14,958          402,566           299,536          
+Public education 1,207             133,861 155,073 33,244 323,385          29,305            3,872             356,562           214,517          
+Occupancy 2,827             105,229 54,550 30,510 193,116          133,667          4,853             331,636           292,919          
+Training and travel 1,514 144,649 78,271 61,915 286,349          34,323 4,473 325,145            244,764          
+Depreciation 2,013             76,727 36,671 21,983 137,394          115,446          3,198             256,038           261,166          
+Administrative services 963               173,118 21,509 13,314 208,904          22,283            13,358          244,545           224,552          
+Communications 242                18,303 7,589 16,234 42,368            5,986              67,006         115,360           103,809          
+Equipment expense 620                26,354 20,135 4,798 51,907            15,132            1,968             69,007              59,489            
+Total expenses 124,509$     4,991,379$   2,735,462$   1,064,134$   8,915,484$   1,063,866$   476,226$     10,455,576$    8,716,784$   
+Support ServicesProgram Services
+2025
+The accompanying notes are an integral part of these consolidated statements. Page 6
+===== PAGE 11 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.
+Consolidated Statement of Functional Expenses
+For the Year Ended June 30, 2024
+Management
+Capitalization Total and
+Community Affordable Business and and Program Adminis-
+Services Housing Community Philanthropy Services trative Fundraising Total
+Personnel costs:
+Salaries 97,836 $       2,513,963$    1,102,956 $    554,708 $     4,269,463$    320,494 $     235,426 $     4,825,383$    
+Benefits 16,693          419,137         172,845          90,711          699,386         54,044          37,677          791,107         
+Payroll taxes 7,316            183,947         82,426            40,932          314,621         23,062          17,000          354,683         
+Total personnel costs 121,845       3,117,047      1,358,227       686,351        5,283,470      397,600        290,103        5,971,173      
+Professional services 7,828           513,365         265,965          60,748          847,906         175,768        21,185          1,044,859      
+Office expense 3,014            130,086         52,457            42,038          227,595         60,030          11,911          299,536         
+Public education 36                  97,265           87,385            28,852          213,538         872                107                214,517         
+Occupancy 2,549            106,301         35,908            24,288          169,046         119,835        4,038            292,919         
+Training and travel 1,091           118,896         47,871            53,049          220,907         21,273          2,584            244,764         
+Depreciation 2,274            94,671           32,021            21,671          150,637         106,926        3,603            261,166         
+Administrative services 963               160,249         15,250            15,479          191,941         18,196          14,415          224,552         
+Communications 48                  9,800             3,640              5,747            19,235           1,082            83,492         103,809         
+Equipment expense 703                23,850           15,293            4,309            44,155           13,618          1,716            59,489           
+Total expenses 140,351$     4,371,530$    1,914,017$    942,532$     7,368,430$    915,200$     433,154$     8,716,784$    
+Program Services Support Services
+The accompanying notes are an integral part of these consolidated statements. Page 7
+===== PAGE 12 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 8 
+1.  OPERATIONS, TAX STATUS AND RELATED ENTITIES  New Hampshire Community Loan Fund, Inc. (the Community Loan Fund) was organized in 1983 under the laws of New Hampshire (NH) as a charitable corporation qualifying for Federal income tax exemption under Section 501(c)(3) of the Internal Revenue Code (IRC).  The Community Loan Fund is also exempt from state income taxes.  Donors may deduct contributions made to the Community Loan Fund within the IRC requirements.  The mission of the Community Loan Fund is to provide people and communities, with the financial, human, and civic resources they need to be economically secure.  This is done by:   Providing loans, capital and coaching (formerly called technical assistance);  Complementing and extending the reach of conventional lenders and public institutions; and  Bringing people and institutions together to solve problems.   The Community Loan Fund addresses the most-pressing needs of people and communities by lending and bringing training and technical assistance to three broad sectors: Affordable Housing, Community Services and Business Finance.  Program areas also include Capitalization and Philanthropy and Public Policy.  Affordable Housing   ROC-NH - Since 1984, building long-term value for owners of manufactured homes in New Hampshire’s resident-owned communities by helping them purchase, manage, and improve their communities.  Welcome Home Loans - Since 2002, providing mortgage loans for manufactured homes in resident-owned communities.  Starting in 2012, also providing mortgage loans to owners and buyers of manufactured homes on their own land.  Multi-Family Housing - Since 1984, providing loans and technical assistance to nonprofit housing organizations to acquire, develop and manage affordable rental housing.  Business Finance  Business Finance - Since 1996, providing loans and business education to support the growth and resilience of small businesses and their ability to provide quality jobs.  After acquiring North Country Investment Capital in fiscal year 2024, providing commercial lending, grant writing, project management, and technical assistance grants to NH and Vermont (VT) businesses and municipalities with a focus on Northern NH and Northeast VT.  Farm and Food Initiative - Since 1984, delivering flexible financing and customized training to grow and strengthen local food systems.  Community-Driven Economic Empowerment (C-DEE) - Since 2021, providing capacity-building funding for NH entrepreneurs to help their businesses become financially resilient and self-sufficient.  Energy Solutions Initiative - Since 2019, providing loans and assistance to support projects that help people, businesses and nonprofits reduce their energy costs.  
+  
+===== PAGE 13 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 9 
+1. OPERATIONS, TAX STATUS AND RELATED ENTITIES (Continued)  Business Finance (Continued)  Sustainable Food Systems Program - Since 2023, USDA is partnering with the Community Loan Fund to make available $186,705,000 in grants through the Local Meat Capacity Grant Program and the Meat and Poultry Processing Expansion Program.  The programs aim to promote fairer, more competitive and more resilient meat and poultry supply chains.   Community Services  Community Services Lending - Since 1984, providing loans to nonprofit organizations to buy, renovate, or build facilities that support essential community services.  Child Care Initiative - Since 1995, providing loans, training and assistance to childcare centers to preserve and create facilities.  Capitalization and Philanthropy and Public Policy   Capitalization and Philanthropy - Since 1984, enabling people and institutions to invest and donate capital for basic human needs.  Public Policy - Since 2009, working to shape public policy in credit- and program-related matters that affect people and families with low incomes, or that affect the Community Loan Fund’s ability to serve them.  Community Development Financial Institution  The Community Loan Fund has been granted status as a Community Development Financial Institution (CDFI) by the U.S. Department of the Treasury (the Treasury), qualifying it for certain awards and support from the Treasury.  During fiscal years 2025 and 2024, the Community Loan Fund received awards of $1,250,000 and $2,478,839, respectively.    Housing Affordability Partnership, LLC (HAP) - During fiscal year 2023, the Community Loan Fund established HAP, a single member LLC, a NH limited liability company, for the purpose of partnering with NH nonprofit affordable housing developers utilizing the Low-Income Housing Tax Credits (LIHTC) as the owner of the Disaffiliated Shareholder Entities in LIHTC transactions.  The Community Loan Fund is the sole member of HAP.  As of June 30, 2025, HAP participated in one LIHTC project and is consolidated within the financial statements.  All activities in 2025 are immaterial to the financial statements as a whole.  Caledonia Community Loan Fund Holdings, LLC (CCLFH) - During fiscal year 2024, the Community Loan Fund established CCLFH, a single member LLC, a Vermont limited liability company, for the purpose of holding two parcels of industrial land that are expected to be transferred to the Community Loan Fund in fiscal year 2026, as a subsequent asset transfer related to the acquisition of Northern Community Investment Corporation in fiscal year 2024.  The Community Loan Fund is the sole member of CCLFH.  As of June 30, 2025, CCLFH does not hold any financial assets.  Due to the nature of no financial activity, CCLFH is not considered consolidated within the financial statements as of June 30, 2025 or 2024.   
+  
+===== PAGE 14 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 10 
+2. SIGNIFICANT ACCOUNTING POLICIES   Basis of Presentation  The Community Loan Fund and Affiliate prepares its consolidated financial statements in accordance with generally accepted accounting standards and principles (U.S. GAAP) established by the Financial Accounting Standards Board (FASB).  References to U.S. GAAP in these notes are to the FASB Accounting Standards Codification (ASC).  Principles of Consolidation  The consolidated financial statements include the accounts of the Community Loan Fund and its wholly owned subsidiary: Housing Affordability Partnership, LLC (see Note 1).   New Hampshire Community Loan Fund, Inc. and the related organization are collectively referred to as “the Community Loan Fund” in the accompanying consolidated financial statements.  All significant balances (if any) between classes of net assets, intercompany balances and transactions have been eliminated from the accompanying consolidated financial statements. There were no intercompany transactions during fiscal year 2025.  Estimates  The preparation of consolidated financial statements in accordance with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reporting period.  Actual results could differ from those estimates.  Fair Value Measurements   The Community Loan Fund follows the accounting and disclosure standards pertaining to ASC Topic, Fair Value Measurements, for qualifying assets and liabilities.  Fair value is defined as the price that the Community Loan Fund would receive upon selling an asset or pay to settle a liability in an orderly transaction between market participants.  The Community Loan Fund uses a framework for measuring fair value that includes a hierarchy that categorizes and prioritizes the sources used to measure and disclose fair value.  This hierarchy is broken down into three levels based on inputs that market participants would use in valuing the financial instruments based on market data obtained from sources independent of the Community Loan Fund.  Inputs refer broadly to the assumptions that market participants would use in pricing the financial instrument, including assumptions about risk.  Inputs may be observable or unobservable.  Observable inputs are inputs that reflect the assumptions market participants would use in pricing the financial instrument developed based on market data obtained from sources independent of the reporting entity.  Unobservable inputs are inputs that reflect the reporting entity’s own assumptions about the assumptions market participants would use in pricing the asset developed based on the best information available.  The three-tier hierarchy of inputs is summarized in the three broad levels as follows:   Level 1 - Inputs that reflect unadjusted quoted prices in active markets for identical assets at the measurement date.   Level 2 - Inputs other than quoted prices that are observable for the asset either directly or indirectly, including inputs in markets that are not considered to be active.   Level 3 - Inputs that are unobservable, and which require significant judgment or estimation. 
+===== PAGE 15 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 11 
+2. SIGNIFICANT ACCOUNTING POLICIES (Continued)  Fair Value Measurements (Continued)  An asset or liability's level within the framework is based upon the lowest level of any input that is significant to the fair value measurement.  Revenue Recognition  Grants and contributions may be conditional or unconditional in accordance with ASU 2018-08, Not-for-Profit Entities (Topic 958): Clarifying the Scope and the Accounting Guidance for Contributions Received and Contributions Made.  A grant or contribution is considered conditional when the donor imposes both a barrier and a right of return.  Conditional grants and contributions are recognized as revenue on the date all donor-imposed barriers are overcome or explicitly waived by the donor.  Barriers may include specific and measurable outcomes, limitations on the performance of an activity, and other stipulations related to the grant or contribution.  A donor has a right of return of any assets transferred or a right of release of its obligation to transfer any assets in the event the Community Loan Fund fails to overcome one or more barriers.  Assets received before the barrier is overcome are accounted for as refundable or conditional advances.   Grants and contributions are recorded as revenue when unconditionally received or pledged.  Grants and contributions with donor restrictions are transferred to net assets without donor restrictions as costs related to purpose restrictions are incurred or time restrictions have lapsed. Loans payable and EQ2s (see Notes 11 and 12) on occasion are converted to contributions by the investors.  During fiscal years 2025 and 2024, there were three and fifteen contributed loans payable and related interest totaling $97,828 and $263,851, respectively, which are included in grants and contributions in the accompanying consolidated statements of activities and changes in net assets.    Interest revenues from loans, investments and other financial instruments are recognized as revenues without donor restrictions as earned on an accrual basis except where restricted by donors.  When significant, the Community Loan Fund amortizes net loan commitment and origination fees over the terms of the related loans receivable.  Unamortized deferred loan fees are included as an adjustment to the carrying value of loans receivable (see Note 5).  Grant administration fees are recognized on the accrual basis as services described within the grant agreements are delivered or according to relevant benchmarks of the grant agreements.    Training and other fees are recognized on the accrual basis as services or goods are delivered or according to relevant benchmarks or criteria of the underlying agreements.  All other revenue is recognized as earned.  Cash and Cash Equivalents and Concentration of Credit Risk  The Community Loan Fund considers all depository accounts and other highly liquid investments originated with a maturity of three months or less to be cash equivalents.  For the purpose of the statements of cash flows, cash, cash equivalents and restricted cash are considered cash.  Cash deposits are guaranteed up to certain amounts by the Federal Deposit Insurance Corporation (FDIC) for bank accounts, and by the Securities Investor Protection Corporation for brokerage accounts.  At times, cash balances may exceed insured amounts.  Other deposits exceeding insurance limits at June 30, 2025 and 2024, are held in insured cash sweep accounts or are separately collateralized by securities held by the financial institutions.   
+===== PAGE 16 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 12 
+2. SIGNIFICANT ACCOUNTING POLICIES (Continued)  Restricted Cash  The Community Loan Fund considers restricted interest-bearing deposits separate from cash and cash equivalents, and they are classified as long-term assets due to the nature of the agreements and availability of the funds.  At June 30, 2025 and 2024, total restricted cash was $5,470,490 and $4,695,005, respectively.  This includes cash restricted for the United States Department of Agriculture (USDA) Intermediary Relending Program (IRP) (see Note 11), the Small Business Administration (SBA) Microloan Program (see Note 11), and other grant programs.    Marketable Securities   Marketable securities are carried at fair value and consist of U.S. government agency and Treasury securities, as well as equity mutual funds held for charitable gift annuities (see Notes 3 and 13, respectively).  Realized losses arising from sales of marketable securities are reported as other net losses, a component of changes in net assets from operations in the accompanying consolidated statements of activities and changes in net assets.  Unrealized gains and losses are reported as a separate component of non-operating revenue (expense).  Changes in fair value are unrealized but can result in significant volatility in investment income reported each year.  It is the Community Loan Fund’s general intent to hold securities with fixed maturities until maturity.  Securities with fixed maturities that mature within one year are classified as current assets.  Marketable securities are classified as current assets because there are no restrictions on their use, and they are readily marketable.    A summary of inputs used in valuing marketable securities as of June 30, 2025 and 2024, is included in Note 3.  Grants, Contracts, Pledges, Other Receivables and Allowance for Doubtful Accounts  The Community Loan Fund receives grants and pledges from donors.  Grants, contracts, pledges and other receivables are stated at unpaid balances.  The Community Loan Fund establishes allowances for uncollectible receivables.  The allowances are based on management’s judgment on the collectability of outstanding receivables.  There was no allowance deemed necessary as of June 30, 2025 and 2024.  Loans and Interest Receivable and Allowance for Credit Losses  General  Loans receivable are stated net of deferred loan fees, loan participations qualifying as loan sales and an allowance for credit losses (see Notes 5 and 6).  Interest on loans is calculated by using the simple interest method on monthly balances of the principal amount outstanding.   The allowance for credit losses (ACL) represents an amount which, in management's judgment, reflects the lifetime expected losses that may be incurred on outstanding loans and unfunded commitments, at the statement of financial position date based on the evaluation of the size and current risk characteristics of the loan portfolio, past events, current conditions, and reasonable and supportable forecasts of future economic conditions utilizing both quantitative and qualitative assessments.  The allowance is measured and recorded upon the initial recognition of a financial asset.  The allowance is reduced by charge-offs (net of recoveries of previous losses) and is increased or decreased by a provision (recovery) for credit losses, which is recorded as a current period expense (revenue).  Such allowance is based on credit losses over the loans initial expected term.  The loans in the Community Loan Fund’s portfolio do have set repayment terms. 
+  
+===== PAGE 17 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 13 
+2. SIGNIFICANT ACCOUNTING POLICIES (Continued)  Loans and Interest Receivable and Allowance for Credit Losses (Continued)  General (Continued)  In accordance with ASU No. 2016-13, Financial Instruments – Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments (ASU 2016-13), the Community Loan Fund made an accounting policy election to exclude interest receivable from the measurement of the ACL and follows a non-accrual policy to reverse any accrued, uncollected interest income as loans are moved to non-accrual status.  The Community Loan Fund considers the length of time without payment from the borrower and other events when determining that the loans should be moved to non-accrual status and no longer recognize interest revenue on the loan.  Determination of the appropriateness of the ACL is inherently complex and requires the use of significant and highly subjective estimates.  The reasonableness of the allowance is reviewed periodically by the management.  Below Market Loans  U.S. GAAP requires not-for-profit organizations to record interest expense and contribution revenue in connection with loans payable that are interest free or that have below-market interest rates.  Likewise, funds loaned to borrowers at below-market interest rates should also result in imputed revenue and contribution expense.  The Community Loan Fund believes that the benefits derived from below-market rate loans received are passed through to the borrowers via below-market rate loans made, and that there is no material difference between community development finance market rates and the stated rates of loans in their portfolios.  No adjustments have been made to the accompanying consolidated financial statements to reflect imputed income or expense associated with below-market interest rates.   Loans under Loss Rate Method  The Community Loan Fund's ACL process involves procedures to appropriately consider the unique risk characteristics of its financial assets.  The Community Loan Fund determined the ACL using the snapshot or cumulative loss rate method by pooling their loan portfolio into nine  segments: ROC-NH loans, ROC-NH predevelopment loans, Welcome Home Loans, Other Single Family Housing loans, Multi-Family Housing loans, Community Service loans, Business Finance loans, NCIC loans, and SBA Microloans.  These pooled segments were determined based on similar characteristics, contract terms, collateral types, types of associated industries, and/or business purpose of the loans.  Management reviewed the Community Loan Fund’s loss history and determined a different lookback period for each pool of loans.  These lookback periods align with the most accurate depiction of management’s assessment of history of loss and available quality data information in their systems.  The lookback periods for the loan pool segments listed below are in the year the Community Loan Fund began originating these types of loans.   ROC-NH loans - 42 years  ROC-NH predevelopment loans - 42 years  Welcome Home loans - 23 years  Other Single Family Housing loans - 36 years  Multi-Family Housing loans - 42 years  Community Service loans - 38 years  Business Finance loans - 15 years  NCIC loans - 12 years  SBA Microloans - 1 year plus a 24-year lookback from the Community Loan Fund’s previous microloan program which was active from 1997 to 2020.  
+===== PAGE 18 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 14 
+2. SIGNIFICANT ACCOUNTING POLICIES (Continued)  Loans and Interest Receivable and Allowance for Credit Losses (Continued)  Loans under Loss Rate Method (Continued)  In conjunction with the cumulative lookback periods noted above, management also performed a ten year and five year lookback period and weighed the collective loss rates to arrive at a final weighted-average percentage, referred to as weighted historical loss rate (see Note 6), to be assessed for the allowance for credit losses by segment.   Management also evaluated qualitative adjustment factors that increase the credit risk exposure of the Community Loan Fund upon originating a loan.  Management monitors and assesses the qualitative factors (see Note 6) to determine if they continue to be the most predictive indicator of losses with the Community Loan Fund’s loan portfolio and may adjust its assumptions to account for differences between expected and actual losses from period to period.  The variability of management’s assumptions could alter the ACL on loans and impact the future result of operations and financial condition.   Individually Assessed Loans  Loans that do not share risk characteristics of a pool are evaluated on an individual basis.  Loans evaluated individually are also not included in the collective evaluation of a loan pool.  When management determines that foreclosure is probable or when the borrower is experiencing financial difficulty at the reporting date and repayment is expected to be provided substantially through the operation or sale of the collateral, expected credit losses are based on the fair value of the collateral at the reporting date, adjusted for selling costs as appropriate.  There were 44 and 53 loans totaling $2,279,166 and $3,037,200 that were evaluated on an individual basis as of June 30, 2025 and 2024, respectively.  Allowance for credit losses on these subset of loans was $520,977 and $564,222 as of June 30, 2025 and 2024, respectively.  The Community Loan Fund employs one of three methods, or a combination thereof, to determine and measure impairment: the Present Value of Future Cash Flow Method, the Fair Value of Collateral Method, and the Observable Market Price of a Loan Method.  To perform an impairment analysis, the Community Loan Fund reviews a loan’s internally assigned risk rating, its outstanding balance, value of the collateral, guarantors, and a current report of the action being implemented.  Based on the specific loan, one of the impairment methods is chosen or a combination of any impairment method is determined, based on criteria established for impaired loans.  When calculating a specific ACL for smaller, homogeneous groups of impaired loans, a collective evaluation is performed and documented which is based on the loss history of the impaired loan category using a ten-year lookback period.  Unfunded Commitments  Unfunded loan commitments are reviewed to determine if they are considered unconditionally cancellable.  The Community Loan Fund establishes reserves for unfunded commitments that do not meet that criteria as a liability in the statements of financial position.  Changes to the liability are included in the provision for credit losses in the statements of activities and changes in net assets.  The allowance for credit losses for unfunded lending commitments is estimated using the same methodologies as portfolio loans, taking into consideration management’s assumption of the likelihood that funding will occur.    
+  
+===== PAGE 19 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 15 
+2. SIGNIFICANT ACCOUNTING POLICIES (Continued)  Program-Related Development Investment  The Community Loan Fund maintains an equity investment in an uncombined affiliate where the Community Loan Fund exercises significant influence over the affiliate’s operations (see Note 7).  The Community Loan Fund accounts for this investment using the equity method.  Whether or not the Community Loan Fund exercises significant influence with respect to an affiliate depends on an evaluation of several factors including, among others, representation on the affiliate’s Board of Directors, significance of ownership in the voting securities of the affiliate, and participation in management activities significant to the investee.  Under the equity method, the investment is initially recorded at cost and then increased or decreased by the share of income or loss of the affiliate.  Distributions of cash reduce the carrying value of the investment.  The Community Loan Fund also regularly evaluates the carrying value of the investment for potential impairment.   Equity Investments  Equity investments are generally interests in closely-held businesses and are acquired in connection with certain Business Finance loan agreements.  Equity investments are carried at fair value (see Note 8) as estimated in good faith under a Board-approved Valuation Policy.  Management uses all information available, including third-party valuation reports, to determine an appropriate valuation for each investment.  The inputs used, including those used in third-party valuations, include valuation techniques based on multiples of earnings or revenues and hypothetical sale or liquidation scenarios.  As in many sale or liquidation scenarios, there are key inputs, such as multiples of revenue, which are often important in early-stage companies that have not established profitability that if the multiple were to increase or decrease, could result in a material change in the value realized upon sale.  Warrants to obtain common stock are considered as derivative instruments.  As such, warrants are carried at fair value with changes in fair value recorded in the statements of activities and changes in net assets.  Warrants, all of which are detachable, have been obtained in conjunction with issuing loans or investments to certain portfolio companies.  Property Held for Sale  Property held for sale consisted of real estate that was acquired through loan foreclosure or conveyance in lieu of foreclosure.  As of June 30, 2024, there was one property held for sale.  No properties were held for sale as of June 30, 2025.  Property and Equipment and Depreciation   Property and equipment are recorded at cost.  The Community Loan Fund capitalizes purchases of $5,000 or more.  Maintenance, repairs and minor renewals are expensed as incurred and renewals and betterments are capitalized.  Depreciation of property and equipment is calculated using the straight-line method over the following estimated useful lives:  Buildings and improvements 10 - 40 years Office furniture and equipment 3 - 5 years  The Community Loan Fund accounts for the carrying value of its long-lived assets in accordance with ASC Topic, Property, Plant and Equipment.  As of June 30, 2025 and 2024, the Community Loan Fund has not recognized any reduction in the carrying value of its property and equipment when considering these requirements. 
+  
+===== PAGE 20 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 16 
+2. SIGNIFICANT ACCOUNTING POLICIES (Continued)  Conditional Advances  The Community Loan Fund records certain contracts and grant funds not currently deployed as conditional advances in the accompanying consolidated statements of financial position.  Conditional advances are made up of grant funds for the following as of June 30:       2025          2024       USDA RBDG Small Business Cost Share Program $  62,893 $              -  Federal Home Loan Bank AHP Subsidy for Veterans First Project  4,200  116,963 USDOT Coronavirus Relief Fund Subsidy for Veterans Housing   -   68,000 Other               -          1,995     $  67,093 $  186,958  Net Asset Classifications  Net Assets Without Donor Restrictions - Include those net assets that bear no external restrictions and are generally available for use by the Community Loan Fund.  These include certain funds set aside by the Board of Directors for loan loss reserves (see below) for funds classified as general for financing.   Net Assets With Donor Restrictions - Include net assets subject to donor-imposed restrictions.  Some donor-imposed restrictions are temporary in nature, such as those that will be met by the passage of time or other events, or programs run by the Community Loan Fund.  Other donor-imposed restrictions are perpetual in nature, where the donor stipulates that resources be maintained for particular use in perpetuity.  Net assets with donor-imposed restrictions are released when the restriction expires; that is, when the stipulated time has elapsed, when the stipulated purpose for which the resource was restricted has been fulfilled, or both.   Electively, the Community Loan Fund reports each class of net assets within the following sub-categories:  Program - Include net assets that are restricted to cover program delivery expenses and general operating functions of the Community Loan Fund, which could include salary, program costs, overhead, and other expenses.  These net assets may be restricted for the program delivery expenses of a particular program or may be general operating support which carries a time restriction.  Financing - Net assets that are restricted or internally designated for mission-related lending and investing.  Where restricted by donors, these include net assets which will be re-deployed as lending capital (and remain as with donor restrictions) unless the grant is released due to a restriction being met.  Because donors generally allow contributions to this category of net assets to be used to offset lending losses, the Community Loan Fund releases from restriction an amount equivalent to annual net loan loss provision (see Note 6).  To the extent the Community Loan Fund has net recoveries above and beyond any credit loss provision, the amount is restored to this category.  The Community Loan Fund released $598,998 and $552,420 related to net credit/loss provision for the years ended June 30, 2025 and 2024, respectively.    
+  
+===== PAGE 21 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 17 
+2. SIGNIFICANT ACCOUNTING POLICIES (Continued)  Net Asset Classifications (Continued)  Pass-Through - Net assets that are restricted amounts to be passed through (re-granted) to other organizations or individuals for mission-related purposes.  These net assets are not available to be used for financing activities or program activities.  The Community Loan Fund also classifies these subcategories of net assets with donor restrictions into three groups:   Purpose restricted net assets include amounts restricted for program activities or mission-related financing activities of the Community Loan Fund.   Time restricted for future periods represent restricted grant funds with donor-imposed time restrictions.  Net Assets With Donor Restrictions   Net assets with donor restrictions are restricted as follows as of June 30:  
+                                            2025                                            
+ 
+ 
+                         Program Initiative                         
+ 
+ 
+Purpose     
+    Restricted    
+        Time 
+Restricted for   
+Future Periods  
+ 
+ 
+       Total         
+Program Activities:    
+Program Delivery - ROC-NH $          66,558 $                 -  $        66,558 
+    
+Financing Activities:    
+Restricted in General for Financing 6,191,440  -  6,191,440 
+Restricted for Financing - NCIC 4,519,636 -  4,519,636 
+Restricted for Financing - CDFI Fund ERP        1,047,933                   -         1,047,933 
+    
+Total Financing Activities     11,759,009                   -      11,759,009 
+    
+Pass Through Activities:    
+ROC Infrastructure           117,681                   -           117,681 
+    
+Total net assets with donor restrictions $  11,943,248 $                -  $  11,943,248 
+ 
+  
+===== PAGE 22 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 18 
+2. SIGNIFICANT ACCOUNTING POLICIES (Continued)  Net Asset Classifications (Continued)  Net Assets With Donor Restrictions (Continued)  
+                                            2024                                            
+ 
+ 
+                         Program Initiative                         
+ 
+ 
+Purpose     
+    Restricted    
+        Time 
+Restricted for   
+Future Periods  
+ 
+ 
+       Total         
+Program Activities:    
+Program Delivery - ROC-NH $           41,560   $                  -       $         41,560   
+Program Delivery - C-DEE 25,000 -  25,000 
+Program Delivery - Farm Food Initiative           100,000                     -           100,000 
+    
+Total Program Activities           166,560                     -           166,560 
+    
+Financing Activities:    
+Restricted in General for Financing 6,271,828  54,300 6,326,128 
+Restricted for Financing - NCIC 4,064,547 -  4,064,547 
+Restricted for Financing - CDFI Fund ERP 1,435,335 -  1,435,335 
+Restricted for ROC Financing - HUD-EDI-
+CPF 
+ 
+           343,000 
+ 
+                   -  
+ 
+         343,000 
+    
+Total Financing Activities      12,114,710          54,300     12,169,010 
+    
+Pass Through Activities:    
+ROC Infrastructure            122,803                    -            122,803 
+    
+Total net assets with donor restrictions $   12,404,073 $       54,300 $  12,458,373 
+ Net assets were released from donor restrictions by incurring expenses satisfying the restricted purpose or by occurrence of the passage of time or other events specified by the donors as follows for the years ended June 30:         2025              2024           Satisfaction of purpose restrictions:   CDFI Fund - ERP $     387,402 $                 -  Farm Food Initiative 100,000 100,000 Business Finance - C-DEE         25,000                     -  Pass-through ROC-NH 5,122 6,500 CDFI Fund - Capital Magnet Fund (see Note 14)                     -  1,425,000 General Program Support                     -  50,000 ROC-NH                     -              4,670    Total releases from purpose restrictions 517,524 1,586,170    Net credit/loan loss provision        598,998        552,420    Total releases $  1,116,522 $  2,138,590  
+  
+===== PAGE 23 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 19 
+2. SIGNIFICANT ACCOUNTING POLICIES (Continued)  Statements of Activities and Changes in Net Assets  Transactions deemed by management to be ongoing, major, or central to the provision of program services are reported as operating revenues and operating expenses in the accompanying consolidated statements of activities and changes in net assets.  Non-operating revenue (expense) consists of income (loss) from program-related development investments and net realized and unrealized loss on equity investments and marketable securities.  Functional Expenses   The costs of providing program and other activities have been summarized on a functional basis in the accompanying consolidated statements of activities and changes in net assets.  The statements of functional expenses present the natural classification detail of expenses by function, including supporting services.  Accordingly, certain costs have been allocated among the programs and supporting services benefited.  Expenses that cannot be directly attributed to a specific program area are charged to individual program areas based on the most appropriate allocation base.  The expenses that are allocated include occupancy, which is allocated on a square footage basis; personnel costs, which are allocated based on estimated employee time dedicated to each program (for non-administrative) and wages as a percentage of total wages (for administrative); and direct administrative expenses.   Income Taxes  The Community Loan Fund accounts for uncertainty in income taxes in accordance with ASC Topic, Income Taxes.  This standard clarifies the accounting for uncertainty in tax positions and prescribes a recognition threshold and measurement attribute for the consolidated financial statements regarding a tax position taken or expected to be taken in a tax return.  The Community Loan Fund has determined that there are no uncertain tax positions which qualify for either recognition or disclosure in the accompanying consolidated financial statements at June 30, 2025 and 2024.  The Community Loan Fund’s information returns are subject to examination by the Federal and state jurisdictions.  Subsequent Events  Subsequent events have been evaluated through September 25, 2025, which is the date the consolidated financial statements were available to be issued.  See Notes 1 and 11 for events that met the criteria for disclosure in the consolidated financial statements.   3. MARKETABLE SECURITIES   Marketable securities carried at fair value on a recurring basis consist of the following at June 30:                                             2025                                                      Marketable Securities          Level 1       Level 2       Level 3        Total         U.S. Government agency and    U.S. Treasury securities  $          -     $  1,985,800  $          -   $  1,985,800            
+  
+===== PAGE 24 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 20 
+3. MARKETABLE SECURITIES (Continued)                                               2024                                                      Marketable Securities           Level 1       Level 2       Level 3        Total         U.S. Government agency and    U.S. Treasury securities  $            -     $  1,963,066  $          -   $  1,963,066 Equity mutual funds     37,581                      -              -            37,581 
+ $  37,581   $  1,963,066   $          -    $  2,000,647   The Community Loan Fund’s U.S. Government agency and U.S. Treasury securities are valued using Level 2 inputs, which are determined using relevant information generated by transactions that have occurred in the marketplace that involve similar assets.  The U.S. Government agency and U.S. Treasury securities are used as collateral for a line of credit (see Note 10).  The fair value of investments in equity mutual funds is based upon quoted prices in active markets for identical assets which are Level 1 inputs.  Marketable securities are not insured and are subject to market volatility.  4. PLEDGES RECEIVABLE   Unconditional pledges from donors are included in the accompanying consolidated financial statements as pledges receivable and revenue in the net assets with donor restrictions category.  Unconditional pledges are expected to be realized in one year.   A discount of pledges receivable has not been recognized as all pledges are current as of June 30, 2025 and 2024.  5. LOANS RECEIVABLE AND OTHER FINANCING ACTIVITIES  Loans Receivable  At June 30, 2025 and 2024, there were 1,377 and 1,322, respectively, of loans receivable from the Community Loan Fund’s borrowers.  As of June 30, 2025, the balances due on these loans varied in amounts from $50 to $9,800,000, and in terms from six months to forty years.  The Community Loan Fund lends primarily in NH and VT, and loan products vary by type and presence of collateral, risk level, loan size, degree of mission match, and presence of designated subsidized funding sources.  As a result, interest rates on loans receivable at June 30, 2025 and 2024, ranged from 0% to 16% (one business loan).  The overall weighted-average interest rate on the portfolio of loans receivable was 6.72% and 6.60% as of June 30, 2025 and 2024, respectively.  Loans are primarily secured by first or second mortgage liens on real estate for affordable housing and community services loans, and business assets for business finance loans.  These notes are issued in connection with the programs described in Note 1.   
+  
+===== PAGE 25 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 21 
+5. LOANS RECEIVABLE AND OTHER FINANCING ACTIVITIES (Continued)  Loans Receivable (Continued)  Loans receivable in each lending area are as follows as of June 30:  
+                         2025                                                            2024                             
+Affordable Housing:       
+ROC-NH 128 $  122,191,132 57.3% 129 $  108,018,842 56.6% 
+Welcome Home Loans 814 58,564,685 27.5    726 51,550,961 27.0    
+Multi-Family Housing 8 5,365,000 2.5    9 6,061,945 3.2    
+Other Single-Family Housing    244         2,003,588     0.9       218         1,444,529     0.8           
+Sub-total 1,194     188,124,405   88.2    1,128     167,076,277   87.6           
+Community Services       20         4,319,805     2.0          14         3,306,998     1.7           
+Business Finance:       
+Business Builder 35 12,344,833 5.8    37 11,250,775 5.9    
+NCIC    128         8,613,194     4.0       143         9,250,077     4.8           
+Sub-total    163       20,958,027     9.8       180       20,500,852   10.7           
+Total 1,377 $  213,402,237 100.0% 1,322 $  190,884,127 100.0% 
+ Loans receivable are presented net of qualifying third-party loan participations of $6,760,562 and $6,898,933 as of June 30, 2025 and 2024, respectively, in accordance with ASC Topic, Transfers and Servicing.  Loan participations that do not qualify for loan sale treatment are shown as non-recourse participations in loans receivable (see Note 11).  The ability of borrowers to repay the loans could be adversely affected by extensive job losses, dramatic increases in rental vacancies within the borrowers' geographic areas, or other adverse economic conditions.  The Community Loan Fund’s lending policy has the following maximum lending exposure limits for any one borrower: ROC-NH loans of $30,000,000, commercial loans- non-ROC of $3,000,000, and consumer loans of $350,000.  Any requests over these limits must be approved by the Board of Directors.  As of June 30, 2025 and 2024, there was one $4,000,000 commercial non-ROC loan that exceeded the maximum threshold and was approved by the Board of Directors.  Principal payments of the loans scheduled for receipt are as follows as of June 30:            2025                   2024          
+Amounts due in:   Within one year  $      5,871,363 $      5,619,972 One to five years 44,901,927 32,940,022 More than five years     162,628,947     152,324,133    Loan portfolio  213,402,237 190,884,127 Less - deferred loan fees  (419,489) (259,162) Less - allowance for credit losses (see Note 6)        (4,540,893)        (4,021,140)    Net loans receivable 208,441,855 186,603,825 Less - current portion, net of allowance        (5,670,131)        (5,500,468)    Long-term portion $  202,771,724 $  181,103,357  
+===== PAGE 26 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 22 
+5. LOANS RECEIVABLE AND OTHER FINANCING ACTIVITIES (Continued)  Past Due and Non-Accrual Loans   Past due loans are as follows as of June 30:            2025                  2024          
+31 - 60 days $       1,483,718 $         888,702 61 - 90 days 233,817 85,825 Greater than 90 days             904,067         1,256,591    Total past due  2,611,602 2,231,118 Current     210,790,635     188,653,009     $  213,402,237 $  190,884,127  As of June 30, 2025 and 2024, the Community Loan Fund had 36 and 40 loans in non-accrual status with outstanding principal of $1,918,276 and $2,345,395, respectively.  Commitments to Lend   In addition to funded loans receivable, the Community Loan Fund had 33 and 38 loan commitments to borrowers totaling $3,895,579 and $4,519,710 at June 30, 2025 and 2024, respectively.  Loan commitments represent arrangements to lend funds at specified terms and interest rates and contain fixed expiration dates or other termination clauses.  
+ 
+6. ALLOWANCE FOR CREDIT LOSSES   The Community Loan Fund’s weighted historical loss rates for each pool and their respective lookback periods (see Note 2) applied to the balance of loans receivable are as follows as of June 30, 2025 and June 30, 2024.  Weighted historical rates were adjusted for management’s determination of qualitative adjustment factors (see Note 2).                                                                              2025                                                                                                     Loans Receivable Pools         
+Relevant   Historical Loss Rate 
+Qualitative  Factor  Adjustment 
+Total Loss  Rate under   Topic 326       ROC-NH 0.00% 0.45% 0.45% ROC-NH predevelopment 4.72% 0.30% 5.02% Welcome Home Loans 1.62% 0.70% 2.32% Other Single Family Housing Loans 3.42% 0.90% 4.32% Multi-family Housing 1.35% 0.60% 1.95% Community Services 1.84% 0.95% 2.79% Business Finance 7.04% 1.00% 8.04% NCIC 5.30% 5.10% 10.40% SBA-Microloan 0.00% 15.00% 15.00%          
+===== PAGE 27 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 23 
+6. ALLOWANCE FOR CREDIT LOSSES (Continued)                                                                              2024                                                                                     Loans Receivable Pools         
+Relevant   Historical Loss Rate 
+Qualitative  Factor  Adjustment 
+Total Loss  Rate under   Topic 326       ROC-NH 0.00% 0.25% 0.25% ROC-NH predevelopment 3.66% 0.10% 3.76% Welcome Home Loans 1.70% 0.35% 2.05% Other Single Family Housing Loans 4.36% 0.55% 4.91% Multi-family Housing 1.08% 0.35% 1.43% Community Services 1.85% 0.50% 2.35% Business Finance 8.37% 0.75% 9.12% NCIC 5.72% 4.85% 10.57%  A summary of the activity within the allowance for credit losses is as follows for the year ended June 30, 2025:                   A summary of the activity within the allowance for credit losses is as follows for the year ended June 30, 2024:  
+ Allowance at  
+June 30, 2023, 
+Prior to        
+Adoption of    
+ASC Topic 326 
+Cumulative 
+Adjustment 
+from 
+Adoption of  
+ASC Topic 326 
+Provision   
+Adjustment 
+as part of    
+NCIC       
+Acquisition 
+ 
+Provision   
+(Recovery) 
+for Credit   
+    Losses     
+ 
+ 
+ 
+Allowance at  
+June 30, 2024 
+      
+ROC-NH $     928,371  $  (674,323) $              -  $    15,960  $     270,008  
+ROC-NH Predevelopment  3,722  (2,321) -   (820)  581  
+Welcome Home Loans  1,025,971   298,223  -   (90,302)  1,233,892  
+Other Single Family 
+Housing Loans  7,144   59,799  
+ 
+-   9,875   76,818  
+Multi-family Housing  87,863  (6,871) -   5,620   86,612  
+Community Services 252,541  2,113  -  2,522  257,176  
+Business Finance 699,789   (87,450) -   450,169   1,062,508  
+NCIC                     -                     -       922,202     111,343      1,033,545  
+      
+Total $  3,005,401  $  (410,830) $  922,202 $  504,367  $  4,021,140  
+  
+  
+Allowance at  
+June 30, 2024 
+      Provision   
+      (Recovery) for  
+     Credit Losses     
+ 
+Allowance at  
+June 30, 2025 
+    
+ROC-NH $     270,008  $    279,852  $     549,860  
+ROC-NH Predevelopment  581   (581)  -   
+Welcome Home Loans  1,233,892   254,817  1,488,709  
+Other Single Family Housing Loans  76,818   12,787   89,605  
+Multi-family Housing  86,612   17,924   104,536  
+Community Services 257,176  (137,664) 119,512  
+Business Finance  1,062,508   4,382   1,066,890  
+NCIC     1,033,545      72,766      1,106,311  
+SBA Microloans                     -         15,470            15,470  
+    
+Total $  4,021,140  $    519,753  $  4,540,893  
+===== PAGE 28 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 24 
+6. ALLOWANCE FOR CREDIT LOSSES (Continued)  The Community Loan Fund monitors credit quality indicators on a quarterly basis to determine if any of their loans need to be evaluated separately from their core loan pool.   
+ 
+During fiscal years 2025 and 2024, the Community Loan Fund had $167,482 and $32,438, respectively, of direct net charge-offs, which is included in net credit/loan loss recovery (provision) in the accompanying consolidated statement of activities and changes in net assets.    The Community Loan Fund monitors credit quality indicators on a quarterly basis to determine if any of their loans need to be evaluated individually.  The credit quality indicators assessed by management include strength of financial and operational plans, strength of business plan assumptions, projected profitability, security of the loan and collateral coverage.   7. PROGRAM-RELATED DEVELOPMENT INVESTMENT  The Community Loan Fund holds a program-related development investment in ROC USA, LLC (ROC USA).  ROC USA was formed in December 2007 as a nonprofit limited liability corporation.  Its mission is to make quality ownership of manufactured home communities viable nationwide.  ROC USA provides technical assistance and loans to people living in manufactured home communities, in order to assist them with the purchase of their communities, so that they will be resident owned.  The Community Loan Fund is one of three nonprofit organizations to originally invest in ROC USA.  In the original Operating Agreement of ROC USA dated September 2008, all three nonprofit organizations committed to an original investment of $500,000, and each had equal capital interests and voting interests in ROC USA of 33 1/3%.   In January 2013, the three original members unanimously approved an amendment to the Operating Agreement to add a new voting member, ROC Association.  The ROC Association represents all resident-owned manufactured home communities assisted by ROC USA across the nation.  As a result of the amendment, the membership interests were specifically changed as follows:   ROC Association was not required to make a contribution to ROC USA.  It has no capital interest, but its voting interest is equal to 28.57%.   The capital interests of the Community Loan Fund and the other two original members remain unchanged at 33 1/3% of ROC USA, but the voting interests changed to 23.81% each.   In 2019, the Community Loan Fund and the other two original nonprofit members each invested an additional $750,000 in ROC USA as part of a new round of equity funding, bringing the total member capital contributions up from $500,000 each to $1,250,000 each.  The balance of the Community Loan Fund’s investment in ROC USA was $3,497,318 and $5,029,452 as of June 30, 2025 and 2024, respectively.  The balance is based on the application of the equity method (see Note 2) modified for a hypothetical liquidation analysis.  For the years ended June 30, 2025 and 2024, the Community Loan Fund’s share of income (loss) was ($1,532,134) and $1,756,477, respectively, including the effects of the hypothetical liquidation analysis.  During fiscal years 2025 and 2024, the Community Loan Fund received quarterly dividends from ROC USA totaling $62,500 and $78,125, respectively, which are included in share of income from program-related development investments in the accompanying consolidated statements of activities and changes in net assets.       
+===== PAGE 29 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 25 
+7. PROGRAM-RELATED DEVELOPMENT INVESTMENT (Continued)  The balance of the Community Loan Fund’s investment in ROC USA is calculated as follows as of June 30:           2025                2024         
+Total net assets without restrictions of ROC USA $  16,834,007   $  15,694,624   Member capital percentage            33.33%            33.33%    Equity valuation 5,610,775 5,231,018 Less - hypothetical liquidation allowance      (2,113,457)         (201,566)    Net carrying value $    3,497,318 $    5,029,452  In accordance with the disclosure standards pertaining to ASC Topic, Investment - Equity Method and Joint Ventures, the following summarized financial information related to ROC USA is provided:  Fiscal Year Ending  
+Total                Assets        Total              Liabilities      Total          Net Assets    Total           Revenue     Total          Expenses    
+12/31/2024 $ 223,757,454 $ 194,342,032 $ 29,415,422 $ 10,952,805 $ 8,254,058 12/31/2023 $ 193,742,158 $ 166,837,983 $ 26,904,175 $ 15,321,455 $ 7,144,434  8. EQUITY INVESTMENTS   Equity investments (see Note 3), including warrants, consist of investments made by the Community Loan Fund in privately held corporations.  Through its Business Finance program, the Community Loan Fund provides capital investments to businesses that are committed to long-term growth strategies based on employee involvement and quality.  Equity financing involves the Community Loan Fund taking a percentage of ownership in the investee.  This may take the form of common or preferred stock, convertible notes, the ability to purchase stock with options or warrants, or in the case of limited liability companies, ownership units.  Business Finance staff closely monitor each investee’s financial condition, often sitting on the investee’s Board of Directors as an observer.  Warrants obtained through the loan portfolio have no identified cost and are valued at fair value through appreciation, if applicable.    The Community Loan Fund’s equity investments are reported at fair value using Level 3 inputs and are invested in the following business sectors at June 30:                         2025                                        2024                              Business Sector           Number of    Investees   Investment    Amount    Number of   Investees   Investment    Amount         Information technology 1 $  29,932 1 $  219,620 Farm and Food 2               -  2       45,359      Total as of June 30 3 $  29,932  3 $  264,979           
+===== PAGE 30 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 26 
+8. EQUITY INVESTMENTS (Continued)  A reconciliation of Level 3 investments for the years ended June 30, 2025 and 2024, is as follows:            Equity Investments                 2025              2024           Balance, beginning of year $     264,979 $     473,234    Net unrealized loss/impairment        (235,047)       (208,255) 
+Balance, end of year $       29,932 $     264,979  9. PROPERTY AND EQUIPMENT   Property and equipment, which consist primarily of the Community Loan Fund’s headquarters (see Note 2), consist of the following at June 30:         2025              2024           Land $     321,461 $     321,461 Buildings and improvements 5,216,726 4,988,316 Office furniture and equipment     1,221,296           1,123,691        6,759,483 6,433,468 Less - accumulated depreciation     3,236,969     2,980,931     $  3,522,514  $  3,452,537   10. AVAILABLE CREDIT    The Community Loan Fund procures secured and unsecured lines of credit to meet liquidity needs in the course of fulfilling its mission.  Secured Lines of Credit  The Community Loan Fund has available one secured hard-maturity lines of credit:  There is a $2,156,000 hard-maturity line of credit from a financial institution, which is secured by first mortgages on three office buildings owned and operated by the Community Loan Fund (see Note 9).  The line of credit has a maturity date of July 31, 2026.  Advances bear interest at the Wall Street Journal’s prime rate (7.50% and 8.50% at June 30, 2025 and 2024, respectively) minus .50%.  As of June 30, 2025 and 2024, there was no outstanding balance.  There was a second secured line of credit with a financial institution during fiscal year 2024 of $7,500,000, which was secured by the Community Loan Fund’s investment portfolio of U.S. government securities (see Note 3).  The line of credit was canceled by the financial institution in fiscal year 2025.  The amount available was not to exceed 85% of the market value of the government bonds collateralizing the loan (see Note 3).  On June 30, 2024, the market value of the bonds was $1,962,181, which was comprised of the gross fair value of $1,963,066, less unamortized discounts or premiums on bond purchases of $885.  Therefore, $1,667,854 was available to be drawn as of June 30, 2024.  Advances bear interest at the Wall Street Journal’s prime rate (see above) minus .50%.  As of June 30, 2024, there was no outstanding balance.        
+===== PAGE 31 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 27 
+10. AVAILABLE CREDIT (Continued)  Unsecured Lines of Credit  The Community Loan Fund also has available two unsecured lines of credit:  The first is an unsecured revolving line of credit from a financial institution for $4,000,000.  The line of credit was originally established in June 2014 and had a maturity date of February 7, 2025.  During fiscal year 2025, this line of credit was extended to February 3, 2026.  Advances bear interest at the Wall Street Journal’s prime rate (see page 26).  As of June 30, 2025 and 2024, there was no outstanding balance.  The second is a $2,000,000 unsecured revolving line of credit from a financial institution.  The line of credit was originally established in February 2014 and has a maturity date of April 30, 2027.  Advances bear interest at the Wall Street Journal’s prime rate (see page 26).  As of June 30, 2025 and 2024, there was no outstanding balance. 
+ 
+11. LOANS PAYABLE   Notes Payable to Investors  At June 30, 2025 and 2024, there were 1,042 and 1,104 notes payable for financing activities ranging in outstanding balances of $1,000 up to $7,500,000 and totaling $144,581,352 and $144,422,106, respectively.  Loans payable consist of loans from individuals, religious institutions, nonprofit organizations, banks, foundations, hospitals, universities, government agencies, and other organizations who have chosen to invest in the Community Loan Fund as a way to benefit the community - that is, they are interested in the social impact, as well as the financial return.  Many also view this as a way to increase their financial commitment to the Community Loan Fund’s mission, above and beyond what they can make as an outright contribution.    The Community Loan Fund actively pursues these investments, not only for the capital they bring to the Community Loan Fund, but because the investments in and of themselves serve the Community Loan Fund’s mission by connecting those with financial resources to those without.  Loans, which are generally non-amortizing, currently vary in length from one year to twelve years, with interest rates from 0% to 5%, and are unsecured.  Historically, roughly 80% of the number of loans that mature have been renewed.  The Community Loan Fund anticipates approximately $23,000,000 to be renewed during fiscal year 2026.  Accrued interest payable on loans payable was $1,192,649 and $1,190,815 as of June 30, 2025 and 2024, respectively.  The proceeds of the loans are restricted for the purposes of mission-related financing activities.    USDA Intermediary Relending Program (IRP)  The USDA IRP provides 1% interest loans to local intermediaries that relend to businesses and for community development projects in rural communities.  These loans were initially between USDA and NCIC and were acquired by the Community Loan Fund during the NCIC asset transfer (see Note 20).  At June 30, 2025 and 2024, there were thirteen loans from USDA IRP with total outstanding principal balances of $4,612,066, and $4,910,847, respectively, maturing at various dates between July 2028 and March 2046.  Accrued interest payable on USDA IRP loans payable was $29,796 and $18,853 as of June 30, 2025 and 2024, respectively.        
+===== PAGE 32 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 28 
+11. LOANS PAYABLE (Continued)  USDA Intermediary Relending Program (IRP) (Continued)  Principal payments on notes payable are scheduled to mature as follows:       Year Ending       June 30         
+ 
+2026 $    33,013,204 2027 25,860,908 2028 32,193,131 2029 17,162,949 2030 16,637,864 Thereafter        24,325,362    $  149,193,418  Non-Recourse Participation in Loans Receivable  The Community Loan Fund has entered into an agreement pursuant to which a third party purchased interests in a certain loan receivable (see Note 5).  Terms of borrowings under the agreement coincides with those specified within the individual note receivable agreement made with the Community Loan Fund’s borrower with the exception of the interest rate paid to the participant, as the interest rate is less than the rate charged to the borrower.  The borrowing matures in conjunction with the underlying note receivable (see Note 5) and matures in fiscal year 2033.  The participation note payable is secured only by the participant’s interest in the related note receivable and is non-recourse to the Community Loan Fund.  Subsequent to fiscal year end 2025, the Community Loan Fund entered into a new $4,000,000 loan payable agreement with an interest rate of 4% and maturity date of July 2028.  12. SUBORDINATED LOANS PAYABLE - EQUITY EQUIVALENT INVESTMENTS  Subordinated loans payable consists of “Equity Equivalents” (EQ2) notes payable to financial institutions.  EQ2 notes payable are unsecured and are fully subordinate to loans payable and all other Community Loan Fund liabilities.  The financial institutions making these EQ2 investments see this as an effective and efficient way both to strengthen the local economy and to meet community reinvestment obligations.  As of June 30, 2025 and 2024, there were 21 EQ2 notes payable, totaling $11,600,000, with interest rates ranging from 1.75% to 3.00%.  Accrued interest at June 30, 2025 and 2024, was $125,124 and $129,500, respectively.  EQ2 notes payable generally have rolling terms and indeterminate maturities and may only be called by the investor with significant advance notice.  Termination notices are in effect on two EQ2 investments that terminate in August 2029 ($800,000) and December 2027 ($1,000,000), respectively (see below).  One $500,000 EQ2 note payable has a five-year term with a maturity date in June 2027.  The Community Loan Fund has the option to request one-year extensions for years six, seven, and eight.         
+===== PAGE 33 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 29 
+12. SUBORDINATED LOANS PAYABLE - EQUITY EQUIVALENT INVESTMENTS (Continued)  EQ2s are summarized as follows as of June 30, 2025 and 2024:   Number of  EQ2 Notes  Amount of      EQ2 Notes     Rolling terms with indefinite maturities  18  $    9,300,000 Termination notices issued 2 1,800,000 Maturity date issued at origination    1          500,000  Total 21 $  11,600,000 
+ 
+13. CHARITABLE GIFT ANNUITIES PAYABLE   The Community Loan Fund receives contributions from donors who stipulate that the Community Loan Fund is to make annuity payments for life to an annuitant designated by the donor, with the remaining principal reverting to the Community Loan Fund after the death of the annuitant.  The Community Loan Fund invests these charitable contributions in cash and marketable securities based upon investment regulations of the State of NH.  The present value of the principal portion of estimated future annuity payments is recorded as a liability of the Community Loan Fund and the excess of the contribution over the present value is recorded as public support at the time of receipt.  At June 30, 2024, the present value of commitments to two annuitants totaled $21,122 and is included in accounts payable and accrued expenses in the accompanying 2024 consolidated statement of financial position. There was no charitable gift annuities payable as of June 30, 2025.  14. CONTINGENCIES AND CONCENTRATION   CDFI Awards Under the Capital Magnet Program  The Community Loan Fund received three rounds of Capital Magnet Fund (CMF) awards from the Treasury (see Note 1) as follows:                             Use of Proceeds                                     Fiscal Year 
+  Total Award 
+Full Disbursement            Date          
+ Qualified          Loans      
+Pass-Through Grants to    Homeowners 
+Direct         Administrative  Expenses (5%)   2011 $  3,700,000 2016 $  3,058,176 $  456,824 $  185,000 2017 $  1,502,163 2021 $  1,427,055 $               -  $    75,108 2019 $  1,500,000 2019 $  1,425,000 $               -  $    75,000  CMF funds are treated as time restricted net assets during the initial five-year investment period applicable to each award, and they are released from net assets with donor restrictions after the five-year investment period ends (see Note 2).    Under the terms of the CMF agreements, the funded projects must comply with various                                  affordability requirements for a period of ten years after the project funds have been fully disbursed.  The ten-year affordability periods for the 2011, 2017 and 2019 CMF grants will end in 2026, 2031, and 2029, respectively.  The Community Loan Fund expects the underlying transactions executed to comply with the grant’s requirements and affordability restrictions for the duration of the compliance period.  If a transaction involving funds previously released were to fall out of compliance, the Community Loan Fund would be required to replace the transaction and possibly the previously released funds with another qualifying expense or loan.    
+===== PAGE 34 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 30 
+15. RETIREMENT PLAN  The Community Loan Fund maintains a Section 401(k) retirement plan allowing employees to elect to defer compensation up to the maximum allowed under IRC regulations.  Employees with a minimum of three months of employment receive a safe harbor contribution within the calendar year.  That benefit was calculated at 5% of eligible compensation for the fiscal year.  For the years ended June 30, 2025 and 2024, the Community Loan Fund had $363,839 and $269,262, respectively, of retirement benefits expense, which is included in benefits in the accompanying consolidated statements of functional expenses.   16. RELATED PARTY TRANSACTIONS   The Community Loan Fund’s by-laws require the Board of Directors to include representatives of borrower organizations and investors among its membership.  All transaction decisions follow standard policies and procedures including those covering conflict of interest.  As of June 30, 2025 and 2024, four and three members of the Board of Directors also serve as Board members for not-for-profit organizations that have outstanding loans from the Community Loan Fund totaling $1,756,150 and $1,513,902, respectively.  One employee has a family member that works for a nonprofit quasi-state government agency that has an outstanding loan from the Community Loan Fund totaling $4,000,000.  One member of the Board of Directors is a shareholder of a legal firm the Community Loan Fund does business with.  The Community Loan Fund rents office space in Littleton, NH from a business that has outstanding loans from the Community Loan Fund totaling $785,669 and $791,839 as of June 30, 2025 and 2024, respectively.  Six employees and two Board members have provided investments or have family members who have provided investments totaling $94,064 and $76,181 to the Community Loan Fund as of June 30, 2025 and 2024, respectively.  During the fiscal year ended June 30, 2025, the Community Loan Fund engaged in a business transaction with a company owned by a current Board member.  The aggregate financial transaction totaled $8,212, and it was approved by the Board of Directors in accordance with the Community Loan Fund’s conflict of interest policy.  Board members and staff are typically donors to the Community Loan Fund.  Donations and investments are accepted from employees, from individual Board members, or from organizations with which current and former employees and Board members are employed or associated.  The transactions are part of the Community Loan Fund’s normal course of business and are open to the public at large.      
+===== PAGE 35 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 31 
+17. LIQUIDITY AND AVAILABILITY OF FINANCIAL RESOURCES  Financial assets available for general operating use, that is, without donor or other restrictions limiting their use (see Note 2), within one year of the statements of financial position date, comprise the following for fiscal years ended June 30:            2025                2024           Cash and cash equivalents $  11,942,497 $  15,664,028 Marketable securities  1,985,800  2,000,647 Grants, contracts and other receivables  998,383 1,224,819 Pledges receivable 25,000 145,000 Current portion of loans receivable 5,670,131 5,500,468 Accrued interest receivable          879,786                   822,166           21,501,597 25,357,128 Less - cash with purpose restrictions in net assets with donor restrictions   (159,239)   (164,361) Less - pledge receivable with purpose restrictions in net assets with donor restrictions             (25,000)           (145,000)     $  21,317,358 $  25,047,767  The Community Loan Fund's investment and cash management objectives are to carry out the Community Loan Fund’s mission.  Effective investment and cash management enhances the Community Loan Fund’s capacity to increase access to capital for the benefit of low- and moderate-income people.  Also, the Community Loan Fund seeks to manage capital judiciously.  The Community Loan Fund is committed to repaying in full all investors and to preserving its capital for use in fulfilling its mission.   As part of its internal cash management policies, the Community Loan Fund aims to maintain operating liquidity balances of at least three months of operating expenses.  Cash exceeding short-term requirements is invested in various marketable securities, mainly Treasury and government agency instruments (see Note 3) following the parameters of a Board-approved Investment Policy. In managing its investment portfolio, the Community Loan Fund aims to minimize risk to principal and ensure compliance with all investor covenants.  The Community Loan Fund’s Asset-Liability Committee (ALCO) is comprised of Senior Management. The ALCO regularly monitors the availability of resources required to manage liquidity, using a variety of reports and practices to manage asset-liability matching and to identify liquidity concerns, including a rolling six-month cash-forecasting model; a portfolio management report showing fund availability after required reserves and commitments; an eighteen-month investor maturity forecast reporting status of each followed by active engagement of investors; and other financial reports and scorecards showing indicators and ratios.  To ensure sufficient funding is available to support investor repayments, as part of a Board-approved Investor Policy, the Community Loan Fund maintains an internal liquidity reserve of at least 10% of its total outstanding unsecured senior-debt investments.  This reserve may be reduced by the amount of the Community Loan Fund’s available lines of credit (unsecured or real-estate backed) (see Note 10) that can be readily accessed for capital liquidity purposes.   In its Board-approved Investor Policy, the Community Loan Fund has established a maximum investment amount that can become due at any time from one investor.  This amount, currently at $6,000,000, has been set by the ALCO and may be changed from time to time by the ALCO.  The policy does not prevent an investor from investing more than this amount.  The investment would need to be divided between more than one maturity date, each at least one year apart, with no one maturity exceeding the maximum amount.  
+===== PAGE 36 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 32 
+17. LIQUIDITY AND AVAILABILITY OF FINANCIAL RESOURCES (Continued)  To supplement liquidity for mission-related financing, the Community Loan Fund currently has three committed lines of credit from different entities which it could draw upon, in the aggregate amounts of $8,156,000 and $9,823,854 as of June 30, 2025 and 2024, respectively (see Note 10).   Another key source of liquidity includes loan sales and participation and co-lending strategies:   Loan Sales: The Community Loan Fund aims to leverage its assets and recycle capital by selling loans or pools of seasoned loans from our portfolio.  The single-family mortgage portfolio of Welcome Home loans was designed in collaboration with local financial institutions that had interest in buying packaged, seasoned loans as part of the original Welcome Home loan recapitalization plan.  To date, the Community Loan Fund has sold three separate $500,000 pools of seasoned Welcome Home loans to local banks.  The most recent loan pool sale was in 2016, and the loans were sold at a premium.    Participation Strategies:  When considering large loans, especially those that are more than single loan size policies, the Community Loan Fund actively engages other organizations and individual investors in a variety of co-lending arrangements.    Co-Investor Strategies: At origination, or for follow on financing, in both the Business Financing and ROC-NH product lines, the Community Loan Fund has engaged co-investors to invest directly in businesses and ROCs.  These investors are available to take over some of the financing share either directly or as participants, if liquidity is needed.  18. EMPLOYEE RETENTION TAX CREDIT              Employee Retention Tax Credit (ERTC) was first established by the CARES Act and was extended and expanded by the Consolidated Appropriations Act (CAA) and American Rescue Plan (ARP).  ERTC provides a refundable tax credit against certain employment taxes equal to 50% of the first $10,000 in qualified wages paid to each employee between March 12, 2020 and December 31, 2020 (2020 ERTC), and 70% of the first $10,000, per quarter, in qualified wages paid to each employee between January 1, 2021 and September 30, 2021 (2021 ERTC).  To be eligible, the Community Loan Fund must meet certain conditions as described in applicable laws and regulations.  During fiscal year 2023, the Community Loan Fund determined that it qualified for the 2021 ERTC and 2020 ERTC in the amounts of $643,446 and $248,595, respectively, and, therefore, is accounting for them as conditional grants under ASC Subtopic 958-605.  These grants are conditional upon certain performance requirements and the incurrence of eligible expenses.  In the opinion of management, these conditions were met as of June 30, 2023.  During fiscal year 2023, the Community Loan Fund received payments of $643,446 related to the 2021 ERTC.  As of June 30, 2025 and 2024, $248,595 is included in grants, contracts and other receivables in the accompanying consolidated statements of financial position related to the 2020 ERTC.   Eligibility for the credit and the credit calculations is subject to review and approval by the Federal government.  In the opinion of management, the results of such reviews and audit will not have a material effect on the financial position of the Community Loan Fund as of June 30, 2025 and 2024, and on the changes in its net assets for the years then ended.          
+===== PAGE 37 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Notes to Consolidated Financial Statements June 30, 2025 and 2024 
+  
+Page 33 
+19. MORTGAGE SERVICES AGREEMENT   The Community Loan Fund has a loan servicing agreement with a company to service and maintain a portion of its loan portfolio through June 30, 2026.  The term automatically renews annually unless the Community Loan Fund or the company elect to terminate the agreement.  Under the terms of the agreement, the company receives a monthly service fee for each loan, a fee for setting up new loans, and fees related to monthly reports related to the portfolio.  The total compensation to the company under this agreement was $127,163 and $124,198  for the years ended June 30, 2025 and 2024, respectively, and is included in administrative services in the accompanying consolidated statements of functional expenses.  Servicing for each loan includes, but is not limited to, monthly billing, borrower consumer portal access, annual escrow analysis, delinquency management, foreclosure services, and OREO property management.  20. USDA GRANT ADMINISTRATION   In May 2023, the Community Loan Fund signed cooperative agreements with USDA’s Agricultural Marketing Services (AMS) and Rural Development (RD) agencies to help administer $186,705,000 in pass through grants over six years (2024 through 2029) for two nationwide grant programs: AMS’s Local Meat Capacity Grant Program and RD’s Meat and Poultry Processing Expansion Program.  These regranting activities are managed under the Community Loan Fund’s Sustainable Food Systems Program (SFSP).  For the fiscal year ended June 30, 2025 and 2024, the Community Loan Fund disbursed $41,706,985 and $6,882,513 in pass through grants and received $3,737,636 and $2,400,000 in grant administration fees, respectively, which is included in grant administration fees in the accompanying consolidated statement of activities and changes in net assets.  
+===== PAGE 38 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.
+Supplemental Consolidated Statement of Financial Position
+June 30, 2025
+(With Summarized Comparative Totals as of June 30, 2024)
+2024
+Program Financing
+Assets Activities Activities Eliminations Total Total
+Current Assets:
+Cash and cash equivalents 1,516,448$    10,426,049$      -$                     11,942,497$      15,664,028$      
+Marketable securities -                      1,985,800 -                       1,985,800          2,000,647          
+Grants, contracts and other receivables 474,387 523,996 -                       998,383              1,224,819          
+Pledges receivable 25,000 -                           -                       25,000                145,000              
+Interfund accounts receivable 1,624,035 -                           (1,624,035)     -                           -                           
+Current portion of loans receivable, net of allowance for
+credit losses of $125,826 and deferred loan fees -                      5,670,131          -                       5,670,131          5,500,468          
+Accrued interest receivable -                      879,786              -                       879,786              822,166              
+Property held for sale -                      -                           -                       -                           65,000                
+Prepaid expenses and other 219,942 339,393 -                       559,335              257,591              
+Total current assets 3,859,812      19,825,155        (1,624,035)     22,060,932        25,679,719        
+Restricted Cash -                      5,470,490 -                       5,470,490          4,695,005          
+Loans Receivable, net of current portion, deferred loan fees,
+and allowance for credit loan losses of $4,415,067 -                      202,771,724      -                        202,771,724      181,103,357      
+Program-Related Development Investment, net -                      3,498,318 -                       3,498,318          5,029,452          
+Equity Investments -                      29,932 -                       29,932                264,979              
+Property and Equipment, net 3,522,514 -                           -                       3,522,514          3,452,537          
+Total assets 7,382,326$    231,595,619$    (1,624,035)$   237,353,910$    220,225,049$    
+Liabilities and Net Assets
+Current Liabilities:
+Current portion of loans payable -$                    33,013,204$      -$                     33,013,204$      27,571,560$      
+Accounts payable and accrued expenses 1,075,392      256,606              -                       1,331,998          852,100              
+Accrued interest payable -                      1,347,569          -                       1,347,569          1,339,168          
+Conditional advances 62,893 4,200 -                       67,093                186,958              
+Reserve for unfunded commitments -                      -                           -                       -                           55,507                
+Interfund accounts payable -                      1,624,035          (1,624,035)     -                           -                           
+Total current liabilities 1,138,285      36,245,614        (1,624,035)     35,759,864        30,005,293        
+Long-Term Liabilities:
+Loans payable, net of current portion -                      116,180,214      -                       116,180,214      121,761,393      
+Non-recourse participation in loans receivable -                      34,804                -                       34,804                35,724                
+Subordinated loans payable - equity equivalent 
+investments, net of current portion -                      11,600,000        -                       11,600,000        11,600,000        
+Total liabilities 1,138,285      164,060,632      (1,624,035)     163,574,882      163,402,410      
+Net Assets:
+Without donor restrictions:
+Program 6,059,802      -                           -                       6,059,802          5,844,577          
+Financing -                      55,775,978        -                       55,775,978        38,519,689        
+Total without donor restrictions 6,059,802      55,775,978        -                       61,835,780        44,364,266        
+With donor restrictions:
+Program 66,558            -                           -                       66,558                166,558              
+Financing -                      11,759,009        -                       11,759,009        12,169,012        
+Pass-through 117,681         -                           -                       117,681              122,803              
+Total with donor restrictions 184,239         11,759,009        -                       11,943,248        12,458,373        
+Total net assets 6,244,041      67,534,987        -                       73,779,028        56,822,639        
+Total liabilities and net assets 7,382,326$    231,595,619$    (1,624,035)$   237,353,910$    220,225,049$    
+2025
+Page 34
+===== PAGE 39 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.
+Supplemental Consolidated Statement of Financial Position
+June 30, 2024
+Program Financing
+Assets Activities Activities Eliminations Total
+Current Assets:
+Cash and cash equivalents 2,198,066$   13,465,962$     -$                     15,664,028$     
+Current portion of marketable securities -                      2,000,647          -                       2,000,647          
+Grants, contracts and other receivables 685,964         538,855             -                       1,224,819          
+Pledges receivable 145,000         -                           -                       145,000             
+Interfund accounts receivable 1,244,391     -                           (1,244,391)     -                           
+Current portion of loans receivable, net of allowance for
+credit losses of $119,504 and deferred loan fees -                      5,500,468          -                       5,500,468          
+Current portion of interfund loans receivable -                      190,611             (190,611)        -                           
+Accrued interest receivable -                      822,166             -                       822,166             
+Property held for sale -                      65,000                -                       65,000                
+Prepaid expenses and other 78,264           179,327             -                       257,591             
+Total current assets 4,351,685     22,763,036       (1,435,002)     25,679,719       
+Restricted Cash -                      4,695,005          -                       4,695,005          
+Loans Receivable, net of current portion, deferred loan fees,
+and allowance for credit loan losses of $3,901,636 -                      181,103,357     -                       181,103,357     
+Interfund Loans Receivable, net of current portion -                      762,446             (762,446)        -                           
+Program-Related Development Investments, net -                      5,029,452          -                       5,029,452          
+Equity Investments -                      264,979             -                       264,979             
+Property and Equipment, net 3,452,537     -                           -                       3,452,537          
+Total assets 7,804,222$   214,618,275$   (2,197,448)$   220,225,049$   
+Liabilities and Net Assets
+Current Liabilities:
+Current portion of loans payable -$                    27,571,560$     -$                     27,571,560$     
+Accounts payable and accrued expenses 717,227         134,873             -                       852,100             
+Accrued interest payable -                      1,339,168          -                       1,339,168          
+Conditional advances -                      186,958             -                       186,958             
+Reserve for unfunded commitments -                      55,507                -                       55,507                
+Interfund accounts payable -                      1,244,391          (1,244,391)     -                           
+Current portion of interfund loans payable 190,611         -                           (190,611)        -                           
+Total current liabilities 907,838         30,532,457       (1,435,002)     30,005,293       
+Long-Term Liabilities:
+Loans payable, net of current portion -                      121,761,393     -                       121,761,393     
+Non-recourse participation in loans receivable -                      35,724                -                       35,724                
+Interfund loans payable, net of current portion 762,446         -                           (762,446)        -                           
+Subordinated loans payable - equity equivalent
+ investments -                      11,600,000       -                       11,600,000       
+Total liabilities 1,670,284     163,929,574     (2,197,448)     163,402,410     
+Net Assets:
+Without donor restrictions:
+Program 5,844,577     -                           -                       5,844,577          
+Financing -                      38,519,689       -                       38,519,689       
+Total without donor restrictions 5,844,577     38,519,689       -                       44,364,266       
+With donor restrictions:
+Program 166,558         -                           -                       166,558             
+Financing -                      12,169,012       -                       12,169,012       
+Pass-through 122,803         -                           -                       122,803             
+Total with donor restrictions 289,361         12,169,012       -                       12,458,373       
+Total net assets 6,133,938     50,688,701       -                       56,822,639       
+Total liabilities and net assets 7,804,222$   214,618,275$   (2,197,448)$   220,225,049$   
+Page 35
+===== PAGE 40 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.
+Supplemental Consolidated Statement of Activities and Changes in Net Assets
+For the Year Ended June 30, 2025
+(With Summarized Comparative Totals for the Year Ended June 30, 2024)
+2024
+Total Total
+Program Financing Without Donor Program Financing With Donor
+Activities Activities Eliminations Restrictions Activities Activities Restrictions Total Total
+Operating Revenues:
+Earned revenue:
+Financial revenue:
+Interest on loans -$                      13,051,396$   (76,245)$        12,975,151$   -$                  323,097$         323,097$         13,298,248$   11,596,558$   
+Investment income 48,972 843,971           -                       892,943           -                    216,883           216,883           1,109,826        888,436           
+Loan related fees 366,818           8,067               -                       374,885           -                    -                        -                        374,885           425,104           
+Recovery of (provision for) credit losses on unfunded commitments -                        -                        -                       -                        -                    55,507             55,507             55,507             (55,507)            
+Net credit loss provision -                        (662,389)          -                       (662,389)          -                    (24,846)            (24,846)            (687,235)          (536,805)          
+Less - interest expense (76,244)            (4,937,878)      76,245            (4,937,877)      -                    (60,045)            (60,045)            (4,997,922)      (4,510,318)      
+Net financial revenue 339,546           8,303,167        -                       8,642,713        -                    510,596           510,596           9,153,309        7,807,468        
+Grant administration fees 3,821,756 -                        -                       3,821,756        -                    -                        -                        3,821,756        2,451,348        
+Training and other fees 15,117             -                        -                       15,117             -                    -                        -                        15,117             63,088             
+Program service fees 8,958,426 -                        (8,958,426)     -                        -                    -                        -                        -                        -                        
+Other net losses -                        -                        -                       -                        -                    -                        -                        -                        (25,073)            
+Total earned revenue 13,134,845     8,303,167        (8,958,426)     12,479,586     -                    510,596           510,596           12,990,182     10,296,831     
+Public support:
+Grants - pass-through 41,789,888     -                        -                       41,789,888     -                    -                        -                        41,789,888     7,007,682        
+Grants and contributions 685,056 15,281,148 -                       15,966,204     50,900 39,901 90,801             16,057,005     3,875,145        
+Net assets released from restrictions 150,900           960,500           -                       1,111,400        (150,900)      (960,500)          (1,111,400)      -                        -                        
+Net assets released from restrictions - pass-through 5,122               -                        -                       5,122               (5,122)          -                        (5,122)              -                        -                        
+Less - grants passed through to others (41,795,010)    -                        -                       (41,795,010)    -                    -                        -                        (41,795,010)    (6,884,879)      
+Net public support 835,956           16,241,648     -                       17,077,604     (105,122)      (920,599)          (1,025,721)      16,051,883     3,997,948        
+Total operating revenues 13,970,801     24,544,815     (8,958,426)     29,557,190     (105,122)      (410,003)          (515,125)          29,042,065     14,294,779     
+Operating Expenses:
+Program services 8,915,484        8,958,426        (8,958,426)     8,915,484        -                    -                        -                        8,915,484        7,368,430        
+Management and administrative 1,063,866        -                        -                       1,063,866        -                    -                        -                        1,063,866        915,200           
+Fundraising 476,226           -                        -                       476,226           -                    -                        -                        476,226           433,154           
+Total operating expenses 10,455,576     8,958,426        (8,958,426)     10,455,576     -                    -                        -                        10,455,576     8,716,784        
+Changes in net assets from operations 3,515,225        15,586,389     -                       19,101,614     (105,122)      (410,003)          (515,125)          18,586,489     5,577,995        
+Non-Operating Revenue (Expense):
+Share of income (loss) from program-related development investment -                        (1,469,634)      -                       (1,469,634)      -                    -                        -                        (1,469,634)      1,756,477        
+Net realized and unrealized loss on investments -                        (160,466)          -                       (160,466)          -                    -                        -                        (160,466)          (274,499)          
+Total non-operating revenue (expense) -                        (1,630,100)      -                       (1,630,100)      -                    -                        -                        (1,630,100)      1,481,978        
+Total changes in net assets 3,515,225        13,956,289     -                       17,471,514     (105,122)      (410,003)          (515,125)          16,956,389     7,059,973        
+Net Assets:
+Beginning of year 5,844,577        38,519,689     -                       44,364,266     289,361       12,169,012     12,458,373     56,822,639     40,948,704     
+Cumulative adjustment from adoption of CECL on July 1, 2023 -                        -                        -                       -                        -                    -                        -                        -                        410,830           
+Net asset transfer - from NCIC acquisition -                        -                        -                       -                        -                    -                        -                        -                        8,403,132        
+Net asset transfer (3,300,000)      3,300,000        -                       -                        -                    -                        -                        -                        -                        
+End of year 6,059,802$     55,775,978$   -$                    61,835,780$   184,239$     11,759,009$   11,943,248$   73,779,028$   56,822,639$   
+2025
+Without Donor Restrictions With Donor Restrictions
+Page 36
+===== PAGE 41 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.
+Supplemental Consolidated Statement of Activities and Changes in Net Assets
+For the Year Ended June 30, 2024
+Total Total
+Program Financing Without Donor Program Financing With Donor
+Activities Activities Eliminations Restrictions Activities Activities Restrictions Total
+Operating Revenues:
+Earned revenue:
+Financial revenue:
+Interest on loans -$                      11,603,927$    (142,747)$        11,461,180$    -$                      135,378$         135,378$         11,596,558$    
+Investment income 42,070              768,796           -                        810,866           -                        77,570              77,570              888,436           
+Loan related fees 425,104           -                        -                        425,104           -                        -                        -                        425,104           
+Provision for credit losses on unfunded commitments -                        (55,507)            -                        (55,507)            -                        -                        -                        (55,507)            
+Net credit loss (provision) recovery -                        (552,420)          -                        (552,420)          -                        15,615              15,615              (536,805)          
+Less - interest expense (142,747)          (4,502,693)       142,747           (4,502,693)       -                        (7,625)              (7,625)              (4,510,318)       
+Net financial revenue 324,427           7,262,103        -                        7,586,530        -                        220,938           220,938           7,807,468        
+Grant administration fees 2,451,348        -                        -                        2,451,348        -                        -                        -                        2,451,348        
+Training and other fees 63,088              -                        -                        63,088              -                        -                        -                        63,088              
+Program service fees 7,869,327        -                        (7,869,327)       -                        -                        -                        -                        -                        
+Other net income (losses) 3,750                (28,823)            -                        (25,073)            -                        -                        -                        (25,073)            
+Total earned revenue 10,711,940      7,233,280        (7,869,327)       10,075,893      -                        220,938           220,938           10,296,831      
+Public support:
+Grants - pass-through 6,878,379        -                        -                        6,878,379        129,303           -                        129,303           7,007,682        
+Grants and contributions 845,671           1,214,622        -                        2,060,293        25,000              1,789,852        1,814,852        3,875,145        
+Net assets released from restrictions 154,671           1,977,419        -                        2,132,090        (154,671)          (1,977,419)       (2,132,090)       -                        
+Net assets released from restrictions - pass-through 6,500                -                        -                        6,500                (6,500)              -                        (6,500)              -                        
+Less - grants passed through to others (6,884,879)       -                        -                        (6,884,879)       -                        -                        -                        (6,884,879)       
+Net public support 1,000,342        3,192,041        -                        4,192,383        (6,868)              (187,567)          (194,435)          3,997,948        
+Total operating revenues 11,712,282      10,425,321      (7,869,327)       14,268,276      (6,868)              33,371              26,503              14,294,779      
+Operating Expenses:
+Program services 7,368,430        7,869,327        (7,869,327)       7,368,430        -                        -                        -                        7,368,430        
+Management and administrative 915,200           -                        -                        915,200           -                        -                        -                        915,200           
+Fundraising 433,154           -                        -                        433,154           -                        -                        -                        433,154           
+Total operating expenses 8,716,784        7,869,327        (7,869,327)       8,716,784        -                        -                        -                        8,716,784        
+Changes in net assets from operations 2,995,498        2,555,994        -                        5,551,492        (6,868)              33,371              26,503              5,577,995        
+Non-Operating Revenue (Expense):
+Share of income from program-related development investments -                        1,756,477        -                        1,756,477        -                        -                        -                        1,756,477        
+Net realized and unrealized loss on investments -                        (274,499)          -                        (274,499)          -                        -                        -                        (274,499)          
+Total non-operating revenue (expense) -                        1,481,978        -                        1,481,978        -                        -                        -                        1,481,978        
+Total changes in net assets 2,995,498        4,037,972        -                        7,033,470        (6,868)              33,371              26,503              7,059,973        
+Net Assets:
+Beginning of year 4,540,722        28,230,552      -                        32,771,274      296,229           7,881,201        8,177,430        40,948,704      
+Cumulative adjustment from adoption of CECL on July 1, 2023 -                        -                        -                        -                        -                        410,830           410,830           410,830           Net asset transfer - from NCIC acquisition 458,357           4,101,165        -                        4,559,522        -                        3,843,610        3,843,610        8,403,132        
+Net asset transfer (2,150,000)       2,150,000        -                        -                        -                        -                        -                        -                        
+End of year 5,844,577$      38,519,689$    -$                      44,364,266$    289,361$         12,169,012$    12,458,373$    56,822,639$    
+Without Donor Restrictions With Donor Restrictions
+Page 37
+===== PAGE 42 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.
+Schedule of Expenditures of Federal Awards
+For the Year Ended June 30, 2025
+Pass-Through
+Assistance Entity Expenditures
+Listing (AL) Identifying Federal to
+Number Number Expenditures Subrecipients
+U.S. Department of the Treasury:
+Direct Program:
+ Community Development Financial Institutions Program21.020 N/A 1,250,000$     -$                      
+Community Development Financial Institutions Fund
+Equitable Recovery Program (CDFI ERP) 21.033 N/A 387,402           -                        
+Total U.S. Department of the Treasury 1,637,402        -                        
+U.S. Department of Agriculture:
+Direct Programs:
+Local Meat Capacity Grants 10.189 N/A 25,098,524     23,298,524     
+Meat and Poultry Processing Expansion Program 10.381 N/A 20,345,823     18,408,460     
+Intermediary Relending Program 10.767 N/A 4,910,846        544,016           
+Rural Business Development Grant 10.351 N/A 99,945             82,903             
+Total U.S. Department Agriculture 50,455,138     42,333,903     
+Small Business Administration:
+Direct Program:
+Microloan Program 59.046 N/A 206,145           -                        
+Total Small Business Administration 206,145           -                        
+Total Expenditures of Federal Awards 52,298,685$   42,333,903$   
+Note 1. Basis of Presentation
+Note 2. Loans Outstanding
+Assistance
+Listing (AL)
+Number Amount
+10.767 4,612,066$     
+Note 3. Indirect Cost Rate
+Note 4. Revolving Loan Funds
+The Intermediary Relending Program (IRP) listed above is to be used as a revolving loan fund and is shown on the Schedule of
+Expenditures of Federal Awards (SEFA) until the thirty-year investment compliance period is completed.  
+The following amount represent the outstanding loan balances by Assistance Listing Number as of June 30, 2025:
+Federal Grantor/
+Pass-Through Grantor/
+Program or Cluster Title
+The accompanying Schedule of Expenditures of Federal Awards includes the Federal assistance activity of New Hampshire
+Community Loan Fund, Inc. (the Community Loan Fund) and is presented on the accrual basis of accounting. The information in
+this schedule is presented in accordance with the requirements of Title 2 U.S. Code of Federal Regulations (CFR) Part 200,
+Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards.   
+The Community Loan Fund has elected not to use the 10% de minimis cost rate for its Federal programs.
+Page 38
+===== PAGE 43 =====
+ 
+Page 39 
+50 Washington Street Westborough, MA 01581 508.366.9100 aafcpa.com   
+     Report on Internal Control Over Financial Reporting and on Compliance and Other Matters Based on an Audit of Financial Statements Performed in Accordance With Government Auditing Standards  Independent Auditor’s Report    To the Board of Directors of New Hampshire Community Loan Fund, Inc.:   We have audited, in accordance with the auditing standards generally accepted in the United States of America and the standards applicable to financial audits contained in Government Auditing Standards issued by the Comptroller General of the United States, the consolidated financial statements of New Hampshire Community Loan Fund, Inc. and Affiliate (collectively, the Community Loan Fund), which comprise the consolidated statement of financial position as of June 30, 2025, and the related consolidated statements of activities and changes in net assets, cash flows and functional expenses for the year then ended, and the related notes to the consolidated financial statements, and have issued our report thereon dated September 25, 2025.  Report on Internal Control Over Financial Reporting  In planning and performing our audit of the consolidated financial statements, we considered the Community Loan Fund’s internal control over financial reporting (internal control) as a basis for designing audit procedures that are appropriate in the circumstances for the purpose of expressing our opinion on the consolidated financial statements, but not for the purpose of expressing an opinion on the effectiveness of the Community Loan Fund’s internal control.  Accordingly, we do not express an opinion on the effectiveness of the Community Loan Fund’s internal control.  A deficiency in internal control exists when the design or operation of a control does not allow management or employees, in the normal course of performing their assigned functions, to prevent, or detect and correct, misstatements on a timely basis.  A material weakness is a deficiency, or a combination of deficiencies, in internal control, such that there is a reasonable possibility that a material misstatement of the entity’s consolidated financial statements will not be prevented, or detected and corrected, on a timely basis.  A significant deficiency is a deficiency, or a combination of deficiencies, in internal control that is less severe than a material weakness, yet important enough to merit attention by those charged with governance.  Our consideration of internal control was for the limited purpose described in the first paragraph of this section and was not designed to identify all deficiencies in internal control that might be material weaknesses or significant deficiencies.  Given these limitations, during our audit we did not identify any deficiencies in internal control that we consider to be material weaknesses.  However, material weaknesses or significant deficiencies may exist that have not been identified.  Report on Compliance and Other Matters  As part of obtaining reasonable assurance about whether the Community Loan Fund’s consolidated financial statements are free from material misstatement, we performed tests of its compliance with certain provisions of laws, regulations, contracts, and grant agreements, noncompliance with which could have a direct and material effect on the consolidated financial statements.  However, providing an opinion on compliance with those provisions was not an objective of our audit, and accordingly, we do not express such an opinion.  The results of our tests disclosed no instances of noncompliance or other matters that are required to be reported under Government Auditing Standards.     
+===== PAGE 44 =====
+ 
+Page 40 
+Purpose of this Report  The purpose of this report is solely to describe the scope of our testing of internal control and compliance and the results of that testing, and not to provide an opinion on the effectiveness of the Community Loan Fund’s internal control or on compliance.  This report is an integral part of an audit performed in accordance with Government Auditing Standards in considering the Community Loan Fund’s internal control and compliance.  Accordingly, this communication is not suitable for any other purpose.     Westborough, Massachusetts September 25, 2025   
+===== PAGE 45 =====
+ 
+Page 41 
+50 Washington Street Westborough, MA 01581 508.366.9100 aafcpa.com   
+     Report on Compliance for Each Major Federal Program and Report on Internal Control Over Compliance Required by the Uniform Guidance  Independent Auditor’s Report    To the Board of Directors of New Hampshire Community Loan Fund, Inc.:   Report on Compliance for Each Major Federal Program  Opinion on Each Major Federal Program  We have audited New Hampshire Community Loan Fund, Inc. and Affiliate’s (collectively, the Community Loan Fund) compliance with the types of compliance requirements identified as subject to audit in the OMB Compliance Supplement that could have a direct and material effect on the Community Loan Fund’s major Federal program for the year ended June 30, 2025.  The Community Loan Fund’s major Federal program is identified in the summary of auditor’s results section of the accompanying schedule of findings and questioned costs.  In our opinion, the Community Loan Fund complied, in all material respects, with the types of compliance requirements referred to above that could have a direct and material effect on its major Federal program for the year ended June 30, 2025.  Basis for Opinion on Each Major Federal Program  We conducted our audit of compliance in accordance with auditing standards generally accepted in the United States of America (GAAS); the standards applicable to financial audits contained in Government Auditing Standards issued by the Comptroller General of the United States (Government Auditing Standards); and the audit requirements of Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards (Uniform Guidance).  Our responsibilities under those standards and the Uniform Guidance are further described in the Auditor’s Responsibilities for the Audit of Compliance section of our report.   We are required to be independent of the Community Loan Fund and to meet our other ethical responsibilities, in accordance with relevant ethical requirements relating to our audit.  We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion on compliance for the major Federal program.  Our audit does not provide a legal determination of the Community Loan Fund’s compliance with the compliance requirements referred to above.  Responsibilities of Management for Compliance  Management is responsible for compliance with the requirements referred to above and for the design, implementation, and maintenance of effective internal control over compliance with the requirements of laws, statutes, regulations, rules, and provisions of contracts or grant agreements applicable to the Community Loan Fund’s Federal programs.    
+===== PAGE 46 =====
+ 
+Page 42 
+Auditor’s Responsibilities for the Audit of Compliance  Our objectives are to obtain reasonable assurance about whether material noncompliance with the compliance requirements referred to on the previous page occurred, whether due to fraud or error, and express an opinion on the Community Loan Fund’s compliance based on our audit.  Reasonable assurance is a high level of assurance but is not absolute assurance and therefore is not a guarantee that an audit conducted in accordance with GAAS, Government Auditing Standards, and the Uniform Guidance will always detect material noncompliance when it exists.  The risk of not detecting material noncompliance resulting from fraud is higher than for that resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.  Noncompliance with the compliance requirements referred to on the previous page is considered material if there is a substantial likelihood that, individually or in the aggregate, it would influence the judgment made by a reasonable user of the report on compliance about the Community Loan Fund’s compliance with the requirements of the major Federal program as a whole.  In performing an audit in accordance with GAAS, Government Auditing Standards, and the Uniform Guidance, we:   Exercise professional judgment and maintain professional skepticism throughout the audit.   Identify and assess the risks of material noncompliance, whether due to fraud or error, and design and perform audit procedures responsive to those risks.  Such procedures include examining, on a test basis, evidence regarding the Community Loan Fund’s compliance with the compliance requirements referred to above and performing such other procedures as we considered necessary in the circumstances.   Obtain an understanding of the Community Loan Fund’s internal control over compliance relevant to the audit in order to design audit procedures that are appropriate in the circumstances and to test and report on internal control over compliance in accordance with the Uniform Guidance, but not for the purpose of expressing an opinion on the effectiveness of the Community Loan Fund’s internal control over compliance.  Accordingly, no such opinion is expressed.  We are required to communicate with those charged with governance regarding, among other matters, the planned scope and timing of the audit and any significant deficiencies and material weaknesses in internal control over compliance that we identified during the audit.  Report on Internal Control Over Compliance  A deficiency in internal control over compliance exists when the design or operation of a control over compliance does not allow management or employees, in the normal course of performing their assigned functions, to prevent, or detect and correct, noncompliance with a type of compliance requirement of a Federal program on a timely basis.  A material weakness in internal control over compliance is a deficiency, or a combination of deficiencies, in internal control over compliance, such that there is a reasonable possibility that material noncompliance with a type of compliance requirement of a Federal program will not be prevented, or detected and corrected, on a timely basis.  A significant deficiency in internal control over compliance is a deficiency, or a combination of deficiencies, in internal control over compliance with a type of compliance requirement of a Federal program that is less severe than a material weakness in internal control over compliance, yet important enough to merit attention by those charged with governance.  Our consideration of internal control over compliance was for the limited purpose described in the Auditor’s Responsibilities for the Audit of Compliance section and was not designed to identify all deficiencies in internal control over compliance that might be material weaknesses or significant deficiencies in internal control over compliance.  Given these limitations, during our audit we did not identify any deficiencies in internal control over compliance that we consider to be material weaknesses, as defined above.  However, material weaknesses or significant deficiencies in internal control over compliance may exist that were not identified.     
+===== PAGE 47 =====
+ 
+Page 43 
+Report on Internal Control Over Compliance (Continued)  Our audit was not designed for the purpose of expressing an opinion on the effectiveness of internal control over compliance.  Accordingly, no such opinion is expressed.  The purpose of this report on internal control over compliance is solely to describe the scope of our testing of internal control over compliance and the results of that testing based on the requirements of the Uniform Guidance.  Accordingly, this report is not suitable for any other purpose.     Westborough, Massachusetts November 25, 2025  
+===== PAGE 48 =====
+NEW HAMPSHIRE COMMUNITY LOAN FUND, INC.  Schedule of Findings and Questioned Costs June 30, 2025 
+  
+Page 44 
+1. SUMMARY OF AUDITOR’S RESULTS  Financial Statements  Type of auditor’s report issued on whether the consolidated financial statements audited were prepared in accordance with U.S. GAAP:   Unmodified  Is a  “going concern” emphasis-of-matter paragraph included in the auditor’s report?   Yes   X  No  Internal control over financial reporting: 
+ Material weakness(es) disclosed?   Yes  X  No 
+ Significant deficiency(ies) disclosed?   Yes  X  None Reported 
+Noncompliance material to consolidated financial statements disclosed? 
+   Yes 
+  X 
+  No  Federal Awards  Internal control over the major Federal program:   
+ Material weakness(es) disclosed?   Yes  X  No 
+ Significant deficiency(ies) disclosed?   Yes  X  None Reported  Type of auditor’s report issued on compliance for the major Federal program:  Unmodified 
+Any audit findings disclosed that are required to be reported in accordance with 2 CFR 200.516(a)? 
+   Yes 
+  X 
+  No  Identification of the major Federal program:                                   Name of Federal Program or Cluster                                       
+Assistance Listing (AL)    Number     Meat and Poultry Processing Expansion Program 10.381  Dollar threshold used to distinguish between Type A and Type B programs:   $1,568,961.  Auditee qualified as low-risk auditee? X Yes  No  2. FINANCIAL STATEMENT FINDINGS   None  3. FEDERAL AWARD FINDINGS AND QUESTIONED COSTS      None 

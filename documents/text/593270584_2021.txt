@@ -1,0 +1,664 @@
+
+===== PAGE 1 =====
+FLORIDA DEVELOPMENT FINANCE CORPORATION 
+TABLE OF CONTENTS 
+Page 
+REPORT OF INDEPENDENT AUDITOR ........................................................................................ 1 - 2 
+MANAGEMENT'S DISCUSSION AND ANALYSIS ..................................................................... 3 - 6 
+BASIC FINANCIAL STATEMENTS 
+Statement of Net Position ........................................................................................................................... 7 
+Statement of Revenues, Expenses and Changes in Net Position .............................................................. 8 
+Statement of Cash Flows ............................................................................................................................ 9 
+Notes to Financial Statements ............................................................................................................... 1 O -14 
+SUPPLEMENTARY REPORT OF INDEPENDENT AUDITOR 
+Report of Independent Auditor on Internal Control over Financial Reporting and on 
+Compliance and Other Matters Based on an Audit of Financial Statements Performed 
+in Accordance with Government Auditing Standards ......................................................................... 15 -16 
+===== PAGE 2 =====
+::: Cherry Bekaert'" 
+CPAs & Advisors 
+Report of Independent Auditor 
+To the Board of Directors, 
+Florida Development Finance Corporation : 
+Report on the Financial Statements 
+We have audited the accompanying financial statements of Florida Development Finance Corporation 
+("FDFC") as of and for the year ended June 30, 2021, and the related notes to the financial statements, which 
+collectively comprise the FDFC's basic financial statements , as listed in the table of contents. 
+Management's Responsibility for the Financial Statements 
+Management is responsible for the preparation and fair presentation of these financial statements in 
+accordance with accounting principles generally accepted in the United States of America ; this includes the 
+design, implementation , and maintenance of internal control relevant to the preparation and fair presentation 
+of financial statements that are free from material misstatement, whether due to fraud or error. 
+Auditor's Responsibility 
+Our responsibility is to express an opinion on these financial statements based on our audit. We conducted 
+our audit in accordance with auditing standards generally accepted in the United States of America and the 
+standards applicable to financial audits contained in Government Auditing Standards, issued by the 
+Comptroller General of the United States. Those standards require that we plan and perform the audit to 
+obtain reasonable assurance about whether the financial statements are free of material misstatement. 
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the 
+financial statements. The procedures selected depend on the auditor's judgment , including the assessment of 
+the risks of material misstatement of the financial statements , whether due to fraud or error. In making those 
+risk assessments, the auditor considers internal control relevant to the entity's preparation and fair 
+presentation of the financial statements in order to design audit procedures that are appropriate in the 
+circumstances , but not for the purpose of expressing an opinion on the effectiveness of the entity's internal 
+control. Accordingly , we express no such opinion. An audit also includes evaluating the appropriateness of 
+accounting policies used and the reasonableness of significant accounting estimates made by management, 
+as well as evaluating the overall presentation of the financial statements . 
+We believe the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit 
+opinion. 
+Opinion 
+In our opinion, the financial statements referred to above present fairly, in all material respects , the financial 
+position of Florida Development Finance Corporation as of June 30, 2021, and the respective changes in 
+financial position and cash flows thereof for the year then ended in accordance with accounting principles 
+generally accepted in the United States of America . 
+===== PAGE 3 =====
+Other Matters 
+Accounting principles generally accepted in the United States of America require that the managem ent's 
+discussion and analysis on pages 3 - 6 be presented to supplement the basic financial stateme nts. Such 
+information, although not a part of the basic financial statements , is required by the Governmental Accounting 
+Standards Board, who considers it to be an essential part of financial reporting for placing the basic financial 
+statements in an appropriate operational , economic , or historical context. We have applied certain limited 
+procedures to the required supplementary information in accordance with auditing standards generally 
+accepted in the United States of America , which consisted of inquiries of management about the methods of 
+preparing the information and comparing the information for consistency with management's responses to our 
+inquiries , the basic financ ial statements , and other knowledge we obtained during our audit of the basic 
+financial statements . We do not express an opinion or provide any assurance on the information because the 
+limited procedures do not provide us with sufficient evidence to express an opinion or provide any assurance. 
+Other Reporting Required by Government Auditing Standards 
+In accordance with Government Auditing Standards , we have also issued our report dated October 13, 2021 
+on our consideration of FDFC's internal control over financial reporting and on our tests of its compliance with 
+certain provisions of laws , regulations , contracts , and grant agreements and other matters. The purpose of 
+that report is solely to describe the scope of our testing of internal control over financial reporting and 
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of FDFC's 
+internal control over financial reporting or on compliance . That report is an integral part of an audit performed 
+in accordance with Government Auditing Standards in considering FDFC's internal control over financia l 
+reporting and compliance. 
+Orlando , Florida 
+October 13 2021 
+2 
+===== PAGE 4 =====
+MANAGEMENT'S DISCUSSION AND ANALYSIS 
+===== PAGE 5 =====
+FLORIDA DEVELOPMENT FINANCE CORPORATION 
+MANAGEMENT'S DISCUSSION AND ANALYSIS 
+JUNE 30, 2021 
+This discussion and analysis of Florida Development Finance Corporation 's ("FDFC") financial performance 
+provides an overview of its financial activities for the fiscal year ended June 30, 2021. Please read it in 
+conjunction with the report of independent auditor and the basic financial statements . 
+Financial Highlights 
+FDFC facilitated the authorization and issuance of $1 ,964,207,500 in (22) new money bonds for the fiscal year 
+ending June 30, 2021. The types of borrowers served by the FDFC bond process were 12 charter schools, 1 
+private school, 2 transportation facilities , 2 industrial development (manufacturing ) facilities , 3 senior living 
+facilities , and 2 solid waste disposal facilities. In all, FDFC received conduit debt application and issuance 
+fees totaling $1 ,843,314. 
+In addition , FDFC's Property Assessed Clean Energy ("PACE") Program facilitated the issuance of 
+$10,319,316 in (6) taxable residential PACE bonds and $39,018,670 in (7) taxable commercial PACE bonds 
+during the fiscal year ending June 30, 2021. In all, FDFC received issuance fees totaling $243,325 for the 
+PACE Program. 
+Overview of the Financial Statements 
+This discussion and analysis is intended to serve as an introduction to FDFC's basic financial statements. The 
+basic financial statements also include notes that explain in more detail some of the information in the financial 
+statements. 
+Required Basic Financial Statements 
+FDFC utilizes an enterprise fund for financial reporting purposes. This fund includes all activities of FDFC 
+The financial statements of FDFC report information about FDFC using accounting methods similar to those 
+used by private sector companies. These statements offer short-term and long-term financial information about 
+its activities. The statement of net position includes all of FDFC's assets and liabilities and provides information 
+about the nature and amounts of investments in resources (assets) and the obligations to FDFC's creditors 
+(liabilities). The statement of net position also provides the basis for computing rate of return, evaluating the 
+capital structure of FDFC and assessing liquidity and financial flexibility of FDFC. 
+All of the current year's revenues and expenses are accounted for in the statement of revenues, expenses, and 
+changes in net position. This statement measures the success of FDFC's operations over the past year and 
+can be used to determine whether FDFC has successfully recovered all of its costs through its services 
+provided, as well as its profitability, and credit worthiness . 
+The final required financial statement is the statement of cash flows. The primary purpose of this statement is to 
+provide information about FDFC's cash receipts and payments during the reporting period. The statement 
+reports cash receipts, cash payments , and net changes in cash resulting from operating, investing, non-capital 
+financing and financing activities and provides answers to such questions as where did cash come from, what 
+was cash used for, and what was the change in the cash balance during the reporting period. 
+3 
+===== PAGE 6 =====
+FLORIDA DEVELOPMENT FINANCE CORPORATION 
+MANAGEMENT'S DISCUSSION AND ANALYSIS 
+JUNE 30, 2021 
+Financial Analysis 
+Net Position 
+Net position may serve over time as a useful indicator of FDFC's financial position. FDFC's assets exceeded 
+liabilities by $4,645,855, representing an increase in net position for the year of $1,207,226. The largest portion 
+of FDFC's net position reflects cash received from bond issuance fees. 
+TableA-1: 
+Statements of Net Position 
+(In thousands of dollars) 
+Assets 
+Cash and cash equivalents 
+Accounts receivable 
+Prepaid expenses 
+Capital assets, net 
+Total assets 
+Liabilities 
+Accounts payable 
+Accrued expenses 
+Total liabilitie s 
+Net Position 
+Investment in capital assets 
+Unrestricted 
+Total net position 
+Fiscal Year Fiscal Year Dollar 
+$ 
+$ 
+2021 2020 Change 
+4,508 
+41 
+125 
+4,674 
+3 
+25 
+28 
+125 
+4,521 
+$ 
+4,646 $ 
+3,339 
+37 
+31 
+59 
+3,466 
+10 
+18 
+28 
+59 
+3,379 
+$ 
+3,438 $ 
+1,169 
+(37) 
+10 
+66 
+1,208 
+(7) 
+7 
+66 
+1,142 
+1,208 
+Total cash and cash equivalents increased largely due to operating results leading to a significant increase in net 
+position. Total accounts receivable decreased due largely to amounts due from Renovate America in the prior 
+year. Total capital assets increased due largely to the design plan and buildout for the office leasehold 
+improvements in the current year. 
+4 
+===== PAGE 7 =====
+FLORIDA DEVELOPMENT FINANCE CORPORATION 
+MANAGEMENT'S DISCUSSION AND ANALYSIS 
+JUNE 30, 2021 
+Changes in Net Position 
+The changes in net position displayed below shows FDFC's activities during the past two fiscal years. The 
+increase in net position for each year represents the extent to which revenues exceeded expenses during the 
+year. 
+Table A-2: 
+Statements of Revenues, Expenses, and Changes in Net Position 
+(In thousands of dollars) 
+Fiscal Year Fiscal Year 
+2021 2020 
+Revenue : 
+Dollar 
+Change 
+Fees $ 2,574 
+8 
+$ 1,250 $ 1,324 
+Other revenue 
+Total revenue 
+Expenses: 
+General and administrative 
+Salaries and wages 
+Professional fees 
+Other 
+Program: 
+PACE program 
+FRED 
+Total expenses 
+Change in Net Position 
+Net Position, beginning of year 
+Net Position, end of year $ 
+2,582 
+887 
+102 
+243 
+126 
+16 
+1,374 
+1,208 
+3,438 
+4,646 
+140 (132) 
+1,390 1,192 
+785 102 
+111 (9) 
+200 43 
+207 (81) 
+19 (3) 
+1,322 52 
+68 1,140 
+3,370 68 
+$ 3,438 $ 1,208 
+The increase in revenue is due to the issuance of 13 more traditional bonds than in prior year. Other revenue 
+decreased due largely to decreases in interest income and PACE reimbursables. Interest income decreased as 
+a result of the low interest rate environment. The increase in salaries and wages was a result of raises and 
+hiring of a bond program manager. PACE program expenses decreased due to nonrecurring consulting 
+expenses ending in August 2020 and reduction in travel due to COVID-19 impacts. 
+5 
+===== PAGE 8 =====
+FLORIDA DEVELOPMENT FINANCE CORPORATION 
+MANAGEMENT'S DISCUSSION AND ANALYSIS 
+JUNE 30, 2021 
+Economic Factors 
+FDFC's primary business is the issuance of tax exempt revenue bonds, which are permissible under the U.S. 
+Internal Revenue Service's private activity regulations and Chapter 288, Part X, Florida Statutes. Those 
+regulations, subject to a number of limitations and restrictions, allow certain borrower and project types , such as 
+small manufacturers and non-profit corporations, to finance capital assets with tax exempt bond proceeds. 
+FDFC's revenues are exclusively generated by fees charged for issuance of bonds, and the volume of bond 
+issuance can be directly impacted by general economic and perception of policies for conduit issuance by 
+potential borrowers and their finance team. The capital market has functioned in an artificially low interest-rate 
+environment for an extended period of time since COVID-19 impacted the U.S. 
+Requests for Information 
+This financial report is designed to provide a general overview of FDFC's finances for all those with an interest 
+in FDFC's finances. Questions concerning any of the information provided in this report or requests for 
+additional information should be addressed to: 
+Bill Spivey 
+Executive Director 
+156 Tuskawilla Road, Suite 2340 
+Winter Springs, Florida 32708 
+6 
+===== PAGE 9 =====
+BASIC FINANCIAL STATEMENTS 
+===== PAGE 10 =====
+FLORIDA DEVELOPMENT FINANCE CORPORATION 
+STATEMENT OF NET POSITION 
+JUNE 30, 2021 
+ASSETS 
+Current Assets: 
+Cash and cash equivalents 
+Prepaid expenses 
+Capital assets , net 
+Total Assets 
+LIABILITIES 
+Current Liabilities: 
+Accounts payable 
+Accrued expenses 
+Total Liabilities 
+NET POSITION 
+Net investment in capital assets 
+Unrestricted 
+Total Net Position 
+See notes to financial statements. 
+$ 4,508 ,114 
+40,627 
+124,931 
+4,673,672 
+2,857 
+24,960 
+27,817 
+124,931 
+4,520 ,924 
+4,645 ,855 
+7 
+===== PAGE 11 =====
+FLORIDA DEVELOPMENT FINANCE CORPORATION 
+STATEMENT OF REVENUES, EXPENSES AND CHANGES IN NET POSITION 
+YEAR ENDED JUNE 30, 2021 
+Revenues 
+Conduit debt application and issuance fees $ 1,843,314 
+Conduit debt reimbursement revenues 1,802 
+PACE program fees 730,393 
+Interest and other 6,497 
+Total Revenues 2,582,006 
+Expenses 
+Salaries and wages 887,447 
+PACE program direct expenses 141,915 
+Professional fees 102,454 
+Other 242,964 
+Total Expenses 1,374,780 
+Increase in Net Position 1,207,226 
+Net Position, Beginning of Year 3,438,629 
+Net Position, End of Year $ 4,645,855 
+See notes to financial statements. 8 
+===== PAGE 12 =====
+FLORIDA DEVELOPMENT FINANCE CORPORATION 
+STATEMENT OF CASH FLOWS 
+YEAR ENDED JUNE 30, 2021 
+Cash Flows From Operating Activities: 
+Receipts from fees and expense reimbursements 
+Payments to service providers 
+Interest received 
+Net Cash Provided by Operating Activities 
+Cash Flows From Investing Activities: 
+Purchase of leasehold improvements 
+Net Cash Used in Investing Activities 
+Net Increase in Cash and Cash Equivalents 
+Cash and Cash Equivalents , Beginning of Year 
+Cash and Cash Equivalents, End of Year 
+Reconciliation of Increase in Net Position to Net Cash 
+Provided by Operating Activities : 
+Increase in net position 
+Adjustments to reconcile increase in net position 
+to net cash provided by operating activities : 
+Deprec iation 
+Changes in: 
+Accounts receivable 
+Prepaid expenses 
+Accounts payable 
+Accrued expenses 
+Net Cash Provided by Operating Activities 
+See notes to financial statements. 
+$ 2,614,009 
+(1 ,355,449) 
+4,497 
+1,263,057 
+(94,296) 
+(94,296) 
+1,168,761 
+3,339,353 
+$ 4,508,114 
+$ 1,207,226 
+28,716 
+36,500 
+(9,465 ) 
+(6,753) 
+6,833 
+$ 1,263,057 
+9 
+===== PAGE 13 =====
+FLORIDA DEVELOPMENT FINANCE CORPORATION 
+NOTES TO FINANCIAL STATEMENTS 
+YEAR ENDED JUNE 30, 2021 
+Note 1-Summary of Significant Accounting Policies 
+A. Reporting Entity 
+Florida Development Finance Corporation ("FDFC" ) is an independent entity constituted as a public instrumental ity 
+of local government , created to facilitate economic development in Florida by working in partnership with the Florida 
+financial services industry and local development organizat ions to create access to compet itive sources of finance 
+for creditworthy borrowers and other firms contributing to job creation and the economic base of Florida . FDFC's 
+bond programs provide access to capital for project development through tax exempt and taxable financing. This 
+includes financ ing to stimulate and assist in the expansion of all kinds of for-profit and not-for-profit business activity, 
+a portion of which consists of resident ial and commerc ial bonds through the Property Assessed Clean Energy 
+("PACE") Program. As of January 2021, the FDFC is no longer supporting Residential PACE due to Renovate 
+America 's exit. 
+FDFC was formed pursuant to Florida Statutes , Chapter 288, Part X and all acts supplemental the reto and 
+amendatory thereof. FDFC is governed by a seven member board of directors , five of which are appointe d by the 
+Governor , subject to confirmation of the Senate , one representative from the Florida Department of Economic 
+Opportunity , and one representative from the Florida Division of Bond Finance. Each board member appointed by 
+the Governor serves a term of four years. The current statutor y provisions reflect a related party relationship with the 
+State of Florida , whereas the State of Florida does not impose its will on FDFC. Accordingly , FDFC does not meet 
+the criteria provided by the Governmental Accounting Standards Board for being a component unit of the State of 
+Florida. 
+The accompanying basic financial statements comply with the provisions of Governmental Accounting Standards 
+Board ("GASB ") Statement No. 14, as amended , The Financial Reporting Entity, in that the financial stateme nts 
+include all organizations , activities , and functions that comprise FDFC. Component units are legally separate 
+entities for which FDFC (the primary entity) has financial accountability. Financial accountability is defined as the 
+ability of the primary entity to appoint a voting majority of an organization's governing body and either (1) impose its 
+will over the organization or (2) there is a potential that the organization will provide a specific financial benefit to, or 
+impose a specific financial burden on the primary entity. Financial accountab ility may also arise if an organization is 
+fiscally dependent on and has a fiscal benefit or burden relationship with the primary government. Using these 
+criteria , FDFC has no component units. 
+B. Measurement Focus and Basis of Accounting 
+FDFC is accounted for as an enterprise fund. The basic financial statements are reported using the economic 
+resources measurement focus and the accrual basis of accounting . Revenues are recorded when earned and 
+expenses are reported when the liability is incurred , regardless of the timing of the related cash flows . 
+FDFC financial statements have been prepared in accordance with account ing principles generally accept ed in the 
+United States of America, including application of all relevant GASS pronouncements. 
+C. Deposits and Investments 
+FDFC places its cash on deposit with financial institutions in the United States. The Federal Deposit Insurance 
+Corporat ion (FDIC) covers $250,000 for substantially all deposit accounts. At June 30, 2021 , FDFC had 
+approximately $1 ,311,000 in excess of the insured amounts . Management believes the associated risk is minimized 
+by placing such assets in quality financial institutions that are designated as qualified publi c depos itories 
+FDFC 's cash and cash equivalents are considered to be cash on hand, demand deposits , and short-te rm, highly 
+liquid investments with original maturities of three months or less. Investments classified as cash equivalents include 
+amount placed with the Florida Surplus Asset Fund Trust ("FL SAFE"). 
+10 
+===== PAGE 14 =====
+FLORIDA DEVELOPMENT FINANCE CORPORATION 
+NOTES TO FINANCIAL STATEMENTS 
+YEAR ENDED JUNE 30, 2021 
+Note 1 - Summary of Significant Accounting Policies (continued) 
+FDFC's investment in the FL SAFE is a qualifying local government investment pool and was assigned a rating of 
+"AAAm" by the Standard and Poor's Rating Service. As of June 30, 2021, FDFC had a balance of $2,988,603 in the 
+FL SAFE. FDFC's position in the pool is valued based on amortized cost, which approximates fair value, and is 
+treated as a cash equivalent in financial statement presentation . The FL SAFE has no limitations or restricti ons on 
+withdrawals . 
+C. Deposits and Investments (continued) 
+FDFC follows the investment policy of Florida Statute §218.415 , which states that units of local government electing 
+not to adopt a written investment policy may invest or reinvest any surplus public funds in their control or possession 
+in (1) the Local Government Surplus Funds Trust Fund, or any intergovernmental investment pool authorized 
+pursuant to the Florida lnterlocal Cooperation Act of 1969, (2) Securities and Exchange Commission registered 
+money market funds with the highest credit quality rating from a nationally recognized rating agency, (3) interest­
+bearing time deposits or savings accounts in qualified public depositories , and (4) direct obligations of the U.S. 
+Treasury . 
+D. Capital Assets 
+Capital assets consist of computers and equipment , furniture and fixtures , and leasehold improvements , stated at 
+cost when purchased or constructed . The threshold for capitalization of assets is $1 ,000. Expenses for maintenance 
+and repairs are charged to operations. Provisions for depreciation are made using the straight-line method , based 
+upon either the useful life of assets or the term of the associated lease. 
+E. Conduit Debt Issuance Fees 
+Issuance fees paid by borrowers for conduit debt obligations are generally recognized as revenue in the period the 
+bonds are issued ; however , application fees are not refundable and are recognized when received . 
+F. Reimbursement Revenues 
+Revenues recognized as reimbursement for conduit debt projects and the PACE program are recorded in the same 
+period as related expenses are incurred. 
+G. Use of Estimates 
+The preparation of basic financial statements in conformity with accounting principles generally accepted in the 
+United States of America requires management to make estimates and assumptions that affect the amounts of 
+assets and liabilities and disclosure of contingent assets and liabilities at the date of the basic financial statements 
+and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from 
+those estimates . 
+H. Income Taxes 
+FDFC is a not-for-profit corporation and has been determined by the Internal Revenue Service to be a 501 (c)(4) 
+organization exempt from taxes under Section 501 (a) of the Internal Revenue Code. Accordingly , no provision has 
+been made for income taxes. 
+11 
+===== PAGE 15 =====
+FLORIDA DEVELOPMENT FINANCE CORPORATION 
+NOTES TO FINANCIAL STATEMENTS 
+YEAR ENDED JUNE 30, 2021 
+Note 1 - Summary of Significant Accounting Policies (continued) 
+I. FDFC PACE Program Agreement with FRED 
+During fiscal 2017 , FDFC entered into an agreement with the Florida Resiliency and Energy District ("FRED"), a 
+separate legal entity authorized to facilitate the levy and collection of special assessments as the repayment 
+mechanism of PACE finances pursuant to Section 163.01 (14), Florida Statutes. Under the agreement , FDFC serves 
+as FRED's agent for purposes of executing Financing Agreements with property owners on behalf of FRED pursuant 
+to Section 163. 08(6), Florida Statutes , for purposes of administering the FDF C PACE Program within the boundaries 
+of FRED and for ensuring compliance with the Florida PACE Act. 
+Note 2 - Capital Assets 
+The following is a summary of changes in capital assets during the year ended June 30, 2020 : 
+Balance at Balance at 
+July 1, June 30, 
+2020 Additions Deletions 2021 
+Capital assets: 
+Leasehold improvements $ 45,032 $ 94,296 $ $ 139,328 
+Computers and equipment 43,258 43,258 
+Furniture and fixtures 4,517 4,517 
+Total capital assets 92,807 94,296 187,103 
+Less accumulated depreciation for: 
+Leasehold improvements 9,092 14,512 23,604 
+Computers and equipment 24,040 13,752 37,792 
+Furniture and fixtures 324 452 776 
+Total accumulated depreciation 33,456 28,716 62,172 
+Capital assets, net $ 59,351 $ 65,580 $ $ 124,931 
+FDFC 's total depreciation expense was $28,716 for the year ended June 30, 2021. 
+Note 3 - Related Party Transactions 
+FDFC enters into bond financing transactions on behalf of borrowers with various financial institutions and investors 
+whereby bond documents have been approved by FDFC's Board of Directors. Certain Board members may be 
+affiliated with financial institutions , which issue term sheets to purchase the bonds . In such cases , these Board 
+members would recuse themselves from voting on items with such affiliation. It is management 's opinion that these 
+transactions have been conducted at arm's length. 
+12 
+===== PAGE 16 =====
+FLORIDA DEVELOPMENT FINANCE CORPORATION 
+NOTES TO FINANCIAL STATEMENTS 
+YEAR ENDED JUNE 30, 2021 
+Note 4 - Commitments and Contingencies 
+FDFC is obligated under an operating lease for the office building. At June 30, 2021, future minimum lease 
+payments under the operating lease are as follows for the years ending June 30 : 
+2022 $ 
+2023 
+$ 
+49,020 
+24,871 
+73,891 
+FDFC's total lease expenses were $47,593 for the year ended June 30, 2021, and are included in other expenses . 
+Note 5 - Conduit Debt 
+In accordance with its mission and Chapter 288, Part X, Florida Statutes , FDFC has facilitated the issuance of debt 
+obligations whereby FDFC is merely a conduit issuer of bonds issued on behalf of borrowers . These bonds do not 
+constitute a general debt, liability or obligation of FDFC , the State of Florida, or any local government. 
+Additionally , FDFC has assigned all rights to receive payments from the borrowers to the bond purchaser in all bond 
+financing transactions . Assigned payments are not included in the accompanying basic financial statements . 
+Changes in PACE residential and commercial bonds conduit debt outstanding for the year ended June 30, 2021 are 
+as follows: 
+Balanc e at Balance al 
+July 1, June 30, 
+2020 Additions Reductions• 2021 
+2019 PACE Residentia l Bonds $ 20.166.954 $ $ 7.356.836 $ 12,810,118 
+2020 PACE Residential Bonds 42,120.166 6.511 .917 35.608,249 
+2020 PACE Commercia l Bonds 17,339.995 7,072,717 10,267,278 
+2021 PACE Residential Bonds 10.319.316 691.527 9.627,789 
+2021 PACE Commercial Bonds 39.018,670 39,018,670 
+Total PACE Bonds $ 79,627,115 $ 49,337.986 $ 21,632,997 $ 107,332 ,104 
+*Note : Reductions in principal result from annual special assessment collections and full or partial prepayments. 
+13 
+===== PAGE 17 =====
+FLORIDA DEVELOPMENT FINANCE CORPORATION 
+NOTES TO FINANCIAL STATEMENTS 
+YEAR ENDED JUNE 30, 2021 
+Note 5 • Conduit Debt (continued) 
+Changes in other bonds conduit debt outstanding for the year ended June 30 , 2021 are as follows : 
+Balance at Balanc e at 
+June 30, 2020 Additions Reductions June 30, 2021 
+2002 Series C4 Sengraphics Arts tnc. s 150 000 s 50.000 
+' 
+100 000 
+2003 Senes A Sculotor Charter SchOol 4 290 000 100 000 4 190 000 
+2009 Seri~ Center Court Prooert1es Inc. 1200000 100 000 1100 000 
+2009 Series Airport Properties Panne~ LLC ,o 610 000 230 000 10 380 000 
+2010 Series Lake Eota Charter Schools Foundat ion Inc. 1263433 1 263 433 
+2010 Series A&B Renaissance Charter Schools Inc. 5 974 460 5 974 460 
+2011 Series A&S Bay Area Charter Foundation LL.'.: 31820000 31820000 
+2012 Series Sculotor Charter School 675,000 10000 665 000 
+2012 Series A&B Mootverde Academy Inc 3 780 000 315 000 3 465 000 
+2012 Series A&B Renaissance Charter Schools Inc. 53 450 000 1030000 52 4 20 000 
+2013 Ser1es A&B Renaissance Charter Schools Inc. 74 530 000 1420 000 7 3110000 
+2013 Senes A&9 UF Health-J acksonville 96 7SO 000 3 775 000 92 935 000 
+20 14 Series A&B M1amI Arts Inc. 32 110.000 650000 31450 ODO 
+2014 Series A&B Renaiss ance Charter Schools Inc. 48 995 000 950 000 48 045 000 
+2014 Scrtes A&B OowntO'M\ Doral Chan:er School. Inc 21480000 380 000 21 100 ODO 
+2014 Series A&B Fl Charter Educat,onal Foundation Inc 13620000 220 000 13400000 
+2014 Series A Amencan Public Media Group B 885 000 355 000 a 530 ooo 
+2015 Series A 01vme Sa\llor Lutheran Academy 27 045 433 7n64o 26 2n 193 
+2015 Series A&B Renaissance Charter Schools Inc. 89 260 000 1365000 87 895 000 
+2015 Senes A&B UF Health- Jacksonville 85 000 000 85 000 000 
+2016 Senes A&B Tuscan Isle Property LLC 51 170 000 51170000 
+2016 Cypress PomI L1vmg. LLC 27 050 000 245 000 26 805 000 
+2015 Senes A&B The Peoin Academies Inc. 11990000 190000 11800000 
+2016 Series A&8 Franklm Academy 48 235 000 955000 472SJ 000 
+2016 Series A The Pme School Inc 6413300 218900 6 199 400 
+2016 Sertes A&B Florida Chart er Eduealional Foundation 38 800 000 620 000 38 180 000 
+2017 Series A&B Classical Preparatory . Inc 9 905 000 165 000 9 740 000 
+2017 Sertes A&B Palm Bay Academy Inc 8 000 000 8 000 000 
+2017 Series C&O Palm Bay Academy Inc 3 780,000 3 780 000 
+2017 Series E&F Palm Bay Acadl'!my Inc. 2 970.000 2970 000 
+2017 Series A&B Southwest Charter Foundation Inc. 39 260.000 595 000 38 655 000 
+2017 Series A&B DowntO'Ml Doral Charter School Inc. 6 125 000 190 000 5 935 000 
+2017 Se-nes C&O Oownto'M"I Doral CMner School Inc. 39 245 000 255 000 38 990 000 
+2017 Senes Was.le Pro USA Inc 32 500 000 32 500 000 
+2018 Series A&B Classica l Preparatory. Inc 4 420 000 70000 4 350 000 
+201B Series A&B Learning Gate Commun ity Scnool Inc. a gos ooo 145.000 8 760 000 
+2018 Sertes A Midtown Campus Properties LLC 77 32il.OOO 77 820 000 
+2018 Series A Ce~tral Florida Fair In::. 5 000 000 5 000 000 
+2019 Series A.&9 Imagine School Broward 19 175.000 191 75000 
+2019 Series A&B Athenian Academy 18 425 000 1B 4 25 ODO 
+2019 Senes A V1rg1n Trams USA 1 750 000.000 210 000 000 1 540 ODO ODO 
+2019 Virgin Trains USA Escrow 950 000 000 950 000 000 
+2019 Ser,es MB UF JacksonV1lle Physicians. Inc 28 260 000 1740000 26 520 000 
+2019 Series Waste Pro US" tnc 45 515 000 46 515 000 
+2019 Series A&B ClasS1cal Preoara!ory Inc. 5 025.000 75000 4 950 000 
+2020 Series A&B San Jos e Academ y 21000000 21 ODO 000 
+2019 Series A UF JacksonVJlle Physici ans Inc. 20 000 000 20 000 000 
+2019 Series A~1 Bnghtlme Trains Florida LLC ,rlk/a Vwgm Trains USA Florida LLC} 210 000 000 210 000 000 
+2019 Series 8 Bt1ghlline Trams Flondc1 LLC {tlk/a V1rgIn Trains USA Florida LLC) 950 000 000 950 ODO 000 
+2020 Senes A&B Comers.tone Classical Academy 16 960 000 16 950 000 
+2020 Series A&B RenaIssanef'l Charter Schoots Inc. 96 015,000 945.000 95 070 000 
+2020 Series A&B The PeP'(l Academ ies n 365,000 11 365 000 
+2020 Series A&B Nova Southeaste rn Un1Versrty 234 7S0 000 11325000 223 425 000 
+2020 Senes A&B Tampa Ute Plan Village. Inc 69 965 000 69 965 000 
+2020 Series C&O Renaissance Charter School I nc. {2010 Refl) 66 180 000 66 160 000 
+2020 Series A&B Unrted Cerebral Palsy ot Central Flonda. Inc. 14.415 000 14 41 5 000 
+2020 Series A Foundal1on Academ y of Wlf'lter Garden Inc. 7000 000 7 000 000 
+2020 Series A&B Otscovery Htgh School. Inc. 27 080 000 27 080 000 
+2020 Series A&B&C Arch1medean Academy Inc. 22 976 000 22 976 000 
+2020 Series A Mater Academy FoundalJon 127,450 000 127 4 50 000 
+2020 Serres A&B ~ 1 Root Trusses Ltd Company 17 016 005 17 016 005 
+2020 Series C&O River City Education Org. Inc. d.b.a. San Jose Academy 3 000 000 3 000 000 
+2020 Series A Mayflowe r Retirem ent Center . Irie. 60 135 000 60135000 
+2020 Series A&B&C Bay Area Charter Found ation LLC 63,450 000 63 4 50 000 
+2020 Series A&B&C Global Outreach Charter Academy 18 403 495 18 403 495 
+2021 Series A&B&C Naples Class1.;al Academy 24 580 000 24 6SO 000 
+2021 Series A&8 Rtver Crty Science Academy 34 665 000 34 855 000 
+2021 Senes A&B Oak Creek Charter School of Bonita Spnngs 17 825 000 17 825000 
+2021 Sertes A&B RosY~I US LLC 7 92'2 000 7 922 000 
+2021 Series A Glenr1dge on Palmer Ranch 89 250 000 89 250 ODO 
+2021 Serres A Waste Pro USA 105 175 000 105 175 ODO 
+2021 Series A&B Gtobal OJtre ach Charte r Academy 23,720 000 23 720 000 
+2021 Series A IMG Hold ing. LLC 3 700 000 3 700 000 
+Total Other Bonds 
+' 
+4 249 981 626 $ 1 964 207 500 S 12469 17 928 S 4 967 271 198 
+14 
+===== PAGE 18 =====
+SUPPLEMENTARY REPORT OF 
+INDEPENDENT AUDITOR 
+===== PAGE 19 =====
+--."' Cherry Bekaerr p 
+-
+CPAs & Advisors 
+Report of Independent Auditor on Internal Control over Financial 
+Reporting and on Compliance and Other Matters Based on an 
+Audit of Financial Statements Performed in Accordance 
+with Government Auditing Standards 
+To the Board of Directors, 
+Florida Development Finance Corporation : 
+We have audited, in accordance with the auditing standards generally accepted in the United States of America and 
+the standards applicable to financial audits contained in Government Auditing Standards issued by the Comptroller 
+General of the United States, the financial statements of Florida Development Finance Corporation ("FDFC") as of 
+and for the year ended June 30, 2021 and the related notes to the financial statements , and have issued our report 
+thereon dated October 13, 2021. 
+Internal Control over Financial Reporting 
+In planning and performing our audit of the financial statements, we considered FDFC's internal control over 
+financial reporting ("internal control") as a basis for designing audit procedures that are appropriate in the 
+circumstances for the purpose of expressing our opinion on the financial statements, but not for the purpose of 
+expressing an opinion on the effectiveness of FDFC's internal control. Accordingly, we do not express an opinion on 
+the effectiveness of FDFC's internal control. 
+A deficiency in internal control exists when the design or operation of a control does not allow management or 
+employees , in the normal course of performing their assigned functions, to prevent, or detect and correct 
+misstatements on a timely basis. A material weaknes s is a deficiency, or a combination of deficiencies, in internal 
+control such that there is a reasonable possibility that a material misstatement of the entity's financial statements will 
+not be prevented, or detected and corrected on a timely basis. A significant deficiency is a deficiency , or a 
+combination of deficiencies , in internal control that is less severe than a material weakness , yet important enough to 
+merit attention by those charged with governance. 
+Our consideration of internal control was for the limited purpose described in the first paragraph of this section and 
+was not designed to identify all deficiencies in internal control that might be material weaknesses or significant 
+deficiencies. Given these limitations, during our audit we did not identify any deficiencies in internal control that we 
+consider to be material weaknesses . However, material weaknesses may exist that have that have not been 
+identified. 
+15 
+===== PAGE 20 =====
+Compliance and Other Matters 
+As part of obtaining reasonable assurance about whether FDFC's financial statements are free from material 
+misstatement , we performed tests of its compliance with certain provisions of laws, regulations, contracts and 
+grant agreements , noncompliance with which could have a direct and material effect on the financial 
+statements. However , providing an opinion on compliance with those provisions was not an objective of our 
+audit and, accordingly , we do not express such an opinion. The results of our tests disclosed no instances of 
+noncompliance or other matters that are required to be reported under Government Auditing Standards. 
+Purpose of this Report 
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance and 
+the results of that testing , and not to provide an opinion on the effectiveness of the entity's internal control or 
+on compliance . This report is an integral part of an audit performed in accordance with Government Auditing 
+Standards in considering the entity's internal control and compliance. Accordingly , this communication is not 
+suitable for any other purpose. 
+Orlando , Florida 
+October 13, 2021 
+16 
