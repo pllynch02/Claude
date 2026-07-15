@@ -1,0 +1,12 @@
+# Unverified Leads
+
+Items with a plausible fingerprint that could NOT be anchored to a retrieved document. Nothing here is citable.
+
+1. **Providence Business Loan Fund (EIN 05-0483965).** TY2023 990 shows a "Due to other FUNDS" liability of $2.09M on $11.3M assets; the entity is City of Providence-affiliated (CDBG-lineage revolving loan fund). No audited F/S found. If the city's ACFR or a state filing surfaces, check whether PBLF loans are reported inside city custodial funds.
+2. **BlueHub Loan Fund / BlueHub Capital (EIN 22-2593378).** No flag fired on the 990, but BlueHub's structure (managed assets, SUN program via separate entities) suggests its audited F/S may disclose loans managed for others. Its audited statements are published; not pursued because the 990 showed no netting fingerprint.
+3. **Ohio Employee Ownership Center (OEOC) as administrator of Common Wealth Revolving Loan Fund (EIN 34-1517534).** The fund's 990 states "THE OEOC HAS BEEN ADMINISTERING THE LOAN FUND SINCE 2004." The administrator-side presentation (Kent State-affiliated OEOC) was not retrievable.
+4. **Native Community Capital (EIN 27-0735586).** Audited F/S exist behind a login portal (documents.nativecap.org). Its 990 fingerprint (servicing fees dominant) is recorded in the precedent table as 990-only.
+5. **Merritt Community Capital (EIN 94-3099401).** NASLEF member; audited F/S referenced in its 990 but not published. LIHTC-fund GP analog documented from the 990 only.
+6. **National Trust Community Investment Corporation (NTCIC).** Current-era NMTC/HTC syndication sub of NTHP; consolidated within NTHP's audit (retrieved). A standalone NTCIC audit, if obtainable, could add another CDE example.
+7. **EMMA (MSRB) angle.** Conduit-issuer official statements (e.g., state HFAs' "administered funds" appendices) were not systematically searched beyond FDFC; EMMA full-text search of "funds held on behalf of" within HFA audits could yield more government-capital agency captions.
+8. **Church Loan Fund, Inc. (EIN 27-2313597).** The gold-tier candidate (self-described originator/administrator of retirement-plan-funded church mortgages with near-zero net assets). Audited F/S almost certainly exist (pension-plan investment rules) but are not public. Worth a direct records request — if the audit shows the mortgage portfolio as an agency asset/liability or off-balance-sheet, this becomes the strongest Tier B precedent in the set.
